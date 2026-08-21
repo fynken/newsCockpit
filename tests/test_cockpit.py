@@ -108,11 +108,27 @@ class FredSeries(unittest.TestCase):
         for name, value in attrs.items():
             setattr(tile, name, value)
         original = providers._get
-        providers._get = lambda url, headers=None: csv_body.encode()
+        self.sent = {}
+
+        def capture(url, headers=None):
+            self.sent = {"url": url, "headers": headers or {}}
+            return csv_body.encode()
+
+        providers._get = capture
         try:
             return fetch_fred(tile)
         finally:
             providers._get = original
+
+    def test_it_does_not_claim_to_be_a_browser(self):
+        """FRED hangs until timeout on the Chrome user agent this board sends
+        everywhere else, and answers a plain one in a fifth of a second."""
+        from cockpit import providers
+
+        self._fetch(self._monthly([100.0, 101.0]))
+        agent = self.sent["headers"].get("User-Agent", "")
+        self.assertEqual(agent, providers.PLAIN_AGENT)
+        self.assertNotIn("Chrome", agent)
 
     @staticmethod
     def _monthly(values, start_year=2025):
