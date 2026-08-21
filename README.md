@@ -86,24 +86,23 @@ with a dashed border.
 
 ### What each provider can actually reach
 
-Which of the five providers answers depends on where you build. Measured from
-this sandbox on 2026-08-21, with an egress policy that allows the five provider
-hosts:
+Which providers answer is a property of **where the build runs**, not of the
+code. The two places this board builds see almost opposite worlds — measured
+2026-08-21, and the probe step in `.github/workflows/refresh.yml` re-measures
+it on every CI run:
 
-| Provider | Host | Result |
-|---|---|---|
-| coingecko | `api.coingecko.com` | **200** — the only genuinely live tile from here |
-| yahoo | `query1.finance.yahoo.com` | **429** on every request for four minutes straight: Yahoo throttles the shared egress IP, not the request |
-| cnbc | `quote.cnbc.com` | **403** from Akamai — bot-blocked, and browser headers, a browser TLS stack and `www.cnbc.com` (not allowed by the policy) all fail too |
-| stooq | `stooq.com` | **404** on the `/q/l/` CSV endpoint for every symbol, then TCP resets |
-| frankfurter | `api.frankfurter.app` | **301** to `api.frankfurter.dev`, which the policy does not allow |
+| Provider | Host | GitHub runner | Claude sandbox |
+|---|---|---|---|
+| cnbc | `quote.cnbc.com` | **200** | **403** — Akamai bot-block |
+| coingecko | `api.coingecko.com` | **200** | **200** |
+| yahoo | `query1.finance.yahoo.com` | **429** | **429** — throttled by IP |
+| frankfurter | `api.frankfurter.app` | 301 → `.dev`, followed | 301 → `.dev`, **not allowed** |
+| stooq | `stooq.com` | **404** | **404** |
 
-Allowing a host is therefore necessary but not sufficient — CNBC and stooq
-refuse this client regardless. Two things would move tiles from relayed to live:
-allowing `api.frankfurter.dev` (fixes FX outright), and anything that gives the
-build host an IP Yahoo does not throttle. Yahoo answers `WebFetch` normally, so
-Claude can relay every tile from the same API the pipeline would have called —
-which is what the current board is built from.
+Hence `alt_provider`: each tile leads with CNBC, which works in CI where the
+schedule runs, and falls back to Yahoo, which is what a Claude session can
+reach. Yahoo answers `WebFetch` normally even though it throttles both hosts
+directly, which is what makes the relay path work at all.
 
 ### The relay path
 
@@ -124,37 +123,48 @@ relayed number off as a direct quote.
 ## Scheduled refresh
 
 The board is a static page baked at build time — it does not poll. It changes
-only when something runs `./refresh.sh` and republishes `dist/index.html`.
+only when something runs `./refresh.sh` and republishes the result.
 
-Three Routines do that on weekdays, at 08:00, 15:00 and 22:30 Zurich time:
-the European open, just before the US open, and after the US close. Each one
-wakes a fresh Claude session that works through the runbook below and then
-stops.
+`.github/workflows/refresh.yml` does the fetching, on GitHub's runners, for
+free: weekdays at 08:00, 15:00 and 22:30 Zurich — the European open, just
+before the US open, and after the US close. Each run probes the providers,
+refreshes, and commits `data/` and `dist/` only if more than CoinGecko (which
+answers from anywhere) came back live, so a run that reached nothing leaves
+the board alone rather than overwriting it with a rebuild of the same inbox.
 
-Cron fires in **UTC**, so the schedules read `0 6`, `0 13` and `30 20` while
-Switzerland is on CEST. They will all land an hour late in Zurich terms once
-the clocks go back at the end of October — move them to `0 7`, `0 14` and
-`30 21` then.
+Two things to know about that schedule:
 
-### The runbook a scheduled run follows
+- **GitHub only runs scheduled workflows from the default branch.** Until this
+  workflow is merged there, the cron entries are inert; the run log is reachable
+  by pushing a change to the workflow file, which is what the `push` trigger is
+  for.
+- **Cron fires in UTC.** The three entries read `0 6`, `0 13` and `30 20` while
+  Switzerland is on CEST. Shift them to `0 7`, `0 14` and `30 21` when the
+  clocks go back at the end of October.
 
-1. Check out the branch holding the cockpit and pull.
-2. Run `./refresh.sh`. Whatever comes back **live** needs nothing further.
-3. For every tile that did not resolve live, relay it. For each `yahoo` tile in
-   `sources.toml`, fetch
-   `https://query1.finance.yahoo.com/v8/finance/chart/<symbol>?interval=5m&range=1d`
-   with `WebFetch` and read `meta.regularMarketPrice`, `chartPreviousClose`,
-   `regularMarketDayHigh` / `Low`, `fiftyTwoWeekHigh` / `Low` and
-   `regularMarketTime`. Write them into `data/agent-inbox.json` — `as_of` is
-   that epoch as ISO-8601 UTC.
-4. Run `./refresh.sh` again, then republish `dist/index.html` to the artifact
-   URL above, passing that URL so the board updates in place.
-5. Commit `data/` and `dist/` and push.
+### What CI cannot do
+
+Republish the Artifact. That URL can only be written by Claude's Artifact tool,
+so CI keeps `dist/index.html` and the history current in git, and the published
+page updates when you ask Claude to refresh the cockpit. If you would rather
+have a free self-updating URL, serve `dist/index.html` from GitHub Pages and
+bookmark that instead.
+
+### Refreshing from a Claude session
+
+CNBC refuses the sandbox, so a session cannot fetch most tiles directly. The
+runbook is: try `./refresh.sh` first and keep whatever comes back live; for
+each tile that did not resolve, `WebFetch`
+`https://query1.finance.yahoo.com/v8/finance/chart/<alt_symbol>?interval=5m&range=1d`
+and write `meta.regularMarketPrice`, `chartPreviousClose`,
+`regularMarketDayHigh` / `Low`, `fiftyTwoWeekHigh` / `Low` and
+`regularMarketTime` into `data/agent-inbox.json` (`as_of` is that epoch as
+ISO-8601 UTC); then `./refresh.sh` again, republish `dist/index.html` to the
+artifact URL, and commit.
 
 The one rule that matters: **never invent a number.** A tile with no reachable
 source is meant to go relayed, cached, or blank — that is what the origin
-ladder is for. `us2y` in particular has no live source from here; leave its
-inbox entry alone unless you have a genuinely current 2-year yield to put in it.
+ladder is for.
 
 ## History and sparklines
 

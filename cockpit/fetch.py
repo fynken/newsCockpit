@@ -187,13 +187,22 @@ def resolve(tile, *, offline: bool, inbox: dict, previous: dict) -> dict:
     attempts: list[str] = []
     quote: Quote | None = None
 
-    if not offline and tile.provider in PROVIDERS:
-        try:
-            quote = PROVIDERS[tile.provider](tile)
-            record["origin"] = "live"
-            record["fetched_at"] = _now()
-        except ProviderError as exc:
-            attempts.append(f"{tile.provider}: {exc}")
+    if not offline:
+        for candidate in tile.attempts():
+            if candidate.provider not in PROVIDERS:
+                continue
+            try:
+                quote = PROVIDERS[candidate.provider](candidate)
+            except ProviderError as exc:
+                attempts.append(f"{candidate.provider}: {exc}")
+                continue
+            # Say which provider actually answered, not which one was asked
+            # first — the symbol and the "check by hand" link must match the
+            # number on the tile.
+            record.update({"provider": candidate.provider, "symbol": candidate.symbol,
+                           "url": candidate.quote_url(), "origin": "live",
+                           "fetched_at": _now()})
+            break
 
     if quote is None and tile.key in inbox:
         try:
