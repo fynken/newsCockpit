@@ -1,14 +1,13 @@
 # Refresh the cockpit from a GitHub runner.
 #
-# The point of running here rather than from a Claude session is the IP: the
-# sandbox that built this board is rate-limited by Yahoo (HTTP 429 on every
-# request) and bot-blocked by CNBC, so twelve of thirteen tiles have to be
-# relayed by hand. A GitHub runner egresses from somewhere else entirely. If
-# the providers answer it, this workflow refreshes the board for free and on a
-# schedule, with no Claude session involved.
+# The point of running here rather than from a Claude session is the IP. CNBC
+# answers this runner (200) and bot-blocks the Claude sandbox (403); Yahoo
+# throttles both. So this is the one place the board can be built entirely
+# live, for free, with no Claude session in the loop — which is why the tiles
+# in sources.toml lead with CNBC and keep Yahoo only as a fallback.
 #
-# The "reachability probe" step below is what tells you whether that is true.
-# Read its output in the run log before trusting the schedule.
+# The reachability probe re-measures that on every run. If CNBC ever starts
+# refusing runners too, its output is where that shows up first.
 
 name: Refresh cockpit
 
