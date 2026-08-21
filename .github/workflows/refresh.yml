@@ -1,0 +1,98 @@
+# Refresh the cockpit from a GitHub runner.
+#
+# The point of running here rather than from a Claude session is the IP: the
+# sandbox that built this board is rate-limited by Yahoo (HTTP 429 on every
+# request) and bot-blocked by CNBC, so twelve of thirteen tiles have to be
+# relayed by hand. A GitHub runner egresses from somewhere else entirely. If
+# the providers answer it, this workflow refreshes the board for free and on a
+# schedule, with no Claude session involved.
+#
+# The "reachability probe" step below is what tells you whether that is true.
+# Read its output in the run log before trusting the schedule.
+
+name: Refresh cockpit
+
+on:
+  workflow_dispatch:
+  push:
+    # Only a change to this file re-runs the probe — the data commit this
+    # workflow makes itself must not trigger another run.
+    paths:
+      - .github/workflows/refresh.yml
+  schedule:
+    # Weekdays 08:00, 15:00 and 22:30 Zurich (CEST = UTC+2). GitHub only runs
+    # scheduled workflows from the default branch, so these stay dormant until
+    # this file is merged there. Shift +1h when the clocks go back in October.
+    - cron: "0 6 * * 1-5"
+    - cron: "0 13 * * 1-5"
+    - cron: "30 20 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-cockpit
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Reachability probe
+        run: |
+          {
+            echo "### Can this runner reach the providers?"
+            echo
+            echo "| Host | HTTP |"
+            echo "|---|---|"
+            for host in \
+              "query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&range=1d" \
+              "api.coingecko.com/api/v3/ping" \
+              "quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=US10Y&output=json" \
+              "stooq.com/q/l/?s=eurusd&f=sd2t2ohlcv&h&e=csv" \
+              "api.frankfurter.app/latest?from=USD&to=CHF" ; do
+              code=$(curl -sS -o /dev/null -w '%{http_code}' --max-time 25 \
+                     -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36" \
+                     "https://${host}" || echo "conn-fail")
+              echo "| \`${host%%/*}\` | ${code} |"
+            done
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Refresh
+        run: ./refresh.sh
+
+      - name: Count what resolved live
+        id: count
+        run: |
+          live=$(python3 -c "import json;print(sum(1 for t in json.load(open('data/snapshot.json'))['tiles'] if t['origin']=='live'))")
+          total=$(python3 -c "import json;print(len(json.load(open('data/snapshot.json'))['tiles']))")
+          echo "live=$live" >> "$GITHUB_OUTPUT"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**$live of $total tiles resolved live from this runner.**" >> "$GITHUB_STEP_SUMMARY"
+          python3 -m cockpit status
+
+      # Only worth a commit if this runner actually reached the market-data
+      # providers. CoinGecko answers from anywhere, so one live tile means
+      # Yahoo still refused and the rebuild is just the relayed inbox again.
+      - name: Commit the refreshed board
+        if: steps.count.outputs.live > 1
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data dist
+          git diff --cached --quiet && echo "nothing changed" && exit 0
+          git commit -m "Refresh cockpit (${{ steps.count.outputs.live }} tiles live from CI)"
+          git push
+
+      - name: Say why nothing was committed
+        if: steps.count.outputs.live <= 1
+        run: |
+          echo "Only ${{ steps.count.outputs.live }} tile(s) live — this runner cannot reach the" \
+               "market-data providers either, so there is nothing fresher to publish." \
+               | tee -a "$GITHUB_STEP_SUMMARY"
