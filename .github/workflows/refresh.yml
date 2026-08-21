@@ -111,10 +111,27 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data dist
-          git diff --cached --quiet && echo "nothing changed" && exit 0
-          git commit -m "Refresh cockpit (${{ steps.count.outputs.live }} tiles live from CI)"
-          git push
+          commit_and_push() {
+            git add data dist
+            if git diff --cached --quiet; then echo "nothing changed"; return 0; fi
+            git commit -m "Refresh cockpit (${{ steps.count.outputs.live }} tiles live from CI)"
+            git push
+          }
+          # The branch can move while this job runs, and a completed refresh has
+          # already been lost to that once. Rebuild on top of whatever landed
+          # rather than forcing ours over it: data/history.csv is append-only and
+          # the other push may carry readings this run has never seen. Re-running
+          # the fetch is cheap, and the history ledger drops repeats by market
+          # timestamp, so a rebuild cannot invent a second observation.
+          for attempt in 1 2 3; do
+            if commit_and_push; then exit 0; fi
+            echo "push rejected on attempt ${attempt}; rebuilding on the new head"
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --hard "origin/$GITHUB_REF_NAME"
+            ./refresh.sh
+          done
+          echo "could not land the refresh after three attempts" >&2
+          exit 1
 
       - name: Say why nothing was committed
         if: steps.count.outputs.live <= 1
