@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:10:40+00:00",
+  "generated_at": "2026-08-21T17:14:04+00:00",
   "title": "Finance Cockpit",
   "tagline": "Rates, risk and the dollar \u2014 one screen",
   "timezone": "Europe/Zurich",
@@ -52,9 +52,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           4.734
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          4.734
         ]
       ],
-      "fetched_at": "2026-08-21T17:09:59+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -76,7 +80,7 @@
       "day_low": 4.682,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-21T13:09:18.000-0400",
+      "as_of": "2026-08-21T13:13:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -122,9 +126,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           4.23
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          4.232
         ]
       ],
-      "fetched_at": "2026-08-21T17:09:59+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -137,16 +145,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.23,
-      "change": 0.045,
-      "change_pct": -0.082,
+      "value": 4.232,
+      "change": 0.047,
+      "change_pct": -0.0859,
       "prev_close": 4.185,
       "day_open": 4.189,
       "day_high": 4.244,
       "day_low": 4.174,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-21T13:09:48.000-0400",
+      "as_of": "2026-08-21T13:12:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -192,9 +200,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           5.273
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          5.273
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -216,7 +228,7 @@
       "day_low": 5.232,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-21T13:09:18.000-0400",
+      "as_of": "2026-08-21T13:12:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -262,14 +274,18 @@
         [
           "2026-08-21T17:10:40+00:00",
           50.399999999999956
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          50.199999999999974
         ]
       ],
-      "value": 50.399999999999956,
-      "fetched_at": "2026-08-21T17:09:59+00:00",
-      "as_of": "2026-08-21T13:09:18.000-0400",
+      "value": 50.199999999999974,
+      "fetched_at": "2026-08-21T17:13:22+00:00",
+      "as_of": "2026-08-21T13:12:01.000-0400",
       "prev_close": 51.30000000000008,
-      "change": -0.9000000000001265,
-      "change_pct": -1.7543859649125244,
+      "change": -1.100000000000108,
+      "change_pct": -2.1442495126707724,
       "stale": false
     },
     {
@@ -335,9 +351,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           7682.25
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          7680.5
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -350,16 +370,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7682.25,
-      "change": 41.09,
-      "change_pct": 0.54,
+      "value": 7680.5,
+      "change": 39.34,
+      "change_pct": 0.51,
       "prev_close": 7641.16,
       "day_open": 7665.68,
       "day_high": 7697.11,
       "day_low": 7660.06,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-21T13:09:52.000-0400",
+      "as_of": "2026-08-21T13:13:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -405,9 +425,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           26210.754
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          26203.752
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -420,16 +444,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26210.754,
-      "change": 143.588,
-      "change_pct": 0.55,
+      "value": 26203.752,
+      "change": 136.587,
+      "change_pct": 0.52,
       "prev_close": 26067.166,
       "day_open": 26198.835,
       "day_high": 26269.845,
       "day_low": 26049.295,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-21T13:09:55.000-0400",
+      "as_of": "2026-08-21T13:13:22.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -477,7 +501,7 @@
           26136.56
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -545,9 +569,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           15.29
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          15.31
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -560,16 +588,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.29,
-      "change": -0.72,
-      "change_pct": -4.5,
+      "value": 15.31,
+      "change": -0.7,
+      "change_pct": -4.37,
       "prev_close": 16.01,
       "day_open": 15.82,
       "day_high": 15.88,
       "day_low": 15.23,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-21T13:09:46.000-0400",
+      "as_of": "2026-08-21T13:13:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -615,11 +643,17 @@
         [
           "2026-08-21T17:10:40+00:00",
           1.1678
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          1.1676
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:23+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -628,16 +662,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1678,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 1.1676,
+      "change": -0.0002,
+      "change_pct": -0.0171,
       "prev_close": 1.1678,
       "day_open": 1.1677,
       "day_high": 1.1711,
       "day_low": 1.1669,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-21T13:09:00.000-0400",
+      "as_of": "2026-08-21T13:13:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -683,9 +717,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           0.801
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          0.8012
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -698,16 +736,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.801,
-      "change": 0.0009,
-      "change_pct": 0.1125,
+      "value": 0.8012,
+      "change": 0.0011,
+      "change_pct": 0.1375,
       "prev_close": 0.8001,
       "day_open": 0.7999,
       "day_high": 0.802,
       "day_low": 0.7984,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-21T13:09:00.000-0400",
+      "as_of": "2026-08-21T13:13:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -753,9 +791,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           4686.5
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          4687.5
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -768,16 +810,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4686.5,
-      "change": 115.1,
-      "change_pct": 2.52,
+      "value": 4687.5,
+      "change": 116.1,
+      "change_pct": 2.54,
       "prev_close": 4571.4,
       "day_open": 4577.0,
-      "day_high": 4687.2,
+      "day_high": 4687.9,
       "day_low": 4565.5,
       "year_high": 5586.2,
       "year_low": 3362.8,
-      "as_of": "2026-08-21T12:59:48.000-0400",
+      "as_of": "2026-08-21T13:03:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -823,9 +865,13 @@
         [
           "2026-08-21T17:10:40+00:00",
           86.93
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          87.01
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -838,16 +884,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 86.93,
-      "change": 0.1,
-      "change_pct": 0.12,
+      "value": 87.01,
+      "change": 0.18,
+      "change_pct": 0.21,
       "prev_close": 86.83,
       "day_open": 86.27,
       "day_high": 87.51,
       "day_low": 85.8,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-21T12:59:52.000-0400",
+      "as_of": "2026-08-21T13:03:15.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -897,22 +943,26 @@
         [
           "2026-08-21T17:10:40+00:00",
           77585.0
+        ],
+        [
+          "2026-08-21T17:14:04+00:00",
+          77606.0
         ]
       ],
-      "fetched_at": "2026-08-21T17:10:00+00:00",
+      "fetched_at": "2026-08-21T17:13:23+00:00",
       "field_map": {
         "_provider": "coingecko/simple"
       },
-      "value": 77585.0,
-      "change": 4893.213773455311,
-      "change_pct": 6.731453479772194,
-      "prev_close": 72691.78622654469,
+      "value": 77606.0,
+      "change": 4953.547407914943,
+      "change_pct": 6.818142032626423,
+      "prev_close": 72652.45259208506,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": null,
       "year_low": null,
-      "as_of": "2026-08-21T17:08:20+00:00",
+      "as_of": "2026-08-21T17:11:30+00:00",
       "market_status": "",
       "instrument_name": "Bitcoin",
       "stale": false
