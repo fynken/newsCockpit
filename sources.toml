@@ -1,0 +1,163 @@
+# ---------------------------------------------------------------------------
+# Finance Cockpit — source definitions
+#
+# This is the file you edit. Add, remove or reorder [[tile]] blocks and run
+# ./refresh.sh (or ask Claude to "refresh the cockpit") to rebuild the board.
+#
+# Every tile needs:  key, label, group, provider
+# Everything else is optional and has a sane default.
+#
+# Providers:
+#   cnbc       — CNBC's public quote service. `symbol` is the CNBC ticker, i.e.
+#                the last path segment of https://www.cnbc.com/quotes/<symbol>/
+#   stooq      — stooq.com CSV endpoint. `symbol` e.g. "eurusd", "^spx".
+#   yahoo      — Yahoo Finance chart API. `symbol` e.g. "^TNX". Also returns an
+#                intraday series, so these tiles get a real sparkline instantly.
+#   frankfurter— ECB reference rates (FX only). `symbol` e.g. "USD/CHF".
+#   coingecko  — crypto spot. `symbol` is a coingecko id, e.g. "bitcoin".
+#   derived    — computed from other tiles. Set `expr`, e.g. "us10y - us2y".
+#
+# Formatting:
+#   unit      suffix printed after the value ("%", " bp", …)
+#   prefix    printed before the value ("$", "€", …)
+#   decimals  digits after the point
+#   good_when "up" (default) | "down" | "neutral" — controls the up/down colour.
+#             "neutral" prints the change in plain ink, for series where a rise
+#             is neither good nor bad.
+# ---------------------------------------------------------------------------
+
+[cockpit]
+title      = "Finance Cockpit"
+tagline    = "Rates, risk and the dollar — one screen"
+timezone   = "Europe/Zurich"
+# Tiles whose data is older than this many minutes are flagged as stale.
+stale_after_minutes = 90
+
+# ── Rates ──────────────────────────────────────────────────────────────────
+
+[[tile]]
+key      = "us10y"
+label    = "US 10-Year Treasury"
+group    = "Rates"
+provider = "cnbc"
+symbol   = "US10Y"
+unit     = "%"
+decimals = 3
+featured = true
+good_when = "neutral"
+note     = "The cockpit's anchor rate — discounting everything else on this board."
+
+[[tile]]
+key      = "us2y"
+label    = "US 2-Year Treasury"
+group    = "Rates"
+provider = "cnbc"
+symbol   = "US2Y"
+unit     = "%"
+decimals = 3
+good_when = "neutral"
+
+[[tile]]
+key      = "us30y"
+label    = "US 30-Year Treasury"
+group    = "Rates"
+provider = "cnbc"
+symbol   = "US30Y"
+unit     = "%"
+decimals = 3
+good_when = "neutral"
+
+[[tile]]
+key       = "curve_2s10s"
+label     = "2s10s Curve"
+group     = "Rates"
+provider  = "derived"
+expr      = "(us10y - us2y) * 100"
+unit      = " bp"
+decimals  = 1
+good_when = "neutral"
+note      = "10-year minus 2-year, in basis points. Negative means inverted."
+
+# ── Equities ───────────────────────────────────────────────────────────────
+
+[[tile]]
+key      = "spx"
+label    = "S&P 500"
+group    = "Equities"
+provider = "cnbc"
+symbol   = ".SPX"
+decimals = 2
+
+[[tile]]
+key      = "ndx"
+label    = "Nasdaq Composite"
+group    = "Equities"
+provider = "cnbc"
+symbol   = ".IXIC"
+decimals = 2
+
+[[tile]]
+key      = "dax"
+label    = "DAX"
+group    = "Equities"
+provider = "cnbc"
+symbol   = ".GDAXI"
+decimals = 2
+
+[[tile]]
+key       = "vix"
+label     = "VIX"
+group     = "Equities"
+provider  = "cnbc"
+symbol    = ".VIX"
+decimals  = 2
+good_when = "down"
+note      = "Implied 30-day volatility on the S&P 500."
+
+# ── Currencies & commodities ───────────────────────────────────────────────
+
+[[tile]]
+key      = "eurusd"
+label    = "EUR / USD"
+group    = "Currencies & Commodities"
+provider = "cnbc"
+symbol   = "EUR="
+decimals = 4
+good_when = "neutral"
+
+[[tile]]
+key      = "usdchf"
+label    = "USD / CHF"
+group    = "Currencies & Commodities"
+provider = "cnbc"
+symbol   = "CHF="
+decimals = 4
+good_when = "neutral"
+
+[[tile]]
+key      = "gold"
+label    = "Gold"
+group    = "Currencies & Commodities"
+provider = "cnbc"
+symbol   = "@GC.1"
+prefix   = "$"
+decimals = 2
+
+[[tile]]
+key      = "wti"
+label    = "WTI Crude"
+group    = "Currencies & Commodities"
+provider = "cnbc"
+symbol   = "@CL.1"
+prefix   = "$"
+decimals = 2
+good_when = "neutral"
+
+[[tile]]
+key      = "btc"
+label    = "Bitcoin"
+group    = "Currencies & Commodities"
+provider = "cnbc"
+symbol   = "BTC.CM="
+prefix   = "$"
+decimals = 0
