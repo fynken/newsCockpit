@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:43:36+00:00",
+  "generated_at": "2026-08-21T14:02:07+00:00",
   "title": "Finance Cockpit",
   "tagline": "Rates, risk and the dollar \u2014 one screen",
   "timezone": "Europe/Zurich",
@@ -37,7 +37,7 @@
           4.714
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:13+00:00",
+      "fetched_at": "2026-08-21T14:01:46+00:00",
       "field_map": {},
       "value": 4.714,
       "change": 0.018000000000000682,
@@ -67,29 +67,44 @@
       "featured": false,
       "good_when": "neutral",
       "note": "",
-      "origin": "manual",
-      "error": "cnbc: HTTP 403 from quote.cnbc.com",
-      "source_note": "Constant-maturity 2-year for August 2026 via tradingeconomics.com \u2014 a monthly reference figure, not an intraday print, and the oldest number on this board. No source reachable from here publishes an intraday 2-year yield: Yahoo has no 2-year index and CNBC bot-blocks this host.",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
       "series": [
         [
           "2026-08-21T11:43:04+00:00",
           4.15
+        ],
+        [
+          "2026-08-21T14:02:07+00:00",
+          4.213
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:13+00:00",
-      "field_map": {},
-      "value": 4.15,
-      "change": null,
-      "change_pct": null,
-      "prev_close": null,
-      "day_open": null,
-      "day_high": null,
-      "day_low": null,
-      "year_high": null,
-      "year_low": null,
-      "as_of": "2026-08-21T00:00:00-04:00",
-      "market_status": "",
-      "instrument_name": "",
+      "fetched_at": "2026-08-21T14:01:46+00:00",
+      "field_map": {
+        "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": "US2Y"
+      },
+      "value": 4.213,
+      "change": 0.028,
+      "change_pct": -0.0508,
+      "prev_close": 4.185,
+      "day_open": 4.189,
+      "day_high": 4.217,
+      "day_low": 4.174,
+      "year_high": 4.37,
+      "year_low": 3.37,
+      "as_of": "2026-08-21T10:01:24.000-0400",
+      "market_status": "REG_MKT",
+      "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
     },
     {
@@ -119,7 +134,7 @@
           5.259
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:15+00:00",
+      "fetched_at": "2026-08-21T14:01:48+00:00",
       "field_map": {},
       "value": 5.259,
       "change": 0.02200000000000024,
@@ -156,11 +171,18 @@
         [
           "2026-08-21T11:43:04+00:00",
           55.99999999999996
+        ],
+        [
+          "2026-08-21T14:02:07+00:00",
+          50.10000000000004
         ]
       ],
-      "value": 56.400000000000006,
-      "fetched_at": "2026-08-21T13:43:13+00:00",
-      "as_of": "2026-08-21T00:00:00-04:00",
+      "value": 50.10000000000004,
+      "fetched_at": "2026-08-21T14:01:46+00:00",
+      "as_of": "2026-08-21T10:01:24.000-0400",
+      "prev_close": 51.10000000000001,
+      "change": -0.9999999999999716,
+      "change_pct": -1.9569471624265584,
       "stale": false
     },
     {
@@ -190,7 +212,7 @@
           7666.46
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:18+00:00",
+      "fetched_at": "2026-08-21T14:01:51+00:00",
       "field_map": {},
       "value": 7666.46,
       "change": 25.300000000000182,
@@ -233,7 +255,7 @@
           26117.173828125
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:20+00:00",
+      "fetched_at": "2026-08-21T14:01:53+00:00",
       "field_map": {},
       "value": 26117.173828125,
       "change": 50.00782812499892,
@@ -276,7 +298,7 @@
           26116.43
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:23+00:00",
+      "fetched_at": "2026-08-21T14:01:55+00:00",
       "field_map": {},
       "value": 26116.43,
       "change": 133.38999999999942,
@@ -319,7 +341,7 @@
           15.49
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:25+00:00",
+      "fetched_at": "2026-08-21T14:01:58+00:00",
       "field_map": {},
       "value": 15.49,
       "change": -0.5200000000000014,
@@ -362,7 +384,7 @@
           1.1685
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:28+00:00",
+      "fetched_at": "2026-08-21T14:02:00+00:00",
       "field_map": {},
       "value": 1.1685,
       "change": 0.000400000000000178,
@@ -405,7 +427,7 @@
           0.8001
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:31+00:00",
+      "fetched_at": "2026-08-21T14:02:02+00:00",
       "field_map": {},
       "value": 0.8001,
       "change": -9.999999999998899e-05,
@@ -448,7 +470,7 @@
           4641.5
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:33+00:00",
+      "fetched_at": "2026-08-21T14:02:05+00:00",
       "field_map": {},
       "value": 4641.5,
       "change": 70.10000000000036,
@@ -491,7 +513,7 @@
           86.93
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:36+00:00",
+      "fetched_at": "2026-08-21T14:02:07+00:00",
       "field_map": {},
       "value": 86.93,
       "change": 0.10000000000000853,
@@ -532,22 +554,26 @@
         [
           "2026-08-21T13:43:36+00:00",
           77069.0
+        ],
+        [
+          "2026-08-21T14:02:07+00:00",
+          77213.0
         ]
       ],
-      "fetched_at": "2026-08-21T13:43:36+00:00",
+      "fetched_at": "2026-08-21T14:02:07+00:00",
       "field_map": {
         "_provider": "coingecko/simple"
       },
-      "value": 77069.0,
-      "change": 5568.7995919575915,
-      "change_pct": 7.788509067355297,
-      "prev_close": 71500.20040804241,
+      "value": 77213.0,
+      "change": 5587.47526336844,
+      "change_pct": 7.800955433015955,
+      "prev_close": 71625.52473663156,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": null,
       "year_low": null,
-      "as_of": "2026-08-21T13:41:50+00:00",
+      "as_of": "2026-08-21T13:59:40+00:00",
       "market_status": "",
       "instrument_name": "Bitcoin",
       "stale": false
