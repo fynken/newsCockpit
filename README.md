@@ -14,6 +14,14 @@ sources.toml ──▶ python -m cockpit fetch ──▶ data/snapshot.json ─�
                                              come from)
 ```
 
+## The published board
+
+https://claude.ai/code/artifact/20c37e1b-d6ee-405a-84e5-4ddbe36a749a
+
+Bookmark that. Republishing `dist/index.html` to this same URL updates the page
+in place; publishing without it would create a *second*, unrelated artifact, so
+always pass this URL when refreshing from a new conversation.
+
 ## Refreshing
 
 ```bash
