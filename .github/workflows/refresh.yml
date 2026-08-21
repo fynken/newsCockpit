@@ -66,26 +66,31 @@ jobs:
             done
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
-      # FRED series get renamed, rebased and discontinued, and their units are
-      # not guessable — reserves are published in millions, which the jp_reserves
-      # tile rescales. Printing each series' own header is how a silent change
-      # of units gets caught before it becomes a wrong number on the board.
-      # FRED series get renamed, rebased and discontinued, and their units are
-      # not guessable — reserves are published in millions, which the jp_reserves
-      # tile rescales. Printing each series' own header is how a silent change
-      # of units gets caught before it becomes a wrong number on the board.
-      - name: FRED series header
+      # FRED stalls this runner: curl reports "HTTP/2 stream was not closed
+      # cleanly" and urllib times out reading the body, which is an edge
+      # refusing a client rather than a missing series. This narrows down what
+      # it will accept before the fetcher commits to one.
+      - name: Macro source probe
         run: |
-          ids=$(python3 -c "from cockpit import config; print(' '.join(t.symbol for t in config.load().tiles if t.provider == 'fred'))")
+          try() {
+            label="$1"; url="$2"; shift 2
+            result=$(curl -sS -o /tmp/body -w '%{http_code}, %{size_download}B, %{time_total}s' --max-time 20 "$@" "$url" 2>&1 | tail -1)
+            printf '| %s | %s | `%s` |\n' "$label" "$result" "$(head -c 70 /tmp/body | tr '\n\r|' '   ')"
+          }
           {
             echo ""
-            echo "### FRED series behind the Macro tiles"
-            echo '```'
-            for id in $ids; do
-              curl -sS --max-time 25 "https://fred.stlouisfed.org/data/${id}.txt" | sed -n '1,12p;$p' || echo "${id}: unreachable"
-              echo "---"
-            done
-            echo '```'
+            echo "### Which macro source will answer a runner?"
+            echo ""
+            echo "| variant | code, size, time | first bytes |"
+            echo "|---|---|---|"
+            try "fredgraph, as the fetcher sends it" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS" -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            try "fredgraph, forced HTTP/1.1" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS" --http1.1
+            try "fredgraph, honest UA" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS" --http1.1 -A "newsCockpit/1.0 (+github actions)"
+            try "fredgraph, no UA at all" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS" --http1.1 -H "User-Agent:"
+            try "fred data/.txt" "https://fred.stlouisfed.org/data/CPIAUCNS.txt" --http1.1
+            try "alfred mirror" "https://alfred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS" --http1.1
+            try "BLS v1, CPI-U NSA" "https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0"
+            try "MOF Japan reserves" "https://www.mof.go.jp/english/policy/international_policy/reference/official_reserve_assets/data.htm"
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Refresh
