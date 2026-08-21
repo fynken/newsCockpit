@@ -103,8 +103,9 @@ jobs:
           python3 -m cockpit status
 
       # Only worth a commit if this runner actually reached the market-data
-      # providers. CoinGecko answers from anywhere, so one live tile means
-      # Yahoo still refused and the rebuild is just the relayed inbox again.
+      # providers. A single live tile is not evidence of that — it is what a
+      # board rebuilt from the relayed inbox looks like — so hold the commit
+      # until more than one source has answered.
       - name: Commit the refreshed board
         if: steps.count.outputs.live > 1
         run: |

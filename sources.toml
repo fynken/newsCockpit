@@ -208,14 +208,6 @@ prefix   = "$"
 decimals = 2
 good_when = "neutral"
 
-[[tile]]
-key      = "btc"
-label    = "Bitcoin"
-group    = "Currencies & Commodities"
-provider = "coingecko"
-symbol   = "bitcoin"
-prefix   = "$"
-decimals = 0
 
 # ── Macro ──────────────────────────────────────────────────────────────────
 #
