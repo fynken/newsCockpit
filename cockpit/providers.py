@@ -16,6 +16,7 @@ import csv
 import io
 import json
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -27,6 +28,12 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 TIMEOUT = 20
+#: Statuses worth one more try — a throttle or a momentary edge failure, not a
+#: verdict. One retry only: when a host is throttling the whole build (Yahoo
+#: rate-limits by IP, so every tile hits it at once), more attempts just make a
+#: failing refresh slow.
+RETRY_STATUSES = (429, 500, 502, 503, 504)
+RETRY_DELAY = 2.0
 
 
 class ProviderError(RuntimeError):
@@ -79,13 +86,20 @@ class Quote:
 
 def _get(url: str, *, headers: dict | None = None) -> bytes:
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
-    try:
-        with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
-            return response.read()
-    except urllib.error.HTTPError as exc:
-        raise ProviderError(f"HTTP {exc.code} from {urllib.parse.urlsplit(url).netloc}") from exc
-    except Exception as exc:  # socket errors, proxy CONNECT denials, TLS failures
-        raise ProviderError(f"{type(exc).__name__}: {exc}") from exc
+    host = urllib.parse.urlsplit(url).netloc
+    for attempt in (1, 2):
+        try:
+            with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
+                return response.read()
+        except urllib.error.HTTPError as exc:
+            if exc.code in RETRY_STATUSES and attempt == 1:
+                time.sleep(RETRY_DELAY)
+                continue
+            hint = " (rate-limited — this host's IP is being throttled)" if exc.code == 429 else ""
+            raise ProviderError(f"HTTP {exc.code} from {host}{hint}") from exc
+        except Exception as exc:  # socket errors, proxy CONNECT denials, TLS failures
+            raise ProviderError(f"{type(exc).__name__}: {exc}") from exc
+    raise ProviderError(f"no response from {host}")  # unreachable; keeps the type checker happy
 
 
 def _get_json(url: str, *, headers: dict | None = None):

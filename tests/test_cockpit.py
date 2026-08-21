@@ -185,6 +185,71 @@ class HistoryLedger(unittest.TestCase):
         self.assertEqual(len(f.load_history()["x"]), 2)
 
 
+class ProviderFallback(unittest.TestCase):
+    """CNBC answers CI and refuses this sandbox; Yahoo does the reverse. A tile
+    naming both must resolve wherever it is built, and must report the provider
+    that actually answered rather than the one it asked first."""
+
+    def setUp(self):
+        from cockpit import fetch as f, providers
+
+        self.fetch = f
+        self.tile = config.Tile(
+            key="us10y", label="US 10-Year", group="Rates", provider="cnbc",
+            symbol="US10Y", alt_provider="yahoo", alt_symbol="^TNX", decimals=3,
+        )
+        self._original = dict(providers.PROVIDERS)
+        self.addCleanup(lambda: providers.PROVIDERS.update(self._original))
+
+    def _run(self, cnbc, yahoo):
+        from cockpit import providers
+
+        providers.PROVIDERS["cnbc"] = cnbc
+        providers.PROVIDERS["yahoo"] = yahoo
+        return self.fetch.resolve(self.tile, offline=False, inbox={}, previous={})
+
+    @staticmethod
+    def _answers(value):
+        return lambda tile: Quote(value=value, prev_close=value - 0.01).derive_missing()
+
+    @staticmethod
+    def _refuses(message):
+        def fetcher(tile):
+            raise ProviderError(message)
+
+        return fetcher
+
+    def test_first_provider_wins_when_reachable(self):
+        record = self._run(self._answers(4.253), self._refuses("HTTP 429"))
+        self.assertEqual(record["origin"], "live")
+        self.assertEqual(record["provider"], "cnbc")
+        self.assertAlmostEqual(record["value"], 4.253)
+
+    def test_falls_back_when_the_first_is_unreachable(self):
+        record = self._run(self._refuses("HTTP 403 from quote.cnbc.com"), self._answers(4.714))
+        self.assertEqual(record["origin"], "live")
+        self.assertAlmostEqual(record["value"], 4.714)
+        # The tile must not claim a CNBC symbol for a number Yahoo supplied.
+        self.assertEqual(record["provider"], "yahoo")
+        self.assertEqual(record["symbol"], "^TNX")
+        self.assertIn("finance.yahoo.com", record["url"])
+        self.assertIn("403", record["error"])
+
+    def test_both_unreachable_falls_through_to_the_ladder(self):
+        record = self._run(self._refuses("HTTP 403"), self._refuses("HTTP 429"))
+        self.assertEqual(record["origin"], "missing")
+        self.assertIsNone(record["value"])
+        self.assertIn("cnbc", record["error"])
+        self.assertIn("yahoo", record["error"])
+
+    def test_a_tile_without_a_fallback_tries_one_provider(self):
+        tried = []
+        self.tile.alt_provider = self.tile.alt_symbol = ""
+        self._run(lambda t: tried.append(t) or self._refuses("nope")(t),
+                  lambda t: tried.append(t) or self._refuses("nope")(t))
+        self.assertEqual(len(tried), 1)
+
+
 class ConfigValidation(unittest.TestCase):
     def test_repo_sources_load(self):
         cockpit = config.load()
@@ -192,6 +257,25 @@ class ConfigValidation(unittest.TestCase):
         self.assertEqual(len({t.key for t in cockpit.tiles}), len(cockpit.tiles))
         for tile in cockpit.tiles:
             self.assertIn(tile.good_when, config.GOOD_WHEN)
+
+    def test_alt_provider_needs_a_symbol(self):
+        import tempfile
+
+        broken = Path(tempfile.mkdtemp()) / "sources.toml"
+        broken.write_text(
+            '[[tile]]\nkey="x"\nlabel="X"\ngroup="G"\nprovider="cnbc"\n'
+            'symbol="X"\nalt_provider="yahoo"\n', encoding="utf-8"
+        )
+        with self.assertRaises(config.ConfigError):
+            config.load(broken)
+
+    def test_every_fallback_names_a_known_provider(self):
+        from cockpit.providers import PROVIDERS
+
+        for tile in config.load().tiles:
+            if tile.alt_provider:
+                self.assertIn(tile.alt_provider, PROVIDERS, msg=tile.key)
+                self.assertNotEqual(tile.alt_provider, tile.provider, msg=tile.key)
 
     def test_featured_tile_is_unique(self):
         featured = [t for t in config.load().tiles if t.featured]
