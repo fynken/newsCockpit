@@ -326,6 +326,78 @@ def _days_ago(days: int) -> str:
     return (datetime.now(timezone.utc) - timedelta(days=days)).date().isoformat()
 
 
+# ── FRED (St. Louis Fed) ───────────────────────────────────────────────────
+
+# fredgraph.csv is the endpoint behind the download button on every FRED chart.
+# It needs no API key, which is the whole reason this board uses it: one fewer
+# secret to hold, and CI can call it with nothing configured.
+FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}"
+#: How much history to keep for the sparkline. Three years of monthly prints.
+FRED_POINTS = 36
+#: Observations per year, for the year-on-year transform. Every series this
+#: board reads is monthly; a quarterly one would need this to be 4.
+FRED_PERIODS_PER_YEAR = 12
+
+
+def _fred_observations(symbol: str) -> list[list]:
+    """[[iso_date, value], …] oldest first, with FRED's missing marker dropped."""
+    body = _get(FRED_CSV.format(series=urllib.parse.quote(symbol, safe=""))).decode(
+        "utf-8", "replace"
+    )
+    rows = list(csv.reader(io.StringIO(body)))
+    if len(rows) < 2:
+        raise ProviderError(f"FRED returned no observations for '{symbol}'")
+    # The date column has been called both DATE and observation_date; the value
+    # column is named after the series. Take them positionally instead.
+    points = []
+    for row in rows[1:]:
+        if len(row) < 2:
+            continue
+        value = _num(row[1])  # FRED writes "." for a missing observation
+        if value is not None:
+            points.append([row[0], value])
+    if not points:
+        raise ProviderError(f"every observation of '{symbol}' was missing")
+    return points
+
+
+def fetch_fred(tile) -> Quote:
+    points = _fred_observations(tile.symbol)
+
+    if tile.transform == "yoy":
+        lag = FRED_PERIODS_PER_YEAR
+        if len(points) < lag + 2:
+            raise ProviderError(
+                f"'{tile.symbol}' has {len(points)} observations, too few for a "
+                f"year-on-year rate"
+            )
+        # Percent change against the observation a year earlier — the way a
+        # headline inflation rate is quoted.
+        rate = [[points[i][0], (points[i][1] / points[i - lag][1] - 1.0) * 100.0]
+                for i in range(lag, len(points)) if points[i - lag][1]]
+        quote = Quote(value=rate[-1][1], prev_close=rate[-2][1], as_of=rate[-1][0])
+        quote.series = rate[-FRED_POINTS:]
+        quote.field_map["_transform"] = f"yoy over {lag} observations"
+    else:
+        scaled = [[day, value * tile.scale] for day, value in points]
+        quote = Quote(value=scaled[-1][1], as_of=scaled[-1][0])
+        if len(scaled) >= 2:
+            quote.prev_close = scaled[-2][1]
+        quote.series = scaled[-FRED_POINTS:]
+
+    quote.year_high = max(point[1] for point in quote.series)
+    quote.year_low = min(point[1] for point in quote.series)
+    quote.instrument_name = tile.symbol
+    quote.field_map["_provider"] = "fred/fredgraph.csv"
+    quote.field_map["_observations"] = str(len(points))
+    return quote.derive_missing()
+
+
+def raw_fred(symbol: str, rows: int = 15) -> str:
+    """The tail of a FRED series as it arrives — for checking units by eye."""
+    return "\n".join(f"{day},{value}" for day, value in _fred_observations(symbol)[-rows:])
+
+
 # ── CoinGecko ──────────────────────────────────────────────────────────────
 
 
@@ -358,6 +430,7 @@ def fetch_coingecko(tile) -> Quote:
 
 PROVIDERS = {
     "cnbc": fetch_cnbc,
+    "fred": fetch_fred,
     "yahoo": fetch_yahoo,
     "stooq": fetch_stooq,
     "frankfurter": fetch_frankfurter,

@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from cockpit import config, render  # noqa: E402
 from cockpit.fetch import evaluate  # noqa: E402
-from cockpit.providers import ProviderError, Quote, _num, fetch_cnbc  # noqa: E402
+from cockpit.providers import ProviderError, Quote, _num, fetch_cnbc, fetch_fred  # noqa: E402
 
 
 class FakeTile:
@@ -90,6 +90,74 @@ class CnbcEnvelopes(unittest.TestCase):
     def test_missing_price_raises(self):
         with self.assertRaises(ProviderError):
             patched_cnbc({"FormattedQuoteResult": {"FormattedQuote": [{"symbol": "X"}]}})
+
+
+class FredSeries(unittest.TestCase):
+    """FRED gives a whole history; the board needs the latest reading, the one
+    before it, and — for a price index — the year-on-year rate rather than the
+    index level, which is meaningless on a card."""
+
+    class Tile:
+        provider, symbol, key, decimals = "fred", "CPIAUCNS", "cpi_yoy", 2
+        transform, scale = "", 1.0
+
+    def _fetch(self, csv_body, **attrs):
+        from cockpit import providers
+
+        tile = self.Tile()
+        for name, value in attrs.items():
+            setattr(tile, name, value)
+        original = providers._get
+        providers._get = lambda url, headers=None: csv_body.encode()
+        try:
+            return fetch_fred(tile)
+        finally:
+            providers._get = original
+
+    @staticmethod
+    def _monthly(values, start_year=2025):
+        """A CSV of consecutive monthly observations, FRED's newer header."""
+        rows = ["observation_date,CPIAUCNS"]
+        for index, value in enumerate(values):
+            year, month = start_year + index // 12, index % 12 + 1
+            rows.append(f"{year}-{month:02d}-01,{value}")
+        return "\n".join(rows) + "\n"
+
+    def test_level_takes_the_last_observation(self):
+        quote = self._fetch(self._monthly([100.0, 101.0, 102.5]))
+        self.assertAlmostEqual(quote.value, 102.5)
+        self.assertAlmostEqual(quote.prev_close, 101.0)
+        self.assertEqual(quote.as_of, "2025-03-01")
+
+    def test_scale_converts_the_units(self):
+        """FRED publishes reserves in millions; the card shows trillions."""
+        quote = self._fetch(self._monthly([1_200_000.0, 1_250_000.0]), scale=1e-6)
+        self.assertAlmostEqual(quote.value, 1.25)
+        self.assertAlmostEqual(quote.prev_close, 1.2)
+
+    def test_yoy_is_the_change_against_a_year_earlier(self):
+        # 13 months: a flat 100 for a year, then 103 — a 3% annual rate.
+        quote = self._fetch(self._monthly([100.0] * 12 + [103.0, 104.0]),
+                            transform="yoy")
+        self.assertAlmostEqual(quote.value, 4.0)      # 104 vs 100 a year before
+        self.assertAlmostEqual(quote.prev_close, 3.0)  # last month's rate
+        self.assertAlmostEqual(quote.change, 1.0)      # rate rose a point
+        self.assertEqual(quote.as_of, "2026-02-01")
+
+    def test_missing_observations_are_dropped(self):
+        body = "observation_date,X\n2026-01-01,.\n2026-02-01,5.0\n"
+        self.assertAlmostEqual(self._fetch(body).value, 5.0)
+
+    def test_the_older_date_header_still_parses(self):
+        self.assertAlmostEqual(self._fetch("DATE,X\n2026-01-01,7.5\n").value, 7.5)
+
+    def test_too_short_a_history_for_yoy_raises(self):
+        with self.assertRaises(ProviderError):
+            self._fetch(self._monthly([100.0] * 6), transform="yoy")
+
+    def test_an_all_missing_series_raises(self):
+        with self.assertRaises(ProviderError):
+            self._fetch("observation_date,X\n2026-01-01,.\n")
 
 
 class Derivation(unittest.TestCase):
@@ -276,6 +344,29 @@ class ConfigValidation(unittest.TestCase):
             if tile.alt_provider:
                 self.assertIn(tile.alt_provider, PROVIDERS, msg=tile.key)
                 self.assertNotEqual(tile.alt_provider, tile.provider, msg=tile.key)
+
+    def test_transform_is_validated(self):
+        import tempfile
+
+        broken = Path(tempfile.mkdtemp()) / "sources.toml"
+        broken.write_text(
+            '[[tile]]\nkey="x"\nlabel="X"\ngroup="G"\nprovider="fred"\n'
+            'symbol="X"\ntransform="detrend"\n', encoding="utf-8"
+        )
+        with self.assertRaises(config.ConfigError):
+            config.load(broken)
+
+    def test_derived_expressions_only_name_tiles_that_exist(self):
+        import ast
+
+        cockpit = config.load()
+        keys = {t.key for t in cockpit.tiles}
+        for tile in cockpit.tiles:
+            if tile.provider != "derived":
+                continue
+            names = {n.id for n in ast.walk(ast.parse(tile.expr, mode="eval"))
+                     if isinstance(n, ast.Name)}
+            self.assertTrue(names <= keys, msg=f"{tile.key} refers to {names - keys}")
 
     def test_featured_tile_is_unique(self):
         featured = [t for t in config.load().tiles if t.featured]
