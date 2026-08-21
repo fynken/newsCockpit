@@ -121,6 +121,41 @@ reconstructed from whichever one you supply. Relayed tiles are labelled as such
 on the board, with a per-tile note naming the source — the board never passes a
 relayed number off as a direct quote.
 
+## Scheduled refresh
+
+The board is a static page baked at build time — it does not poll. It changes
+only when something runs `./refresh.sh` and republishes `dist/index.html`.
+
+Three Routines do that on weekdays, at 08:00, 15:00 and 22:30 Zurich time:
+the European open, just before the US open, and after the US close. Each one
+wakes a fresh Claude session that works through the runbook below and then
+stops.
+
+Cron fires in **UTC**, so the schedules read `0 6`, `0 13` and `30 20` while
+Switzerland is on CEST. They will all land an hour late in Zurich terms once
+the clocks go back at the end of October — move them to `0 7`, `0 14` and
+`30 21` then.
+
+### The runbook a scheduled run follows
+
+1. Check out the branch holding the cockpit and pull.
+2. Run `./refresh.sh`. Whatever comes back **live** needs nothing further.
+3. For every tile that did not resolve live, relay it. For each `yahoo` tile in
+   `sources.toml`, fetch
+   `https://query1.finance.yahoo.com/v8/finance/chart/<symbol>?interval=5m&range=1d`
+   with `WebFetch` and read `meta.regularMarketPrice`, `chartPreviousClose`,
+   `regularMarketDayHigh` / `Low`, `fiftyTwoWeekHigh` / `Low` and
+   `regularMarketTime`. Write them into `data/agent-inbox.json` — `as_of` is
+   that epoch as ISO-8601 UTC.
+4. Run `./refresh.sh` again, then republish `dist/index.html` to the artifact
+   URL above, passing that URL so the board updates in place.
+5. Commit `data/` and `dist/` and push.
+
+The one rule that matters: **never invent a number.** A tile with no reachable
+source is meant to go relayed, cached, or blank — that is what the origin
+ladder is for. `us2y` in particular has no live source from here; leave its
+inbox entry alone unless you have a genuinely current 2-year yield to put in it.
+
 ## History and sparklines
 
 Every refresh appends new readings to `data/history.csv`, and the sparklines are
