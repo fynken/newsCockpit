@@ -95,6 +95,7 @@ it on every CI run:
 |---|---|---|---|
 | cnbc | `quote.cnbc.com` | **200** | **403** — Akamai bot-block |
 | coingecko | `api.coingecko.com` | **200** | **200** |
+| fred | `fred.stlouisfed.org` | **200** — but only for a client that does not claim to be a browser | blocked |
 | yahoo | `query1.finance.yahoo.com` | **429** | **429** — throttled by IP |
 | frankfurter | `api.frankfurter.app` | 301 → `.dev`, followed | 301 → `.dev`, **not allowed** |
 | stooq | `stooq.com` | **404** | **404** |
@@ -103,6 +104,13 @@ Hence `alt_provider`: each tile leads with CNBC, which works in CI where the
 schedule runs, and falls back to Yahoo, which is what a Claude session can
 reach. Yahoo answers `WebFetch` normally even though it throttles both hosts
 directly, which is what makes the relay path work at all.
+
+FRED is the odd one, and worth knowing about before adding a source: it wants
+the *opposite* of CNBC. Sending it the Chrome user agent the other providers
+expect gets an HTTP/2 stream reset, or a hang until timeout over HTTP/1.1;
+sending it a plain, honest agent gets 200 and 25KB in under two tenths of a
+second. So `providers.PLAIN_AGENT` is what the fred provider identifies as, and
+a test pins that the header it gets never contains "Chrome".
 
 ### The relay path
 
@@ -196,6 +204,21 @@ python3 -m unittest discover -s tests -v
 
 The provider tests run against recorded payload *shapes*, not the live
 endpoints, so they stay meaningful on a host with no market-data access.
+
+## The Macro tiles
+
+Two tiles come from FRED rather than a quote service, and both are monthly:
+
+| Tile | Series | What it is |
+|---|---|---|
+| `cpi_yoy` | `CPIAUCNS` | Headline CPI against the same month a year earlier. The provider does that arithmetic itself — `transform = "yoy"` — because a price index level on a card means nothing. The prior close is last month's *rate*, so the card shows whether inflation is accelerating. |
+| `jp_reserves` | `TRESEGJPM052N` | Japan's official reserves excluding gold. FRED publishes it in millions of dollars, so `scale = 1e-6` puts it on the card in trillions. |
+
+`real_10y` is derived: `us10y - cpi_yoy`. It inherits the existing rule that a
+derived tile is only as current as its oldest input, so it carries the CPI
+print's date rather than today's — which is the honest thing for a number that
+leans on a month-old price level. Both monthly tiles show the month the reading
+belongs to under **As of**, and the moment CI read them under **Read**.
 
 ## Notes on the providers
 
