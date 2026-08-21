@@ -10,79 +10,129 @@
     "Anything missing that can be reconstructed (a change from a percent, a previous",
     "close from a change) is filled in at fetch time."
   ],
-  "captured_at": "2026-08-21T13:35:00+02:00",
+  "captured_at": "2026-08-21T13:42:58+00:00",
   "quotes": {
     "us10y": {
-      "value": 4.71,
-      "prev_close": 4.64,
-      "year_high": 4.75,
-      "as_of": "2026-08-21T09:27:00-04:00",
-      "note": "Relayed from a web search of tradingeconomics.com and ts2.tech; CNBC's quote service is unreachable from this build host."
+      "value": 4.714,
+      "prev_close": 4.696,
+      "as_of": "2026-08-21T13:23:54+00:00",
+      "source_url": "https://finance.yahoo.com/quote/^TNX",
+      "note": "Yahoo Finance chart API, symbol ^TNX \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "us2y": {
       "value": 4.15,
       "as_of": "2026-08-21T00:00:00-04:00",
-      "note": "Constant-maturity 2-year for August 2026 via tradingeconomics.com — a monthly reference figure, not an intraday print."
+      "note": "Constant-maturity 2-year for August 2026 via tradingeconomics.com \u2014 a monthly reference figure, not an intraday print, and the oldest number on this board. No source reachable from here publishes an intraday 2-year yield: Yahoo has no 2-year index and CNBC bot-blocks this host."
     },
     "us30y": {
-      "value": 5.25,
-      "as_of": "2026-08-21T00:00:00-04:00",
-      "note": "Relayed from tradingeconomics.com."
+      "value": 5.259,
+      "prev_close": 5.237,
+      "day_high": 5.261,
+      "day_low": 5.241,
+      "year_high": 5.326,
+      "year_low": 4.528,
+      "as_of": "2026-08-21T13:24:34+00:00",
+      "source_url": "https://finance.yahoo.com/quote/^TYX",
+      "note": "Yahoo Finance chart API, symbol ^TYX \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "spx": {
-      "value": 7715.47,
-      "change_pct": 0.31,
-      "as_of": "2026-08-21T16:00:00-04:00",
-      "note": "Relayed from a web search of Yahoo Finance / Seeking Alpha closing data."
+      "value": 7666.46,
+      "prev_close": 7641.16,
+      "day_high": 7678.16,
+      "day_low": 7665.6,
+      "year_high": 7816.7,
+      "year_low": 6316.91,
+      "as_of": "2026-08-21T13:39:30+00:00",
+      "source_url": "https://finance.yahoo.com/quote/^GSPC",
+      "note": "Yahoo Finance chart API, symbol ^GSPC \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "ndx": {
-      "value": 26067.17,
-      "change_pct": -1.0,
-      "as_of": "2026-08-21T16:00:00-04:00",
-      "note": "Relayed from a web search of Bloomingbit / Investing.com."
+      "value": 26117.173828125,
+      "prev_close": 26067.166,
+      "day_high": 26205.104,
+      "day_low": 26110.455,
+      "year_high": 27190.21,
+      "year_low": 20690.25,
+      "as_of": "2026-08-21T13:39:28+00:00",
+      "source_url": "https://finance.yahoo.com/quote/^IXIC",
+      "note": "Yahoo Finance chart API, symbol ^IXIC \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "dax": {
-      "value": 25983.0,
-      "change_pct": -0.41,
-      "as_of": "2026-08-20T17:30:00+02:00",
-      "note": "Thursday's Xetra close — Friday's DAX print was not yet published when this was relayed."
+      "value": 26116.43,
+      "prev_close": 25983.04,
+      "day_high": 26120.01,
+      "day_low": 25969.52,
+      "year_high": 26573.5,
+      "year_low": 21863.81,
+      "as_of": "2026-08-21T13:24:35+00:00",
+      "source_url": "https://finance.yahoo.com/quote/^GDAXI",
+      "note": "Yahoo Finance chart API, symbol ^GDAXI \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "vix": {
-      "value": 15.87,
-      "change_pct": -0.87,
-      "open": 15.82,
-      "day_low": 15.77,
+      "value": 15.49,
+      "prev_close": 16.01,
       "day_high": 15.88,
-      "as_of": "2026-08-21T12:00:00-04:00",
-      "note": "Relayed from a web search of CNBC / Investing.com."
+      "day_low": 15.41,
+      "year_high": 35.3,
+      "year_low": 13.38,
+      "as_of": "2026-08-21T13:24:31+00:00",
+      "source_url": "https://finance.yahoo.com/quote/^VIX",
+      "note": "Yahoo Finance chart API, symbol ^VIX \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "eurusd": {
-      "value": 1.17011,
-      "as_of": "2026-08-21T11:00:00+02:00",
-      "note": "Relayed from live-rates.com."
+      "value": 1.1685,
+      "prev_close": 1.1681,
+      "day_high": 1.1715,
+      "day_low": 1.1681,
+      "year_high": 1.2024,
+      "year_low": 1.1325,
+      "as_of": "2026-08-21T13:38:54+00:00",
+      "source_url": "https://finance.yahoo.com/quote/EURUSD=X",
+      "note": "Yahoo Finance chart API, symbol EURUSD=X \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "usdchf": {
-      "value": 0.7996,
-      "change_pct": -0.11,
-      "as_of": "2026-08-21T11:00:00+02:00",
-      "note": "Relayed from tradingeconomics.com."
+      "value": 0.8001,
+      "prev_close": 0.8002,
+      "day_high": 0.8008,
+      "day_low": 0.7983,
+      "year_high": 0.8205,
+      "year_low": 0.7629,
+      "as_of": "2026-08-21T13:39:43+00:00",
+      "source_url": "https://finance.yahoo.com/quote/CHF=X",
+      "note": "Yahoo Finance chart API, symbol CHF=X \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "gold": {
-      "value": 4554.76,
-      "change_pct": 0.86,
-      "as_of": "2026-08-21T12:00:00+02:00",
-      "note": "Spot gold per troy ounce, relayed from tradingeconomics.com — the configured tile tracks the front-month future, which trades a little away from spot."
+      "value": 4641.5,
+      "prev_close": 4571.4,
+      "day_high": 4661.7,
+      "day_low": 4565.5,
+      "year_high": 5586.2,
+      "year_low": 3349.4,
+      "as_of": "2026-08-21T13:29:41+00:00",
+      "source_url": "https://finance.yahoo.com/quote/GC=F",
+      "note": "Yahoo Finance chart API, symbol GC=F \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "wti": {
-      "value": 86.16,
-      "change_pct": 2.09,
-      "as_of": "2026-08-20T17:00:00-04:00",
-      "note": "Thursday's settle, relayed from tradingeconomics.com."
+      "value": 86.93,
+      "prev_close": 86.83,
+      "day_high": 87.51,
+      "day_low": 85.8,
+      "year_high": 119.48,
+      "year_low": 54.98,
+      "as_of": "2026-08-21T13:29:43+00:00",
+      "source_url": "https://finance.yahoo.com/quote/CL=F",
+      "note": "Yahoo Finance chart API, symbol CL=F \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP)."
     },
     "btc": {
-      "value": 77717.61,
-      "as_of": "2026-08-21T07:13:00-04:00",
-      "note": "Relayed from CoinDesk. A second source quoted roughly $75,300 the same morning — crypto prints vary by venue."
+      "value": 76960.77,
+      "prev_close": 73013.0,
+      "day_high": 79244.375,
+      "day_low": 73013.0,
+      "year_high": 126198.07,
+      "year_low": 57747.766,
+      "as_of": "2026-08-21T13:40:00+00:00",
+      "source_url": "https://finance.yahoo.com/quote/BTC-USD",
+      "note": "Yahoo Finance chart API, symbol BTC-USD \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP). Only used if CoinGecko, which this host can reach directly, does not answer."
     }
   }
 }

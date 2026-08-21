@@ -8,14 +8,29 @@
 # Everything else is optional and has a sane default.
 #
 # Providers:
-#   cnbc       — CNBC's public quote service. `symbol` is the CNBC ticker, i.e.
-#                the last path segment of https://www.cnbc.com/quotes/<symbol>/
-#   stooq      — stooq.com CSV endpoint. `symbol` e.g. "eurusd", "^spx".
-#   yahoo      — Yahoo Finance chart API. `symbol` e.g. "^TNX". Also returns an
-#                intraday series, so these tiles get a real sparkline instantly.
-#   frankfurter— ECB reference rates (FX only). `symbol` e.g. "USD/CHF".
+#   yahoo      — Yahoo Finance chart API. `symbol` is the Yahoo ticker, i.e. the
+#                last path segment of https://finance.yahoo.com/quote/<symbol>
+#                ("^TNX", "^GSPC", "EURUSD=X", "GC=F"). Also returns an intraday
+#                series, so these tiles get a real sparkline immediately.
 #   coingecko  — crypto spot. `symbol` is a coingecko id, e.g. "bitcoin".
+#   cnbc       — CNBC's public quote service. `symbol` is the CNBC ticker, i.e.
+#                the last path segment of https://www.cnbc.com/quotes/<symbol>
+#   stooq      — stooq.com CSV endpoint. `symbol` e.g. "eurusd", "^spx".
+#   frankfurter— ECB reference rates (FX only). `symbol` e.g. "USD/CHF".
 #   derived    — computed from other tiles. Set `expr`, e.g. "us10y - us2y".
+#
+#   A tile may name a second provider with `alt_provider` / `alt_symbol`, tried
+#   only when the first cannot be reached. This is not belt-and-braces: which
+#   hosts answer depends on where the build runs, and the two places this board
+#   builds see opposite worlds (measured 2026-08-21, see README):
+#
+#                        GitHub runner   this sandbox
+#     cnbc                   200             403 (Akamai)
+#     yahoo                  429             429
+#     coingecko              200             200
+#
+#   So tiles lead with CNBC — the scheduled refresh runs in CI, where CNBC
+#   works — and fall back to Yahoo, which is what a Claude session relays from.
 #
 # Formatting:
 #   unit      suffix printed after the value ("%", " bp", …)
@@ -41,12 +56,18 @@ label    = "US 10-Year Treasury"
 group    = "Rates"
 provider = "cnbc"
 symbol   = "US10Y"
+alt_provider = "yahoo"
+alt_symbol     = "^TNX"
 unit     = "%"
 decimals = 3
 featured = true
 good_when = "neutral"
 note     = "The cockpit's anchor rate — discounting everything else on this board."
 
+# No fallback: Yahoo publishes no 2-year yield index (its Treasury indices are
+# ^IRX, ^FVX, ^TNX, ^TYX) and the 2-year yield future 2YY=F quotes an expired
+# contract. CNBC is the only source with it, so this tile is live in CI and
+# relayed everywhere else.
 [[tile]]
 key      = "us2y"
 label    = "US 2-Year Treasury"
@@ -63,6 +84,8 @@ label    = "US 30-Year Treasury"
 group    = "Rates"
 provider = "cnbc"
 symbol   = "US30Y"
+alt_provider = "yahoo"
+alt_symbol     = "^TYX"
 unit     = "%"
 decimals = 3
 good_when = "neutral"
@@ -76,7 +99,7 @@ expr      = "(us10y - us2y) * 100"
 unit      = " bp"
 decimals  = 1
 good_when = "neutral"
-note      = "10-year minus 2-year, in basis points. Negative means inverted."
+note      = "10-year minus 2-year, in basis points. Negative means inverted. Only as current as the 2-year leg, which is relayed."
 
 # ── Equities ───────────────────────────────────────────────────────────────
 
@@ -86,6 +109,8 @@ label    = "S&P 500"
 group    = "Equities"
 provider = "cnbc"
 symbol   = ".SPX"
+alt_provider = "yahoo"
+alt_symbol     = "^GSPC"
 decimals = 2
 
 [[tile]]
@@ -94,6 +119,8 @@ label    = "Nasdaq Composite"
 group    = "Equities"
 provider = "cnbc"
 symbol   = ".IXIC"
+alt_provider = "yahoo"
+alt_symbol     = "^IXIC"
 decimals = 2
 
 [[tile]]
@@ -102,6 +129,8 @@ label    = "DAX"
 group    = "Equities"
 provider = "cnbc"
 symbol   = ".GDAXI"
+alt_provider = "yahoo"
+alt_symbol     = "^GDAXI"
 decimals = 2
 
 [[tile]]
@@ -110,6 +139,8 @@ label     = "VIX"
 group     = "Equities"
 provider  = "cnbc"
 symbol    = ".VIX"
+alt_provider = "yahoo"
+alt_symbol     = "^VIX"
 decimals  = 2
 good_when = "down"
 note      = "Implied 30-day volatility on the S&P 500."
@@ -122,6 +153,8 @@ label    = "EUR / USD"
 group    = "Currencies & Commodities"
 provider = "cnbc"
 symbol   = "EUR="
+alt_provider = "yahoo"
+alt_symbol     = "EURUSD=X"
 decimals = 4
 good_when = "neutral"
 
@@ -131,6 +164,8 @@ label    = "USD / CHF"
 group    = "Currencies & Commodities"
 provider = "cnbc"
 symbol   = "CHF="
+alt_provider = "yahoo"
+alt_symbol     = "CHF=X"
 decimals = 4
 good_when = "neutral"
 
@@ -140,6 +175,8 @@ label    = "Gold"
 group    = "Currencies & Commodities"
 provider = "cnbc"
 symbol   = "@GC.1"
+alt_provider = "yahoo"
+alt_symbol     = "GC=F"
 prefix   = "$"
 decimals = 2
 
@@ -149,6 +186,8 @@ label    = "WTI Crude"
 group    = "Currencies & Commodities"
 provider = "cnbc"
 symbol   = "@CL.1"
+alt_provider = "yahoo"
+alt_symbol     = "CL=F"
 prefix   = "$"
 decimals = 2
 good_when = "neutral"
@@ -157,7 +196,7 @@ good_when = "neutral"
 key      = "btc"
 label    = "Bitcoin"
 group    = "Currencies & Commodities"
-provider = "cnbc"
-symbol   = "BTC.CM="
+provider = "coingecko"
+symbol   = "bitcoin"
 prefix   = "$"
 decimals = 0

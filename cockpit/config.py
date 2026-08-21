@@ -32,6 +32,20 @@ class Tile:
     featured: bool = False
     good_when: str = "up"
     note: str = ""
+    #: A second provider to try when the first cannot be reached. Which hosts
+    #: answer depends entirely on where the build runs — CNBC answers GitHub's
+    #: runners and refuses this sandbox, Yahoo does the opposite — so a tile
+    #: names both and the fetcher takes whichever one replies.
+    alt_provider: str = ""
+    alt_symbol: str = ""
+
+    def attempts(self) -> list["Tile"]:
+        """This tile, then its fallback: the providers to try, in order."""
+        from dataclasses import replace
+
+        if not self.alt_provider:
+            return [self]
+        return [self, replace(self, provider=self.alt_provider, symbol=self.alt_symbol)]
 
     def quote_url(self) -> str:
         """Where a human goes to check this number by hand."""
@@ -112,6 +126,10 @@ def load(path: Path | None = None) -> Cockpit:
             raise ConfigError(f"tile '{key}': provider 'derived' requires an 'expr'")
         if entry["provider"] != "derived" and not entry.get("symbol"):
             raise ConfigError(f"tile '{key}': provider '{entry['provider']}' requires a 'symbol'")
+        if bool(entry.get("alt_provider")) != bool(entry.get("alt_symbol")):
+            raise ConfigError(
+                f"tile '{key}': alt_provider and alt_symbol must be set together"
+            )
 
         cockpit.tiles.append(Tile(**entry))
 
