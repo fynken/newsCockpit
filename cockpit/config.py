@@ -15,6 +15,7 @@ HISTORY_FILE = DATA_DIR / "history.csv"
 INBOX_FILE = DATA_DIR / "agent-inbox.json"
 
 GOOD_WHEN = ("up", "down", "neutral")
+TRANSFORMS = ("", "yoy")
 
 
 @dataclass
@@ -38,6 +39,13 @@ class Tile:
     #: names both and the fetcher takes whichever one replies.
     alt_provider: str = ""
     alt_symbol: str = ""
+    #: "yoy" turns a level series into its percent change against the
+    #: observation a year earlier — how an inflation rate is quoted. Only the
+    #: fred provider reads it.
+    transform: str = ""
+    #: Multiplier applied to a level, for series published in awkward units
+    #: (FRED reports reserves in millions of dollars; 1e-6 shows trillions).
+    scale: float = 1.0
 
     def attempts(self) -> list["Tile"]:
         """This tile, then its fallback: the providers to try, in order."""
@@ -57,6 +65,8 @@ class Tile:
             return f"https://finance.yahoo.com/quote/{self.symbol}"
         if self.provider == "coingecko" and self.symbol:
             return f"https://www.coingecko.com/en/coins/{self.symbol}"
+        if self.provider == "fred" and self.symbol:
+            return f"https://fred.stlouisfed.org/series/{self.symbol}"
         if self.provider == "stooq" and self.symbol:
             return f"https://stooq.com/q/?s={self.symbol}"
         return ""
@@ -129,6 +139,11 @@ def load(path: Path | None = None) -> Cockpit:
         if bool(entry.get("alt_provider")) != bool(entry.get("alt_symbol")):
             raise ConfigError(
                 f"tile '{key}': alt_provider and alt_symbol must be set together"
+            )
+        if entry.get("transform", "") not in TRANSFORMS:
+            raise ConfigError(
+                f"tile '{key}': transform must be one of {TRANSFORMS}, "
+                f"got '{entry['transform']}'"
             )
 
         cockpit.tiles.append(Tile(**entry))

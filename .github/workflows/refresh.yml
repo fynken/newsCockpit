@@ -57,12 +57,33 @@ jobs:
               "api.coingecko.com/api/v3/ping" \
               "quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=US10Y&output=json" \
               "stooq.com/q/l/?s=eurusd&f=sd2t2ohlcv&h&e=csv" \
-              "api.frankfurter.app/latest?from=USD&to=CHF" ; do
+              "api.frankfurter.app/latest?from=USD&to=CHF" \
+              "fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS" ; do
               code=$(curl -sS -o /dev/null -w '%{http_code}' --max-time 25 \
                      -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36" \
                      "https://${host}" || echo "conn-fail")
               echo "| \`${host%%/*}\` | ${code} |"
             done
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # FRED series get renamed, rebased and discontinued, and their units are
+      # not guessable — reserves are published in millions, which the jp_reserves
+      # tile rescales. Printing each series' own header is how a silent change
+      # of units gets caught before it becomes a wrong number on the board.
+      - name: FRED series header
+        run: |
+          {
+            echo ""
+            echo "### FRED series behind the Macro tiles"
+            echo '```'
+            for id in $(python3 -c "
+from cockpit import config
+print(' '.join(t.symbol for t in config.load().tiles if t.provider == 'fred'))"); do
+              curl -sS --max-time 25 "https://fred.stlouisfed.org/data/${id}.txt" \
+                | sed -n '1,12p;$p' || echo "${id}: unreachable"
+              echo "---"
+            done
+            echo '```'
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Refresh

@@ -17,6 +17,11 @@
 #                the last path segment of https://www.cnbc.com/quotes/<symbol>
 #   stooq      — stooq.com CSV endpoint. `symbol` e.g. "eurusd", "^spx".
 #   frankfurter— ECB reference rates (FX only). `symbol` e.g. "USD/CHF".
+#   fred       — St. Louis Fed series, monthly or daily. `symbol` is the series
+#                id from https://fred.stlouisfed.org/series/<id>. No API key.
+#                `transform = "yoy"` reports the percent change against the
+#                observation a year earlier instead of the level, and `scale`
+#                multiplies a level whose published units are awkward.
 #   derived    — computed from other tiles. Set `expr`, e.g. "us10y - us2y".
 #
 #   A tile may name a second provider with `alt_provider` / `alt_symbol`, tried
@@ -100,6 +105,17 @@ unit      = " bp"
 decimals  = 1
 good_when = "neutral"
 note      = "10-year minus 2-year, in basis points. Negative means inverted. Only as current as the 2-year leg, which is relayed."
+
+[[tile]]
+key       = "real_10y"
+label     = "Real 10-Year Yield"
+group     = "Rates"
+provider  = "derived"
+expr      = "us10y - cpi_yoy"
+unit      = "%"
+decimals  = 2
+good_when = "neutral"
+note      = "The 10-year yield less headline CPI inflation — what a Treasury buyer earns after inflation, on today's yield and the last published price level. Only as current as the CPI print it leans on."
 
 # ── Equities ───────────────────────────────────────────────────────────────
 
@@ -200,3 +216,34 @@ provider = "coingecko"
 symbol   = "bitcoin"
 prefix   = "$"
 decimals = 0
+
+# ── Macro ──────────────────────────────────────────────────────────────────
+#
+# Both of these are monthly, and both are published with a lag. Their "As of"
+# dates are the month the reading belongs to, which is the honest thing to show
+# — not the day this board happened to read them.
+
+[[tile]]
+key       = "cpi_yoy"
+label     = "US CPI (year on year)"
+group     = "Macro"
+provider  = "fred"
+symbol    = "CPIAUCNS"
+transform = "yoy"
+unit      = "%"
+decimals  = 2
+good_when = "down"
+note      = "Headline CPI for all urban consumers, not seasonally adjusted, against the same month a year earlier — the way the inflation rate is quoted. BLS publishes it mid-month for the month before."
+
+[[tile]]
+key       = "jp_reserves"
+label     = "Japan FX Reserves"
+group     = "Macro"
+provider  = "fred"
+symbol    = "TRESEGJPM052N"
+prefix    = "$"
+unit      = " tn"
+scale     = 1e-6
+decimals  = 3
+good_when = "neutral"
+note      = "Japan's official reserve assets excluding gold, reported monthly by the Ministry of Finance and carried by the IMF. Falls when the MoF sells dollars to defend the yen."
