@@ -27,7 +27,9 @@ on:
     - cron: "30 20 * * 1-5"
 
 permissions:
-  contents: write
+  contents: write   # the refresh job commits the rebuilt board
+  pages: write      # the publish job serves it
+  id-token: write   # …which Pages authenticates with OIDC
 
 concurrency:
   group: refresh-cockpit
@@ -95,3 +97,30 @@ jobs:
           echo "Only ${{ steps.count.outputs.live }} tile(s) live — this runner cannot reach the" \
                "market-data providers either, so there is nothing fresher to publish." \
                | tee -a "$GITHUB_STEP_SUMMARY"
+
+  # Serve the board at https://fynken.github.io/newsCockpit/ — a free, always
+  # current URL. The Artifact is the other publication route, and the only one
+  # of the two that stays private; it can only be written from a Claude
+  # session, so it updates when you ask Claude to refresh the cockpit.
+  publish:
+    needs: refresh
+    runs-on: ubuntu-latest
+    # This job cannot work until Pages is switched on under Settings → Pages
+    # with "GitHub Actions" as the source. Until then it fails on its own
+    # rather than painting the scheduled refresh red.
+    continue-on-error: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The branch head, not the triggering commit — the refresh job has
+          # just pushed the rebuilt page on top of it.
+          ref: ${{ github.ref_name }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deploy
+        uses: actions/deploy-pages@v4
