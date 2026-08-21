@@ -95,16 +95,6 @@ unit     = "%"
 decimals = 3
 good_when = "neutral"
 
-[[tile]]
-key       = "curve_2s10s"
-label     = "2s10s Curve"
-group     = "Rates"
-provider  = "derived"
-expr      = "(us10y - us2y) * 100"
-unit      = " bp"
-decimals  = 1
-good_when = "neutral"
-note      = "10-year minus 2-year, in basis points. Negative means inverted. Only as current as the 2-year leg, which is relayed."
 
 [[tile]]
 key       = "real_10y"
@@ -139,15 +129,6 @@ alt_provider = "yahoo"
 alt_symbol     = "^IXIC"
 decimals = 2
 
-[[tile]]
-key      = "dax"
-label    = "DAX"
-group    = "Equities"
-provider = "cnbc"
-symbol   = ".GDAXI"
-alt_provider = "yahoo"
-alt_symbol     = "^GDAXI"
-decimals = 2
 
 [[tile]]
 key       = "vix"
