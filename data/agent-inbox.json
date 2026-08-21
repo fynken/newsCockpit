@@ -1,0 +1,88 @@
+{
+  "_readme": [
+    "Readings relayed into the cockpit when the build host cannot reach market data",
+    "providers directly. Claude writes this file during a refresh; you can also edit",
+    "it by hand. Run 'python3 -m cockpit inbox' to print a skeleton, then",
+    "'./refresh.sh --offline' to build from it.",
+    "",
+    "Each entry may carry: value (required), change, change_pct, prev_close, open,",
+    "day_high, day_low, year_high, year_low, as_of, market_status, note, source_url.",
+    "Anything missing that can be reconstructed (a change from a percent, a previous",
+    "close from a change) is filled in at fetch time."
+  ],
+  "captured_at": "2026-08-21T13:35:00+02:00",
+  "quotes": {
+    "us10y": {
+      "value": 4.71,
+      "prev_close": 4.64,
+      "year_high": 4.75,
+      "as_of": "2026-08-21T09:27:00-04:00",
+      "note": "Relayed from a web search of tradingeconomics.com and ts2.tech; CNBC's quote service is unreachable from this build host."
+    },
+    "us2y": {
+      "value": 4.15,
+      "as_of": "2026-08-21T00:00:00-04:00",
+      "note": "Constant-maturity 2-year for August 2026 via tradingeconomics.com — a monthly reference figure, not an intraday print."
+    },
+    "us30y": {
+      "value": 5.25,
+      "as_of": "2026-08-21T00:00:00-04:00",
+      "note": "Relayed from tradingeconomics.com."
+    },
+    "spx": {
+      "value": 7715.47,
+      "change_pct": 0.31,
+      "as_of": "2026-08-21T16:00:00-04:00",
+      "note": "Relayed from a web search of Yahoo Finance / Seeking Alpha closing data."
+    },
+    "ndx": {
+      "value": 26067.17,
+      "change_pct": -1.0,
+      "as_of": "2026-08-21T16:00:00-04:00",
+      "note": "Relayed from a web search of Bloomingbit / Investing.com."
+    },
+    "dax": {
+      "value": 25983.0,
+      "change_pct": -0.41,
+      "as_of": "2026-08-20T17:30:00+02:00",
+      "note": "Thursday's Xetra close — Friday's DAX print was not yet published when this was relayed."
+    },
+    "vix": {
+      "value": 15.87,
+      "change_pct": -0.87,
+      "open": 15.82,
+      "day_low": 15.77,
+      "day_high": 15.88,
+      "as_of": "2026-08-21T12:00:00-04:00",
+      "note": "Relayed from a web search of CNBC / Investing.com."
+    },
+    "eurusd": {
+      "value": 1.17011,
+      "as_of": "2026-08-21T11:00:00+02:00",
+      "note": "Relayed from live-rates.com."
+    },
+    "usdchf": {
+      "value": 0.7996,
+      "change_pct": -0.11,
+      "as_of": "2026-08-21T11:00:00+02:00",
+      "note": "Relayed from tradingeconomics.com."
+    },
+    "gold": {
+      "value": 4554.76,
+      "change_pct": 0.86,
+      "as_of": "2026-08-21T12:00:00+02:00",
+      "note": "Spot gold per troy ounce, relayed from tradingeconomics.com — the configured tile tracks the front-month future, which trades a little away from spot."
+    },
+    "wti": {
+      "value": 86.16,
+      "change_pct": 2.09,
+      "as_of": "2026-08-20T17:00:00-04:00",
+      "note": "Thursday's settle, relayed from tradingeconomics.com."
+    },
+    "btc": {
+      "value": 77717.61,
+      "as_of": "2026-08-21T07:13:00-04:00",
+      "note": "Relayed from CoinDesk. A second source quoted roughly $75,300 the same morning — crypto prints vary by venue."
+    }
+  }
+}
