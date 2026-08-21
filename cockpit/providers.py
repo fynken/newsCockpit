@@ -27,6 +27,11 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
+#: Some hosts stall a client that claims to be Chrome without behaving like
+#: one — no browser TLS fingerprint, no matching headers. FRED is one: it
+#: answers this agent in 0.2s and hangs until timeout on the Chrome string.
+#: Say what we actually are, and where to complain.
+PLAIN_AGENT = "newsCockpit/1.0 (+https://github.com/fynken/newsCockpit)"
 TIMEOUT = 20
 #: Statuses worth one more try — a throttle or a momentary edge failure, not a
 #: verdict. One retry only: when a host is throttling the whole build (Yahoo
@@ -341,9 +346,10 @@ FRED_PERIODS_PER_YEAR = 12
 
 def _fred_observations(symbol: str) -> list[list]:
     """[[iso_date, value], …] oldest first, with FRED's missing marker dropped."""
-    body = _get(FRED_CSV.format(series=urllib.parse.quote(symbol, safe=""))).decode(
-        "utf-8", "replace"
-    )
+    body = _get(
+        FRED_CSV.format(series=urllib.parse.quote(symbol, safe="")),
+        headers={"User-Agent": PLAIN_AGENT},
+    ).decode("utf-8", "replace")
     rows = list(csv.reader(io.StringIO(body)))
     if len(rows) < 2:
         raise ProviderError(f"FRED returned no observations for '{symbol}'")
