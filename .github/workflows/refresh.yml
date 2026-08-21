@@ -70,17 +70,19 @@ jobs:
       # not guessable — reserves are published in millions, which the jp_reserves
       # tile rescales. Printing each series' own header is how a silent change
       # of units gets caught before it becomes a wrong number on the board.
+      # FRED series get renamed, rebased and discontinued, and their units are
+      # not guessable — reserves are published in millions, which the jp_reserves
+      # tile rescales. Printing each series' own header is how a silent change
+      # of units gets caught before it becomes a wrong number on the board.
       - name: FRED series header
         run: |
+          ids=$(python3 -c "from cockpit import config; print(' '.join(t.symbol for t in config.load().tiles if t.provider == 'fred'))")
           {
             echo ""
             echo "### FRED series behind the Macro tiles"
             echo '```'
-            for id in $(python3 -c "
-from cockpit import config
-print(' '.join(t.symbol for t in config.load().tiles if t.provider == 'fred'))"); do
-              curl -sS --max-time 25 "https://fred.stlouisfed.org/data/${id}.txt" \
-                | sed -n '1,12p;$p' || echo "${id}: unreachable"
+            for id in $ids; do
+              curl -sS --max-time 25 "https://fred.stlouisfed.org/data/${id}.txt" | sed -n '1,12p;$p' || echo "${id}: unreachable"
               echo "---"
             done
             echo '```'
