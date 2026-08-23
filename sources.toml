@@ -190,6 +190,83 @@ decimals = 2
 good_when = "neutral"
 
 
+# ── AI bubble ──────────────────────────────────────────────────────────────
+#
+# Five things are worth watching on an AI-capex board: Nvidia's revenue,
+# hyperscaler capex, hyperscaler free cash flow, AI credit spreads, and
+# Chinese frontier performance per dollar of tokens. Only some of them can be
+# fetched, and the board carries only those. What is missing and why:
+#
+#   Nvidia revenue, hyperscaler capex and FCF are filing data. SEC XBRL has
+#   all three keyless, but returns 403 to this runner — see the AI source
+#   probe in the workflow. Until that is solved these tiles do not exist,
+#   rather than existing full of estimates.
+#
+#   "$ per token" has no machine-readable public source at all: model prices
+#   move by blog post and benchmark scores live in leaderboards with no stable
+#   API. A tile for it would be a number somebody typed, which is the one
+#   thing this board will not show.
+#
+# What is here instead is the market's read on the same question, which is
+# genuinely fetchable: the AI trade's leadership, and the credit conditions
+# the capex depends on.
+
+[[tile]]
+key          = "nvda"
+label        = "Nvidia"
+group        = "AI Bubble"
+provider     = "cnbc"
+symbol       = "NVDA"
+alt_provider = "yahoo"
+alt_symbol   = "NVDA"
+prefix       = "$"
+decimals     = 2
+note         = "The pure-play on AI capex: almost every dollar of hyperscaler datacentre spend passes through it."
+
+[[tile]]
+key          = "smh"
+label        = "Semiconductors"
+group        = "AI Bubble"
+provider     = "cnbc"
+symbol       = "SMH"
+alt_provider = "yahoo"
+alt_symbol   = "SMH"
+prefix       = "$"
+decimals     = 2
+note         = "VanEck Semiconductor ETF — the AI supply chain in one instrument."
+
+[[tile]]
+key       = "semis_vs_spx"
+label     = "Semis vs S&P 500"
+group     = "AI Bubble"
+provider  = "derived"
+expr      = "smh / spx * 1000"
+decimals  = 2
+good_when = "neutral"
+note      = "Semiconductors priced in units of the S&P. A ratio, not an index — nothing is normalised or weighted, so the only thing it can move on is the AI trade leading or lagging the broad market."
+
+[[tile]]
+key       = "hy_oas"
+label     = "High-Yield Credit Spread"
+group     = "AI Bubble"
+provider  = "fred"
+symbol    = "BAMLH0A0HYM2"
+unit      = "%"
+decimals  = 2
+good_when = "down"
+note      = "ICE BofA US high-yield option-adjusted spread. Not AI-specific — no free public series is — but the datacentre build is increasingly debt-funded, and this is the price of that debt for the weakest borrowers. It widens before capex plans get cut."
+
+[[tile]]
+key       = "ig_oas"
+label     = "Investment-Grade Spread"
+group     = "AI Bubble"
+provider  = "fred"
+symbol    = "BAMLC0A0CM"
+unit      = "%"
+decimals  = 2
+good_when = "down"
+note      = "ICE BofA US corporate option-adjusted spread — where the hyperscalers themselves borrow. Also not AI-specific."
+
 # ── Macro ──────────────────────────────────────────────────────────────────
 #
 # Both of these are monthly, and both are published with a lag. Their "As of"
