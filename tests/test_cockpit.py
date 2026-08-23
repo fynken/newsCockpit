@@ -264,6 +264,38 @@ class SecFilings(unittest.TestCase):
         quote = self._fetch({("789019", "Capex"): rows}, "789019/Capex", scale=1e-9)
         self.assertAlmostEqual(quote.value, 14.0)
 
+    def test_it_prefers_the_tag_that_runs_to_today(self):
+        """A filer that changed line items leaves the old tag populated but
+        frozen. First-match would report figures from whenever it stopped —
+        which is exactly how nvda_revenue first shipped reading 2020."""
+        stale = self._quarters([1.0, 2.0, 3.0, 4.0, 5.0], start_year=2016)
+        current = self._quarters([10.0, 20.0, 30.0, 40.0, 50.0], start_year=2025)
+        quote = self._fetch({("1045810", "OldTag"): stale,
+                             ("1045810", "NewTag"): current},
+                            "1045810/OldTag|NewTag")
+        self.assertAlmostEqual(quote.value, 20 + 30 + 40 + 50)
+        self.assertEqual(quote.field_map["_tags"], "NewTag")
+        self.assertGreater(quote.as_of, "2025")
+
+    def test_a_filer_frozen_years_back_is_refused_not_summed(self):
+        """Summing a live filer with a dead series dates the whole tile to
+        whenever the dead one stopped, while still looking like real data."""
+        current = self._quarters([10.0] * 6, start_year=2025)
+        frozen = self._quarters([1.0] * 6, start_year=2016)
+        with self.assertRaises(ProviderError) as caught:
+            self._fetch({("789019", "Capex"): current, ("1018724", "Capex"): frozen},
+                        "789019+1018724/Capex")
+        self.assertIn("across eras", str(caught.exception))
+
+    def test_filers_a_few_weeks_apart_are_still_summed(self):
+        """Quarters end on different dates and some file later; that is normal
+        and must not trip the staleness guard."""
+        a = self._quarters([10.0] * 6, start_year=2025)
+        b = [(s, e, 5.0, f) for s, e, _, f in self._quarters([0.0] * 5, start_year=2025)]
+        quote = self._fetch({("789019", "Capex"): a, ("1018724", "Capex"): b},
+                            "789019+1018724/Capex")
+        self.assertAlmostEqual(quote.value, 40.0 + 20.0)
+
     def test_too_little_history_raises_rather_than_part_summing(self):
         with self.assertRaises(ProviderError):
             self._fetch({("789019", "Capex"): self._quarters([1.0, 2.0])}, "789019/Capex")

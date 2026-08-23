@@ -417,6 +417,11 @@ SEC_CONCEPT = "https://data.sec.gov/api/xbrl/companyconcept/CIK{cik:0>10}/us-gaa
 SEC_QUARTER = (80, 100)
 #: A fiscal year, likewise.
 SEC_YEAR = (350, 380)
+#: How far behind the newest filer another may be before the aggregate is
+#: refused. Filers' quarters end on different dates and some report weeks
+#: later, but a series frozen more than two quarters back is a dead tag, not a
+#: slow filer, and summing it would date the whole tile to whenever it stopped.
+SEC_STALE_DAYS = 200
 
 
 def _sec_periods(cik: str, tag: str) -> list[dict]:
@@ -487,22 +492,37 @@ def fetch_sec(tile) -> Quote:
     per_company: list[list[tuple[str, float]]] = []
     matched_tags: list[str] = []
     for cik in companies.split("+"):
-        errors = []
+        errors: list[str] = []
+        best: tuple[str, list[tuple[str, float]]] | None = None
         for tag in tags.split("|"):
             try:
                 quarters = _sec_quarters(cik.strip(), tag.strip())
             except ProviderError as exc:
                 errors.append(f"{tag}: {exc}")
                 continue
-            if quarters:
-                matched_tags.append(tag.strip())
-                per_company.append(quarters)
-                break
-        else:
+            # Take the tag that runs closest to today, not the first that
+            # returns anything. A filer that changed line items leaves the old
+            # tag populated but frozen — Amazon's PP&E capex stops in 2017 —
+            # and first-match would silently report figures from that era.
+            if quarters and (best is None or quarters[-1][0] > best[1][-1][0]):
+                best = (tag.strip(), quarters)
+        if best is None:
             raise ProviderError(f"CIK {cik}: no tag produced facts ({'; '.join(errors)})")
+        matched_tags.append(best[0])
+        per_company.append(best[1])
 
-    # Align on the shortest history, so a company that reports later does not
-    # drag the aggregate down by contributing nothing to the newest quarter.
+    # An aggregate is only meaningful if the filers are describing the same
+    # stretch of time. Refuse rather than sum across eras.
+    newest = max(quarters[-1][0] for quarters in per_company)
+    for cik, quarters in zip(companies.split("+"), per_company):
+        behind = (datetime.fromisoformat(newest)
+                  - datetime.fromisoformat(quarters[-1][0])).days
+        if behind > SEC_STALE_DAYS:
+            raise ProviderError(
+                f"CIK {cik.strip()} last filed a quarter ending {quarters[-1][0]}, "
+                f"{behind} days behind {newest} — refusing to sum across eras"
+            )
+
     depth = min(len(q) for q in per_company)
     if depth < 5:
         raise ProviderError(f"only {depth} comparable quarters across {len(per_company)} filers")
