@@ -81,36 +81,11 @@ jobs:
             echo "### FRED series behind the Macro tiles"
             echo '```'
             for id in $ids; do
-              curl -sSL --http1.1 --max-time 25 -A "newsCockpit/1.0" "https://fred.stlouisfed.org/data/${id}.txt" | sed -n '1,10p' || echo "${id}: unreachable"
-              echo "..."
-              curl -sSL --http1.1 --max-time 25 -A "newsCockpit/1.0" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=${id}" | tail -3
-              echo "---"
+              # fredgraph.csv only: the data/<id>.txt endpoint carries the units
+              # but redirects and stalls, and was costing three minutes a run.
+              echo "${id}: $(curl -sS --http1.1 --max-time 25 -A "newsCockpit/1.0" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=${id}" | tail -2 | tr '\n' ' ')"
             done
             echo '```'
-          } | tee -a "$GITHUB_STEP_SUMMARY"
-
-      # SEC XBRL would give Nvidia revenue and hyperscaler capex/FCF from the
-      # filings themselves. It answered the first probe with 403 on every
-      # endpoint, which SEC returns to traffic that has not declared a contact
-      # email — their access policy asks for one. Retrying with that, and with
-      # a plain agent, before concluding those tiles cannot be built.
-      - name: SEC user-agent probe
-        run: |
-          try() {
-            label="$1"; shift
-            result=$(curl -sS -o /tmp/b -w '%{http_code}, %{size_download}B' --max-time 25 "$@" "https://data.sec.gov/api/xbrl/companyconcept/CIK0001045810/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json" 2>&1 | tail -1)
-            printf '| %s | %s | `%s` |\n' "$label" "$result" "$(head -c 80 /tmp/b | tr '\n\r|' '   ')"
-          }
-          {
-            echo ""
-            echo "### Will SEC XBRL answer with a declared contact?"
-            echo ""
-            echo "| user agent | code, size | first bytes |"
-            echo "|---|---|---|"
-            try "contact email, SEC's documented form" -A "newsCockpit 59179625+fynken@users.noreply.github.com"
-            try "name and email, no URL" -A "fynken 59179625+fynken@users.noreply.github.com"
-            try "browser string" -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-            try "with Accept and Host headers" -A "newsCockpit 59179625+fynken@users.noreply.github.com" -H "Accept: application/json" -H "Accept-Encoding: gzip, deflate"
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Refresh

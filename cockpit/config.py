@@ -65,6 +65,9 @@ class Tile:
             return f"https://finance.yahoo.com/quote/{self.symbol}"
         if self.provider == "coingecko" and self.symbol:
             return f"https://www.coingecko.com/en/coins/{self.symbol}"
+        if self.provider == "sec" and self.symbol:
+            cik = self.symbol.split("/")[0].split("+")[0]
+            return f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}"
         if self.provider == "fred" and self.symbol:
             return f"https://fred.stlouisfed.org/series/{self.symbol}"
         if self.provider == "stooq" and self.symbol:

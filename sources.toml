@@ -17,6 +17,11 @@
 #                the last path segment of https://www.cnbc.com/quotes/<symbol>
 #   stooq      — stooq.com CSV endpoint. `symbol` e.g. "eurusd", "^spx".
 #   frankfurter— ECB reference rates (FX only). `symbol` e.g. "USD/CHF".
+#   sec        — company facts from SEC XBRL filings, no API key. `symbol` is
+#                "CIK[+CIK…]/Tag[|Tag…]": several CIKs to sum an industry
+#                aggregate, several tags because filers label the same line
+#                differently. Quarterly; `transform` is not used, the provider
+#                always reports a trailing twelve months.
 #   fred       — St. Louis Fed series, monthly or daily. `symbol` is the series
 #                id from https://fred.stlouisfed.org/series/<id>. No API key.
 #                `transform = "yoy"` reports the percent change against the
@@ -197,19 +202,13 @@ good_when = "neutral"
 # Chinese frontier performance per dollar of tokens. Only some of them can be
 # fetched, and the board carries only those. What is missing and why:
 #
-#   Nvidia revenue, hyperscaler capex and FCF are filing data. SEC XBRL has
-#   all three keyless, but returns 403 to this runner — see the AI source
-#   probe in the workflow. Until that is solved these tiles do not exist,
-#   rather than existing full of estimates.
-#
 #   "$ per token" has no machine-readable public source at all: model prices
 #   move by blog post and benchmark scores live in leaderboards with no stable
 #   API. A tile for it would be a number somebody typed, which is the one
 #   thing this board will not show.
 #
-# What is here instead is the market's read on the same question, which is
-# genuinely fetchable: the AI trade's leadership, and the credit conditions
-# the capex depends on.
+# Everything else is here: the filings themselves via SEC XBRL, the market's
+# read on the trade, and the credit conditions the capex depends on.
 
 [[tile]]
 key          = "nvda"
@@ -266,6 +265,54 @@ unit      = "%"
 decimals  = 2
 good_when = "down"
 note      = "ICE BofA US corporate option-adjusted spread — where the hyperscalers themselves borrow. Also not AI-specific."
+
+[[tile]]
+key      = "nvda_revenue"
+label    = "Nvidia Revenue (TTM)"
+group    = "AI Bubble"
+provider = "sec"
+symbol   = "1045810/RevenueFromContractWithCustomerExcludingAssessedTax|Revenues"
+prefix   = "$"
+unit     = " bn"
+scale    = 1e-9
+decimals = 1
+note     = "Trailing twelve months, summed from the quarters Nvidia has actually filed. The demand side of the AI trade: this is the revenue the capex turns into."
+
+[[tile]]
+key      = "hyper_capex"
+label    = "Hyperscaler Capex (TTM)"
+group    = "AI Bubble"
+provider = "sec"
+symbol   = "789019+1652044+1018724+1326801/PaymentsToAcquirePropertyPlantAndEquipment|PaymentsToAcquireProductiveAssets"
+prefix   = "$"
+unit     = " bn"
+scale    = 1e-9
+decimals = 1
+good_when = "neutral"
+note     = "Microsoft, Alphabet, Amazon and Meta combined, trailing twelve months, from their cash flow statements. The spending itself — the number the whole question turns on."
+
+[[tile]]
+key      = "hyper_ocf"
+label    = "Hyperscaler Cash Flow (TTM)"
+group    = "AI Bubble"
+provider = "sec"
+symbol   = "789019+1652044+1018724+1326801/NetCashProvidedByUsedInOperatingActivities"
+prefix   = "$"
+unit     = " bn"
+scale    = 1e-9
+decimals = 1
+note     = "The same four companies' cash from operations. What the capex is being funded out of, before it has to be funded with debt."
+
+[[tile]]
+key       = "capex_intensity"
+label     = "Capex ÷ Cash Flow"
+group     = "AI Bubble"
+provider  = "derived"
+expr      = "hyper_capex / hyper_ocf * 100"
+unit      = "%"
+decimals  = 1
+good_when = "neutral"
+note      = "The share of the hyperscalers' operating cash flow going into property and equipment. The closest thing here to a single bubble gauge: below roughly half is a business reinvesting, and a number climbing toward and past 100% is a build being financed by something other than the cash the business throws off. Both legs come from the filings, so it moves four times a year, not daily."
 
 # ── Macro ──────────────────────────────────────────────────────────────────
 #

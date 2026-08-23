@@ -404,6 +404,132 @@ def raw_fred(symbol: str, rows: int = 15) -> str:
     return "\n".join(f"{day},{value}" for day, value in _fred_observations(symbol)[-rows:])
 
 
+
+# ── SEC XBRL (company facts from the filings) ──────────────────────────────
+
+# data.sec.gov serves every filed XBRL fact, keyless. It wants the browser
+# user agent — the exact opposite of FRED, which hangs on it. SEC's own access
+# policy asks for a contact email instead, and a contact email gets 403; the
+# Chrome string gets 200. Measured, not assumed. See the AI source probe.
+SEC_CONCEPT = "https://data.sec.gov/api/xbrl/companyconcept/CIK{cik:0>10}/us-gaap/{tag}.json"
+
+#: A quarter, in days, generously bounded — filers' quarters run 89 to 95 days.
+SEC_QUARTER = (80, 100)
+#: A fiscal year, likewise.
+SEC_YEAR = (350, 380)
+
+
+def _sec_periods(cik: str, tag: str) -> list[dict]:
+    """Every USD observation for one company and one tag, newest last.
+
+    Deduplicated by reporting period: the same quarter is restated across
+    later filings, and the most recently filed version is the one to keep.
+    """
+    payload = _get_json(SEC_CONCEPT.format(cik=cik, tag=tag))
+    observations = (payload.get("units") or {}).get("USD") or []
+    if not observations:
+        raise ProviderError(f"no USD facts for CIK {cik} tag {tag}")
+
+    best: dict[tuple, dict] = {}
+    for row in observations:
+        start, end, value = row.get("start"), row.get("end"), row.get("val")
+        if not start or not end or value is None:
+            continue
+        period = (start, end)
+        if period not in best or row.get("filed", "") > best[period].get("filed", ""):
+            best[period] = row
+    return sorted(best.values(), key=lambda r: r["end"])
+
+
+def _span_days(row: dict) -> int:
+    start = datetime.fromisoformat(row["start"])
+    return (datetime.fromisoformat(row["end"]) - start).days
+
+
+def _sec_quarters(cik: str, tag: str) -> list[tuple[str, float]]:
+    """[(period_end, value), …] of discrete quarters, newest last.
+
+    Most filers report Q1–Q3 on 10-Qs and only a full year on the 10-K, so the
+    fourth quarter has to be recovered as the year minus the three quarters
+    inside it. That is arithmetic on reported figures, not an estimate — and
+    where the pieces are missing this returns nothing for that quarter rather
+    than interpolating one.
+    """
+    periods = _sec_periods(cik, tag)
+    quarters = {row["end"]: float(row["val"]) for row in periods
+                if SEC_QUARTER[0] <= _span_days(row) <= SEC_QUARTER[1]}
+
+    for row in periods:
+        if not SEC_YEAR[0] <= _span_days(row) <= SEC_YEAR[1] or row["end"] in quarters:
+            continue
+        inside = [value for end, value in quarters.items() if row["start"] < end < row["end"]]
+        if len(inside) == 3:
+            quarters[row["end"]] = float(row["val"]) - sum(inside)
+
+    return sorted(quarters.items())
+
+
+def fetch_sec(tile) -> Quote:
+    """One or more companies' filings, summed.
+
+    `symbol` is "CIK[+CIK…]/tag[|tag…]" — several companies so a tile can hold
+    an industry aggregate, and several tags because filers label the same line
+    differently (Amazon's capex is PaymentsToAcquireProductiveAssets, Microsoft's
+    is PaymentsToAcquirePropertyPlantAndEquipment).
+    """
+    try:
+        companies, tags = tile.symbol.split("/")
+    except ValueError as exc:
+        raise ProviderError(
+            f"sec symbol must look like 'CIK/Tag', got '{tile.symbol}'"
+        ) from exc
+
+    per_company: list[list[tuple[str, float]]] = []
+    matched_tags: list[str] = []
+    for cik in companies.split("+"):
+        errors = []
+        for tag in tags.split("|"):
+            try:
+                quarters = _sec_quarters(cik.strip(), tag.strip())
+            except ProviderError as exc:
+                errors.append(f"{tag}: {exc}")
+                continue
+            if quarters:
+                matched_tags.append(tag.strip())
+                per_company.append(quarters)
+                break
+        else:
+            raise ProviderError(f"CIK {cik}: no tag produced facts ({'; '.join(errors)})")
+
+    # Align on the shortest history, so a company that reports later does not
+    # drag the aggregate down by contributing nothing to the newest quarter.
+    depth = min(len(q) for q in per_company)
+    if depth < 5:
+        raise ProviderError(f"only {depth} comparable quarters across {len(per_company)} filers")
+
+    def total(offset: int) -> float:
+        """Trailing four quarters, `offset` quarters back from the newest."""
+        return sum(
+            sum(value for _, value in company[-4 - offset: len(company) - offset])
+            for company in per_company
+        )
+
+    quote = Quote(value=total(0) * tile.scale, prev_close=total(1) * tile.scale)
+    quote.as_of = min(company[-1][0] for company in per_company)
+    quote.series = []
+    for back in range(min(depth - 4, 12), -1, -1):
+        ends = [company[-1 - back][0] for company in per_company]
+        quote.series.append([min(ends), total(back) * tile.scale])
+    quote.instrument_name = tile.label
+    quote.field_map["_provider"] = "sec/companyconcept"
+    quote.field_map["_filers"] = str(len(per_company))
+    quote.field_map["_quarters"] = str(depth)
+    # Which line item each filer actually reported under, so a tile showing a
+    # surprising number can be traced to the tag it was built from.
+    quote.field_map["_tags"] = ",".join(sorted(set(matched_tags)))
+    return quote.derive_missing()
+
+
 # ── CoinGecko ──────────────────────────────────────────────────────────────
 
 
@@ -437,6 +563,7 @@ def fetch_coingecko(tile) -> Quote:
 PROVIDERS = {
     "cnbc": fetch_cnbc,
     "fred": fetch_fred,
+    "sec": fetch_sec,
     "yahoo": fetch_yahoo,
     "stooq": fetch_stooq,
     "frankfurter": fetch_frankfurter,

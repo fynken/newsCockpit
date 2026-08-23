@@ -106,6 +106,7 @@ it on every CI run:
 |---|---|---|---|
 | cnbc | `quote.cnbc.com` | **200** | **403** — Akamai bot-block |
 | coingecko | `api.coingecko.com` | **200** | **200** |
+| sec | `data.sec.gov` | **200** — but only for a client that *does* claim to be a browser | blocked |
 | fred | `fred.stlouisfed.org` | **200** — but only for a client that does not claim to be a browser | blocked |
 | yahoo | `query1.finance.yahoo.com` | **429** | **429** — throttled by IP |
 | frankfurter | `api.frankfurter.app` | 301 → `.dev`, followed | 301 → `.dev`, **not allowed** |
@@ -122,6 +123,12 @@ expect gets an HTTP/2 stream reset, or a hang until timeout over HTTP/1.1;
 sending it a plain, honest agent gets 200 and 25KB in under two tenths of a
 second. So `providers.PLAIN_AGENT` is what the fred provider identifies as, and
 a test pins that the header it gets never contains "Chrome".
+
+SEC is the mirror image, which is why the rule is per-provider and not a
+setting. Its published access policy asks callers to declare a contact email —
+and a contact email gets 403, twice, in two forms. The Chrome string gets 200.
+Both of those were measured on a runner; neither is guessable, and the two
+providers would break each other if either header were made global.
 
 ### The relay path
 
@@ -215,6 +222,37 @@ python3 -m unittest discover -s tests -v
 
 The provider tests run against recorded payload *shapes*, not the live
 endpoints, so they stay meaningful on a host with no market-data access.
+
+## The AI Bubble tiles
+
+Five indicators are worth watching on an AI-capex board. Four are here:
+
+| Tile | Source | Moves |
+|---|---|---|
+| `hyper_capex` | SEC XBRL, four filers summed | quarterly |
+| `hyper_ocf` | SEC XBRL, same four | quarterly |
+| `capex_intensity` | derived, `hyper_capex / hyper_ocf * 100` | quarterly |
+| `nvda_revenue` | SEC XBRL | quarterly |
+| `hy_oas`, `ig_oas` | FRED ICE BofA | daily |
+| `nvda`, `smh`, `semis_vs_spx` | CNBC | live |
+
+`capex_intensity` is the closest thing to a single gauge: the share of the
+hyperscalers' operating cash flow going into property and equipment. Both legs
+come from the filings, so it steps four times a year rather than drifting daily.
+
+The fifth — Chinese frontier performance per dollar of tokens — is **not here
+and cannot be**. Model prices move by blog post and benchmark results live in
+leaderboards with no stable API. A tile for it would be a number somebody
+typed, which is the one thing this board will not show.
+
+The SEC provider does three things worth knowing about. It sums several
+filers, because "hyperscaler capex" is not a line item anyone reports. It tries
+several tags per company, because Amazon books capex as
+`PaymentsToAcquireProductiveAssets` where Microsoft uses
+`PaymentsToAcquirePropertyPlantAndEquipment`. And it recovers the fourth
+quarter as the fiscal year minus the three quarters inside it, because most
+filers only report Q4 inside the 10-K — arithmetic on reported figures, and
+where a piece is missing the tile goes blank rather than being interpolated.
 
 ## The Macro tiles
 

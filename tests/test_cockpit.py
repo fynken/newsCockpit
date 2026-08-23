@@ -14,7 +14,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from cockpit import config, render  # noqa: E402
 from cockpit.fetch import evaluate  # noqa: E402
-from cockpit.providers import ProviderError, Quote, _num, fetch_cnbc, fetch_fred  # noqa: E402
+from cockpit.providers import (  # noqa: E402
+    ProviderError, Quote, _num, fetch_cnbc, fetch_fred, fetch_sec,
+)
 
 
 class FakeTile:
@@ -174,6 +176,101 @@ class FredSeries(unittest.TestCase):
     def test_an_all_missing_series_raises(self):
         with self.assertRaises(ProviderError):
             self._fetch("observation_date,X\n2026-01-01,.\n")
+
+
+class SecFilings(unittest.TestCase):
+    """Filers report Q1-Q3 on 10-Qs and only a full year on the 10-K, restate
+    quarters in later filings, and label the same line differently from each
+    other. A trailing-twelve-month figure has to survive all three."""
+
+    class Tile:
+        provider, key, decimals, label = "sec", "capex", 2, "Capex"
+        symbol, transform, scale = "", "", 1.0
+
+    def _fetch(self, concepts, symbol, scale=1.0):
+        """concepts: {(cik, tag): [(start, end, val, filed), …]}"""
+        from cockpit import providers
+
+        tile = self.Tile()
+        tile.symbol, tile.scale = symbol, scale
+
+        def fake_get_json(url, headers=None):
+            cik = url.split("/CIK")[1][:10].lstrip("0")
+            tag = url.rsplit("/", 1)[1].removesuffix(".json")
+            rows = concepts.get((cik, tag))
+            if rows is None:
+                raise ProviderError(f"no USD facts for CIK {cik} tag {tag}")
+            return {"cik": int(cik), "units": {"USD": [
+                {"start": s, "end": e, "val": v, "filed": f} for s, e, v, f in rows]}}
+
+        original = providers._get_json
+        providers._get_json = fake_get_json
+        try:
+            return fetch_sec(tile)
+        finally:
+            providers._get_json = original
+
+    @staticmethod
+    def _quarters(values, start_year=2024):
+        """Consecutive 91-day quarters, oldest first."""
+        rows, month = [], 0
+        for value in values:
+            y0, m0 = start_year + month // 12, month % 12 + 1
+            month += 3
+            y1, m1 = start_year + month // 12, month % 12 + 1
+            rows.append((f"{y0}-{m0:02d}-01", f"{y1}-{m1:02d}-01", value, "2026-01-01"))
+        return rows
+
+    def test_ttm_sums_the_last_four_quarters(self):
+        rows = self._quarters([10.0, 20.0, 30.0, 40.0, 50.0, 60.0])
+        quote = self._fetch({("789019", "Capex"): rows}, "789019/Capex")
+        self.assertAlmostEqual(quote.value, 30 + 40 + 50 + 60)
+        self.assertAlmostEqual(quote.prev_close, 20 + 30 + 40 + 50)
+
+    def test_several_filers_are_summed(self):
+        rows = self._quarters([1.0, 2.0, 3.0, 4.0, 5.0])
+        quote = self._fetch({("789019", "Capex"): rows, ("1018724", "Capex"): rows},
+                            "789019+1018724/Capex")
+        self.assertAlmostEqual(quote.value, 2 * (2 + 3 + 4 + 5))
+        self.assertEqual(quote.field_map["_filers"], "2")
+
+    def test_it_falls_through_to_the_tag_a_filer_actually_uses(self):
+        """Amazon books capex under a different line item than Microsoft."""
+        rows = self._quarters([1.0, 2.0, 3.0, 4.0, 5.0])
+        quote = self._fetch({("1018724", "PaymentsToAcquireProductiveAssets"): rows},
+                            "1018724/PaymentsToAcquirePropertyPlantAndEquipment|"
+                            "PaymentsToAcquireProductiveAssets")
+        self.assertAlmostEqual(quote.value, 14.0)
+        self.assertEqual(quote.field_map["_tags"], "PaymentsToAcquireProductiveAssets")
+
+    def test_a_missing_fourth_quarter_comes_from_the_annual_figure(self):
+        rows = self._quarters([10.0, 20.0, 30.0, 40.0, 50.0])
+        # Drop the quarter ending 2025-01-01 and give the year that contains it.
+        rows = [r for r in rows if r[1] != "2025-01-01"]
+        rows.append(("2024-01-01", "2025-01-01", 10 + 20 + 30 + 99.0, "2026-01-01"))
+        quote = self._fetch({("789019", "Capex"): rows}, "789019/Capex")
+        # Q4 recovered as the year minus its three reported quarters (99), then
+        # the trailing four are Q2, Q3, that recovered Q4, and the next quarter.
+        self.assertAlmostEqual(quote.value, 20 + 30 + 99.0 + 50.0)
+
+    def test_a_restated_quarter_takes_the_later_filing(self):
+        rows = self._quarters([10.0, 20.0, 30.0, 40.0, 50.0])
+        restated = (rows[-1][0], rows[-1][1], 99.0, "2026-06-01")
+        quote = self._fetch({("789019", "Capex"): rows + [restated]}, "789019/Capex")
+        self.assertAlmostEqual(quote.value, 20 + 30 + 40 + 99.0)
+
+    def test_scale_reaches_the_reported_figure(self):
+        rows = self._quarters([1e9, 2e9, 3e9, 4e9, 5e9])
+        quote = self._fetch({("789019", "Capex"): rows}, "789019/Capex", scale=1e-9)
+        self.assertAlmostEqual(quote.value, 14.0)
+
+    def test_too_little_history_raises_rather_than_part_summing(self):
+        with self.assertRaises(ProviderError):
+            self._fetch({("789019", "Capex"): self._quarters([1.0, 2.0])}, "789019/Capex")
+
+    def test_a_malformed_symbol_raises(self):
+        with self.assertRaises(ProviderError):
+            self._fetch({}, "789019")
 
 
 class Derivation(unittest.TestCase):
