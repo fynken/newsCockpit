@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T20:00:35+00:00",
+  "generated_at": "2026-08-23T20:11:17+00:00",
   "title": "Finance Cockpit",
-  "tagline": "Rates, risk and the dollar \u2014 one screen",
+  "tagline": "The AI build, and the rates and credit paying for it",
   "timezone": "Europe/Zurich",
   "stale_after_minutes": 90,
   "groups": [
@@ -23,9 +23,9 @@
       "unit": "%",
       "prefix": "",
       "decimals": 3,
-      "featured": true,
+      "featured": false,
       "good_when": "neutral",
-      "note": "The cockpit's anchor rate \u2014 discounting everything else on this board.",
+      "note": "The anchor rate \u2014 discounting everything else on this board, including the cash flows the AI build is being valued on.",
       "origin": "live",
       "error": null,
       "source_note": "",
@@ -83,7 +83,7 @@
           4.736
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:29+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -185,7 +185,7 @@
           4.24
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:29+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -287,7 +287,7 @@
           5.276
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:30+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -338,7 +338,7 @@
         ]
       ],
       "value": 1.2151155781387075,
-      "fetched_at": "2026-08-23T20:00:29+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8135957880329041,
       "change": 0.4015197901058034,
@@ -420,7 +420,7 @@
           7674.37
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:30+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -522,7 +522,7 @@
           26180.455
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:31+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -624,7 +624,7 @@
           15.13
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:31+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -740,9 +740,13 @@
         [
           "2026-08-23T20:00:35+00:00",
           1.1673
+        ],
+        [
+          "2026-08-23T20:11:17+00:00",
+          1.1673
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:31+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -764,7 +768,7 @@
       "day_low": 1.1676,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-23T16:00:00.000-0400",
+      "as_of": "2026-08-23T16:07:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -848,7 +852,7 @@
           0.8008
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:31+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -950,7 +954,7 @@
           4680.6
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:32+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1050,7 +1054,7 @@
           87.06
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:32+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1098,7 +1102,7 @@
           214.72
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:32+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1148,7 +1152,7 @@
           560.42
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:33+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1199,7 +1203,7 @@
         ]
       ],
       "value": 73.02488673337355,
-      "fetched_at": "2026-08-23T20:00:30+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "as_of": "2026-08-21",
       "prev_close": 73.63410791031728,
       "change": -0.6092211769437341,
@@ -1369,7 +1373,7 @@
           2.75
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:33+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -1551,7 +1555,7 @@
           0.82
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:33+00:00",
+      "fetched_at": "2026-08-23T20:11:14+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -1641,7 +1645,7 @@
           253.491
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:33+00:00",
+      "fetched_at": "2026-08-23T20:11:15+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -1729,7 +1733,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:34+00:00",
+      "fetched_at": "2026-08-23T20:11:16+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -1805,7 +1809,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:34+00:00",
+      "fetched_at": "2026-08-23T20:11:16+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -1837,7 +1841,7 @@
       "unit": "%",
       "prefix": "",
       "decimals": 1,
-      "featured": false,
+      "featured": true,
       "good_when": "neutral",
       "note": "The share of the hyperscalers' operating cash flow going into property and equipment. The closest thing here to a single bubble gauge: below roughly half is a business reinvesting, and a number climbing toward and past 100% is a build being financed by something other than the cash the business throws off. Both legs come from the filings, so it moves four times a year, not daily.",
       "origin": "live",
@@ -1854,7 +1858,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-23T20:00:34+00:00",
+      "fetched_at": "2026-08-23T20:11:16+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -2024,7 +2028,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:34+00:00",
+      "fetched_at": "2026-08-23T20:11:16+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -2207,7 +2211,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-23T20:00:35+00:00",
+      "fetched_at": "2026-08-23T20:11:17+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
