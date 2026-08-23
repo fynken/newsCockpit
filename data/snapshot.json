@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:50:16+00:00",
+  "generated_at": "2026-08-23T20:00:35+00:00",
   "title": "Finance Cockpit",
   "tagline": "Rates, risk and the dollar \u2014 one screen",
   "timezone": "Europe/Zurich",
@@ -83,7 +83,7 @@
           4.736
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:13+00:00",
+      "fetched_at": "2026-08-23T20:00:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -185,7 +185,7 @@
           4.24
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:13+00:00",
+      "fetched_at": "2026-08-23T20:00:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -287,7 +287,7 @@
           5.276
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:13+00:00",
+      "fetched_at": "2026-08-23T20:00:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -338,7 +338,7 @@
         ]
       ],
       "value": 1.2151155781387075,
-      "fetched_at": "2026-08-23T19:50:13+00:00",
+      "fetched_at": "2026-08-23T20:00:29+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8135957880329041,
       "change": 0.4015197901058034,
@@ -420,7 +420,7 @@
           7674.37
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -522,7 +522,7 @@
           26180.455
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -624,7 +624,7 @@
           15.13
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -736,9 +736,13 @@
         [
           "2026-08-23T19:50:16+00:00",
           1.1673
+        ],
+        [
+          "2026-08-23T20:00:35+00:00",
+          1.1673
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -757,10 +761,10 @@
       "prev_close": 1.1679,
       "day_open": 1.1671,
       "day_high": 1.1683,
-      "day_low": 1.1677,
+      "day_low": 1.1676,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-23T15:49:00.000-0400",
+      "as_of": "2026-08-23T16:00:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -844,7 +848,7 @@
           0.8008
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -946,7 +950,7 @@
           4680.6
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:32+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1046,7 +1050,7 @@
           87.06
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:32+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1094,7 +1098,7 @@
           214.72
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1144,7 +1148,7 @@
           560.42
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:15+00:00",
+      "fetched_at": "2026-08-23T20:00:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1195,7 +1199,7 @@
         ]
       ],
       "value": 73.02488673337355,
-      "fetched_at": "2026-08-23T19:50:14+00:00",
+      "fetched_at": "2026-08-23T20:00:30+00:00",
       "as_of": "2026-08-21",
       "prev_close": 73.63410791031728,
       "change": -0.6092211769437341,
@@ -1365,7 +1369,7 @@
           2.75
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:15+00:00",
+      "fetched_at": "2026-08-23T20:00:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -1547,7 +1551,7 @@
           0.82
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:15+00:00",
+      "fetched_at": "2026-08-23T20:00:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -1571,7 +1575,7 @@
       "label": "Nvidia Revenue (TTM)",
       "group": "AI Bubble",
       "provider": "sec",
-      "symbol": "1045810/RevenueFromContractWithCustomerExcludingAssessedTax|Revenues",
+      "symbol": "1045810/Revenues|RevenueFromContractWithCustomerExcludingAssessedTax",
       "expr": "",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810",
       "unit": " bn",
@@ -1585,59 +1589,75 @@
       "source_note": "",
       "series": [
         [
-          "2018-01-28",
-          9.714
+          "2023-04-30",
+          25.878
         ],
         [
-          "2018-04-29",
-          10.984
+          "2023-07-30",
+          32.681000000000004
         ],
         [
-          "2018-07-29",
-          11.877
+          "2023-10-29",
+          44.870000000000005
         ],
         [
-          "2018-10-28",
-          12.422
+          "2024-01-28",
+          60.922000000000004
         ],
         [
-          "2019-01-27",
-          11.716000000000001
+          "2024-04-28",
+          79.774
         ],
         [
-          "2019-04-28",
-          10.729000000000001
+          "2024-07-28",
+          96.307
         ],
         [
-          "2019-07-28",
-          10.185
+          "2024-10-27",
+          113.269
         ],
         [
-          "2019-10-27",
-          10.018
+          "2025-01-26",
+          130.497
         ],
         [
-          "2020-01-26",
-          10.918000000000001
+          "2025-04-27",
+          148.51500000000001
+        ],
+        [
+          "2025-07-27",
+          165.21800000000002
+        ],
+        [
+          "2025-10-26",
+          187.14200000000002
+        ],
+        [
+          "2026-01-25",
+          215.93800000000002
+        ],
+        [
+          "2026-04-26",
+          253.491
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:15+00:00",
+      "fetched_at": "2026-08-23T20:00:33+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
-        "_quarters": "12",
-        "_tags": "RevenueFromContractWithCustomerExcludingAssessedTax"
+        "_quarters": "71",
+        "_tags": "Revenues"
       },
-      "value": 10.918000000000001,
-      "change": 0.9000000000000004,
-      "change_pct": 8.983829107606311,
-      "prev_close": 10.018,
+      "value": 253.491,
+      "change": 37.553,
+      "change_pct": 17.390639905898915,
+      "prev_close": 215.93800000000002,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": null,
       "year_low": null,
-      "as_of": "2020-01-26",
+      "as_of": "2026-04-26",
       "market_status": "",
       "instrument_name": "Nvidia Revenue (TTM)",
       "stale": false
@@ -1661,71 +1681,71 @@
       "source_note": "",
       "series": [
         [
-          "2014-06-30",
-          62.252
-        ],
-        [
-          "2014-09-30",
-          65.703
-        ],
-        [
-          "2014-12-31",
-          72.623
-        ],
-        [
           "2015-03-31",
-          79.058
-        ],
-        [
-          "2015-06-30",
-          85.99600000000001
-        ],
-        [
-          "2015-09-30",
-          93.735
-        ],
-        [
-          "2015-12-31",
-          102.662
+          112.69600000000001
         ],
         [
           "2016-03-31",
-          113.2
-        ],
-        [
-          "2016-06-30",
-          122.03800000000001
-        ],
-        [
-          "2016-09-30",
-          146.131
-        ],
-        [
-          "2016-12-31",
-          180.851
+          113.80300000000001
         ],
         [
           "2017-03-31",
-          239.70000000000002
+          121.177
+        ],
+        [
+          "2018-03-31",
+          133.98600000000002
+        ],
+        [
+          "2019-03-31",
+          151.142
+        ],
+        [
+          "2020-03-31",
+          172.31
+        ],
+        [
+          "2021-03-31",
+          191.16600000000003
+        ],
+        [
+          "2022-03-31",
+          215.959
+        ],
+        [
+          "2023-03-31",
+          236.774
+        ],
+        [
+          "2024-03-31",
+          271.909
+        ],
+        [
+          "2025-03-31",
+          325.117
+        ],
+        [
+          "2026-03-31",
+          405.309
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:15+00:00",
+      "fetched_at": "2026-08-23T20:00:34+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
         "_quarters": "15",
-        "_tags": "PaymentsToAcquirePropertyPlantAndEquipment"
+        "_tags": "PaymentsToAcquireProductiveAssets,PaymentsToAcquirePropertyPlantAndEquipment"
       },
-      "value": 239.70000000000002,
-      "change": 58.84900000000002,
-      "change_pct": 32.54004677884005,
-      "prev_close": 180.851,
+      "value": 405.309,
+      "change": 80.19200000000001,
+      "change_pct": 24.66558192896711,
+      "prev_close": 325.117,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": null,
       "year_low": null,
-      "as_of": "2017-03-31",
+      "as_of": "2026-03-31",
       "market_status": "",
       "instrument_name": "Hyperscaler Capex (TTM)",
       "stale": false
@@ -1785,7 +1805,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:16+00:00",
+      "fetched_at": "2026-08-23T20:00:34+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -1827,14 +1847,18 @@
         [
           "2026-08-23T19:50:16+00:00",
           42.19097356067527
+        ],
+        [
+          "2026-08-23T20:00:35+00:00",
+          71.34076471799638
         ]
       ],
-      "value": 42.19097356067527,
-      "fetched_at": "2026-08-23T19:50:15+00:00",
-      "as_of": "2017-03-31",
-      "prev_close": 35.909425750202026,
-      "change": 6.281547810473242,
-      "change_pct": 17.49275483871502,
+      "value": 71.34076471799638,
+      "fetched_at": "2026-08-23T20:00:34+00:00",
+      "as_of": "2026-03-31",
+      "prev_close": 64.5546044623941,
+      "change": 6.786160255602283,
+      "change_pct": 10.512279196994417,
       "stale": false
     },
     {
@@ -2000,7 +2024,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:16+00:00",
+      "fetched_at": "2026-08-23T20:00:34+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -2183,7 +2207,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-23T19:50:16+00:00",
+      "fetched_at": "2026-08-23T20:00:35+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
