@@ -14,10 +14,15 @@ name: Refresh cockpit
 on:
   workflow_dispatch:
   push:
-    # Only a change to this file re-runs the probe — the data commit this
-    # workflow makes itself must not trigger another run.
+    # Anything that changes what the board says: the fetcher, the tile list,
+    # the workflow. Deliberately not data/ or dist/ — those are what this
+    # workflow itself commits, and listing them would make every run trigger
+    # the next one forever.
     paths:
       - .github/workflows/refresh.yml
+      - cockpit/**
+      - sources.toml
+      - refresh.sh
   schedule:
     # Weekdays 08:00, 15:00 and 22:30 Zurich (CEST = UTC+2). GitHub only runs
     # scheduled workflows from the default branch, so these stay dormant until
