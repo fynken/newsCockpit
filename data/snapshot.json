@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:36:06+00:00",
+  "generated_at": "2026-08-23T19:42:33+00:00",
   "title": "Finance Cockpit",
   "tagline": "Rates, risk and the dollar \u2014 one screen",
   "timezone": "Europe/Zurich",
@@ -8,6 +8,7 @@
     "Rates",
     "Equities",
     "Currencies & Commodities",
+    "AI Bubble",
     "Macro"
   ],
   "tiles": [
@@ -82,7 +83,7 @@
           4.736
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:04+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -184,7 +185,7 @@
           4.24
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:04+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -286,7 +287,7 @@
           5.276
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:04+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -337,7 +338,7 @@
         ]
       ],
       "value": 1.2151155781387075,
-      "fetched_at": "2026-08-23T19:36:04+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8135957880329041,
       "change": 0.4015197901058034,
@@ -419,7 +420,7 @@
           7674.37
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:04+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -521,7 +522,7 @@
           26180.455
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:05+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -623,7 +624,7 @@
           15.13
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:05+00:00",
+      "fetched_at": "2026-08-23T19:42:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -727,11 +728,17 @@
         [
           "2026-08-23T19:36:06+00:00",
           1.1679
+        ],
+        [
+          "2026-08-23T19:42:33+00:00",
+          1.1673
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:05+00:00",
+      "fetched_at": "2026-08-23T19:42:32+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -740,16 +747,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1679,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 1.1673,
+      "change": -0.0006,
+      "change_pct": -0.0514,
       "prev_close": 1.1679,
       "day_open": 1.1671,
       "day_high": 1.1683,
-      "day_low": 1.1684,
+      "day_low": 1.168,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-23T15:30:00.000-0400",
+      "as_of": "2026-08-23T15:40:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -833,7 +840,7 @@
           0.8008
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:05+00:00",
+      "fetched_at": "2026-08-23T19:42:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -935,7 +942,7 @@
           4680.6
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:05+00:00",
+      "fetched_at": "2026-08-23T19:42:32+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1035,7 +1042,7 @@
           87.06
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:06+00:00",
+      "fetched_at": "2026-08-23T19:42:32+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1058,6 +1065,501 @@
       "as_of": "2026-08-22",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
+      "stale": false
+    },
+    {
+      "key": "nvda",
+      "label": "Nvidia",
+      "group": "AI Bubble",
+      "provider": "cnbc",
+      "symbol": "NVDA",
+      "expr": "",
+      "url": "https://www.cnbc.com/quotes/NVDA/",
+      "unit": "",
+      "prefix": "$",
+      "decimals": 2,
+      "featured": false,
+      "good_when": "up",
+      "note": "The pure-play on AI capex: almost every dollar of hyperscaler datacentre spend passes through it.",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
+      "series": [
+        [
+          "2026-08-23T19:42:33+00:00",
+          214.72
+        ]
+      ],
+      "fetched_at": "2026-08-23T19:42:32+00:00",
+      "field_map": {
+        "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": "NVDA"
+      },
+      "value": 214.72,
+      "change": -2.13,
+      "change_pct": -0.98,
+      "prev_close": 216.85,
+      "day_open": 218.42,
+      "day_high": 218.74,
+      "day_low": 214.5,
+      "year_high": 236.54,
+      "year_low": 164.07,
+      "as_of": "2026-08-21",
+      "market_status": "POST_MKT",
+      "instrument_name": "NVIDIA Corporation",
+      "stale": false
+    },
+    {
+      "key": "smh",
+      "label": "Semiconductors",
+      "group": "AI Bubble",
+      "provider": "cnbc",
+      "symbol": "SMH",
+      "expr": "",
+      "url": "https://www.cnbc.com/quotes/SMH/",
+      "unit": "",
+      "prefix": "$",
+      "decimals": 2,
+      "featured": false,
+      "good_when": "up",
+      "note": "VanEck Semiconductor ETF \u2014 the AI supply chain in one instrument.",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
+      "series": [
+        [
+          "2026-08-23T19:42:33+00:00",
+          560.42
+        ]
+      ],
+      "fetched_at": "2026-08-23T19:42:32+00:00",
+      "field_map": {
+        "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": "SMH"
+      },
+      "value": 560.42,
+      "change": -2.23,
+      "change_pct": -0.4,
+      "prev_close": 562.65,
+      "day_open": 569.44,
+      "day_high": 569.44,
+      "day_low": 556.1,
+      "year_high": 671.83,
+      "year_low": 281.74,
+      "as_of": "2026-08-21",
+      "market_status": "POST_MKT",
+      "instrument_name": "VanEck Semiconductor ETF",
+      "stale": false
+    },
+    {
+      "key": "semis_vs_spx",
+      "label": "Semis vs S&P 500",
+      "group": "AI Bubble",
+      "provider": "derived",
+      "symbol": "",
+      "expr": "smh / spx * 1000",
+      "url": "",
+      "unit": "",
+      "prefix": "",
+      "decimals": 2,
+      "featured": false,
+      "good_when": "neutral",
+      "note": "Semiconductors priced in units of the S&P. A ratio, not an index \u2014 nothing is normalised or weighted, so the only thing it can move on is the AI trade leading or lagging the broad market.",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
+      "series": [
+        [
+          "2026-08-23T19:42:33+00:00",
+          73.02488673337355
+        ]
+      ],
+      "value": 73.02488673337355,
+      "fetched_at": "2026-08-23T19:42:31+00:00",
+      "as_of": "2026-08-21",
+      "prev_close": 73.63410791031728,
+      "change": -0.6092211769437341,
+      "change_pct": -0.827362745652783,
+      "stale": false
+    },
+    {
+      "key": "hy_oas",
+      "label": "High-Yield Credit Spread",
+      "group": "AI Bubble",
+      "provider": "fred",
+      "symbol": "BAMLH0A0HYM2",
+      "expr": "",
+      "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "unit": "%",
+      "prefix": "",
+      "decimals": 2,
+      "featured": false,
+      "good_when": "down",
+      "note": "ICE BofA US high-yield option-adjusted spread. Not AI-specific \u2014 no free public series is \u2014 but the datacentre build is increasingly debt-funded, and this is the price of that debt for the weakest borrowers. It widens before capex plans get cut.",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
+      "series": [
+        [
+          "2026-07-02",
+          2.75
+        ],
+        [
+          "2026-07-03",
+          2.74
+        ],
+        [
+          "2026-07-06",
+          2.72
+        ],
+        [
+          "2026-07-07",
+          2.67
+        ],
+        [
+          "2026-07-08",
+          2.7
+        ],
+        [
+          "2026-07-09",
+          2.7
+        ],
+        [
+          "2026-07-10",
+          2.69
+        ],
+        [
+          "2026-07-13",
+          2.69
+        ],
+        [
+          "2026-07-14",
+          2.72
+        ],
+        [
+          "2026-07-15",
+          2.71
+        ],
+        [
+          "2026-07-16",
+          2.71
+        ],
+        [
+          "2026-07-17",
+          2.73
+        ],
+        [
+          "2026-07-20",
+          2.69
+        ],
+        [
+          "2026-07-21",
+          2.69
+        ],
+        [
+          "2026-07-22",
+          2.68
+        ],
+        [
+          "2026-07-23",
+          2.77
+        ],
+        [
+          "2026-07-24",
+          2.79
+        ],
+        [
+          "2026-07-27",
+          2.81
+        ],
+        [
+          "2026-07-28",
+          2.84
+        ],
+        [
+          "2026-07-29",
+          2.87
+        ],
+        [
+          "2026-07-30",
+          2.84
+        ],
+        [
+          "2026-07-31",
+          2.85
+        ],
+        [
+          "2026-08-03",
+          2.78
+        ],
+        [
+          "2026-08-04",
+          2.73
+        ],
+        [
+          "2026-08-05",
+          2.75
+        ],
+        [
+          "2026-08-06",
+          2.71
+        ],
+        [
+          "2026-08-07",
+          2.7
+        ],
+        [
+          "2026-08-10",
+          2.7
+        ],
+        [
+          "2026-08-11",
+          2.72
+        ],
+        [
+          "2026-08-12",
+          2.71
+        ],
+        [
+          "2026-08-13",
+          2.71
+        ],
+        [
+          "2026-08-14",
+          2.67
+        ],
+        [
+          "2026-08-17",
+          2.7
+        ],
+        [
+          "2026-08-18",
+          2.75
+        ],
+        [
+          "2026-08-19",
+          2.73
+        ],
+        [
+          "2026-08-20",
+          2.75
+        ]
+      ],
+      "fetched_at": "2026-08-23T19:42:32+00:00",
+      "field_map": {
+        "_provider": "fred/fredgraph.csv",
+        "_observations": "787"
+      },
+      "value": 2.75,
+      "change": 0.020000000000000018,
+      "change_pct": 0.7326007326007333,
+      "prev_close": 2.73,
+      "day_open": null,
+      "day_high": null,
+      "day_low": null,
+      "year_high": 2.87,
+      "year_low": 2.67,
+      "as_of": "2026-08-20",
+      "market_status": "",
+      "instrument_name": "BAMLH0A0HYM2",
+      "stale": false
+    },
+    {
+      "key": "ig_oas",
+      "label": "Investment-Grade Spread",
+      "group": "AI Bubble",
+      "provider": "fred",
+      "symbol": "BAMLC0A0CM",
+      "expr": "",
+      "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+      "unit": "%",
+      "prefix": "",
+      "decimals": 2,
+      "featured": false,
+      "good_when": "down",
+      "note": "ICE BofA US corporate option-adjusted spread \u2014 where the hyperscalers themselves borrow. Also not AI-specific.",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
+      "series": [
+        [
+          "2026-07-02",
+          0.75
+        ],
+        [
+          "2026-07-03",
+          0.75
+        ],
+        [
+          "2026-07-06",
+          0.75
+        ],
+        [
+          "2026-07-07",
+          0.76
+        ],
+        [
+          "2026-07-08",
+          0.76
+        ],
+        [
+          "2026-07-09",
+          0.76
+        ],
+        [
+          "2026-07-10",
+          0.77
+        ],
+        [
+          "2026-07-13",
+          0.78
+        ],
+        [
+          "2026-07-14",
+          0.79
+        ],
+        [
+          "2026-07-15",
+          0.79
+        ],
+        [
+          "2026-07-16",
+          0.78
+        ],
+        [
+          "2026-07-17",
+          0.79
+        ],
+        [
+          "2026-07-20",
+          0.78
+        ],
+        [
+          "2026-07-21",
+          0.78
+        ],
+        [
+          "2026-07-22",
+          0.78
+        ],
+        [
+          "2026-07-23",
+          0.79
+        ],
+        [
+          "2026-07-24",
+          0.8
+        ],
+        [
+          "2026-07-27",
+          0.81
+        ],
+        [
+          "2026-07-28",
+          0.81
+        ],
+        [
+          "2026-07-29",
+          0.81
+        ],
+        [
+          "2026-07-30",
+          0.8
+        ],
+        [
+          "2026-07-31",
+          0.79
+        ],
+        [
+          "2026-08-03",
+          0.78
+        ],
+        [
+          "2026-08-04",
+          0.78
+        ],
+        [
+          "2026-08-05",
+          0.78
+        ],
+        [
+          "2026-08-06",
+          0.78
+        ],
+        [
+          "2026-08-07",
+          0.78
+        ],
+        [
+          "2026-08-10",
+          0.78
+        ],
+        [
+          "2026-08-11",
+          0.79
+        ],
+        [
+          "2026-08-12",
+          0.79
+        ],
+        [
+          "2026-08-13",
+          0.79
+        ],
+        [
+          "2026-08-14",
+          0.8
+        ],
+        [
+          "2026-08-17",
+          0.81
+        ],
+        [
+          "2026-08-18",
+          0.82
+        ],
+        [
+          "2026-08-19",
+          0.81
+        ],
+        [
+          "2026-08-20",
+          0.82
+        ]
+      ],
+      "fetched_at": "2026-08-23T19:42:33+00:00",
+      "field_map": {
+        "_provider": "fred/fredgraph.csv",
+        "_observations": "786"
+      },
+      "value": 0.82,
+      "change": 0.009999999999999898,
+      "change_pct": 1.2345679012345552,
+      "prev_close": 0.81,
+      "day_open": null,
+      "day_high": null,
+      "day_low": null,
+      "year_high": 0.82,
+      "year_low": 0.75,
+      "as_of": "2026-08-20",
+      "market_status": "",
+      "instrument_name": "BAMLC0A0CM",
       "stale": false
     },
     {
@@ -1223,7 +1725,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:06+00:00",
+      "fetched_at": "2026-08-23T19:42:33+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -1406,7 +1908,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-23T19:36:06+00:00",
+      "fetched_at": "2026-08-23T19:42:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
