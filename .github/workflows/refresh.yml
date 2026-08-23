@@ -89,6 +89,35 @@ jobs:
             echo '```'
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
+      # Temporary: can a runner reach the sources an AI-capex board would need?
+      # SEC XBRL would give Nvidia revenue and hyperscaler capex/cash flow from
+      # the filings themselves; FRED's ICE BofA series give credit spreads.
+      # Neither is reachable from the Claude sandbox, so this is the only place
+      # the question can be answered.
+      - name: AI source probe
+        run: |
+          UA="newsCockpit/1.0 (+https://github.com/fynken/newsCockpit)"
+          try() {
+            label="$1"; url="$2"; shift 2
+            result=$(curl -sS -o /tmp/b -w '%{http_code}, %{size_download}B' --max-time 25 -A "$UA" "$@" "$url" 2>&1 | tail -1)
+            printf '| %s | %s | `%s` |\n' "$label" "$result" "$(head -c 90 /tmp/b | tr '\n\r|' '   ')"
+          }
+          {
+            echo ""
+            echo "### AI-board sources: does a runner get them?"
+            echo ""
+            echo "| source | code, size | first bytes |"
+            echo "|---|---|---|"
+            try "SEC XBRL — NVDA revenue" "https://data.sec.gov/api/xbrl/companyconcept/CIK0001045810/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json"
+            try "SEC XBRL — MSFT capex" "https://data.sec.gov/api/xbrl/companyconcept/CIK0000789019/us-gaap/PaymentsToAcquirePropertyPlantAndEquipment.json"
+            try "SEC XBRL — MSFT op cash flow" "https://data.sec.gov/api/xbrl/companyconcept/CIK0000789019/us-gaap/NetCashProvidedByUsedInOperatingActivities.json"
+            try "FRED — IG corporate OAS" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM" --http1.1
+            try "FRED — high yield OAS" "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2" --http1.1
+            for sym in NVDA SMH MSFT GOOGL AMZN META AVGO; do
+              try "CNBC — $sym" "https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=${sym}&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json&events=1"
+            done
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Refresh
         run: ./refresh.sh
 
