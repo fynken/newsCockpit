@@ -53,7 +53,7 @@
 
 [cockpit]
 title      = "Finance Cockpit"
-tagline    = "Rates, risk and the dollar — one screen"
+tagline    = "The AI build, and the rates and credit paying for it"
 timezone   = "Europe/Zurich"
 # Tiles whose data is older than this many minutes are flagged as stale.
 stale_after_minutes = 90
@@ -70,9 +70,8 @@ alt_provider = "yahoo"
 alt_symbol     = "^TNX"
 unit     = "%"
 decimals = 3
-featured = true
 good_when = "neutral"
-note     = "The cockpit's anchor rate — discounting everything else on this board."
+note     = "The anchor rate — discounting everything else on this board, including the cash flows the AI build is being valued on."
 
 # No fallback: Yahoo publishes no 2-year yield index (its Treasury indices are
 # ^IRX, ^FVX, ^TNX, ^TYX) and the 2-year yield future 2YY=F quotes an expired
@@ -311,6 +310,7 @@ provider  = "derived"
 expr      = "hyper_capex / hyper_ocf * 100"
 unit      = "%"
 decimals  = 1
+featured  = true
 good_when = "neutral"
 note      = "The share of the hyperscalers' operating cash flow going into property and equipment. The closest thing here to a single bubble gauge: below roughly half is a business reinvesting, and a number climbing toward and past 100% is a build being financed by something other than the cash the business throws off. Both legs come from the filings, so it moves four times a year, not daily."
 
