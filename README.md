@@ -16,7 +16,18 @@ sources.toml ──▶ python -m cockpit fetch ──▶ data/snapshot.json ─�
 
 ## The published board
 
-https://claude.ai/code/artifact/20c37e1b-d6ee-405a-84e5-4ddbe36a749a
+The board is published twice, and the two differ in who can see it and what
+makes it move:
+
+| | URL | Updates | Visible to |
+|---|---|---|---|
+| **GitHub Pages** | https://fynken.github.io/newsCockpit/ | every scheduled CI run, on its own | anyone |
+| **Artifact** | https://claude.ai/code/artifact/20c37e1b-d6ee-405a-84e5-4ddbe36a749a | when Claude is asked to refresh the cockpit | you, unless shared |
+
+Pages is deployed by the `publish` job in `.github/workflows/refresh.yml`. It
+needs `main` to be listed under Settings → Environments → `github-pages` →
+deployment branches; when it is not, the job fails with no steps and no logs,
+which looks like nothing at all went wrong.
 
 Bookmark that. Republishing `dist/index.html` to this same URL updates the page
 in place; publishing without it would create a *second*, unrelated artifact, so

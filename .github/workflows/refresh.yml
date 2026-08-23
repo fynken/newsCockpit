@@ -140,17 +140,19 @@ jobs:
                "market-data providers either, so there is nothing fresher to publish." \
                | tee -a "$GITHUB_STEP_SUMMARY"
 
-  # Serve the board at https://fynken.github.io/newsCockpit/ — a free, always
-  # current URL. The Artifact is the other publication route, and the only one
-  # of the two that stays private; it can only be written from a Claude
-  # session, so it updates when you ask Claude to refresh the cockpit.
+  # Serve the board at https://fynken.github.io/newsCockpit/ — free, public and
+  # always current. The Artifact is the other publication route and the only
+  # private one; it can only be written from a Claude session, so it updates
+  # when you ask Claude to refresh the cockpit rather than on this schedule.
   publish:
     needs: refresh
     runs-on: ubuntu-latest
-    # This job cannot work until Pages is switched on under Settings → Pages
-    # with "GitHub Actions" as the source. Until then it fails on its own
-    # rather than painting the scheduled refresh red.
-    continue-on-error: true
+    # No continue-on-error: this deploy works now, so a failure here means the
+    # public board has stopped updating and should be loud. It was allowed to
+    # fail while Pages was still switched off, and while the github-pages
+    # environment's branch policy still named the old default branch — that
+    # rejection produced a job with no steps and no logs at all, which is worth
+    # recognising if it ever comes back.
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
