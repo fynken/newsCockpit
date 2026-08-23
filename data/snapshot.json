@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:56:33+00:00",
+  "generated_at": "2026-08-23T19:36:06+00:00",
   "title": "Finance Cockpit",
   "tagline": "Rates, risk and the dollar \u2014 one screen",
   "timezone": "Europe/Zurich",
@@ -82,7 +82,7 @@
           4.736
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:29+00:00",
+      "fetched_at": "2026-08-23T19:36:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -184,7 +184,7 @@
           4.24
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:30+00:00",
+      "fetched_at": "2026-08-23T19:36:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -286,7 +286,7 @@
           5.276
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:30+00:00",
+      "fetched_at": "2026-08-23T19:36:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -337,7 +337,7 @@
         ]
       ],
       "value": 1.2151155781387075,
-      "fetched_at": "2026-08-23T17:56:29+00:00",
+      "fetched_at": "2026-08-23T19:36:04+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8135957880329041,
       "change": 0.4015197901058034,
@@ -419,7 +419,7 @@
           7674.37
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:30+00:00",
+      "fetched_at": "2026-08-23T19:36:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -521,7 +521,7 @@
           26180.455
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:31+00:00",
+      "fetched_at": "2026-08-23T19:36:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -623,7 +623,7 @@
           15.13
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:31+00:00",
+      "fetched_at": "2026-08-23T19:36:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -723,13 +723,15 @@
         [
           "2026-08-23T17:43:04+00:00",
           1.168
+        ],
+        [
+          "2026-08-23T19:36:06+00:00",
+          1.1679
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:31+00:00",
+      "fetched_at": "2026-08-23T19:36:05+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -738,16 +740,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.168,
-      "change": 0.0001,
-      "change_pct": 0.0086,
+      "value": 1.1679,
+      "change": 0.0,
+      "change_pct": 0.0,
       "prev_close": 1.1679,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 1.1671,
+      "day_high": 1.1683,
+      "day_low": 1.1684,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-21T18:31:00.000-0400",
+      "as_of": "2026-08-23T15:30:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -825,11 +827,17 @@
         [
           "2026-08-23T17:43:04+00:00",
           0.8009
+        ],
+        [
+          "2026-08-23T19:36:06+00:00",
+          0.8008
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:32+00:00",
+      "fetched_at": "2026-08-23T19:36:05+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -838,16 +846,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8009,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.8008,
+      "change": -0.0001,
+      "change_pct": -0.0125,
       "prev_close": 0.8009,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 0.801,
+      "day_high": 0.801,
+      "day_low": 0.8009,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-21T18:31:00.000-0400",
+      "as_of": "2026-08-23T15:10:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -927,7 +935,7 @@
           4680.6
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:32+00:00",
+      "fetched_at": "2026-08-23T19:36:05+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1027,7 +1035,7 @@
           87.06
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:32+00:00",
+      "fetched_at": "2026-08-23T19:36:06+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1215,7 +1223,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:32+00:00",
+      "fetched_at": "2026-08-23T19:36:06+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -1398,7 +1406,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-23T17:56:33+00:00",
+      "fetched_at": "2026-08-23T19:36:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
