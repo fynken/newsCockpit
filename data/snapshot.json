@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:43:04+00:00",
+  "generated_at": "2026-08-23T17:51:36+00:00",
   "title": "Finance Cockpit",
   "tagline": "Rates, risk and the dollar \u2014 one screen",
   "timezone": "Europe/Zurich",
@@ -82,7 +82,7 @@
           4.736
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:01+00:00",
+      "fetched_at": "2026-08-23T17:51:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -184,7 +184,7 @@
           4.24
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:02+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -286,7 +286,7 @@
           5.276
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:02+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -337,7 +337,7 @@
         ]
       ],
       "value": 1.2151155781387075,
-      "fetched_at": "2026-08-23T17:43:01+00:00",
+      "fetched_at": "2026-08-23T17:51:34+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8135957880329041,
       "change": 0.4015197901058034,
@@ -419,7 +419,7 @@
           7674.37
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:02+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -521,7 +521,7 @@
           26180.455
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:02+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -623,7 +623,7 @@
           15.13
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:02+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -725,7 +725,7 @@
           1.168
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:03+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -827,7 +827,7 @@
           0.8009
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:03+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -927,7 +927,7 @@
           4680.6
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:03+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1027,7 +1027,7 @@
           87.06
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:03+00:00",
+      "fetched_at": "2026-08-23T17:51:35+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1215,7 +1215,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:04+00:00",
+      "fetched_at": "2026-08-23T17:51:36+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -1398,7 +1398,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-23T17:43:04+00:00",
+      "fetched_at": "2026-08-23T17:51:36+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
