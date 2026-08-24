@@ -93,6 +93,38 @@ jobs:
             echo '```'
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
+      # Temporary: which business newswires will a runner actually get? RSS is
+      # the only keyless route, and the outlets differ wildly — some publish
+      # open feeds, some killed theirs, some are paywalled with no feed at all.
+      - name: Newswire probe
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          try() {
+            label="$1"; url="$2"
+            code=$(curl -sSL -o /tmp/f -w '%{http_code}' --max-time 20 -A "$UA" "$url" 2>&1 | tail -1)
+            items=$(grep -c "<item" /tmp/f 2>/dev/null || echo 0)
+            first=$(sed -n 's:.*<title>\(.*\)</title>.*:\1:p' /tmp/f 2>/dev/null | sed -n '2p' | head -c 60)
+            printf '| %s | %s | %s | %s |\n' "$label" "$code" "$items" "$first"
+          }
+          {
+            echo ""
+            echo "### Which newswires answer a runner?"
+            echo ""
+            echo "| feed | code | items | second title |"
+            echo "|---|---|---|---|"
+            try "CNBC top news" "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+            try "CNBC finance" "https://www.cnbc.com/id/10001147/device/rss/rss.html"
+            try "MarketWatch top" "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+            try "MarketWatch pulse" "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
+            try "WSJ markets" "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+            try "Yahoo Finance" "https://finance.yahoo.com/news/rssindex"
+            try "FT home" "https://www.ft.com/rss/home"
+            try "Guardian business" "https://www.theguardian.com/uk/business/rss"
+            try "Investing.com economy" "https://www.investing.com/rss/news_25.rss"
+            try "Seeking Alpha" "https://seekingalpha.com/market_currents.xml"
+            try "Bloomberg markets" "https://feeds.bloomberg.com/markets/news.rss"
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Refresh
         run: ./refresh.sh
 
