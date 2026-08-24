@@ -1,55 +1,79 @@
 {
-  "generated_at": "2026-08-24T14:39:58+00:00",
+  "generated_at": "2026-08-24T15:50:08+00:00",
   "briefing": {
-    "captured_at": "2026-08-24T14:39:59+00:00",
+    "captured_at": "2026-08-24T15:50:13+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
       "CNBC",
       "Guardian",
-      "Seeking Alpha"
+      "Seeking Alpha",
+      "CNBC Finance",
+      "BBC",
+      "NPR",
+      "Fortune",
+      "Business Insider"
     ],
-    "feeds_configured": 7,
+    "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Dollar (USD) Outlook: What Is the \u2018Debasement Trade\u2019 and Why Does It Matter?",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-24/dollar-usd-outlook-what-is-the-debasement-trade-and-why-does-it-matter",
+        "headline": "German Finance Chief Says Trump Is to Blame for Surging Yields",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-24/german-finance-chief-says-trump-is-to-blame-for-surging-yields",
         "sources": [
-          "Bloomberg"
-        ],
-        "published": "2026-08-24T14:28:50+00:00"
-      },
-      {
-        "headline": "Vipshop Q2 2026 Earnings Preview",
-        "url": "https://seekingalpha.com/news/4636282-vipshop-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Seeking Alpha"
-        ],
-        "published": "2026-08-24T14:28:24+00:00"
-      },
-      {
-        "headline": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
-        "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
-        "sources": [
-          "CNBC"
-        ],
-        "published": "2026-08-24T14:21:19+00:00"
-      },
-      {
-        "headline": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "sources": [
+          "BBC",
+          "Bloomberg",
+          "CNBC",
+          "Fortune",
           "MarketWatch"
         ],
-        "published": "2026-08-24T14:15:00+00:00"
+        "corroborated": true,
+        "published": "2026-08-24T15:46:00+00:00"
       },
       {
-        "headline": "Netflix, Disney+ and Amazon price rises in western Europe \u2018highest in world\u2019",
-        "url": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+        "headline": "US Stocks Decline as Nvidia Earnings, Jackson Hole Loom",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
         "sources": [
+          "Bloomberg",
+          "Business Insider",
+          "CNBC",
+          "Guardian",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "published": "2026-08-24T15:02:00+00:00"
+      },
+      {
+        "headline": "Qiagen Names Jonathan Pratt as CEO as Sale Talks Progress",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-24/qiagen-set-to-name-jonathan-pratt-as-ceo-as-sale-talks-progress",
+        "sources": [
+          "Bloomberg",
+          "MarketWatch",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "published": "2026-08-24T15:35:55+00:00"
+      },
+      {
+        "headline": "Treasuries Gain With Bessent and Warsh Due to Set Direction",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-24/treasuries-gain-with-bessent-and-warsh-due-to-set-direction",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "NPR"
+        ],
+        "corroborated": true,
+        "published": "2026-08-24T15:34:11+00:00"
+      },
+      {
+        "headline": "US-Canada Tariff War Escalates After Collapse of Talks",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-24/us-canada-tariff-war-escalates-after-collapse-of-talks-video",
+        "sources": [
+          "BBC",
+          "Bloomberg",
           "Guardian"
         ],
-        "published": "2026-08-24T13:45:04+00:00"
+        "corroborated": true,
+        "published": "2026-08-24T14:22:53+00:00"
       }
     ]
   },
@@ -154,9 +178,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           4.698
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          4.696
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -169,16 +197,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.698,
-      "change": -0.04,
-      "change_pct": -0.8442,
+      "value": 4.696,
+      "change": -0.042,
+      "change_pct": -0.8864,
       "prev_close": 4.738,
       "day_open": 4.722,
       "day_high": 4.724,
-      "day_low": 4.692,
+      "day_low": 4.686,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-24T10:39:08.000-0400",
+      "as_of": "2026-08-24T11:49:15.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -276,13 +304,15 @@
         [
           "2026-08-24T14:39:58+00:00",
           4.229
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          4.234
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -291,16 +321,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.229,
-      "change": -0.005,
-      "change_pct": 0.0078,
+      "value": 4.234,
+      "change": 0.0,
+      "change_pct": 0.0,
       "prev_close": 4.234,
       "day_open": 4.232,
       "day_high": 4.251,
       "day_low": 4.219,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-24T10:37:15.000-0400",
+      "as_of": "2026-08-24T11:48:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -398,9 +428,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           5.233
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          5.224
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -413,16 +447,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.233,
-      "change": -0.043,
-      "change_pct": -0.815,
+      "value": 5.224,
+      "change": -0.052,
+      "change_pct": -0.9856,
       "prev_close": 5.276,
       "day_open": 5.259,
       "day_high": 5.261,
-      "day_low": 5.224,
+      "day_low": 5.217,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-24T10:39:21.000-0400",
+      "as_of": "2026-08-24T11:48:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -450,12 +484,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.1771155781387082,
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "value": 1.1751155781387075,
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8535957880329041,
-      "change": 0.323519790105804,
-      "change_pct": 37.900818471861186,
+      "change": 0.32151979010580334,
+      "change_pct": 37.66651553503325,
       "stale": false
     },
     {
@@ -547,9 +581,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           7655.02
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          7661.59
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -562,16 +600,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7655.02,
-      "change": -19.35,
-      "change_pct": -0.25,
+      "value": 7661.59,
+      "change": -12.78,
+      "change_pct": -0.17,
       "prev_close": 7674.37,
       "day_open": 7663.38,
-      "day_high": 7663.46,
+      "day_high": 7665.21,
       "day_low": 7638.17,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-24T10:39:54.000-0400",
+      "as_of": "2026-08-24T11:50:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -665,9 +703,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           26014.713
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          26085.944
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -680,16 +722,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26014.713,
-      "change": -165.742,
-      "change_pct": -0.63,
+      "value": 26085.944,
+      "change": -94.511,
+      "change_pct": -0.36,
       "prev_close": 26180.455,
       "day_open": 26065.32,
-      "day_high": 26065.32,
+      "day_high": 26103.206,
       "day_low": 25910.816,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-24T10:39:48.000-0400",
+      "as_of": "2026-08-24T11:50:03.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -783,9 +825,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           15.83
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          15.75
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -798,16 +844,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.83,
-      "change": 0.7,
-      "change_pct": 4.63,
+      "value": 15.75,
+      "change": 0.62,
+      "change_pct": 4.1,
       "prev_close": 15.13,
       "day_open": 15.9,
       "day_high": 16.06,
-      "day_low": 15.75,
+      "day_low": 15.74,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-24T10:39:46.000-0400",
+      "as_of": "2026-08-24T11:50:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -925,9 +971,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           1.1668
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          1.1668
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:54+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -949,7 +999,7 @@
       "day_low": 1.1661,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-24T10:39:00.000-0400",
+      "as_of": "2026-08-24T11:49:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1051,9 +1101,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           0.802
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          0.802
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1075,7 +1129,7 @@
       "day_low": 0.7997,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-24T10:39:00.000-0400",
+      "as_of": "2026-08-24T11:49:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1173,9 +1227,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           4729.8
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          4722.7
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1188,16 +1246,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4729.8,
-      "change": 49.2,
-      "change_pct": 1.05,
+      "value": 4722.7,
+      "change": 42.1,
+      "change_pct": 0.9,
       "prev_close": 4680.6,
       "day_open": 4673.4,
       "day_high": 4738.5,
       "day_low": 4651.8,
       "year_high": 5586.2,
       "year_low": 3362.8,
-      "as_of": "2026-08-24T10:29:43.000-0400",
+      "as_of": "2026-08-24T11:40:04.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -1295,9 +1353,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           84.87
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          84.74
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1310,16 +1372,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 84.87,
-      "change": -2.19,
-      "change_pct": -2.52,
+      "value": 84.74,
+      "change": -2.32,
+      "change_pct": -2.66,
       "prev_close": 87.06,
       "day_open": 86.5,
       "day_high": 86.57,
-      "day_low": 84.69,
+      "day_low": 84.36,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-24T10:29:49.000-0400",
+      "as_of": "2026-08-24T11:40:02.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -1365,9 +1427,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           210.09
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          210.31
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1380,16 +1446,16 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 210.09,
-      "change": -4.63,
-      "change_pct": -2.16,
+      "value": 210.31,
+      "change": -4.41,
+      "change_pct": -2.06,
       "prev_close": 214.72,
       "day_open": 215.53,
       "day_high": 215.59,
       "day_low": 208.62,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-24T10:39:52.441-0400",
+      "as_of": "2026-08-24T11:50:03.850-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
@@ -1435,9 +1501,13 @@
         [
           "2026-08-24T14:39:58+00:00",
           544.26
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          547.44
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1450,16 +1520,16 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 544.26,
-      "change": -16.16,
-      "change_pct": -2.88,
+      "value": 547.44,
+      "change": -12.98,
+      "change_pct": -2.32,
       "prev_close": 560.42,
       "day_open": 554.18,
       "day_high": 554.18,
       "day_low": 540.75,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-24T10:39:50.276-0400",
+      "as_of": "2026-08-24T11:50:01.743-0400",
       "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
@@ -1505,14 +1575,18 @@
         [
           "2026-08-24T14:39:58+00:00",
           71.09844259061374
+        ],
+        [
+          "2026-08-24T15:50:08+00:00",
+          71.45253139361412
         ]
       ],
-      "value": 71.09844259061374,
-      "fetched_at": "2026-08-24T14:39:54+00:00",
-      "as_of": "2026-08-24T10:39:50.276-0400",
+      "value": 71.45253139361412,
+      "fetched_at": "2026-08-24T15:50:05+00:00",
+      "as_of": "2026-08-24T11:50:01.000-0400",
       "prev_close": 73.02488673337355,
-      "change": -1.9264441427598058,
-      "change_pct": -2.638065225343773,
+      "change": -1.5723553397594259,
+      "change_pct": -2.1531773756806585,
       "stale": false
     },
     {
@@ -1678,7 +1752,7 @@
           2.7
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -1860,7 +1934,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -1950,7 +2024,7 @@
           253.491
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:55+00:00",
+      "fetched_at": "2026-08-24T15:50:06+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -2038,7 +2112,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:56+00:00",
+      "fetched_at": "2026-08-24T15:50:07+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2114,7 +2188,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:58+00:00",
+      "fetched_at": "2026-08-24T15:50:08+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2163,7 +2237,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-24T14:39:56+00:00",
+      "fetched_at": "2026-08-24T15:50:07+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -2333,7 +2407,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:58+00:00",
+      "fetched_at": "2026-08-24T15:50:08+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -2516,7 +2590,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-24T14:39:58+00:00",
+      "fetched_at": "2026-08-24T15:50:08+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
