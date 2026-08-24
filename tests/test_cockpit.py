@@ -530,6 +530,35 @@ class Briefing(unittest.TestCase):
                               self._item(published[1], "Bloomberg", 11)])
         self.assertIn(stories[0].lead.headline, published)
 
+    def test_one_firehose_outlet_cannot_take_the_whole_strip(self):
+        """A market-notes feed posts every few minutes and a curated top-stories
+        feed a few times a day. On recency alone the firehose wins every slot,
+        which is how the first live briefing came back four-fifths one outlet."""
+        firehose = [self._item(f"Small market note number {n}", "Firehose", 20 + n // 10)
+                    for n in range(12)]
+        curated = [self._item("Fed holds rates steady as inflation cools", "Bloomberg", 9),
+                   self._item("Steel tariffs escalate between US and Canada", "WSJ", 8)]
+        ranked = sorted(news.group(firehose + curated), key=news.Story.rank, reverse=True)
+        chosen = news.select(ranked, count=5, outlets=3)
+        leads = [story.lead.source for story in chosen]
+        self.assertLessEqual(leads.count("Firehose"), 2, leads)
+        self.assertIn("Bloomberg", leads)
+        self.assertIn("WSJ", leads)
+
+    def test_the_strip_still_fills_when_one_outlet_carries_it(self):
+        """The cap is a share of the slots, not a hard ceiling: if the other
+        outlets went quiet, a thin spread beats a two-bullet strip."""
+        headlines = ["Fed holds rates steady as inflation cools",
+                     "Oil slips below eighty dollars a barrel",
+                     "Chipmakers rally on export licence relief",
+                     "Regional banks tumble after deposit data",
+                     "Housing starts fall to a three-year low"]
+        items = [self._item(h, "Only", 10 + n) for n, h in enumerate(headlines)]
+        ranked = sorted(news.group(items), key=news.Story.rank, reverse=True)
+        self.assertEqual(len(ranked), 5, "fixture headlines must be distinct stories")
+        # outlets=3 gives a cap of 2, so filling to five must use the fallback.
+        self.assertEqual(len(news.select(ranked, count=5, outlets=3)), 5)
+
     def test_headlines_are_escaped_into_the_page(self):
         markup = render.briefing_html({
             "captured_at": "2026-08-24T12:00:00+00:00",

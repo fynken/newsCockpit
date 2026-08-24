@@ -239,6 +239,13 @@ The one judgement it makes is the ranking, and it is mechanical: a story two
 outlets both ran outranks one that appeared in a single feed, and corroborated
 stories are the only thing drawn in the accent colour. Ties break on recency.
 
+Each outlet also gets only a share of the slots. Feeds differ enormously in
+volume — a curated top-stories feed posts a few times a day, a market-notes
+firehose every few minutes — and on recency alone the firehose wins everything.
+The first live briefing came back four-fifths one outlet, leading on an
+earnings preview and an FDA decision date. The per-outlet cap is what makes the
+strip a consolidation rather than one desk's feed with a border around it.
+
 Feeds live under `[briefing.feeds]` in `sources.toml`. Measured on a runner in
 August 2026, Bloomberg, MarketWatch, WSJ, CNBC, the Guardian, Seeking Alpha and
 Investing.com all serve open RSS; **Yahoo Finance and the FT answer 200 with a

@@ -137,6 +137,41 @@ def group(items: list[Item]) -> list[Story]:
     return stories
 
 
+def select(stories: list[Story], count: int, outlets: int) -> list[Story]:
+    """Top stories, without letting one outlet take the whole strip.
+
+    Feeds differ enormously in how much they publish: a curated top-stories
+    feed posts a few times a day, a market-notes firehose posts every few
+    minutes. Ranked on recency alone the firehose wins every slot, and the
+    first live briefing came back four-fifths one outlet — an earnings preview
+    and an FDA date, dressed as the day's top business news.
+
+    So each outlet gets a share of the slots. That is what makes the strip a
+    consolidation rather than one desk's feed with a border around it.
+    """
+    cap = max(1, -(-count // max(1, outlets)))
+    chosen: list[Story] = []
+    used: dict[str, int] = {}
+    for story in stories:
+        lead = story.lead.source
+        if used.get(lead, 0) >= cap:
+            continue
+        chosen.append(story)
+        used[lead] = used.get(lead, 0) + 1
+        if len(chosen) == count:
+            return chosen
+
+    # Too few outlets answered to fill the strip under the cap — better a
+    # thinner spread than a short briefing.
+    taken = {id(story) for story in chosen}
+    for story in stories:
+        if len(chosen) == count:
+            break
+        if id(story) not in taken:
+            chosen.append(story)
+    return chosen
+
+
 def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24) -> dict:
     """The top stories across the configured outlets.
 
@@ -152,7 +187,8 @@ def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24) 
             answered.append(source)
             items.extend(fetched)
 
-    stories = sorted(group(items), key=Story.rank, reverse=True)[:count]
+    ranked = sorted(group(items), key=Story.rank, reverse=True)
+    stories = select(ranked, count, len(answered))
     return {
         "captured_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "sources_read": answered,
