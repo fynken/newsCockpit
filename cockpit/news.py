@@ -36,6 +36,12 @@ after before over under new more most less than then this these those it's
 
 #: How much of two headlines' vocabulary must overlap to call them one story.
 SAME_STORY = 0.45
+#: …or this many distinctive tokens in common. Two desks rarely phrase an event
+#: alike — "Fed holds rates steady as inflation cools" against "Powell signals
+#: patience as Fed leaves rates unchanged" shares little vocabulary and one
+#: obvious subject. Names, tickers and numbers carry the identity of a story;
+#: the connective tissue around them does not.
+SHARED_ENTITIES = 2
 
 
 @dataclass
@@ -48,6 +54,19 @@ class Item:
     def tokens(self) -> set[str]:
         words = re.findall(r"[a-z0-9']+", self.headline.lower())
         return {w for w in words if w not in STOPWORDS and len(w) > 2}
+
+    def entities(self) -> set[str]:
+        """The tokens that identify *which* story this is: capitalised words,
+        tickers and figures. Lowercased for comparison, but only collected
+        where the outlet capitalised them or they carry digits."""
+        found = set()
+        for word in re.findall(r"[A-Za-z][A-Za-z'&.]+|\$?[0-9][0-9,.%]*", self.headline):
+            bare = word.strip(".,'&").lower()
+            if len(bare) < 3 or bare in STOPWORDS:
+                continue
+            if word[0].isupper() or any(ch.isdigit() for ch in word):
+                found.add(bare)
+        return found
 
 
 @dataclass
@@ -119,17 +138,38 @@ def fetch_feed(url: str, source: str) -> list[Item]:
         return []
 
 
+def _distinctive(items: list[Item]) -> set[str]:
+    """Entities rare enough that sharing one implies the same story.
+
+    Two headlines both naming "Vipshop" are covering Vipshop. Two both naming
+    "Fed" are not necessarily covering the same thing — half the business wire
+    mentions the Fed on any given day. Rarity across the day's own corpus is
+    what separates the two, and it needs no list to maintain.
+    """
+    seen: dict[str, int] = {}
+    for item in items:
+        for entity in item.entities():
+            seen[entity] = seen.get(entity, 0) + 1
+    ceiling = max(2, len(items) // 10)
+    return {entity for entity, count in seen.items() if count <= ceiling}
+
+
 def group(items: list[Item]) -> list[Story]:
     """Cluster items covering the same event, newest first within each."""
+    distinctive = _distinctive(items)
     stories: list[Story] = []
     for item in sorted(items, key=lambda i: i.published, reverse=True):
         tokens = item.tokens()
         if not tokens:
             continue
+        entities = item.entities()
         for story in stories:
-            other = story.lead.tokens()
-            overlap = len(tokens & other) / max(1, len(tokens | other))
-            if overlap >= SAME_STORY:
+            lead = story.lead
+            overlap = len(tokens & lead.tokens()) / max(1, len(tokens | lead.tokens()))
+            shared = entities & lead.entities()
+            if (overlap >= SAME_STORY
+                    or len(shared) >= SHARED_ENTITIES
+                    or shared & distinctive):
                 story.items.append(item)
                 break
         else:
@@ -137,7 +177,8 @@ def group(items: list[Item]) -> list[Story]:
     return stories
 
 
-def select(stories: list[Story], count: int, outlets: int) -> list[Story]:
+def select(stories: list[Story], count: int, outlets: int,
+           min_sources: int = 1) -> list[Story]:
     """Top stories, without letting one outlet take the whole strip.
 
     Feeds differ enormously in how much they publish: a curated top-stories
@@ -149,6 +190,14 @@ def select(stories: list[Story], count: int, outlets: int) -> list[Story]:
     So each outlet gets a share of the slots. That is what makes the strip a
     consolidation rather than one desk's feed with a border around it.
     """
+    # A topic several outlets independently ran is the only evidence of
+    # importance available without a model reading the stories. Where enough
+    # of those exist they are the whole strip, and the per-outlet cap is not
+    # needed: corroboration already guarantees the spread.
+    corroborated = [s for s in stories if len(s.sources) >= min_sources]
+    if len(corroborated) >= max(1, min(count, 3)):
+        return corroborated[:count]
+
     cap = max(1, -(-count // max(1, outlets)))
     chosen: list[Story] = []
     used: dict[str, int] = {}
@@ -172,7 +221,8 @@ def select(stories: list[Story], count: int, outlets: int) -> list[Story]:
     return chosen
 
 
-def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24) -> dict:
+def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24,
+             min_sources: int = 2) -> dict:
     """The top stories across the configured outlets.
 
     Returns the shape the renderer and the snapshot both use. `sources_read`
@@ -188,7 +238,7 @@ def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24) 
             items.extend(fetched)
 
     ranked = sorted(group(items), key=Story.rank, reverse=True)
-    stories = select(ranked, count, len(answered))
+    stories = select(ranked, count, len(answered), min_sources=min_sources)
     return {
         "captured_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "sources_read": answered,
@@ -198,6 +248,7 @@ def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24) 
                 "headline": story.lead.headline,
                 "url": story.lead.url,
                 "sources": story.sources,
+                "corroborated": len(story.sources) >= min_sources,
                 "published": story.newest.published.isoformat(timespec="seconds"),
             }
             for story in stories

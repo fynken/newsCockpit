@@ -402,6 +402,22 @@ body {
   border-bottom: 1px solid var(--hairline-2);
 }
 .brief-item:last-child { border-bottom: none; }
+.brief-item--multi { grid-template-columns: auto 1fr auto auto; }
+/* How many newsrooms are running it — the reason the line is here at all. */
+.brief-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 600;
+  align-self: center;
+}
 .brief-headline {
   color: var(--ink);
   text-decoration: none;
@@ -431,8 +447,9 @@ body {
 }
 .brief-note { margin: 0; font-size: 10.5px; color: var(--muted); max-width: 70ch; }
 @media (max-width: 620px) {
-  .brief-item { grid-template-columns: 1fr auto; }
+  .brief-item, .brief-item--multi { grid-template-columns: auto 1fr; }
   .brief-headline { grid-column: 1 / -1; }
+  .brief-count { grid-row: 2; }
 }
 
 /* ── table view ──────────────────────────────────────────────────────── */

@@ -341,15 +341,18 @@ def briefing_html(briefing: dict, tz: ZoneInfo) -> str:
     read = (briefing or {}).get("sources_read") or []
     bullets = []
     for story in stories:
-        sources = " · ".join(esc(name) for name in story.get("sources", []))
-        corroborated = ' class="brief-sources brief-sources--multi"' if len(
-            story.get("sources", [])) > 1 else ' class="brief-sources"'
+        names = story.get("sources", [])
+        sources = " · ".join(esc(name) for name in names)
+        multi = len(names) > 1
+        badge = (f'<span class="brief-count">{len(names)}</span>' if multi else "")
         when = local_time(story.get("published"), tz, fmt="%H:%M")
         bullets.append(
-            '<li class="brief-item">'
+            f'<li class="brief-item{" brief-item--multi" if multi else ""}">'
+            f'{badge}'
             f'<a class="brief-headline" href="{esc(story.get("url", ""))}" '
             f'target="_blank" rel="noopener">{esc(story.get("headline", ""))}</a>'
-            f'<span{corroborated}>{sources}</span>'
+            f'<span class="brief-sources{" brief-sources--multi" if multi else ""}">'
+            f'{sources}</span>'
             f'<span class="brief-when">{esc(when)}</span>'
             "</li>"
         )

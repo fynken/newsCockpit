@@ -360,6 +360,7 @@ def _briefing(cockpit, *, offline: bool) -> dict:
         cockpit.briefing.feeds,
         count=cockpit.briefing.count,
         max_age_hours=cockpit.briefing.max_age_hours,
+        min_sources=cockpit.briefing.min_sources,
     )
     if not fresh["stories"]:
         print("  briefing: no feed answered; carrying the previous headlines")

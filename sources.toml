@@ -66,6 +66,11 @@
 [briefing]
 count          = 5
 max_age_hours  = 24
+# How many outlets must be running a topic before it earns a line. Repetition
+# across newsrooms is the only evidence of importance available to a build with
+# no model in it. Where too few topics clear the bar the strip falls back to
+# the best single-source stories rather than running nearly empty.
+min_sources    = 2
 
 [briefing.feeds]
 Bloomberg     = "https://feeds.bloomberg.com/markets/news.rss"
@@ -75,6 +80,16 @@ CNBC          = "https://www.cnbc.com/id/100003114/device/rss/rss.html"
 Guardian      = "https://www.theguardian.com/uk/business/rss"
 "Seeking Alpha" = "https://seekingalpha.com/market_currents.xml"
 Investing     = "https://www.investing.com/rss/news_25.rss"
+# More outlets means more chances that two of them independently run the same
+# story, which is what the corroboration gate needs to have anything to show.
+# Feeds that fail are dropped silently and reported in sources_read.
+"CNBC Finance" = "https://www.cnbc.com/id/10001147/device/rss/rss.html"
+"MarketWatch Pulse" = "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"
+BBC           = "https://feeds.bbci.co.uk/news/business/rss.xml"
+NPR           = "https://feeds.npr.org/1006/rss.xml"
+Fortune       = "https://fortune.com/feed/"
+"Business Insider" = "https://markets.businessinsider.com/rss/news"
+"WSJ World"   = "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
 
 [cockpit]
 title      = "Finance Cockpit"

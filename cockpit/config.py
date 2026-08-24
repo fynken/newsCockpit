@@ -82,6 +82,10 @@ class Briefing:
     feeds: dict[str, str] = field(default_factory=dict)
     count: int = 5
     max_age_hours: int = 24
+    #: How many outlets must carry a topic before it counts as important
+    #: enough to show. Where too few clear the bar the strip falls back to the
+    #: best single-source stories rather than running nearly empty.
+    min_sources: int = 2
 
 
 @dataclass
@@ -131,6 +135,7 @@ def load(path: Path | None = None) -> Cockpit:
         feeds=feeds,
         count=int(news.get("count", 5)),
         max_age_hours=int(news.get("max_age_hours", 24)),
+        min_sources=int(news.get("min_sources", 2)),
     )
 
     known = {f for f in Tile.__dataclass_fields__}
