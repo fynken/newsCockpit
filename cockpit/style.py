@@ -378,6 +378,63 @@ body {
   .featured { grid-template-columns: 1fr; gap: 18px; }
 }
 
+/* ── business briefing ───────────────────────────────────────────────── */
+
+.briefing { display: flex; flex-direction: column; gap: 12px; }
+.brief-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--hairline);
+  border-radius: 10px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+.brief-item {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: baseline;
+  gap: 6px 14px;
+  padding: 11px 16px;
+  border-bottom: 1px solid var(--hairline-2);
+}
+.brief-item:last-child { border-bottom: none; }
+.brief-headline {
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 13.5px;
+  line-height: 1.45;
+  text-wrap: pretty;
+}
+.brief-headline:hover { color: var(--accent); }
+.brief-sources {
+  font-family: Archivo, ui-sans-serif, system-ui, sans-serif;
+  font-size: 9.5px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  white-space: nowrap;
+}
+/* Two desks running the same story is the one editorial signal this strip
+   carries, so it is the one thing drawn in the accent. */
+.brief-sources--multi { color: var(--accent); }
+.brief-when {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 10.5px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.brief-note { margin: 0; font-size: 10.5px; color: var(--muted); max-width: 70ch; }
+@media (max-width: 620px) {
+  .brief-item { grid-template-columns: 1fr auto; }
+  .brief-headline { grid-column: 1 / -1; }
+}
+
 /* ── table view ──────────────────────────────────────────────────────── */
 
 .ledger { border: 1px solid var(--hairline); border-radius: 10px; background: var(--surface); overflow: hidden; }

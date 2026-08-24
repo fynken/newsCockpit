@@ -223,6 +223,31 @@ python3 -m unittest discover -s tests -v
 The provider tests run against recorded payload *shapes*, not the live
 endpoints, so they stay meaningful on a host with no market-data access.
 
+## The business briefing
+
+The strip at the top of the board is five headlines, pulled from seven business
+feeds, deduplicated across outlets and ranked by how many of them ran the story.
+
+**Nothing in it is written by this board.** Every bullet is a headline an outlet
+published, carried verbatim with its source, its timestamp and a link to the
+original. The build runs on a GitHub runner with no model in it, so a
+paraphrase would be a sentence nobody wrote and nobody can check — the news
+equivalent of an invented number. Consolidation here means merged and ranked,
+never reworded.
+
+The one judgement it makes is the ranking, and it is mechanical: a story two
+outlets both ran outranks one that appeared in a single feed, and corroborated
+stories are the only thing drawn in the accent colour. Ties break on recency.
+
+Feeds live under `[briefing.feeds]` in `sources.toml`. Measured on a runner in
+August 2026, Bloomberg, MarketWatch, WSJ, CNBC, the Guardian, Seeking Alpha and
+Investing.com all serve open RSS; **Yahoo Finance and the FT answer 200 with a
+single empty item**, so they are configured out rather than left in to look like
+sources that contribute nothing. One dead feed costs its own headlines and
+nothing else, and if every feed fails the previous briefing is carried forward
+rather than the strip silently emptying — an empty strip would read as a quiet
+news day.
+
 ## The AI Bubble tiles
 
 Five indicators are worth watching on an AI-capex board. Four are here:

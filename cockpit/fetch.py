@@ -23,7 +23,7 @@ from dataclasses import asdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import config
+from . import config, news
 from .providers import PROVIDERS, ProviderError, Quote
 
 HISTORY_HEADER = ("captured_at", "key", "value", "as_of")
@@ -335,6 +335,7 @@ def run(*, offline: bool = False, only: list[str] | None = None) -> dict:
 
     snapshot = {
         "generated_at": stamp,
+        "briefing": _briefing(cockpit, offline=offline),
         "title": cockpit.title,
         "tagline": cockpit.tagline,
         "timezone": cockpit.timezone,
@@ -345,6 +346,27 @@ def run(*, offline: bool = False, only: list[str] | None = None) -> dict:
     config.DATA_DIR.mkdir(parents=True, exist_ok=True)
     config.SNAPSHOT_FILE.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
     return snapshot
+
+
+def _briefing(cockpit, *, offline: bool) -> dict:
+    """The headline strip, carrying the previous one forward if the feeds are
+    unreachable — a briefing that quietly empties looks like a quiet news day,
+    which is the wrong thing for a board to imply."""
+    previous = _read_json(config.SNAPSHOT_FILE, {}).get("briefing") or {}
+    if offline or not cockpit.briefing.feeds:
+        return previous
+
+    fresh = news.briefing(
+        cockpit.briefing.feeds,
+        count=cockpit.briefing.count,
+        max_age_hours=cockpit.briefing.max_age_hours,
+    )
+    if not fresh["stories"]:
+        print("  briefing: no feed answered; carrying the previous headlines")
+        return previous
+    print(f"  briefing: {len(fresh['stories'])} stories from "
+          f"{len(fresh['sources_read'])}/{fresh['feeds_configured']} outlets")
+    return fresh
 
 
 def main(argv: list[str] | None = None) -> int:

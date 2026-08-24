@@ -51,6 +51,31 @@
 #             is neither good nor bad.
 # ---------------------------------------------------------------------------
 
+# ── Business briefing ──────────────────────────────────────────────────────
+#
+# The headline strip at the top of the board. Every bullet is a headline an
+# outlet published, carried verbatim and linked — deduplicated across outlets
+# and ranked by how many of them ran the story. Nothing is rewritten: the build
+# runs on a GitHub runner with no model in it, and a paraphrase nobody can
+# check is the news equivalent of an invented number.
+#
+# Measured 2026-08-24, on a runner. Yahoo Finance and the FT both answer 200
+# with a single empty item, so they are configured out rather than left in to
+# look like sources that contribute nothing.
+
+[briefing]
+count          = 5
+max_age_hours  = 24
+
+[briefing.feeds]
+Bloomberg     = "https://feeds.bloomberg.com/markets/news.rss"
+MarketWatch   = "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+WSJ           = "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+CNBC          = "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+Guardian      = "https://www.theguardian.com/uk/business/rss"
+"Seeking Alpha" = "https://seekingalpha.com/market_currents.xml"
+Investing     = "https://www.investing.com/rss/news_25.rss"
+
 [cockpit]
 title      = "Finance Cockpit"
 tagline    = "The AI build, and the rates and credit paying for it"

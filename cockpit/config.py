@@ -76,11 +76,21 @@ class Tile:
 
 
 @dataclass
+class Briefing:
+    """Which outlets the headline strip reads, and how much of it to show."""
+
+    feeds: dict[str, str] = field(default_factory=dict)
+    count: int = 5
+    max_age_hours: int = 24
+
+
+@dataclass
 class Cockpit:
     title: str = "Finance Cockpit"
     tagline: str = ""
     timezone: str = "UTC"
     stale_after_minutes: int = 90
+    briefing: Briefing = field(default_factory=Briefing)
     tiles: list[Tile] = field(default_factory=list)
 
     def by_key(self, key: str) -> Tile | None:
@@ -111,6 +121,16 @@ def load(path: Path | None = None) -> Cockpit:
         tagline=meta.get("tagline", ""),
         timezone=meta.get("timezone", "UTC"),
         stale_after_minutes=int(meta.get("stale_after_minutes", 90)),
+    )
+
+    news = raw.get("briefing", {})
+    feeds = news.get("feeds", {})
+    if not isinstance(feeds, dict) or any(not isinstance(v, str) for v in feeds.values()):
+        raise ConfigError("briefing.feeds must be a table of name = \"feed url\"")
+    cockpit.briefing = Briefing(
+        feeds=feeds,
+        count=int(news.get("count", 5)),
+        max_age_hours=int(news.get("max_age_hours", 24)),
     )
 
     known = {f for f in Tile.__dataclass_fields__}

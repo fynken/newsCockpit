@@ -330,6 +330,44 @@ def featured_html(record, tz: ZoneInfo) -> str:
     )
 
 
+def briefing_html(briefing: dict, tz: ZoneInfo) -> str:
+    """The headline strip. Every line is a headline an outlet published,
+    verbatim and linked; nothing here is written by this board."""
+    stories = (briefing or {}).get("stories") or []
+    if not stories:
+        return ""
+
+    captured = (briefing or {}).get("captured_at")
+    read = (briefing or {}).get("sources_read") or []
+    bullets = []
+    for story in stories:
+        sources = " · ".join(esc(name) for name in story.get("sources", []))
+        corroborated = ' class="brief-sources brief-sources--multi"' if len(
+            story.get("sources", [])) > 1 else ' class="brief-sources"'
+        when = local_time(story.get("published"), tz, fmt="%H:%M")
+        bullets.append(
+            '<li class="brief-item">'
+            f'<a class="brief-headline" href="{esc(story.get("url", ""))}" '
+            f'target="_blank" rel="noopener">{esc(story.get("headline", ""))}</a>'
+            f'<span{corroborated}>{sources}</span>'
+            f'<span class="brief-when">{esc(when)}</span>'
+            "</li>"
+        )
+
+    stamp = local_time(captured, tz)
+    return (
+        '<section class="briefing">'
+        '<div class="section-head"><h2 class="signage">Business briefing</h2>'
+        '<span class="rule"></span>'
+        f'<span class="count">{len(read)} outlets · {esc(stamp)}</span></div>'
+        f'<ul class="brief-list">{"".join(bullets)}</ul>'
+        '<p class="brief-note">Headlines as published, deduplicated across '
+        'outlets and ranked by how many ran the story. Nothing here is '
+        'rewritten or summarised — follow a link for the article.</p>'
+        "</section>"
+    )
+
+
 def table_html(tiles, tz: ZoneInfo) -> str:
     rows = []
     for record in tiles:
@@ -496,6 +534,8 @@ def render(snapshot: dict) -> str:
       <div class="origin-summary">{summary}</div>
     </div>
   </header>
+
+  {briefing_html(snapshot.get("briefing"), tz)}
 
   {featured_html(featured, tz) if featured else ""}
 

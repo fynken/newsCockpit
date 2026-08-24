@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from cockpit import config, render  # noqa: E402
+from cockpit import config, news, render  # noqa: E402
 from cockpit.fetch import evaluate  # noqa: E402
 from cockpit.providers import (  # noqa: E402
     ProviderError, Quote, _num, fetch_cnbc, fetch_fred, fetch_sec,
@@ -461,6 +461,89 @@ class ProviderFallback(unittest.TestCase):
         self._run(lambda t: tried.append(t) or self._refuses("nope")(t),
                   lambda t: tried.append(t) or self._refuses("nope")(t))
         self.assertEqual(len(tried), 1)
+
+
+class Briefing(unittest.TestCase):
+    """The strip must merge outlets covering one story, keep the headlines
+    verbatim, and never render anything a reader cannot click through to."""
+
+    FEED = """<?xml version="1.0"?><rss><channel>
+      <item><title>Fed holds rates steady as inflation cools</title>
+        <link>https://example.com/a</link>
+        <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate></item>
+      <item><title>Nvidia slides on China export report</title>
+        <link>https://example.com/b</link>
+        <pubDate>Mon, 24 Aug 2026 10:00:00 GMT</pubDate></item>
+    </channel></rss>"""
+
+    def test_it_parses_titles_links_and_times(self):
+        items = news.parse_feed(self.FEED.encode(), "Reuters")
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0].headline, "Fed holds rates steady as inflation cools")
+        self.assertEqual(items[0].url, "https://example.com/a")
+        self.assertEqual(items[0].published.hour, 12)
+
+    def test_an_item_without_a_link_is_dropped(self):
+        """A bullet a reader cannot check is worse than one fewer bullet."""
+        feed = """<rss><channel><item><title>Something happened</title>
+          <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate></item></channel></rss>"""
+        self.assertEqual(news.parse_feed(feed.encode(), "X"), [])
+
+    def test_unparseable_xml_yields_nothing_rather_than_raising(self):
+        self.assertEqual(news.parse_feed(b"<not xml", "X"), [])
+
+    def _item(self, headline, source, hour):
+        from datetime import datetime, timezone
+
+        return news.Item(headline, f"https://example.com/{source}{hour}", source,
+                         datetime(2026, 8, 24, hour, tzinfo=timezone.utc))
+
+    def test_two_outlets_on_one_story_become_one_bullet(self):
+        stories = news.group([
+            self._item("Fed holds rates steady as inflation cools", "Reuters", 12),
+            self._item("Fed holds rates steady, citing cooling inflation", "Bloomberg", 11),
+        ])
+        self.assertEqual(len(stories), 1)
+        self.assertEqual(stories[0].sources, ["Bloomberg", "Reuters"])
+
+    def test_different_stories_stay_apart(self):
+        stories = news.group([
+            self._item("Fed holds rates steady as inflation cools", "Reuters", 12),
+            self._item("Nvidia slides on China export report", "CNBC", 11),
+        ])
+        self.assertEqual(len(stories), 2)
+
+    def test_corroboration_outranks_recency(self):
+        """Two desks independently running a story is the only editorial
+        signal this strip has, so it has to beat a fresher single-source item."""
+        stories = sorted(news.group([
+            self._item("Fed holds rates steady as inflation cools", "Reuters", 9),
+            self._item("Fed holds rates steady, citing cooling inflation", "WSJ", 9),
+            self._item("Nvidia slides on China export report", "CNBC", 23),
+        ]), key=news.Story.rank, reverse=True)
+        self.assertEqual(stories[0].sources, ["Reuters", "WSJ"])
+
+    def test_the_shown_headline_is_one_an_outlet_published(self):
+        published = ["Fed holds rates steady as inflation cools",
+                     "Fed holds rates steady, citing cooling inflation"]
+        stories = news.group([self._item(published[0], "Reuters", 12),
+                              self._item(published[1], "Bloomberg", 11)])
+        self.assertIn(stories[0].lead.headline, published)
+
+    def test_headlines_are_escaped_into_the_page(self):
+        markup = render.briefing_html({
+            "captured_at": "2026-08-24T12:00:00+00:00",
+            "sources_read": ["X"],
+            "stories": [{"headline": "<script>alert(1)</script>",
+                         "url": "https://example.com/a", "sources": ["X"],
+                         "published": "2026-08-24T12:00:00+00:00"}],
+        }, render.ZoneInfo("UTC"))
+        self.assertNotIn("<script>alert", markup)
+        self.assertIn("&lt;script&gt;", markup)
+
+    def test_an_empty_briefing_renders_nothing(self):
+        self.assertEqual(render.briefing_html({"stories": []}, render.ZoneInfo("UTC")), "")
+        self.assertEqual(render.briefing_html(None, render.ZoneInfo("UTC")), "")
 
 
 class ConfigValidation(unittest.TestCase):
