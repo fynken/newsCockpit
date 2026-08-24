@@ -336,6 +336,9 @@ def briefing_html(briefing: dict, tz: ZoneInfo) -> str:
     stories = (briefing or {}).get("stories") or []
     if not stories:
         return ""
+    synthesis = (briefing or {}).get("synthesis") or {}
+    if synthesis.get("lines"):
+        return _written_briefing(briefing, synthesis, tz)
 
     captured = (briefing or {}).get("captured_at")
     read = (briefing or {}).get("sources_read") or []
@@ -367,6 +370,40 @@ def briefing_html(briefing: dict, tz: ZoneInfo) -> str:
         '<p class="brief-note">Headlines as published, deduplicated across '
         'outlets and ranked by how many ran the story. Nothing here is '
         'rewritten or summarised — follow a link for the article.</p>'
+        "</section>"
+    )
+
+
+def _written_briefing(briefing: dict, synthesis: dict, tz: ZoneInfo) -> str:
+    """The compounded strip. Marked as written, and it says by what.
+
+    The outlets under each line are the ones whose headlines it was built from,
+    so a reader can go and check the claim against the wire it came from.
+    """
+    bullets = []
+    for line in synthesis["lines"]:
+        sources = " · ".join(esc(name) for name in line.get("sources", []))
+        bullets.append(
+            '<li class="brief-item brief-item--written">'
+            f'<span class="brief-headline">{esc(line.get("text", ""))}</span>'
+            f'<span class="brief-sources brief-sources--multi">{sources}</span>'
+            "</li>"
+        )
+    read = (briefing or {}).get("sources_read") or []
+    stamp = local_time(synthesis.get("written_at"), tz)
+    return (
+        '<section class="briefing">'
+        '<div class="section-head"><h2 class="signage">Business briefing</h2>'
+        '<span class="rule"></span>'
+        f'<span class="count">{len(read)} outlets · {esc(stamp)}</span></div>'
+        f'<ul class="brief-list">{"".join(bullets)}</ul>'
+        '<p class="brief-note"><strong>Written by '
+        f'{esc(synthesis.get("model", "a model"))}</strong> from headlines '
+        f'{len(read)} newsrooms ran in the last day — the only text on this '
+        'board that no outlet published. Each line names the outlets it was '
+        'compressed from, and a line citing a topic those outlets did not run '
+        'is discarded before it reaches the page. Everything else here is a '
+        'figure someone reported.</p>'
         "</section>"
     )
 

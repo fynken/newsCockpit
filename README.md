@@ -228,12 +228,27 @@ endpoints, so they stay meaningful on a host with no market-data access.
 The strip at the top of the board is five headlines, pulled from seven business
 feeds, deduplicated across outlets and ranked by how many of them ran the story.
 
-**Nothing in it is written by this board.** Every bullet is a headline an outlet
-published, carried verbatim with its source, its timestamp and a link to the
-original. The build runs on a GitHub runner with no model in it, so a
-paraphrase would be a sentence nobody wrote and nobody can check — the news
-equivalent of an invented number. Consolidation here means merged and ranked,
-never reworded.
+When `ANTHROPIC_API_KEY` is set as a repository secret, a final step compounds
+those topics into three to five written lines. That is **the only text on this
+board no one published**, so it is fenced accordingly:
+
+- Each line must cite the topics it was built from. A line citing a topic the
+  wire did not carry is discarded before it reaches the page.
+- The outlets under each line are the ones whose headlines it was compressed
+  from, so a reader can check it against the wire.
+- The strip says it was written, and by which model.
+- No key, no SDK, a refusal, a malformed answer or a line that fails the
+  grounding check all leave the published headlines in place. Failure means
+  less, never something invented.
+
+The model is `claude-opus-5` at low effort — a few hundred tokens per run,
+roughly a dollar a month at three runs a day. A cheaper model is a decision for
+whoever pays the bill, not something the code should do quietly; change `MODEL`
+in `cockpit/synthesize.py` to switch.
+
+Without a key the strip falls back to what it did before: **headlines an outlet
+published**, carried verbatim with source, timestamp and a link. Consolidation
+there means merged and ranked, never reworded.
 
 The one judgement it makes is the ranking, and it is mechanical: a story two
 outlets both ran outranks one that appeared in a single feed, and corroborated

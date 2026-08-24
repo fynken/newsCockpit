@@ -249,6 +249,10 @@ def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24,
                 "url": story.lead.url,
                 "sources": story.sources,
                 "corroborated": len(story.sources) >= min_sources,
+                "variants": [
+                    {"source": item.source, "headline": item.headline}
+                    for item in sorted(story.items, key=lambda i: i.source)
+                ][:6],
                 "published": story.newest.published.isoformat(timespec="seconds"),
             }
             for story in stories

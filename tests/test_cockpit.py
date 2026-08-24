@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from cockpit import config, news, render  # noqa: E402
+from cockpit import config, news, render, synthesize  # noqa: E402
 from cockpit.fetch import evaluate  # noqa: E402
 from cockpit.providers import (  # noqa: E402
     ProviderError, Quote, _num, fetch_cnbc, fetch_fred, fetch_sec,
@@ -573,6 +573,85 @@ class Briefing(unittest.TestCase):
     def test_an_empty_briefing_renders_nothing(self):
         self.assertEqual(render.briefing_html({"stories": []}, render.ZoneInfo("UTC")), "")
         self.assertEqual(render.briefing_html(None, render.ZoneInfo("UTC")), "")
+
+
+class Synthesis(unittest.TestCase):
+    """The written lines are the only text on the board nobody published, so
+    the grounding checks are the whole safety story."""
+
+    STORIES = [
+        {"sources": ["BBC", "Bloomberg"], "headline": "Yields surge",
+         "variants": [{"source": "BBC", "headline": "German finance chief blames Trump"}]},
+        {"sources": ["Guardian"], "headline": "Streaming prices rise",
+         "variants": [{"source": "Guardian", "headline": "Netflix raises prices"}]},
+    ]
+
+    def test_a_line_citing_a_real_topic_is_kept(self):
+        kept = synthesize.validate([{"text": "Yields surge", "topic_ids": [0]}], self.STORIES)
+        self.assertEqual(len(kept), 1)
+        self.assertEqual(kept[0]["sources"], ["BBC", "Bloomberg"])
+
+    def test_a_line_citing_a_topic_that_does_not_exist_is_dropped(self):
+        """The citation is the only check available on prose written elsewhere."""
+        for ids in ([9], [-1], [0, 9]):
+            self.assertEqual(
+                synthesize.validate([{"text": "Something", "topic_ids": ids}], self.STORIES),
+                [], msg=str(ids))
+
+    def test_a_line_citing_nothing_is_dropped(self):
+        self.assertEqual(
+            synthesize.validate([{"text": "Vague market commentary", "topic_ids": []}],
+                                self.STORIES), [])
+
+    def test_an_empty_line_is_dropped(self):
+        self.assertEqual(
+            synthesize.validate([{"text": "   ", "topic_ids": [0]}], self.STORIES), [])
+
+    def test_sources_are_the_union_of_the_cited_topics(self):
+        kept = synthesize.validate([{"text": "Both", "topic_ids": [0, 1]}], self.STORIES)
+        self.assertEqual(kept[0]["sources"], ["BBC", "Bloomberg", "Guardian"])
+
+    def test_the_prompt_carries_every_outlet_wording(self):
+        text = synthesize.prompt_for(self.STORIES)
+        self.assertIn("German finance chief blames Trump", text)
+        self.assertIn("carried by 2 outlets", text)
+
+    def test_without_a_key_it_declines_rather_than_guessing(self):
+        import os
+
+        original = os.environ.pop("ANTHROPIC_API_KEY", None)
+        try:
+            self.assertIsNone(synthesize.synthesize({"stories": self.STORIES}))
+        finally:
+            if original is not None:
+                os.environ["ANTHROPIC_API_KEY"] = original
+
+    def test_the_model_is_not_quietly_downgraded(self):
+        """Choosing a cheaper model is the bill-payer's call, not the code's."""
+        self.assertEqual(synthesize.MODEL, "claude-opus-5")
+
+    def test_written_lines_are_escaped_and_attributed(self):
+        markup = render.briefing_html({
+            "captured_at": "2026-08-24T12:00:00+00:00", "sources_read": ["BBC"],
+            "stories": [{"headline": "h", "url": "u", "sources": ["BBC"],
+                         "published": "2026-08-24T12:00:00+00:00"}],
+            "synthesis": {"model": "claude-opus-5", "written_at": "2026-08-24T12:05:00+00:00",
+                          "lines": [{"text": "<script>alert(1)</script>",
+                                     "topic_ids": [0], "sources": ["BBC"]}]},
+        }, render.ZoneInfo("UTC"))
+        self.assertNotIn("<script>alert", markup)
+        self.assertIn("Written by", markup)
+        self.assertIn("claude-opus-5", markup)
+
+    def test_the_published_headlines_render_when_nothing_was_written(self):
+        markup = render.briefing_html({
+            "captured_at": "2026-08-24T12:00:00+00:00", "sources_read": ["BBC"],
+            "stories": [{"headline": "Real headline", "url": "https://x/a",
+                         "sources": ["BBC"], "published": "2026-08-24T12:00:00+00:00"}],
+            "synthesis": {"lines": []},
+        }, render.ZoneInfo("UTC"))
+        self.assertIn("Real headline", markup)
+        self.assertNotIn("Written by", markup)
 
 
 class ConfigValidation(unittest.TestCase):

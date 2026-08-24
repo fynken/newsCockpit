@@ -96,6 +96,23 @@ jobs:
       - name: Refresh
         run: ./refresh.sh
 
+      # The one step that is neither free nor stdlib-only. It compounds the
+      # clustered headlines into a few written lines, and it is the only text
+      # on the board that no outlet published — so it is fenced: no key, no
+      # SDK, a refusal or an ungrounded answer all leave the real headlines in
+      # place. `|| true` because a briefing is not worth failing a refresh over.
+      - name: Compound the briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "No ANTHROPIC_API_KEY set — the briefing keeps its published headlines."
+            exit 0
+          fi
+          pip install --quiet anthropic
+          python3 -m cockpit synthesize || true
+          python3 -m cockpit build
+
       - name: Count what resolved live
         id: count
         run: |

@@ -43,6 +43,30 @@ def cmd_refresh(args) -> int:
     return 0
 
 
+def cmd_synthesize(args) -> int:
+    """Rewrite the briefing's headlines as compounded lines, if a key is set.
+
+    A no-op without ANTHROPIC_API_KEY, so the same command is safe in CI, on a
+    laptop and in a fork that has no key at all.
+    """
+    from . import synthesize as synth
+
+    snapshot = json.loads(config.SNAPSHOT_FILE.read_text(encoding="utf-8"))
+    briefing = snapshot.get("briefing") or {}
+    written = synth.synthesize(briefing)
+    if not written:
+        briefing.pop("synthesis", None)
+        snapshot["briefing"] = briefing
+        config.SNAPSHOT_FILE.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
+        return 0
+    briefing["synthesis"] = written
+    snapshot["briefing"] = briefing
+    config.SNAPSHOT_FILE.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
+    for line in written["lines"]:
+        print(f"  · {line['text']}")
+    return 0
+
+
 def cmd_status(args) -> int:
     cockpit = config.load()
     try:
@@ -109,6 +133,8 @@ def main(argv: list[str] | None = None) -> int:
         sub.add_argument("--only", nargs="*", help="restrict to these tile keys")
 
     add("build", cmd_build, "rebuild dist/index.html from the current snapshot")
+    add("synthesize", cmd_synthesize,
+        "rewrite the briefing as compounded lines (needs ANTHROPIC_API_KEY)")
     add("status", cmd_status, "print the last snapshot as a table")
 
     raw = add("raw", cmd_raw, "dump a CNBC payload to check field names")

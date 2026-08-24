@@ -403,6 +403,8 @@ body {
 }
 .brief-item:last-child { border-bottom: none; }
 .brief-item--multi { grid-template-columns: auto 1fr auto auto; }
+.brief-item--written { grid-template-columns: 1fr auto; align-items: baseline; }
+.brief-item--written .brief-headline { font-size: 14px; color: var(--ink); }
 /* How many newsrooms are running it — the reason the line is here at all. */
 .brief-count {
   display: inline-flex;
