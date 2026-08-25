@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T06:46:51+00:00",
+  "generated_at": "2026-08-25T13:54:55+00:00",
   "briefing": {
-    "captured_at": "2026-08-25T06:46:53+00:00",
+    "captured_at": "2026-08-25T13:54:56+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,33 +17,28 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Bessent\u2019s Mentor Druckenmiller Calls Bond Buying a Mistake",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-25/druckenmiller-bessent-s-early-mentor-calls-bond-buys-a-mistake",
+        "headline": "How Canada could hit back to hurt the US economy - and Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
-          "Bloomberg",
           "CNBC",
+          "Fortune",
           "Guardian",
-          "MarketWatch",
-          "NPR"
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions"
+            "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Iran Isolation Plan Puts US and China on Collision Course | Insight with Haslinda Amin 8/25/2026"
+            "source": "BBC",
+            "headline": "How Canada could hit back to hurt the US economy - and Trump"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Why Bessent\u2019s Iran D-Day Threat Hinges on His Willingness to Hit China"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Bessent\u2019s Mentor Druckenmiller Calls Bond Buying a Mistake"
+            "source": "CNBC",
+            "headline": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'"
           },
           {
             "source": "CNBC",
@@ -51,20 +46,23 @@
           },
           {
             "source": "CNBC",
-            "headline": "Prediction market traders doubtful Bessent\u2019s bond interventions will push yields lower"
+            "headline": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say"
           }
         ],
-        "published": "2026-08-25T06:24:36+00:00"
+        "published": "2026-08-25T13:07:35+00:00"
       },
       {
-        "headline": "Kimchi-Loving South Korea Ups China Cabbage Checks After Scandal",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-25/kimchi-loving-south-korea-ups-china-cabbage-checks-after-scandal",
+        "headline": "Nearly three million Teslas recalled in China over hidden door handles",
+        "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
-          "Bloomberg",
           "CNBC",
-          "CNBC Finance",
-          "Fortune"
+          "Fortune",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
@@ -73,129 +71,114 @@
             "headline": "Nearly three million Teslas recalled in China over hidden door handles"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Kimchi-Loving South Korea Ups China Cabbage Checks After Scandal"
-          },
-          {
             "source": "CNBC",
-            "headline": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "UPS is investing $2 billion in international, healthcare and supply chain businesses"
+            "headline": "China needs U.S. dollars but is building a hedge against Washington\u2019s sanctions"
           },
           {
             "source": "Fortune",
-            "headline": "Trump readies a new tariff to punish China for its flood of cheap exports\u2014without endangering his trade truce or his summit with Xi Jinping"
+            "headline": "Jeff Bezos ordered to reinstate fired Black opinion writer at Washington Post over Charlie Kirk reaction"
+          },
+          {
+            "source": "Guardian",
+            "headline": "China is the biggest buyer of Iran\u2019s oil. Could US sanctions threaten those ties?"
           }
         ],
-        "published": "2026-08-25T05:49:25+00:00"
+        "published": "2026-08-25T12:50:04+00:00"
       },
       {
-        "headline": "Bitcoin surges past $80,000 as crypto rally gathers pace",
-        "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+        "headline": "S&P 100 leads the breadth race: 78% of stocks are above 200-DMA",
+        "url": "https://seekingalpha.com/news/4636618-s-and-p-100-leads-the-breadth-race-78-percent-of-stocks-are-above-200-dma?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
-          "Bloomberg",
-          "CNBC",
-          "MarketWatch",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Stock Futures Rise After Chip Slide, Bitcoin Gains: Markets Wrap"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Bitcoin surges past $80,000 as crypto rally gathers pace"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s closing in on $80,000."
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Bitcoin hits three-month high above $80,800 on renewed investor optimism"
-          }
-        ],
-        "published": "2026-08-25T06:39:39+00:00"
-      },
-      {
-        "headline": "JLL: HK Luxury Home Rents Set to Rise 5% in 2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-25/jll-hk-luxury-home-rents-set-to-rise-5-in-2026-video",
-        "sources": [
-          "Bloomberg",
-          "Business Insider",
+          "Fortune",
           "Guardian",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "US-China Trade Tensions Return, US Chip Selloff Weighs on Asia | The Asia Trade 8/25/2026"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "JLL: HK Luxury Home Rents Set to Rise 5% in 2026"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Kaplan Fox Encourages UWM Holdings Corporation (UWMC) Investors with Losses to Contact the Firm Before October 13, 2026"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Southwestern Ontario Home Hardware Group Launches SW Buy Local 50"
+            "source": "Fortune",
+            "headline": "The S&P 500\u2019s earnings surge looks incredible. Two companies explain why"
           },
           {
             "source": "Guardian",
-            "headline": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 \u2013 in pictures"
+            "headline": "Heatwave health risks threaten insurer earnings, rating agency S&P warns"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Cadeler A/S reports 1H results; reaffirms FY 2026 outlook"
+            "headline": "S&P 100 leads the breadth race: 78% of stocks are above 200-DMA"
           }
         ],
-        "published": "2026-08-25T06:24:34+00:00"
+        "published": "2026-08-25T13:50:15+00:00"
       },
       {
-        "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-        "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+        "headline": "Latest Oil Market News and Analysis for Aug. 25",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
         "sources": [
-          "Business Insider",
-          "CNBC",
-          "CNBC Finance",
-          "Fortune"
+          "Bloomberg",
+          "Guardian",
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Business Insider",
-            "headline": "Paybis Widens Its Global Crypto Payment Methods to 20+ as Local Payment Rails Multiply Worldwide"
+            "source": "Bloomberg",
+            "headline": "Treasury Hasn't Done Enough to Lower Yields, iCapital's Suzuki Says"
           },
           {
-            "source": "CNBC",
-            "headline": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers"
+            "source": "Bloomberg",
+            "headline": "Treasury Can Send Strong Signal to Market, Swiber Says"
           },
           {
-            "source": "CNBC",
-            "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
+            "source": "Bloomberg",
+            "headline": "Treasury Move Just Another Way to a Weaker Dollar, Says SocGen\u2019s Juckes"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
+            "source": "Bloomberg",
+            "headline": "Latest Oil Market News and Analysis for Aug. 25"
           },
           {
-            "source": "Fortune",
-            "headline": "Goldman Sachs says America\u2019s energy sector will need 500,000 more workers by 2030\u2014and humanoid robots may have to step in"
+            "source": "Guardian",
+            "headline": "US Treasury\u2019s Scott Bessent \u2018will lose\u2019 battle with bond markets, former mentor warns"
+          },
+          {
+            "source": "NPR",
+            "headline": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?"
           }
         ],
-        "published": "2026-08-24T23:16:19+00:00"
+        "published": "2026-08-25T13:49:26+00:00"
+      },
+      {
+        "headline": "Hungary Cuts Interest Rate Again With Inflation at Decade-Low",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-25/hungary-cuts-interest-rate-again-with-inflation-at-decade-low",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Treasuries Gain as Oil Drop Eases Pressure on Inflation, Bessent"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Hungary Cuts Interest Rate Again With Inflation at Decade-Low"
+          },
+          {
+            "source": "CNBC",
+            "headline": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Oil prices decline as investors brush aside Bessent\u2019s \u2018economic D-Day\u2019 threat against Iran"
+          }
+        ],
+        "published": "2026-08-25T13:44:09+00:00"
       }
     ]
   },
@@ -316,9 +299,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           4.702
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          4.664
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:48+00:00",
+      "fetched_at": "2026-08-25T13:54:51+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -331,16 +318,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.702,
-      "change": -0.002,
-      "change_pct": -0.0425,
+      "value": 4.664,
+      "change": -0.04,
+      "change_pct": -0.8503,
       "prev_close": 4.704,
       "day_open": 4.704,
       "day_high": 4.716,
-      "day_low": 4.7,
+      "day_low": 4.647,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-25T02:46:47.000-0400",
+      "as_of": "2026-08-25T09:54:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -454,9 +441,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           4.24
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          4.208
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:48+00:00",
+      "fetched_at": "2026-08-25T13:54:51+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -469,16 +460,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.24,
-      "change": 0.004,
-      "change_pct": -0.0078,
+      "value": 4.208,
+      "change": -0.028,
+      "change_pct": 0.0508,
       "prev_close": 4.236,
       "day_open": 4.246,
       "day_high": 4.251,
-      "day_low": 4.238,
+      "day_low": 4.197,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-25T02:45:31.000-0400",
+      "as_of": "2026-08-25T09:53:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -592,9 +583,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           5.23
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          5.195
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:48+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -607,16 +602,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.23,
-      "change": -0.001,
-      "change_pct": -0.0191,
+      "value": 5.195,
+      "change": -0.036,
+      "change_pct": -0.6882,
       "prev_close": 5.231,
       "day_open": 5.233,
       "day_high": 5.247,
-      "day_low": 5.227,
+      "day_low": 5.178,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-25T02:46:43.000-0400",
+      "as_of": "2026-08-25T09:54:04.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -644,12 +639,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.1811155781387077,
-      "fetched_at": "2026-08-25T06:46:48+00:00",
+      "value": 1.1431155781387075,
+      "fetched_at": "2026-08-25T13:54:51+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8195957880329034,
-      "change": 0.36151979010580426,
-      "change_pct": 44.10952269209206,
+      "change": 0.323519790105804,
+      "change_pct": 39.47309086132297,
       "stale": false
     },
     {
@@ -757,9 +752,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           7652.86
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          7679.34
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -772,16 +771,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7652.86,
-      "change": -21.51,
-      "change_pct": -0.28,
+      "value": 7679.34,
+      "change": 26.48,
+      "change_pct": 0.35,
       "prev_close": 7652.86,
-      "day_open": 7663.38,
-      "day_high": 7670.3,
-      "day_low": 7638.17,
+      "day_open": 7676.66,
+      "day_high": 7686.11,
+      "day_low": 7676.66,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-25T09:54:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -891,9 +890,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           25980.19
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          26188.263
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -906,16 +909,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25980.19,
-      "change": -200.265,
-      "change_pct": -0.76,
+      "value": 26188.263,
+      "change": 208.073,
+      "change_pct": 0.8,
       "prev_close": 25980.19,
-      "day_open": 26065.32,
-      "day_high": 26109.961,
-      "day_low": 25910.816,
+      "day_open": 26148.71,
+      "day_high": 26225.827,
+      "day_low": 26134.096,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-25T09:54:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1025,11 +1028,17 @@
         [
           "2026-08-25T06:46:51+00:00",
           15.85
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          15.82
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -1038,16 +1047,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.85,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 15.82,
+      "change": -0.03,
+      "change_pct": -0.19,
       "prev_close": 15.85,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 15.71,
+      "day_high": 15.88,
+      "day_low": 15.13,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-25T09:54:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1181,9 +1190,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           1.1652
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          1.1669
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1196,16 +1209,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1652,
-      "change": -0.001,
-      "change_pct": -0.0857,
+      "value": 1.1669,
+      "change": 0.0007,
+      "change_pct": 0.06,
       "prev_close": 1.1662,
       "day_open": 1.1662,
-      "day_high": 1.1671,
-      "day_low": 1.1654,
+      "day_high": 1.1675,
+      "day_low": 1.1652,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-25T02:46:00.000-0400",
+      "as_of": "2026-08-25T09:54:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1323,9 +1336,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           0.8036
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          0.8026
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1338,16 +1355,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8036,
-      "change": 0.0013,
-      "change_pct": 0.162,
+      "value": 0.8026,
+      "change": 0.0003,
+      "change_pct": 0.0374,
       "prev_close": 0.8023,
       "day_open": 0.802,
-      "day_high": 0.804,
-      "day_low": 0.802,
+      "day_high": 0.8042,
+      "day_low": 0.8018,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-25T02:46:00.000-0400",
+      "as_of": "2026-08-25T09:54:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1461,9 +1478,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           4707.4
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          4666.5
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1476,16 +1497,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4707.4,
-      "change": 9.6,
-      "change_pct": 0.2,
+      "value": 4666.5,
+      "change": -31.3,
+      "change_pct": -0.67,
       "prev_close": 4697.8,
       "day_open": 4710.1,
       "day_high": 4755.0,
-      "day_low": 4670.5,
+      "day_low": 4663.4,
       "year_high": 5586.2,
-      "year_low": 3362.8,
-      "as_of": "2026-08-25T02:36:44.000-0400",
+      "year_low": 3396.1,
+      "as_of": "2026-08-25T09:44:40.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -1599,9 +1620,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           84.37
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          82.23
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1614,16 +1639,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 84.37,
-      "change": -0.64,
-      "change_pct": -0.75,
+      "value": 82.23,
+      "change": -2.78,
+      "change_pct": -3.27,
       "prev_close": 85.01,
       "day_open": 85.03,
       "day_high": 85.84,
-      "day_low": 84.11,
+      "day_low": 81.81,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-25T02:36:42.000-0400",
+      "as_of": "2026-08-25T09:44:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -1685,9 +1710,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           208.48
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          214.13
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1700,16 +1729,16 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 208.48,
-      "change": -6.24,
-      "change_pct": -2.91,
+      "value": 214.13,
+      "change": 5.65,
+      "change_pct": 2.71,
       "prev_close": 208.48,
-      "day_open": 215.53,
-      "day_high": 215.59,
-      "day_low": 207.25,
+      "day_open": 211.03,
+      "day_high": 214.73,
+      "day_low": 210.11,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-21",
+      "as_of": "2026-08-25T09:54:48.968-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
@@ -1771,9 +1800,13 @@
         [
           "2026-08-25T06:46:51+00:00",
           546.8
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          558.0
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1786,16 +1819,16 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 546.8,
-      "change": -13.62,
-      "change_pct": -2.43,
+      "value": 558.0,
+      "change": 11.2,
+      "change_pct": 2.05,
       "prev_close": 546.8,
-      "day_open": 554.18,
-      "day_high": 554.18,
-      "day_low": 540.75,
+      "day_open": 555.38,
+      "day_high": 560.38,
+      "day_low": 553.85,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-21",
+      "as_of": "2026-08-25T09:54:39.899-0400",
       "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
@@ -1857,14 +1890,18 @@
         [
           "2026-08-25T06:46:51+00:00",
           71.45041200283292
+        ],
+        [
+          "2026-08-25T13:54:55+00:00",
+          72.66249443311534
         ]
       ],
-      "value": 71.45041200283292,
-      "fetched_at": "2026-08-25T06:46:49+00:00",
-      "as_of": "2026-08-21",
+      "value": 72.66249443311534,
+      "fetched_at": "2026-08-25T13:54:52+00:00",
+      "as_of": "2026-08-25T09:54:39.899-0400",
       "prev_close": 71.45041200283292,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 1.2120824302824218,
+      "change_pct": 1.6963966985024022,
       "stale": false
     },
     {
@@ -2030,7 +2067,7 @@
           2.7
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -2212,7 +2249,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -2302,7 +2339,7 @@
           253.491
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:49+00:00",
+      "fetched_at": "2026-08-25T13:54:52+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -2390,7 +2427,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:50+00:00",
+      "fetched_at": "2026-08-25T13:54:53+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2466,7 +2503,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:51+00:00",
+      "fetched_at": "2026-08-25T13:54:54+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2515,7 +2552,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-25T06:46:50+00:00",
+      "fetched_at": "2026-08-25T13:54:53+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -2685,7 +2722,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:51+00:00",
+      "fetched_at": "2026-08-25T13:54:54+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -2868,7 +2905,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-25T06:46:51+00:00",
+      "fetched_at": "2026-08-25T13:54:55+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
