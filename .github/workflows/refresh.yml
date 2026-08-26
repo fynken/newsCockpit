@@ -93,6 +93,33 @@ jobs:
             echo '```'
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
+      # Temporary: the VIX tile fell to relayed with "no price field in CNBC
+      # payload". CNBC keys its quotes differently per instrument class, so
+      # something changed for .VIX specifically — this prints what it now sends
+      # so CNBC_FIELDS can be corrected. The Claude sandbox is 403 at CNBC, so
+      # here is the only place to look.
+      - name: What CNBC now sends for .VIX
+        run: |
+          {
+            echo ""
+            echo "### CNBC payload for .VIX"
+            echo '```json'
+            python3 -m cockpit raw .VIX --limit 3000 || echo "raw failed"
+            echo '```'
+            echo ""
+            echo "### Scalar fields, flattened"
+            echo '```'
+            python3 -m cockpit raw .VIX --limit 20000 2>/dev/null | python3 -c "
+import json,sys
+d=json.load(sys.stdin)
+node=d.get('FormattedQuoteResult',d).get('FormattedQuote',d) if isinstance(d,dict) else d
+rec=node[0] if isinstance(node,list) else node
+for k,v in sorted(rec.items()):
+    if not isinstance(v,(dict,list)): print(f'{k} = {v!r}')
+" || echo "flatten failed"
+            echo '```'
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Refresh
         run: ./refresh.sh
 
