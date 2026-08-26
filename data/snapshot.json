@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T06:49:43+00:00",
+  "generated_at": "2026-08-26T07:08:33+00:00",
   "briefing": {
-    "captured_at": "2026-08-26T06:49:44+00:00",
+    "captured_at": "2026-08-26T07:08:34+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,43 +17,42 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Iran, Oman Push Talks for \u2018Interim\u2019 Reopening of Hormuz",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-26/iran-oman-push-talks-for-interim-reopening-of-hormuz-video",
+        "headline": "Latest Oil Market News and Analysis for Aug. 26",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-25/latest-oil-market-news-and-analysis-for-aug-26",
         "sources": [
-          "BBC",
           "Bloomberg",
+          "Business Insider",
           "CNBC",
-          "Guardian",
-          "NPR"
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?"
-          },
-          {
-            "source": "BBC",
-            "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions"
+            "source": "Bloomberg",
+            "headline": "Oil Drops on Strait of Hormuz Breakthrough Hopes| Insight with Haslinda Amin 8/26/2026"
           },
           {
             "source": "Bloomberg",
-            "headline": "Iran, Oman Push Talks for \u2018Interim\u2019 Reopening of Hormuz"
+            "headline": "Indian Refiners Widen Oil Search as Attacks Hurt Russian Flows"
           },
           {
             "source": "Bloomberg",
-            "headline": "Why China Is Defiant Even as US Threatens Iran Sanctions"
+            "headline": "Stocks Rise in Runup to Nvidia, Oil Extends Slide: Markets Wrap"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Latest Oil Market News and Analysis for Aug. 26"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "Drive Wise Innovations Completes Review of EV Charging Locations and Market Competition in Florida"
           },
           {
             "source": "CNBC",
             "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S."
-          },
-          {
-            "source": "CNBC",
-            "headline": "Oil falls as the U.S. pivots to economic pressure on Iran"
           }
         ],
-        "published": "2026-08-26T06:30:45+00:00"
+        "published": "2026-08-26T07:06:07+00:00"
       },
       {
         "headline": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing",
@@ -151,10 +150,6 @@
             "headline": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing"
-          },
-          {
             "source": "Fortune",
             "headline": "How IHH Healthcare CEO Prem Kumar Nair is planning for a longer-lived Asia"
           }
@@ -162,41 +157,38 @@
         "published": "2026-08-26T04:20:16+00:00"
       },
       {
-        "headline": "SET Head: Lot of Interest From Firms to Raise Capital",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-26/set-head-lot-of-interest-from-firms-to-raise-capital-video",
+        "headline": "China denounces US threat of sanctions over trade with Iran",
+        "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
         "sources": [
           "BBC",
-          "Bloomberg",
-          "Business Insider"
+          "CNBC",
+          "Guardian",
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Firms scramble for battery power in Spain and Portugal"
+            "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Citi Expects Record Korea Capital Issuance in 2026 as Deals Jump"
+            "source": "CNBC",
+            "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Oil Drops on Strait of Hormuz Breakthrough Hopes| Insight with Haslinda Amin 8/26/2026"
+            "source": "Guardian",
+            "headline": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes"
           },
           {
-            "source": "Bloomberg",
-            "headline": "SET Head: Lot of Interest From Firms to Raise Capital"
+            "source": "Guardian",
+            "headline": "China denounces US threat of sanctions over trade with Iran"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Xi\u2019s Unprecedented Tax Clawback Hammers Chinese Listed Firms"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Historic Miami Dade County Courthouse Auction Shows Strong Investor Interest as Final Week Approaches"
+            "source": "NPR",
+            "headline": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?"
           }
         ],
-        "published": "2026-08-26T06:28:41+00:00"
+        "published": "2026-08-26T04:00:33+00:00"
       }
     ]
   },
@@ -329,9 +321,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           4.647
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          4.645
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:36+00:00",
+      "fetched_at": "2026-08-26T07:08:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -344,16 +340,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.647,
-      "change": 0.008,
-      "change_pct": 0.1725,
+      "value": 4.645,
+      "change": 0.006,
+      "change_pct": 0.1293,
       "prev_close": 4.639,
       "day_open": 4.637,
       "day_high": 4.649,
       "day_low": 4.633,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-26T02:49:23.000-0400",
+      "as_of": "2026-08-26T03:08:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -479,9 +475,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           4.197
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          4.197
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:36+00:00",
+      "fetched_at": "2026-08-26T07:08:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -503,7 +503,7 @@
       "day_low": 4.185,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-26T02:47:00.000-0400",
+      "as_of": "2026-08-26T03:08:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -629,9 +629,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           5.182
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          5.182
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:36+00:00",
+      "fetched_at": "2026-08-26T07:08:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -653,7 +657,7 @@
       "day_low": 5.167,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-26T02:48:02.000-0400",
+      "as_of": "2026-08-26T03:07:33.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -681,12 +685,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.126115578138708,
-      "fetched_at": "2026-08-26T06:49:36+00:00",
+      "value": 1.1241155781387073,
+      "fetched_at": "2026-08-26T07:08:28+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.754595788032904,
-      "change": 0.37151979010580405,
-      "change_pct": 49.23427827158823,
+      "change": 0.3695197901058034,
+      "change_pct": 48.96923571082676,
       "stale": false
     },
     {
@@ -808,7 +812,7 @@
           7677.28
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:36+00:00",
+      "fetched_at": "2026-08-26T07:08:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -954,7 +958,7 @@
           26151.3
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:36+00:00",
+      "fetched_at": "2026-08-26T07:08:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -988,16 +992,16 @@
       "provider": "cnbc",
       "symbol": ".VIX",
       "expr": "",
-      "url": "https://finance.yahoo.com/quote/^VIX",
+      "url": "https://www.cnbc.com/quotes/.VIX/",
       "unit": "",
       "prefix": "",
       "decimals": 2,
       "featured": false,
       "good_when": "down",
       "note": "Implied 30-day volatility on the S&P 500.",
-      "origin": "manual",
-      "error": "cnbc: no price field in CNBC payload (keys: ['EventData', 'altName', 'altSymbol', 'changetype', 'code', 'countryCode', 'curmktstatus', 'currencyCode', 'exchange', 'feedSymbol', 'high', 'issue_id']); yahoo: HTTP 429 from query1.finance.yahoo.com (rate-limited \u2014 this host's IP is being throttled)",
-      "source_note": "Yahoo Finance chart API, symbol ^VIX \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP).",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
       "series": [
         [
           "2026-08-21T11:43:04+00:00",
@@ -1098,22 +1102,35 @@
         [
           "2026-08-26T06:49:43+00:00",
           15.49
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          15.45
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:38+00:00",
-      "field_map": {},
-      "value": 15.49,
-      "change": -0.5200000000000014,
-      "change_pct": -3.2479700187382963,
-      "prev_close": 16.01,
-      "day_open": null,
-      "day_high": 15.88,
-      "day_low": 15.41,
+      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "field_map": {
+        "value": "last",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": ".VIX"
+      },
+      "value": 15.45,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 15.45,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-21T13:24:31+00:00",
-      "market_status": "",
-      "instrument_name": "",
+      "as_of": "2026-08-25",
+      "market_status": "REG_MKT",
+      "instrument_name": "CBOE Volatility Index",
       "stale": false
     },
     {
@@ -1257,9 +1274,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           1.1664
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          1.1667
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:38+00:00",
+      "fetched_at": "2026-08-26T07:08:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1272,16 +1293,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1664,
-      "change": -0.001,
-      "change_pct": -0.0857,
+      "value": 1.1667,
+      "change": -0.0007,
+      "change_pct": -0.06,
       "prev_close": 1.1674,
       "day_open": 1.1673,
       "day_high": 1.1677,
       "day_low": 1.1661,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-26T02:49:00.000-0400",
+      "as_of": "2026-08-26T03:08:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1411,9 +1432,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           0.8035
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          0.8032
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:38+00:00",
+      "fetched_at": "2026-08-26T07:08:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1426,16 +1451,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8035,
-      "change": 0.0021,
-      "change_pct": 0.262,
+      "value": 0.8032,
+      "change": 0.0018,
+      "change_pct": 0.2246,
       "prev_close": 0.8014,
       "day_open": 0.8014,
       "day_high": 0.8038,
       "day_low": 0.801,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-26T02:49:00.000-0400",
+      "as_of": "2026-08-26T03:08:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1561,9 +1586,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           4686.4
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          4689.5
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:39+00:00",
+      "fetched_at": "2026-08-26T07:08:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1576,16 +1605,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4686.4,
-      "change": -8.1,
-      "change_pct": -0.17,
+      "value": 4689.5,
+      "change": -5.0,
+      "change_pct": -0.11,
       "prev_close": 4694.5,
       "day_open": 4715.7,
       "day_high": 4730.9,
       "day_low": 4681.1,
       "year_high": 5586.2,
       "year_low": 3396.1,
-      "as_of": "2026-08-26T02:39:32.000-0400",
+      "as_of": "2026-08-26T02:58:25.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -1711,9 +1740,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           80.6
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          80.44
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:39+00:00",
+      "fetched_at": "2026-08-26T07:08:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1726,16 +1759,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 80.6,
-      "change": -1.76,
-      "change_pct": -2.14,
+      "value": 80.44,
+      "change": -1.92,
+      "change_pct": -2.33,
       "prev_close": 82.36,
       "day_open": 81.11,
       "day_high": 81.31,
       "day_low": 80.08,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-26T02:39:34.000-0400",
+      "as_of": "2026-08-26T02:58:25.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -1809,9 +1842,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           213.05
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          213.05
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:39+00:00",
+      "fetched_at": "2026-08-26T07:08:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1828,12 +1865,12 @@
       "change": 4.57,
       "change_pct": 2.19,
       "prev_close": 213.05,
-      "day_open": 211.03,
-      "day_high": 214.73,
-      "day_low": 210.11,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-25",
       "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
@@ -1907,9 +1944,13 @@
         [
           "2026-08-26T06:49:43+00:00",
           555.82
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          555.82
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:39+00:00",
+      "fetched_at": "2026-08-26T07:08:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1926,12 +1967,12 @@
       "change": 9.02,
       "change_pct": 1.65,
       "prev_close": 555.82,
-      "day_open": 555.38,
-      "day_high": 560.38,
-      "day_low": 550.66,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-25",
       "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
@@ -2005,11 +2046,15 @@
         [
           "2026-08-26T06:49:43+00:00",
           72.39803680470168
+        ],
+        [
+          "2026-08-26T07:08:33+00:00",
+          72.39803680470168
         ]
       ],
       "value": 72.39803680470168,
-      "fetched_at": "2026-08-26T06:49:36+00:00",
-      "as_of": "2026-08-24",
+      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "as_of": "2026-08-25",
       "prev_close": 72.39803680470168,
       "change": 0.0,
       "change_pct": 0.0,
@@ -2178,7 +2223,7 @@
           2.69
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:39+00:00",
+      "fetched_at": "2026-08-26T07:08:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -2360,7 +2405,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:40+00:00",
+      "fetched_at": "2026-08-26T07:08:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -2450,7 +2495,7 @@
           253.491
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:40+00:00",
+      "fetched_at": "2026-08-26T07:08:30+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -2538,7 +2583,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:42+00:00",
+      "fetched_at": "2026-08-26T07:08:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2614,7 +2659,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:42+00:00",
+      "fetched_at": "2026-08-26T07:08:32+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2663,7 +2708,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-26T06:49:42+00:00",
+      "fetched_at": "2026-08-26T07:08:31+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -2833,7 +2878,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:42+00:00",
+      "fetched_at": "2026-08-26T07:08:32+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3016,7 +3061,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-26T06:49:43+00:00",
+      "fetched_at": "2026-08-26T07:08:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
