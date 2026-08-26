@@ -397,34 +397,39 @@ body {
   display: grid;
   grid-template-columns: 1fr auto auto;
   align-items: baseline;
-  gap: 6px 14px;
-  padding: 11px 16px;
+  gap: 6px 16px;
+  padding: 15px 18px;
   border-bottom: 1px solid var(--hairline-2);
 }
 .brief-item:last-child { border-bottom: none; }
 .brief-item--multi { grid-template-columns: auto 1fr auto auto; }
 .brief-item--written { grid-template-columns: 1fr auto; align-items: baseline; }
-.brief-item--written .brief-headline { font-size: 14px; color: var(--ink); }
+.brief-item--written .brief-headline {
+  font-size: clamp(16px, 1.5vw, 19px);
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+}
 /* How many newsrooms are running it — the reason the line is here at all. */
 .brief-count {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 20px;
-  height: 20px;
-  border-radius: 5px;
+  min-width: 24px;
+  height: 24px;
+  border-radius: 6px;
   background: var(--accent-soft);
   color: var(--accent);
   font-family: "IBM Plex Mono", ui-monospace, monospace;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   align-self: center;
 }
 .brief-headline {
   color: var(--ink);
   text-decoration: none;
-  font-size: 13.5px;
-  line-height: 1.45;
+  font-size: clamp(15px, 1.35vw, 17px);
+  line-height: 1.4;
   text-wrap: pretty;
 }
 .brief-headline:hover { color: var(--accent); }
