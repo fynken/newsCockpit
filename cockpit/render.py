@@ -330,6 +330,39 @@ def featured_html(record, tz: ZoneInfo) -> str:
     )
 
 
+def _article_links(stories: list, topic_ids=None) -> dict:
+    """{outlet: url} for the topics given, or for all of them.
+
+    Older snapshots carry variants without a url — those outlets simply render
+    as plain text rather than as a link that goes nowhere.
+    """
+    links: dict[str, str] = {}
+    chosen = stories if topic_ids is None else [
+        stories[i] for i in topic_ids if 0 <= i < len(stories)
+    ]
+    for story in chosen:
+        for variant in story.get("variants") or []:
+            source, url = variant.get("source"), variant.get("url")
+            if source and url and source not in links:
+                links[source] = url
+    return links
+
+
+def _sources_html(names: list, links: dict) -> str:
+    """Outlet names, linked to what that outlet actually published."""
+    parts = []
+    for name in names:
+        url = links.get(name)
+        if url:
+            parts.append(
+                f'<a class="brief-source" href="{esc(url)}" target="_blank" '
+                f'rel="noopener">{esc(name)}</a>'
+            )
+        else:
+            parts.append(esc(name))
+    return " · ".join(parts)
+
+
 def briefing_html(briefing: dict, tz: ZoneInfo) -> str:
     """The headline strip. Every line is a headline an outlet published,
     verbatim and linked; nothing here is written by this board."""
@@ -345,7 +378,7 @@ def briefing_html(briefing: dict, tz: ZoneInfo) -> str:
     bullets = []
     for story in stories:
         names = story.get("sources", [])
-        sources = " · ".join(esc(name) for name in names)
+        sources = _sources_html(names, _article_links([story]))
         multi = len(names) > 1
         badge = (f'<span class="brief-count">{len(names)}</span>' if multi else "")
         when = local_time(story.get("published"), tz, fmt="%H:%M")
@@ -380,9 +413,13 @@ def _written_briefing(briefing: dict, synthesis: dict, tz: ZoneInfo) -> str:
     The outlets under each line are the ones whose headlines it was built from,
     so a reader can go and check the claim against the wire it came from.
     """
+    stories = (briefing or {}).get("stories") or []
     bullets = []
     for line in synthesis["lines"]:
-        sources = " · ".join(esc(name) for name in line.get("sources", []))
+        sources = _sources_html(
+            line.get("sources", []),
+            _article_links(stories, line.get("topic_ids")),
+        )
         bullets.append(
             '<li class="brief-item brief-item--written">'
             f'<span class="brief-headline">{esc(line.get("text", ""))}</span>'

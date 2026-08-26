@@ -649,6 +649,53 @@ class Synthesis(unittest.TestCase):
         """Choosing a cheaper model is the bill-payer's call, not the code's."""
         self.assertEqual(synthesize.MODEL, "claude-opus-5")
 
+    def test_each_outlet_links_to_what_that_outlet_published(self):
+        """Naming the outlets a line was compressed from is only useful if the
+        reader can open what they ran."""
+        markup = render.briefing_html({
+            "captured_at": "2026-08-26T12:00:00+00:00",
+            "sources_read": ["BBC", "Bloomberg"],
+            "stories": [{
+                "headline": "h", "url": "https://bbc/x", "sources": ["BBC", "Bloomberg"],
+                "published": "2026-08-26T12:00:00+00:00",
+                "variants": [{"source": "BBC", "headline": "a", "url": "https://bbc/x"},
+                             {"source": "Bloomberg", "headline": "b", "url": "https://bloom/y"}],
+            }],
+            "synthesis": {"model": "claude-opus-5", "written_at": "2026-08-26T12:05:00+00:00",
+                          "lines": [{"text": "Something happened", "topic_ids": [0],
+                                     "sources": ["BBC", "Bloomberg"]}]},
+        }, render.ZoneInfo("UTC"))
+        self.assertIn('href="https://bbc/x"', markup)
+        self.assertIn('href="https://bloom/y"', markup)
+        self.assertIn('rel="noopener"', markup)
+
+    def test_a_line_spanning_topics_links_every_outlet_it_cites(self):
+        stories = [
+            {"sources": ["BBC"], "variants": [{"source": "BBC", "headline": "a",
+                                               "url": "https://bbc/1"}]},
+            {"sources": ["NPR"], "variants": [{"source": "NPR", "headline": "b",
+                                               "url": "https://npr/2"}]},
+        ]
+        links = render._article_links(stories, [0, 1])
+        self.assertEqual(links, {"BBC": "https://bbc/1", "NPR": "https://npr/2"})
+        # A topic id outside the list must not raise or invent a link.
+        self.assertEqual(render._article_links(stories, [0, 99]),
+                         {"BBC": "https://bbc/1"})
+
+    def test_an_outlet_with_no_url_renders_as_plain_text(self):
+        """Older snapshots carry variants without a url; a link that goes
+        nowhere is worse than no link."""
+        markup = render._sources_html(["BBC", "NPR"], {"BBC": "https://bbc/1"})
+        self.assertIn('href="https://bbc/1"', markup)
+        self.assertIn("NPR", markup)
+        self.assertEqual(markup.count("<a "), 1)
+
+    def test_a_hostile_url_or_name_cannot_break_out(self):
+        markup = render._sources_html(
+            ['Evil" onmouseover="x'], {'Evil" onmouseover="x': 'https://a/"><script>'})
+        self.assertNotIn('onmouseover="x"', markup)
+        self.assertNotIn("<script>", markup)
+
     def test_written_lines_are_escaped_and_attributed(self):
         markup = render.briefing_html({
             "captured_at": "2026-08-24T12:00:00+00:00", "sources_read": ["BBC"],

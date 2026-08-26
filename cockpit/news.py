@@ -249,10 +249,13 @@ def briefing(feeds: dict[str, str], *, count: int = 5, max_age_hours: int = 24,
                 "url": story.lead.url,
                 "sources": story.sources,
                 "corroborated": len(story.sources) >= min_sources,
+                # Each outlet's own wording *and* its link: the synthesised
+                # line names the outlets it was compressed from, and naming
+                # them is only useful if a reader can open what they ran.
                 "variants": [
-                    {"source": item.source, "headline": item.headline}
+                    {"source": item.source, "headline": item.headline, "url": item.url}
                     for item in sorted(story.items, key=lambda i: i.source)
-                ][:6],
+                ][:8],
                 "published": story.newest.published.isoformat(timespec="seconds"),
             }
             for story in stories

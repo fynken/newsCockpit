@@ -426,6 +426,10 @@ body {
 /* Two desks running the same story is the one editorial signal this strip
    carries, so it is the one thing drawn in the accent. */
 .brief-sources--multi { color: var(--accent); }
+/* Each outlet links to what that outlet published — the line above it was
+   compressed from these, so they are the way to check it. */
+.brief-source { color: inherit; text-decoration: none; }
+.brief-source:hover { text-decoration: underline; text-underline-offset: 2px; }
 .brief-when {
   font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-variant-numeric: tabular-nums;
