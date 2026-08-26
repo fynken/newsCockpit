@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T11:24:43+00:00",
+  "generated_at": "2026-08-26T11:32:59+00:00",
   "briefing": {
-    "captured_at": "2026-08-26T11:24:45+00:00",
+    "captured_at": "2026-08-26T11:33:01+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -23,108 +23,65 @@
           "BBC",
           "Bloomberg",
           "CNBC",
-          "Guardian",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Cnooc\u2019s 1H Profit Rises After Iran War Boosted Oil Prices"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Oil prices extend slide as Iran and Oman eye temporary Hormuz deal"
-          }
-        ],
-        "published": "2026-08-26T08:54:00+00:00"
-      },
-      {
-        "headline": "JioBlackRock AMC CEO on India's Retail Investing Boom",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-26/jioblackrock-amc-ceo-on-india-s-retail-investing-boom-video",
-        "sources": [
-          "Bloomberg",
-          "CNBC Finance",
-          "Fortune",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
+            "source": "BBC",
+            "headline": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+            "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "source": "Bloomberg",
-            "headline": "JioBlackRock AMC CEO on India's Retail Investing Boom"
+            "headline": "Cnooc\u2019s 1H Profit Rises After Iran War Boosted Oil Prices",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-26/cnooc-first-half-profit-rises-after-iran-war-boosted-oil-prices"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it"
+            "source": "CNBC",
+            "headline": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
+            "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines"
-          },
-          {
-            "source": "Fortune",
-            "headline": "How IHH Healthcare CEO Prem Kumar Nair is planning for a longer-lived Asia"
+            "source": "CNBC",
+            "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+            "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html"
           },
           {
             "source": "Guardian",
-            "headline": "Instagram CEO denies company hid low use of teen safety feature in Meta trial"
+            "headline": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
+            "url": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes"
           }
         ],
-        "published": "2026-08-26T09:02:40+00:00"
+        "published": "2026-08-26T08:50:20+00:00"
       },
       {
-        "headline": "Capital Economics' MacAdam on ECB, Kevin Warsh, Bessent",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-26/capital-economics-macadam-on-ecb-kevin-warsh-bessent-video",
+        "headline": "Meta considered slashing teams up to 60% in AI push, report says",
+        "url": "https://seekingalpha.com/news/4636916-meta-considered-slashing-teams-up-to-60-in-ai-push-report-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
-          "Bloomberg",
           "Guardian",
+          "NPR",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Capital Economics' MacAdam on ECB, Kevin Warsh, Bessent"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Morgan Stanley\u2019s Khanduja Cuts Long-Bond Bets on Bessent Buyback Move"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "The \u2018Bessent Put\u2019 Might Actually Be Working for the Bond Market"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Saudis Deepen Capital Market Reforms With Derivatives Push"
-          },
-          {
             "source": "Guardian",
-            "headline": "Billionaire investor says he used AI to write critique of former mentee Scott Bessent"
+            "headline": "Instagram CEO denies company hid low use of teen safety feature in Meta trial",
+            "url": "https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit"
+          },
+          {
+            "source": "NPR",
+            "headline": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Victory Capital to acquire First Eagle Investments in $7B deal"
+            "headline": "Meta considered slashing teams up to 60% in AI push, report says",
+            "url": "https://seekingalpha.com/news/4636916-meta-considered-slashing-teams-up-to-60-in-ai-push-report-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-08-26T11:10:32+00:00"
+        "published": "2026-08-26T11:22:05+00:00"
       },
       {
         "headline": "Is the Trump Treasury panicking over the level of US debt?",
@@ -138,27 +95,38 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties"
+            "headline": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+            "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html"
           },
           {
             "source": "Fortune",
-            "headline": "There\u2019s a deal on the table to reopen the Strait of Hormuz, but Trump isn\u2019t part of it\u2014yet"
+            "headline": "There\u2019s a deal on the table to reopen the Strait of Hormuz, but Trump isn\u2019t part of it\u2014yet",
+            "url": "https://fortune.com/2026/08/26/deal-open-the-strait-of-hormuz-iran-us-trump/"
           },
           {
             "source": "Guardian",
-            "headline": "Groups sue Trump\u2019s EPA over fast-track approval of toxic datacenter chemicals"
+            "headline": "Groups sue Trump\u2019s EPA over fast-track approval of toxic datacenter chemicals",
+            "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals"
           },
           {
             "source": "Guardian",
-            "headline": "With no friends left to burn, Trump is running out of diplomatic ammunition | Rafael Behr"
+            "headline": "With no friends left to burn, Trump is running out of diplomatic ammunition | Rafael Behr",
+            "url": "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president"
           },
           {
             "source": "Guardian",
-            "headline": "Is the Trump Treasury panicking over the level of US debt?"
+            "headline": "Is the Trump Treasury panicking over the level of US debt?",
+            "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt"
           },
           {
             "source": "Guardian",
-            "headline": "The Guardian view on Trump\u2019s economic threats: bullies can overplay their hand | Editorial"
+            "headline": "The Guardian view on Trump\u2019s economic threats: bullies can overplay their hand | Editorial",
+            "url": "https://www.theguardian.com/commentisfree/2026/aug/25/the-guardian-view-on-trumps-economic-threats-bullies-can-overplay-their-hand"
+          },
+          {
+            "source": "Guardian",
+            "headline": "\u2018Economic D-day\u2019: How desperate is Trump to end Iran war? - The Latest",
+            "url": "https://www.theguardian.com/news/video/2026/aug/25/economic-d-day-how-desperate-is-trump-to-end-iran-war-the-latest"
           }
         ],
         "published": "2026-08-26T11:00:12+00:00"
@@ -175,75 +143,115 @@
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Banco BPM Says Paschi's Offer 'Does Not Recognize a Premium'"
+            "headline": "Banco BPM Says Paschi's Offer 'Does Not Recognize a Premium'",
+            "url": "https://www.bloomberg.com/news/videos/2026-08-26/banco-bpm-says-paschi-bid-does-not-recognize-a-premium-video"
           },
           {
             "source": "Business Insider",
-            "headline": "DP World\u00e2\u0080\u0099s Port of Callao Becomes Latin America's First Terminal to Offer Shore Power"
+            "headline": "DP World\u00e2\u0080\u0099s Port of Callao Becomes Latin America's First Terminal to Offer Shore Power",
+            "url": "https://markets.businessinsider.com/news/stocks/dp-world-s-port-of-callao-becomes-latin-america-s-first-terminal-to-offer-shore-power-1036490707"
           },
           {
             "source": "MarketWatch",
-            "headline": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend."
+            "headline": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+            "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories"
           }
         ],
         "published": "2026-08-26T10:16:00+00:00"
+      },
+      {
+        "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+        "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+        "sources": [
+          "CNBC",
+          "Guardian",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+            "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "China needs U.S. dollars but is building a hedge against Washington\u2019s sanctions",
+            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+            "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates \u2013 video",
+            "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney"
+          },
+          {
+            "source": "NPR",
+            "headline": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+          }
+        ],
+        "published": "2026-08-26T10:00:41+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Iran and Oman weigh a temporary Hormuz shipping deal and mine clearing; oil slides, US holds off sanctions",
+          "text": "Canada sets 50% retaliatory tariffs on hundreds of US imports, about $20bn of goods.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "CNBC",
+            "Guardian",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Iran and Oman prepare a Strait of Hormuz shipping and mine-clearing deal; US holds back secondary sanctions.",
           "topic_ids": [
             0,
-            3
+            2
           ],
           "sources": [
             "BBC",
             "Bloomberg",
             "CNBC",
             "Fortune",
-            "Guardian",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Morgan Stanley cuts long-bond bets after Bessent's buyback move; 'Bessent put' seen working for bonds",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "Guardian",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Victory Capital to buy First Eagle Investments in a $7B deal",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "Guardian",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Paramount's David Ellison stuck at the final hurdle in his bid for Warner Bros Discovery",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC Finance",
-            "Fortune",
             "Guardian"
           ]
         },
         {
-          "text": "Groups sue Trump's EPA over fast-track approval of toxic datacenter chemicals",
+          "text": "Cnooc first-half profit rises after the Iran war lifted oil prices.",
           "topic_ids": [
-            3
+            0
+          ],
+          "sources": [
+            "BBC",
+            "Bloomberg",
+            "CNBC",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Instagram chief Mosseri defends Meta in child safety trial; report says Meta weighed cutting teams up to 60% for AI.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Guardian",
+            "NPR",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Groups sue Trump's EPA over fast-track approval of toxic datacenter chemicals.",
+          "topic_ids": [
+            2
           ],
           "sources": [
             "CNBC",
@@ -253,7 +261,7 @@
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-26T11:24:55+00:00"
+      "written_at": "2026-08-26T11:33:11+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -401,9 +409,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           4.643
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          4.637
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -416,16 +428,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.643,
-      "change": 0.004,
-      "change_pct": 0.0862,
+      "value": 4.637,
+      "change": -0.002,
+      "change_pct": -0.0431,
       "prev_close": 4.639,
       "day_open": 4.637,
       "day_high": 4.652,
       "day_low": 4.633,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-26T07:24:33.000-0400",
+      "as_of": "2026-08-26T07:32:52.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -567,9 +579,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           4.201
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          4.197
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -582,16 +598,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.201,
-      "change": -0.003,
-      "change_pct": 0.0078,
+      "value": 4.197,
+      "change": -0.007,
+      "change_pct": 0.0156,
       "prev_close": 4.204,
       "day_open": 4.193,
       "day_high": 4.205,
       "day_low": 4.185,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-26T07:21:31.000-0400",
+      "as_of": "2026-08-26T07:32:05.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -733,9 +749,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           5.176
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          5.171
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -748,16 +768,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.176,
-      "change": 0.002,
-      "change_pct": 0.0387,
+      "value": 5.171,
+      "change": -0.003,
+      "change_pct": -0.058,
       "prev_close": 5.174,
       "day_open": 5.17,
       "day_high": 5.186,
       "day_low": 5.167,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-26T07:24:26.000-0400",
+      "as_of": "2026-08-26T07:32:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -785,12 +805,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.1221155781387075,
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "value": 1.1161155781387073,
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.754595788032904,
-      "change": 0.3675197901058036,
-      "change_pct": 48.70419315006539,
+      "change": 0.3615197901058034,
+      "change_pct": 47.9090654677812,
       "stale": false
     },
     {
@@ -912,7 +932,7 @@
           7677.28
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1058,7 +1078,7 @@
           26151.3
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1214,9 +1234,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           15.62
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          15.63
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1229,16 +1253,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.62,
-      "change": 0.17,
-      "change_pct": 1.1,
+      "value": 15.63,
+      "change": 0.18,
+      "change_pct": 1.17,
       "prev_close": 15.45,
       "day_open": 15.65,
       "day_high": 15.74,
       "day_low": 15.6,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-26T07:24:31.000-0400",
+      "as_of": "2026-08-26T07:32:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1400,9 +1424,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           1.166
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          1.1663
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1415,16 +1443,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.166,
-      "change": -0.0014,
-      "change_pct": -0.1199,
+      "value": 1.1663,
+      "change": -0.0011,
+      "change_pct": -0.0942,
       "prev_close": 1.1674,
       "day_open": 1.1673,
       "day_high": 1.1677,
       "day_low": 1.1661,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-26T07:24:00.000-0400",
+      "as_of": "2026-08-26T07:32:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1570,9 +1598,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           0.8042
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          0.8039
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1585,16 +1617,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8042,
-      "change": 0.0028,
-      "change_pct": 0.3494,
+      "value": 0.8039,
+      "change": 0.0025,
+      "change_pct": 0.312,
       "prev_close": 0.8014,
       "day_open": 0.8014,
-      "day_high": 0.8043,
+      "day_high": 0.8044,
       "day_low": 0.801,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-26T07:24:00.000-0400",
+      "as_of": "2026-08-26T07:32:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1736,9 +1768,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           4674.0
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          4673.0
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1751,16 +1787,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4674.0,
-      "change": -20.5,
-      "change_pct": -0.44,
+      "value": 4673.0,
+      "change": -21.5,
+      "change_pct": -0.46,
       "prev_close": 4694.5,
       "day_open": 4715.7,
       "day_high": 4730.9,
       "day_low": 4668.8,
       "year_high": 5586.2,
       "year_low": 3396.1,
-      "as_of": "2026-08-26T07:14:24.000-0400",
+      "as_of": "2026-08-26T07:22:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -1902,9 +1938,13 @@
         [
           "2026-08-26T11:24:43+00:00",
           80.18
+        ],
+        [
+          "2026-08-26T11:32:59+00:00",
+          80.18
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1926,7 +1966,7 @@
       "day_low": 79.62,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-26T07:14:32.000-0400",
+      "as_of": "2026-08-26T07:22:52.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2006,7 +2046,7 @@
           213.05
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2108,7 +2148,7 @@
           555.82
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2211,7 +2251,7 @@
         ]
       ],
       "value": 72.39803680470168,
-      "fetched_at": "2026-08-26T11:24:39+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "as_of": "2026-08-25",
       "prev_close": 72.39803680470168,
       "change": 0.0,
@@ -2381,7 +2421,7 @@
           2.69
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:40+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -2563,7 +2603,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:40+00:00",
+      "fetched_at": "2026-08-26T11:32:57+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -2653,7 +2693,7 @@
           253.491
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:40+00:00",
+      "fetched_at": "2026-08-26T11:32:58+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -2741,7 +2781,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:41+00:00",
+      "fetched_at": "2026-08-26T11:32:58+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2817,7 +2857,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:42+00:00",
+      "fetched_at": "2026-08-26T11:32:59+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2866,7 +2906,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-26T11:24:41+00:00",
+      "fetched_at": "2026-08-26T11:32:58+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3036,7 +3076,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:43+00:00",
+      "fetched_at": "2026-08-26T11:32:59+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3219,7 +3259,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-26T11:24:43+00:00",
+      "fetched_at": "2026-08-26T11:32:59+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
