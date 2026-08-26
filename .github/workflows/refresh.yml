@@ -100,23 +100,12 @@ jobs:
       # here is the only place to look.
       - name: What CNBC now sends for .VIX
         run: |
+          python3 -m cockpit raw .VIX --limit 20000 > /tmp/vix.json || echo "raw failed"
           {
             echo ""
-            echo "### CNBC payload for .VIX"
-            echo '```json'
-            python3 -m cockpit raw .VIX --limit 3000 || echo "raw failed"
+            echo "### CNBC scalar fields for .VIX"
             echo '```'
-            echo ""
-            echo "### Scalar fields, flattened"
-            echo '```'
-            python3 -m cockpit raw .VIX --limit 20000 2>/dev/null | python3 -c "
-import json,sys
-d=json.load(sys.stdin)
-node=d.get('FormattedQuoteResult',d).get('FormattedQuote',d) if isinstance(d,dict) else d
-rec=node[0] if isinstance(node,list) else node
-for k,v in sorted(rec.items()):
-    if not isinstance(v,(dict,list)): print(f'{k} = {v!r}')
-" || echo "flatten failed"
+            python3 -c "import json;d=json.load(open('/tmp/vix.json'));n=d.get('FormattedQuoteResult',d);n=n.get('FormattedQuote',n) if isinstance(n,dict) else n;r=n[0] if isinstance(n,list) else n;[print(k,'=',repr(v)) for k,v in sorted(r.items()) if not isinstance(v,(dict,list))]" || echo "flatten failed"
             echo '```'
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
