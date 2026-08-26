@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T07:08:33+00:00",
+  "generated_at": "2026-08-26T07:12:55+00:00",
   "briefing": {
-    "captured_at": "2026-08-26T07:08:34+00:00",
+    "captured_at": "2026-08-26T07:12:56+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,85 +17,10 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Latest Oil Market News and Analysis for Aug. 26",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-25/latest-oil-market-news-and-analysis-for-aug-26",
+        "headline": "Canada announces retaliatory tariffs on wide range of US goods",
+        "url": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
         "sources": [
-          "Bloomberg",
-          "Business Insider",
           "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Oil Drops on Strait of Hormuz Breakthrough Hopes| Insight with Haslinda Amin 8/26/2026"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Indian Refiners Widen Oil Search as Attacks Hurt Russian Flows"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Stocks Rise in Runup to Nvidia, Oil Extends Slide: Markets Wrap"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Latest Oil Market News and Analysis for Aug. 26"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Drive Wise Innovations Completes Review of EV Charging Locations and Market Competition in Florida"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S."
-          }
-        ],
-        "published": "2026-08-26T07:06:07+00:00"
-      },
-      {
-        "headline": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing",
-        "sources": [
-          "Bloomberg",
-          "Business Insider",
-          "CNBC",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Alibaba Rallies as Jack Ma Backs Record Share Sale | The China Show | 8/26/2026"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "707 Cayman Holdings Limited Announces Signing of Term Sheet to Acquire Crucial Innovation Inc., Supported by US$10.25 Million Financing Led by GeoNova Holdings"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods"
-          },
-          {
-            "source": "CNBC",
-            "headline": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Bond rout ending? Massive bets on bond rally dominate options market"
-          }
-        ],
-        "published": "2026-08-26T05:47:05+00:00"
-      },
-      {
-        "headline": "Meta, states have reportedly discussed settling teen social media harm case",
-        "url": "https://seekingalpha.com/news/4636835-meta-states-have-reportedly-discussed-settling-teen-social-media-harm-case?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
           "Guardian",
           "MarketWatch",
           "NPR",
@@ -104,23 +29,31 @@
         "corroborated": true,
         "variants": [
           {
-            "source": "Guardian",
-            "headline": "Instagram CEO denies company hid low use of teen safety feature in Meta trial"
+            "source": "CNBC",
+            "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S."
           },
           {
-            "source": "MarketWatch",
-            "headline": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card"
+            "source": "CNBC",
+            "headline": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran"
           },
           {
-            "source": "NPR",
-            "headline": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial"
+            "source": "CNBC",
+            "headline": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Meta, states have reportedly discussed settling teen social media harm case"
+            "source": "CNBC",
+            "headline": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S."
+          },
+          {
+            "source": "CNBC",
+            "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods"
           }
         ],
-        "published": "2026-08-26T05:27:03+00:00"
+        "published": "2026-08-26T07:07:36+00:00"
       },
       {
         "headline": "H&H Group CEO on Earnings, Business Outlook",
@@ -129,7 +62,8 @@
           "Bloomberg",
           "Business Insider",
           "CNBC Finance",
-          "Fortune"
+          "Fortune",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
@@ -152,6 +86,10 @@
           {
             "source": "Fortune",
             "headline": "How IHH Healthcare CEO Prem Kumar Nair is planning for a longer-lived Asia"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Instagram CEO denies company hid low use of teen safety feature in Meta trial"
           }
         ],
         "published": "2026-08-26T04:20:16+00:00"
@@ -169,11 +107,19 @@
         "variants": [
           {
             "source": "BBC",
+            "headline": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?"
+          },
+          {
+            "source": "BBC",
             "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions"
           },
           {
             "source": "CNBC",
             "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission"
+          },
+          {
+            "source": "CNBC",
+            "headline": "China needs U.S. dollars but is building a hedge against Washington\u2019s sanctions"
           },
           {
             "source": "Guardian",
@@ -182,13 +128,71 @@
           {
             "source": "Guardian",
             "headline": "China denounces US threat of sanctions over trade with Iran"
-          },
-          {
-            "source": "NPR",
-            "headline": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?"
           }
         ],
         "published": "2026-08-26T04:00:33+00:00"
+      },
+      {
+        "headline": "JATT III Acquisition prices $60M IPO at $10 per share",
+        "url": "https://seekingalpha.com/news/4636857-jatt-iii-acquisition-prices-60m-ipo-at-10-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "sources": [
+          "Bloomberg",
+          "MarketWatch",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Bollywood-Backed Wedding Fashion Retailer to Sell Shares in IPO"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "JATT III Acquisition prices $60M IPO at $10 per share"
+          }
+        ],
+        "published": "2026-08-26T06:53:14+00:00"
+      },
+      {
+        "headline": "SET Head: Lot of Interest From Firms to Raise Capital",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-26/set-head-lot-of-interest-from-firms-to-raise-capital-video",
+        "sources": [
+          "BBC",
+          "Bloomberg",
+          "Business Insider"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Firms scramble for battery power in Spain and Portugal"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Citi Expects Record Korea Capital Issuance in 2026 as Deals Jump"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Oil Drops on Strait of Hormuz Breakthrough Hopes| Insight with Haslinda Amin 8/26/2026"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "SET Head: Lot of Interest From Firms to Raise Capital"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Xi\u2019s Unprecedented Tax Clawback Hammers Chinese Listed Firms"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "Historic Miami Dade County Courthouse Auction Shows Strong Investor Interest as Final Week Approaches"
+          }
+        ],
+        "published": "2026-08-26T06:28:41+00:00"
       }
     ]
   },
@@ -325,9 +329,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           4.645
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          4.647
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -340,16 +348,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.645,
-      "change": 0.006,
-      "change_pct": 0.1293,
+      "value": 4.647,
+      "change": 0.008,
+      "change_pct": 0.1725,
       "prev_close": 4.639,
       "day_open": 4.637,
       "day_high": 4.649,
       "day_low": 4.633,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-26T03:08:24.000-0400",
+      "as_of": "2026-08-26T03:08:39.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -479,9 +487,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           4.197
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          4.197
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -503,7 +515,7 @@
       "day_low": 4.185,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-26T03:08:18.000-0400",
+      "as_of": "2026-08-26T03:11:45.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -633,9 +645,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           5.182
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          5.183
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -648,16 +664,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.182,
-      "change": 0.008,
-      "change_pct": 0.1546,
+      "value": 5.183,
+      "change": 0.009,
+      "change_pct": 0.1739,
       "prev_close": 5.174,
       "day_open": 5.17,
       "day_high": 5.186,
       "day_low": 5.167,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-26T03:07:33.000-0400",
+      "as_of": "2026-08-26T03:11:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -685,12 +701,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.1241155781387073,
-      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "value": 1.126115578138708,
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.754595788032904,
-      "change": 0.3695197901058034,
-      "change_pct": 48.96923571082676,
+      "change": 0.37151979010580405,
+      "change_pct": 49.23427827158823,
       "stale": false
     },
     {
@@ -812,7 +828,7 @@
           7677.28
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -958,7 +974,7 @@
           26151.3
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1108,7 +1124,7 @@
           15.45
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1278,9 +1294,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           1.1667
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          1.1668
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1293,16 +1313,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1667,
-      "change": -0.0007,
-      "change_pct": -0.06,
+      "value": 1.1668,
+      "change": -0.0006,
+      "change_pct": -0.0514,
       "prev_close": 1.1674,
       "day_open": 1.1673,
       "day_high": 1.1677,
       "day_low": 1.1661,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-26T03:08:00.000-0400",
+      "as_of": "2026-08-26T03:12:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1436,9 +1456,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           0.8032
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          0.803
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1451,16 +1475,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8032,
-      "change": 0.0018,
-      "change_pct": 0.2246,
+      "value": 0.803,
+      "change": 0.0016,
+      "change_pct": 0.1997,
       "prev_close": 0.8014,
       "day_open": 0.8014,
       "day_high": 0.8038,
       "day_low": 0.801,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-26T03:08:00.000-0400",
+      "as_of": "2026-08-26T03:12:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1590,9 +1614,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           4689.5
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          4694.7
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1605,16 +1633,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4689.5,
-      "change": -5.0,
-      "change_pct": -0.11,
+      "value": 4694.7,
+      "change": 0.2,
+      "change_pct": 0.0,
       "prev_close": 4694.5,
       "day_open": 4715.7,
       "day_high": 4730.9,
       "day_low": 4681.1,
       "year_high": 5586.2,
       "year_low": 3396.1,
-      "as_of": "2026-08-26T02:58:25.000-0400",
+      "as_of": "2026-08-26T03:02:41.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -1744,9 +1772,13 @@
         [
           "2026-08-26T07:08:33+00:00",
           80.44
+        ],
+        [
+          "2026-08-26T07:12:55+00:00",
+          80.44
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:29+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1768,7 +1800,7 @@
       "day_low": 80.08,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-26T02:58:25.000-0400",
+      "as_of": "2026-08-26T03:02:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -1848,7 +1880,7 @@
           213.05
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:30+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1950,7 +1982,7 @@
           555.82
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:30+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2053,7 +2085,7 @@
         ]
       ],
       "value": 72.39803680470168,
-      "fetched_at": "2026-08-26T07:08:28+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "as_of": "2026-08-25",
       "prev_close": 72.39803680470168,
       "change": 0.0,
@@ -2223,7 +2255,7 @@
           2.69
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:30+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -2405,7 +2437,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:30+00:00",
+      "fetched_at": "2026-08-26T07:12:52+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -2495,7 +2527,7 @@
           253.491
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:30+00:00",
+      "fetched_at": "2026-08-26T07:12:53+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -2583,7 +2615,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:31+00:00",
+      "fetched_at": "2026-08-26T07:12:54+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2659,7 +2691,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:32+00:00",
+      "fetched_at": "2026-08-26T07:12:54+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2708,7 +2740,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-26T07:08:31+00:00",
+      "fetched_at": "2026-08-26T07:12:54+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -2878,7 +2910,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:32+00:00",
+      "fetched_at": "2026-08-26T07:12:54+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3061,7 +3093,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-26T07:08:33+00:00",
+      "fetched_at": "2026-08-26T07:12:55+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
