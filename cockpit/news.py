@@ -36,6 +36,12 @@ after before over under new more most less than then this these those it's
 
 #: How much of two headlines' vocabulary must overlap to call them one story.
 SAME_STORY = 0.45
+#: When only one distinctive entity is shared, the headlines must also have
+#: this much vocabulary in common. Rarity alone over-merges: in a corpus where
+#: "Trump" is under the rarity ceiling, an EPA lawsuit and a South Korea
+#: defence story become one cluster, and then the outlet links under a line
+#: point at whatever each outlet contributed to the pile.
+WEAK_MATCH_OVERLAP = 0.20
 #: …or this many distinctive tokens in common. Two desks rarely phrase an event
 #: alike — "Fed holds rates steady as inflation cools" against "Powell signals
 #: patience as Fed leaves rates unchanged" shares little vocabulary and one
@@ -150,7 +156,9 @@ def _distinctive(items: list[Item]) -> set[str]:
     for item in items:
         for entity in item.entities():
             seen[entity] = seen.get(entity, 0) + 1
-    ceiling = max(2, len(items) // 10)
+    # Tighter than it looks: a name in a twentieth of the day's headlines is
+    # still a common name, and treating it as identifying merges the unrelated.
+    ceiling = max(2, len(items) // 20)
     return {entity for entity, count in seen.items() if count <= ceiling}
 
 
@@ -169,7 +177,7 @@ def group(items: list[Item]) -> list[Story]:
             shared = entities & lead.entities()
             if (overlap >= SAME_STORY
                     or len(shared) >= SHARED_ENTITIES
-                    or shared & distinctive):
+                    or (shared & distinctive and overlap >= WEAK_MATCH_OVERLAP)):
                 story.items.append(item)
                 break
         else:

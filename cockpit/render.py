@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import html
 import json
+import re
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
@@ -330,22 +331,32 @@ def featured_html(record, tz: ZoneInfo) -> str:
     )
 
 
-def _article_links(stories: list, topic_ids=None) -> dict:
+def _article_links(stories: list, topic_ids=None, line: str = "") -> dict:
     """{outlet: url} for the topics given, or for all of them.
 
-    Older snapshots carry variants without a url — those outlets simply render
-    as plain text rather than as a link that goes nowhere.
+    Where an outlet ran more than one piece across the cited topics, pick the
+    one whose headline is closest to the line being shown. A cluster can hold
+    more than one story, and sending a reader to the wrong article under a
+    line that names their outlet is worse than not linking at all.
+
+    Older snapshots carry variants without a url — those outlets render as
+    plain text rather than as a link that goes nowhere.
     """
-    links: dict[str, str] = {}
+    wanted = set(re.findall(r"[a-z0-9']+", line.lower())) if line else set()
+    best: dict[str, tuple[int, str]] = {}
     chosen = stories if topic_ids is None else [
         stories[i] for i in topic_ids if 0 <= i < len(stories)
     ]
     for story in chosen:
         for variant in story.get("variants") or []:
             source, url = variant.get("source"), variant.get("url")
-            if source and url and source not in links:
-                links[source] = url
-    return links
+            if not source or not url:
+                continue
+            headline = set(re.findall(r"[a-z0-9']+", (variant.get("headline") or "").lower()))
+            score = len(wanted & headline)
+            if source not in best or score > best[source][0]:
+                best[source] = (score, url)
+    return {source: url for source, (_, url) in best.items()}
 
 
 def _sources_html(names: list, links: dict) -> str:
@@ -418,7 +429,7 @@ def _written_briefing(briefing: dict, synthesis: dict, tz: ZoneInfo) -> str:
     for line in synthesis["lines"]:
         sources = _sources_html(
             line.get("sources", []),
-            _article_links(stories, line.get("topic_ids")),
+            _article_links(stories, line.get("topic_ids"), line.get("text", "")),
         )
         bullets.append(
             '<li class="brief-item brief-item--written">'

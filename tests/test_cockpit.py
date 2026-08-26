@@ -532,6 +532,18 @@ class Briefing(unittest.TestCase):
         ])
         self.assertEqual(len(stories), 2)
 
+    def test_a_common_name_alone_does_not_merge_unrelated_stories(self):
+        """Rarity alone over-merged: with "Trump" under the corpus ceiling, an
+        EPA lawsuit and a South Korea defence story became one cluster."""
+        items = [self._item("Trump EPA fast-tracks datacenter coolant approval", "Guardian", 12),
+                 self._item("Trump and South Korea agree new defence terms", "CNBC", 11)]
+        self.assertEqual(len(news.group(items)), 2)
+
+    def test_a_shared_rare_name_with_real_overlap_still_merges(self):
+        items = [self._item("Qiagen names Pratt as chief executive", "Bloomberg", 12),
+                 self._item("Qiagen names Jonathan Pratt chief executive officer", "MarketWatch", 11)]
+        self.assertEqual(len(news.group(items)), 1)
+
     def test_corroboration_outranks_recency(self):
         """Two desks independently running a story is the only editorial
         signal this strip has, so it has to beat a fresher single-source item."""
@@ -695,6 +707,33 @@ class Synthesis(unittest.TestCase):
             ['Evil" onmouseover="x'], {'Evil" onmouseover="x': 'https://a/"><script>'})
         self.assertNotIn('onmouseover="x"', markup)
         self.assertNotIn("<script>", markup)
+
+    def test_an_outlet_links_to_its_piece_on_the_line_being_shown(self):
+        """A cluster can hold more than one story. Sending a reader to the
+        wrong article under a line naming their outlet is worse than no link —
+        the first live build linked an EPA lawsuit line to a defence story."""
+        stories = [{
+            "sources": ["CNBC", "Guardian"],
+            "variants": [
+                {"source": "CNBC", "headline": "Trump and South Korea agree defence deal",
+                 "url": "https://cnbc/defence"},
+                {"source": "CNBC", "headline": "Groups sue EPA over datacenter chemicals",
+                 "url": "https://cnbc/epa"},
+                {"source": "Guardian", "headline": "Trump EPA fast-tracks datacenter coolant",
+                 "url": "https://guardian/epa"},
+            ],
+        }]
+        links = render._article_links(
+            stories, [0], "Groups sue Trump's EPA over datacenter chemicals")
+        self.assertEqual(links["CNBC"], "https://cnbc/epa")
+        self.assertEqual(links["Guardian"], "https://guardian/epa")
+
+    def test_without_a_line_the_first_article_is_used(self):
+        stories = [{"variants": [
+            {"source": "BBC", "headline": "a", "url": "https://bbc/1"},
+            {"source": "BBC", "headline": "b", "url": "https://bbc/2"},
+        ]}]
+        self.assertEqual(render._article_links(stories, [0])["BBC"], "https://bbc/1")
 
     def test_written_lines_are_escaped_and_attributed(self):
         markup = render.briefing_html({
