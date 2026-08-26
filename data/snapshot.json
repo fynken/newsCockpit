@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T13:58:29+00:00",
+  "generated_at": "2026-08-26T23:56:06+00:00",
   "briefing": {
-    "captured_at": "2026-08-26T13:58:31+00:00",
+    "captured_at": "2026-08-26T23:56:07+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,204 +17,192 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-        "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+        "headline": "Meta to pay up to $18bn to settle claims its platforms harm children",
+        "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "CNBC",
+          "BBC",
+          "Fortune",
           "Guardian",
-          "MarketWatch",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Meta settles social media addiction case with California, other states for $16.7 billion",
-            "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Meta reaches $16.7bn settlement with US states over social media harms to children \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/aug/26/uk-households-4-rise-energy-bills-average-1723-october-live-updates"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Meta\u2019s stock gives up gains as Wall Street digests settlement in social-media addiction trial",
-            "url": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories"
-          },
-          {
-            "source": "NPR",
-            "headline": "California says states, Meta agree to $17 billion settlement in child safety trial",
-            "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit"
-          },
-          {
-            "source": "NPR",
-            "headline": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-            "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial"
-          }
-        ],
-        "published": "2026-08-26T13:55:00+00:00"
-      },
-      {
-        "headline": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
-        "url": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
-        "sources": [
-          "CNBC",
-          "Fortune",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-            "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Six months into the Iran war, Hormuz is still shut \u2014 and now Tehran wants military ships excluded",
-            "url": "https://fortune.com/2026/08/26/iran-oman-hormuz-military-ships/"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
-            "url": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes"
-          }
-        ],
-        "published": "2026-08-26T13:55:02+00:00"
-      },
-      {
-        "headline": "Bill Gates calls for \u2018human-reserved\u2019 jobs in face of AI takeover",
-        "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
-        "sources": [
-          "CNBC",
-          "Fortune",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Bill Gates warns \u2018there is no plan\u2019 for the \u2018upheaval\u2019 AI will cause",
-            "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Bill Gates wants to tax robots to deter businesses from replacing humans with machines",
-            "url": "https://fortune.com/2026/08/26/bill-gates-robot-ai-tax-replacehuman-workers/"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Bill Gates calls for \u2018human-reserved\u2019 jobs in face of AI takeover",
-            "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover"
-          }
-        ],
-        "published": "2026-08-26T13:46:16+00:00"
-      },
-      {
-        "headline": "Citadel Securities\u2019 Flight Reverses Bearish Call on Bonds",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/citadel-securities-flight-reverses-bearish-call-on-long-bonds",
-        "sources": [
-          "Bloomberg",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Citadel Securities\u2019 Flight Reverses Bearish Call on Bonds",
-            "url": "https://www.bloomberg.com/news/articles/2026-08-26/citadel-securities-flight-reverses-bearish-call-on-long-bonds"
+            "source": "BBC",
+            "headline": "Meta to pay up to $18bn to settle claims its platforms harm children",
+            "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Meta\u2019s $18 billion settlement leaves out the child protections New Mexico already won at trial, its Attorney General says",
+            "url": "https://fortune.com/2026/08/26/exclusive-new-mexicos-attorney-general-meta-18-billion-settlement-weaker-his-state-raul-torrez/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+            "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement"
           },
           {
             "source": "MarketWatch",
-            "headline": "There\u2019s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities",
-            "url": "https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories"
+            "headline": "Meta dodges \u2018Big Tobacco\u2019 nightmare with $18 billion settlement in child-safety lawsuit",
+            "url": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-26T13:36:00+00:00"
+        "published": "2026-08-26T21:58:00+00:00"
       },
       {
-        "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-        "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+        "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+        "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+        "sources": [
+          "BBC",
+          "CNBC",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+            "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "OpenAI, independent firms publish reports on rogue AI attack on Hugging Face. Here are the main takeaways\u2014and what OpenAI still hasn\u2019t disclosed.",
+            "url": "https://fortune.com/2026/08/26/openai-publishes-technical-report-on-how-its-agents-hacked-hugging-face-here-are-the-main-takeaways-and-what-openai-left-out/"
+          }
+        ],
+        "published": "2026-08-26T22:03:45+00:00"
+      },
+      {
+        "headline": "Plug-in balcony solar panels to go on sale in UK for first time",
+        "url": "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time",
+        "sources": [
+          "BBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Plug-in solar panels are coming to a shop near you - here's what to know",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "BBC",
+            "headline": "Plug-in solar panels are coming to a shop near you - here's what to know",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Plug-in balcony solar panels to go on sale in UK for first time",
+            "url": "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time"
+          }
+        ],
+        "published": "2026-08-26T23:06:41+00:00"
+      },
+      {
+        "headline": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+        "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
         "sources": [
           "CNBC",
-          "NPR"
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-            "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html"
+            "headline": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+            "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html"
           },
           {
-            "source": "NPR",
-            "headline": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-            "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+            "source": "CNBC",
+            "headline": "Salesforce, Anthropic expand partnership as Benioff responds to \u2018SaaSpocalypse\u2019 concerns",
+            "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Salesforce\u2019s stock gets an Anthropic boost \u2014 and more highlights from earnings",
+            "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-26T13:24:25+00:00"
+        "published": "2026-08-26T22:50:00+00:00"
+      },
+      {
+        "headline": "Crypto traders turn Dolly Parton\u2019s death into a memecoin frenzy",
+        "url": "https://fortune.com/2026/08/26/crypto-traders-dolly-parton-death-memecoin-frenzy/",
+        "sources": [
+          "CNBC",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'",
+            "url": "https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Crypto traders turn Dolly Parton\u2019s death into a memecoin frenzy",
+            "url": "https://fortune.com/2026/08/26/crypto-traders-dolly-parton-death-memecoin-frenzy/"
+          }
+        ],
+        "published": "2026-08-26T21:41:23+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Meta settles state social-media addiction suits for $16.7bn; stock gives up gains.",
+          "text": "Meta settles US teen-addiction trial for up to $18bn and agrees to Facebook and Instagram changes",
           "topic_ids": [
             0
           ],
           "sources": [
-            "CNBC",
+            "BBC",
+            "Fortune",
             "Guardian",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Citadel Securities' Flight reverses its bearish long-bond call, flagging crowded short positioning.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Bloomberg",
             "MarketWatch"
           ]
         },
         {
-          "text": "Canada imposes retaliatory tariffs on about $20bn of US goods.",
+          "text": "Salesforce stock jumps 12% on AI growth and an Anthropic investment gain; partnership expands",
           "topic_ids": [
-            4
+            3
           ],
           "sources": [
             "CNBC",
-            "NPR"
+            "MarketWatch"
           ]
         },
         {
-          "text": "Iran says the US blocks a Hormuz deal in Oman talks; the strait stays shut six months in.",
+          "text": "OpenAI and independent firms publish reports on the rogue AI agent hack of Hugging Face",
           "topic_ids": [
             1
           ],
           "sources": [
+            "BBC",
             "CNBC",
-            "Fortune",
-            "Guardian"
+            "Fortune"
           ]
         },
         {
-          "text": "Bill Gates says there is no plan for AI upheaval and floats a robot tax and human-reserved jobs.",
+          "text": "Plug-in balcony solar panels go on sale in the UK for the first time",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC",
-            "Fortune",
+            "BBC",
             "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-26T13:58:41+00:00"
+      "written_at": "2026-08-26T23:56:16+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -374,9 +362,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           4.664
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          4.649
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:24+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -389,16 +381,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.664,
-      "change": 0.025,
-      "change_pct": 0.5389,
-      "prev_close": 4.639,
-      "day_open": 4.637,
-      "day_high": 4.668,
-      "day_low": 4.621,
+      "value": 4.649,
+      "change": -0.015,
+      "change_pct": -0.3216,
+      "prev_close": 4.664,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-26T09:57:35.000-0400",
+      "as_of": "2026-08-26T19:48:54.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -552,9 +544,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           4.224
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          4.213
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:24+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -567,16 +563,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.224,
-      "change": 0.02,
-      "change_pct": -0.0391,
-      "prev_close": 4.204,
-      "day_open": 4.193,
-      "day_high": 4.228,
-      "day_low": 4.174,
+      "value": 4.213,
+      "change": -0.011,
+      "change_pct": 0.0234,
+      "prev_close": 4.224,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-26T09:55:09.000-0400",
+      "as_of": "2026-08-26T19:43:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -730,9 +726,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           5.187
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          5.169
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:24+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -745,16 +745,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.187,
-      "change": 0.013,
-      "change_pct": 0.2513,
-      "prev_close": 5.174,
-      "day_open": 5.17,
-      "day_high": 5.191,
-      "day_low": 5.16,
+      "value": 5.169,
+      "change": -0.016,
+      "change_pct": -0.3086,
+      "prev_close": 5.185,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-26T09:58:15.000-0400",
+      "as_of": "2026-08-26T19:54:21.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -782,12 +782,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.1431155781387075,
-      "fetched_at": "2026-08-26T13:58:24+00:00",
+      "value": 1.1281155781387078,
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "as_of": "2026-07-01",
-      "prev_close": 0.754595788032904,
-      "change": 0.3885197901058035,
-      "change_pct": 51.48714003805998,
+      "prev_close": 0.7795957880329034,
+      "change": 0.34851979010580436,
+      "change_pct": 44.70519151792735,
       "stale": false
     },
     {
@@ -911,9 +911,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           7685.41
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          7675.7
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:24+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -926,16 +930,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7685.41,
-      "change": 8.13,
-      "change_pct": 0.11,
+      "value": 7675.7,
+      "change": -1.58,
+      "change_pct": -0.02,
       "prev_close": 7677.28,
       "day_open": 7666.88,
-      "day_high": 7686.98,
-      "day_low": 7662.9,
+      "day_high": 7690.73,
+      "day_low": 7657.41,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-26T09:58:18.000-0400",
+      "as_of": "2026-08-26T16:39:23.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1061,9 +1065,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           26173.326
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          26130.197
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:24+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1076,16 +1084,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26173.326,
-      "change": 22.026,
-      "change_pct": 0.08,
+      "value": 26130.197,
+      "change": -21.103,
+      "change_pct": -0.08,
       "prev_close": 26151.3,
       "day_open": 26099.576,
-      "day_high": 26174.916,
-      "day_low": 26071.2,
+      "day_high": 26189.808,
+      "day_low": 26021.629,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-26T09:58:24.000-0400",
+      "as_of": "2026-08-26T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1231,9 +1239,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           15.44
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          15.21
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:25+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1246,16 +1258,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.44,
-      "change": -0.01,
-      "change_pct": -0.06,
+      "value": 15.21,
+      "change": -0.24,
+      "change_pct": -1.55,
       "prev_close": 15.45,
       "day_open": 15.65,
       "day_high": 15.74,
-      "day_low": 15.43,
+      "day_low": 15.21,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-26T09:58:01.000-0400",
+      "as_of": "2026-08-26T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1429,9 +1441,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           1.1653
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          1.1654
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:25+00:00",
+      "fetched_at": "2026-08-26T23:56:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1444,16 +1460,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1653,
-      "change": -0.0021,
-      "change_pct": -0.1799,
-      "prev_close": 1.1674,
-      "day_open": 1.1673,
-      "day_high": 1.1677,
-      "day_low": 1.1652,
+      "value": 1.1654,
+      "change": 0.0005,
+      "change_pct": 0.0429,
+      "prev_close": 1.1649,
+      "day_open": 1.1649,
+      "day_high": 1.1656,
+      "day_low": 1.1651,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-26T09:58:00.000-0400",
+      "as_of": "2026-08-26T19:55:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1611,9 +1627,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           0.8054
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          0.8049
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:25+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1626,16 +1646,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8054,
-      "change": 0.004,
-      "change_pct": 0.4991,
-      "prev_close": 0.8014,
-      "day_open": 0.8014,
-      "day_high": 0.8054,
-      "day_low": 0.801,
+      "value": 0.8049,
+      "change": -0.0005,
+      "change_pct": -0.0621,
+      "prev_close": 0.8054,
+      "day_open": 0.8051,
+      "day_high": 0.8057,
+      "day_low": 0.8046,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-26T09:58:00.000-0400",
+      "as_of": "2026-08-26T19:56:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1789,9 +1809,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           4679.0
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          4675.5
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:25+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1804,16 +1828,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4679.0,
-      "change": -15.5,
-      "change_pct": -0.33,
-      "prev_close": 4694.5,
-      "day_open": 4715.7,
-      "day_high": 4730.9,
-      "day_low": 4653.3,
+      "value": 4675.5,
+      "change": 22.2,
+      "change_pct": 0.48,
+      "prev_close": 4653.3,
+      "day_open": 4650.0,
+      "day_high": 4678.7,
+      "day_low": 4648.1,
       "year_high": 5586.2,
       "year_low": 3396.1,
-      "as_of": "2026-08-26T09:48:20.000-0400",
+      "as_of": "2026-08-26T19:45:56.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -1967,9 +1991,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           81.37
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          81.82
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:25+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1982,16 +2010,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 81.37,
-      "change": -0.99,
-      "change_pct": -1.2,
-      "prev_close": 82.36,
-      "day_open": 81.11,
-      "day_high": 81.43,
-      "day_low": 79.62,
+      "value": 81.82,
+      "change": -0.41,
+      "change_pct": -0.5,
+      "prev_close": 82.23,
+      "day_open": 82.0,
+      "day_high": 82.13,
+      "day_low": 81.75,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-26T09:48:20.000-0400",
+      "as_of": "2026-08-26T19:45:53.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2073,9 +2101,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           212.48
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          209.66
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:25+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2088,17 +2120,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 212.48,
-      "change": -0.57,
-      "change_pct": -0.27,
+      "value": 209.66,
+      "change": -3.39,
+      "change_pct": -1.59,
       "prev_close": 213.05,
       "day_open": 212.64,
       "day_high": 213.6,
-      "day_low": 210.78,
+      "day_low": 209.23,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-26T09:58:20.163-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-08-26T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2179,9 +2211,13 @@
         [
           "2026-08-26T13:58:29+00:00",
           556.85
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          555.77
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:26+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2194,17 +2230,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 556.85,
-      "change": 1.03,
-      "change_pct": 0.19,
+      "value": 555.77,
+      "change": -0.05,
+      "change_pct": -0.01,
       "prev_close": 555.82,
       "day_open": 554.47,
       "day_high": 557.78,
-      "day_low": 553.54,
+      "day_low": 550.54,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-26T09:58:19.786-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-08-26T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -2285,14 +2321,18 @@
         [
           "2026-08-26T13:58:29+00:00",
           72.45547082068492
+        ],
+        [
+          "2026-08-26T23:56:06+00:00",
+          72.40642547259533
         ]
       ],
-      "value": 72.45547082068492,
-      "fetched_at": "2026-08-26T13:58:24+00:00",
-      "as_of": "2026-08-26T09:58:18.000-0400",
+      "value": 72.40642547259533,
+      "fetched_at": "2026-08-26T23:56:01+00:00",
+      "as_of": "2026-08-26T16:15:00.000-0400",
       "prev_close": 72.39803680470168,
-      "change": 0.05743401598324738,
-      "change_pct": 0.07933090249142985,
+      "change": 0.00838866789365511,
+      "change_pct": 0.011586872053290724,
       "stale": false
     },
     {
@@ -2313,10 +2353,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-06",
-          2.72
-        ],
         [
           "2026-07-07",
           2.67
@@ -2456,23 +2492,27 @@
         [
           "2026-08-24",
           2.69
+        ],
+        [
+          "2026-08-25",
+          2.7
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:26+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "785"
+        "_observations": "786"
       },
-      "value": 2.69,
-      "change": -0.010000000000000231,
-      "change_pct": -0.3703703703703789,
-      "prev_close": 2.7,
+      "value": 2.7,
+      "change": 0.010000000000000231,
+      "change_pct": 0.3717472118959194,
+      "prev_close": 2.69,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 2.87,
       "year_low": 2.67,
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-25",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -2495,10 +2535,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-06",
-          0.75
-        ],
         [
           "2026-07-07",
           0.76
@@ -2638,12 +2674,16 @@
         [
           "2026-08-24",
           0.81
+        ],
+        [
+          "2026-08-25",
+          0.81
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:26+00:00",
+      "fetched_at": "2026-08-26T23:56:02+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "785"
       },
       "value": 0.81,
       "change": 0.0,
@@ -2653,8 +2693,8 @@
       "day_high": null,
       "day_low": null,
       "year_high": 0.82,
-      "year_low": 0.75,
-      "as_of": "2026-08-24",
+      "year_low": 0.76,
+      "as_of": "2026-08-25",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -2677,10 +2717,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2023-04-30",
-          25.878
-        ],
         [
           "2023-07-30",
           32.681000000000004
@@ -2728,25 +2764,29 @@
         [
           "2026-04-26",
           253.491
+        ],
+        [
+          "2026-07-26",
+          302.969
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:26+00:00",
+      "fetched_at": "2026-08-26T23:56:03+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
-        "_quarters": "71",
+        "_quarters": "72",
         "_tags": "Revenues"
       },
-      "value": 253.491,
-      "change": 37.553,
-      "change_pct": 17.390639905898915,
-      "prev_close": 215.93800000000002,
+      "value": 302.969,
+      "change": 49.47799999999998,
+      "change_pct": 19.518641687476073,
+      "prev_close": 253.491,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": null,
       "year_low": null,
-      "as_of": "2026-04-26",
+      "as_of": "2026-07-26",
       "market_status": "",
       "instrument_name": "Nvidia Revenue (TTM)",
       "stale": false
@@ -2818,7 +2858,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:27+00:00",
+      "fetched_at": "2026-08-26T23:56:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2894,7 +2934,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:28+00:00",
+      "fetched_at": "2026-08-26T23:56:05+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2943,7 +2983,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-26T13:58:27+00:00",
+      "fetched_at": "2026-08-26T23:56:04+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3113,7 +3153,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:28+00:00",
+      "fetched_at": "2026-08-26T23:56:05+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3296,7 +3336,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-26T13:58:29+00:00",
+      "fetched_at": "2026-08-26T23:56:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
