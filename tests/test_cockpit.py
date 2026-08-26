@@ -93,6 +93,25 @@ class CnbcEnvelopes(unittest.TestCase):
         with self.assertRaises(ProviderError):
             patched_cnbc({"FormattedQuoteResult": {"FormattedQuote": [{"symbol": "X"}]}})
 
+    def test_a_blank_price_is_distinguishable_from_a_missing_one(self):
+        """The VIX fell to relayed overnight and the error could not say why:
+        it listed the payload's keys alphabetically, truncated before "last"
+        ever appeared. Absent and blank have to read differently."""
+        blank = {"symbol": ".VIX", "last": "", "previous_day_closing": "",
+                 "curmktstatus": "POST_MKT", "high": "15.9"}
+        with self.assertRaises(ProviderError) as caught:
+            patched_cnbc({"FormattedQuoteResult": {"FormattedQuote": [blank]}})
+        message = str(caught.exception)
+        self.assertIn("last=''", message)
+        self.assertIn("POST_MKT", message)
+        # The symbol comes from the tile being fetched, not from the payload.
+        self.assertIn("US10Y", message)
+
+        with self.assertRaises(ProviderError) as caught:
+            patched_cnbc({"FormattedQuoteResult": {"FormattedQuote": [{"symbol": ".VIX"}]}})
+        self.assertIn("absent:", str(caught.exception))
+        self.assertNotIn("last=''", str(caught.exception))
+
 
 class FredSeries(unittest.TestCase):
     """FRED gives a whole history; the board needs the latest reading, the one

@@ -326,6 +326,14 @@ yield future `2YY=F` quotes an expired contract, so that tile stays on CNBC and
 therefore on the relay path — it is the oldest number on the board, and the
 2s10s curve inherits its age.
 
+CNBC quotes go blank sometimes. The VIX came back one morning with its price
+keys empty — not missing, empty — and the tile correctly fell to relayed. That
+is the ladder working, and it needs no fix; what did need fixing was the error,
+which listed the payload's keys alphabetically and truncated before `last`, so
+"absent" and "present but blank" produced the same message. It now names the
+candidate keys and their raw values, plus the market status, which is usually
+the actual explanation.
+
 `providers.py` looks each CNBC field up against a list of candidate keys, because
 CNBC's payload differs by instrument class (equity vs index vs bond vs future).
 If a tile ever shows the wrong number, `python3 -m cockpit raw <SYMBOL>` prints

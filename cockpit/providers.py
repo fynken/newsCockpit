@@ -193,6 +193,28 @@ def _cnbc_records(payload) -> list[dict]:
     return node
 
 
+def _cnbc_price_diagnosis(record: dict) -> str:
+    """Why no price came out, in terms of the keys that were meant to carry it.
+
+    The first version of this listed the payload's keys alphabetically and
+    truncated at twelve, which stopped before "last" — so an overnight quote
+    with a blank price and a missing one produced the same message, and neither
+    could be told apart after the fact. Report the candidates themselves.
+    """
+    seen, absent = [], []
+    for key in CNBC_FIELDS["value"]:
+        if key in record:
+            seen.append(f"{key}={record[key]!r}")
+        else:
+            absent.append(key)
+    parts = []
+    if seen:
+        parts.append("present but unparseable: " + ", ".join(seen))
+    if absent:
+        parts.append("absent: " + ", ".join(absent))
+    return "; ".join(parts) or "the record carried none of the price keys"
+
+
 def fetch_cnbc(tile) -> Quote:
     payload = _get_json(CNBC_QUOTE_API.format(symbol=urllib.parse.quote(tile.symbol, safe="")))
     record = _cnbc_records(payload)[0]
@@ -201,7 +223,11 @@ def fetch_cnbc(tile) -> Quote:
     for name, candidates in CNBC_FIELDS.items():
         setattr(quote, name, _pick(record, candidates, quote.field_map, name))
     if quote.value is None:
-        raise ProviderError(f"no price field in CNBC payload (keys: {sorted(record)[:12]})")
+        status = str(record.get("curmktstatus") or "unknown")
+        raise ProviderError(
+            f"no usable price for {tile.symbol} ({_cnbc_price_diagnosis(record)}; "
+            f"market status {status!r}, {len(record)} keys in the record)"
+        )
 
     quote.instrument_name = str(record.get("name") or record.get("shortName") or "")
     quote.market_status = str(record.get("curmktstatus") or "")
