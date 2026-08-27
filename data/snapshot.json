@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T17:23:35+00:00",
+  "generated_at": "2026-08-27T22:54:02+00:00",
   "briefing": {
-    "captured_at": "2026-08-27T17:23:37+00:00",
+    "captured_at": "2026-08-27T22:54:05+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,74 +17,69 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+        "headline": "US Treasuries Decline as Traders Turn Focus to Jackson Hole",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-27/treasury-yields-rise-as-investors-shift-focus-to-jackson-hole",
         "sources": [
-          "BBC",
-          "Guardian",
+          "Bloomberg",
+          "CNBC",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-            "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss"
+            "source": "Bloomberg",
+            "headline": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-27/stock-market-today-dow-s-p-live-updates"
           },
           {
-            "source": "BBC",
-            "headline": "Meta to pay up to $18bn to settle claims its platforms harm children",
-            "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss"
+            "source": "Bloomberg",
+            "headline": "US Treasuries Decline as Traders Turn Focus to Jackson Hole",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-27/treasury-yields-rise-as-investors-shift-focus-to-jackson-hole"
           },
           {
-            "source": "Guardian",
-            "headline": "An $18bn settlement is a drop in the ocean for Meta \u2013 but the tide will still come for it | Chris Stokel-Walker",
-            "url": "https://www.theguardian.com/commentisfree/2026/aug/27/meta-social-media-settlement-18bn-us-child-safety-big-tech-lawsuits"
-          },
-          {
-            "source": "Guardian",
-            "headline": "UK expects Meta to match US child safety measures after $18bn settlement",
-            "url": "https://www.theguardian.com/technology/2026/aug/27/uk-meta-child-safety-measures-us-social-media-instagram"
+            "source": "CNBC",
+            "headline": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+            "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Meta pays $18B to avoid a bigger legal battle, may get a regulatory win to boot",
-            "url": "https://seekingalpha.com/news/4637493-meta-pays-18b-to-avoid-a-bigger-legal-battle-may-get-a-regulatory-win-to-boot?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "Gold finishes little changed ahead of Warsh's Jackson Hole speech",
+            "url": "https://seekingalpha.com/news/4637723-gold-finishes-little-changed-ahead-of-warshs-jackson-hole-speech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-08-27T17:08:07+00:00"
+        "published": "2026-08-27T22:08:04+00:00"
       },
       {
-        "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-        "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+        "headline": "Why to delay claiming Social Security \u2014 even when COLAs are high",
+        "url": "https://www.cnbc.com/2026/08/27/social-security-claim-cola.html",
         "sources": [
-          "BBC",
           "CNBC",
+          "Fortune",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-            "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss"
+            "source": "CNBC",
+            "headline": "Why to delay claiming Social Security \u2014 even when COLAs are high",
+            "url": "https://www.cnbc.com/2026/08/27/social-security-claim-cola.html"
           },
           {
-            "source": "CNBC",
-            "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-            "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html"
+            "source": "Fortune",
+            "headline": "The $40 trillion national debt is growing while Social Security goes broke\u2014because wealthy Boomers are collecting over $100k in benefits per year",
+            "url": "https://fortune.com/2026/08/27/40-trillion-debt-social-security-boomers-100k-benefits/"
           },
           {
             "source": "MarketWatch",
-            "headline": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia\u2019s eye",
-            "url": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories"
+            "headline": "This new Social Security math could lead us down a dangerous road",
+            "url": "https://www.marketwatch.com/story/this-new-social-security-math-could-lead-us-down-a-dangerous-road-3c44d7d7?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-27T14:48:00+00:00"
+        "published": "2026-08-27T19:58:23+00:00"
       },
       {
-        "headline": "Salesforce\u2019s stock rockets 20% and gives the software sector a major lift",
-        "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+        "headline": "Salesforce rockets 22% for second-best day ever, leading software rally",
+        "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
         "sources": [
           "CNBC",
           "MarketWatch"
@@ -93,7 +88,7 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Salesforce leads software rally, rocketing 20% on track for second-best day ever",
+            "headline": "Salesforce rockets 22% for second-best day ever, leading software rally",
             "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html"
           },
           {
@@ -102,33 +97,33 @@
             "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-27T17:11:19+00:00"
+        "published": "2026-08-27T22:51:00+00:00"
       },
       {
-        "headline": "Best Buy beats quarterly estimates and hikes its outlook, but stock falls",
-        "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
+        "headline": "S&P 500 Advances as Nvidia, Tech Outweigh Broad Weakness",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-stock-futures-climb-as-nvidia-s-outlook-lifts-tech-sector",
         "sources": [
-          "CNBC",
-          "Seeking Alpha"
+          "Bloomberg",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Best Buy beats quarterly estimates and hikes its outlook, but stock falls",
-            "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html"
+            "source": "Bloomberg",
+            "headline": "S&P 500 Advances as Nvidia, Tech Outweigh Broad Weakness",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-27/us-stock-futures-climb-as-nvidia-s-outlook-lifts-tech-sector"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Best Buy forecasts $42.3B-$42.8B FY2027 revenue as it targets $1.3B Marketplace GMV",
-            "url": "https://seekingalpha.com/news/4637584-best-buy-forecasts-42_3b-42_8b-fy2027-revenue-as-it-targets-1_3b-marketplace-gmv?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "MarketWatch",
+            "headline": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
+            "url": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-27T17:00:21+00:00"
+        "published": "2026-08-27T22:12:00+00:00"
       },
       {
-        "headline": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-        "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
+        "headline": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
+        "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
         "sources": [
           "CNBC",
           "CNBC Finance"
@@ -137,44 +132,43 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-            "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html"
+            "headline": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
+            "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-            "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html"
+            "headline": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
+            "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html"
           }
         ],
-        "published": "2026-08-27T15:05:36+00:00"
+        "published": "2026-08-27T21:54:18+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Meta pays up to $18bn to settle claims its platforms harm children; UK wants matching safety measures.",
+          "text": "Treasuries fall and Asian stocks set to slip before Warsh's Jackson Hole speech Friday; gold flat.",
           "topic_ids": [
             0
           ],
           "sources": [
-            "BBC",
-            "Guardian",
+            "Bloomberg",
+            "CNBC",
             "Seeking Alpha"
           ]
         },
         {
-          "text": "OpenAI publishes a report on the Hugging Face hack, traced to an unexpected chat between its agents.",
+          "text": "S&P 500 advances as Nvidia and tech outweigh broad weakness; options market signals more gains.",
           "topic_ids": [
-            1
+            3
           ],
           "sources": [
-            "BBC",
-            "CNBC",
+            "Bloomberg",
             "MarketWatch"
           ]
         },
         {
-          "text": "Salesforce rockets 20% on its second-best day ever, lifting the software sector.",
+          "text": "Salesforce rockets about 20-22% in its second-best day ever, lifting the software sector.",
           "topic_ids": [
             2
           ],
@@ -184,17 +178,7 @@
           ]
         },
         {
-          "text": "Best Buy beats estimates and raises its outlook, guiding to $42.3B-$42.8B FY2027 revenue; stock falls.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "CNBC",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "CNBC's tracker shows family offices making a bullish bet on the stock market.",
+          "text": "Gap shares jump 12% after it names a new Old Navy CEO.",
           "topic_ids": [
             4
           ],
@@ -205,7 +189,7 @@
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-27T17:23:51+00:00"
+      "written_at": "2026-08-27T22:54:14+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -373,11 +357,17 @@
         [
           "2026-08-27T17:23:35+00:00",
           4.664
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          4.676
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:32+00:00",
+      "fetched_at": "2026-08-27T22:53:54+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -386,16 +376,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.664,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "prev_close": 4.664,
-      "day_open": 4.647,
-      "day_high": 4.672,
-      "day_low": 4.641,
+      "value": 4.676,
+      "change": 0.004,
+      "change_pct": 0.0856,
+      "prev_close": 4.672,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-27T13:23:00.000-0400",
+      "as_of": "2026-08-27T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -557,11 +547,16 @@
         [
           "2026-08-27T17:23:35+00:00",
           4.224
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          4.234
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:32+00:00",
+      "fetched_at": "2026-08-27T22:53:54+00:00",
       "field_map": {
         "value": "last",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -570,16 +565,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.224,
-      "change": 0.0,
+      "value": 4.234,
+      "change": 0.0019999999999997797,
       "change_pct": 0.0,
-      "prev_close": 4.224,
-      "day_open": 4.211,
-      "day_high": 4.236,
-      "day_low": 4.207,
+      "prev_close": 4.232,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-27T13:23:17.000-0400",
+      "as_of": "2026-08-27T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -741,9 +736,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           5.184
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          5.193
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:32+00:00",
+      "fetched_at": "2026-08-27T22:53:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -756,16 +755,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.184,
-      "change": -0.001,
-      "change_pct": -0.0193,
-      "prev_close": 5.185,
-      "day_open": 5.169,
-      "day_high": 5.195,
-      "day_low": 5.162,
+      "value": 5.193,
+      "change": 0.002,
+      "change_pct": 0.0385,
+      "prev_close": 5.191,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-27T13:23:08.000-0400",
+      "as_of": "2026-08-27T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -793,12 +792,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.1431155781387075,
-      "fetched_at": "2026-08-27T17:23:32+00:00",
+      "value": 1.155115578138708,
+      "fetched_at": "2026-08-27T22:53:54+00:00",
       "as_of": "2026-07-01",
-      "prev_close": 0.7795957880329034,
-      "change": 0.36351979010580404,
-      "change_pct": 46.62926553554718,
+      "prev_close": 0.7875957880329034,
+      "change": 0.3675197901058045,
+      "change_pct": 46.66350375282233,
       "stale": false
     },
     {
@@ -930,9 +929,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           7739.21
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          7730.99
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:32+00:00",
+      "fetched_at": "2026-08-27T22:53:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -945,16 +948,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7739.21,
-      "change": 63.51,
-      "change_pct": 0.83,
+      "value": 7730.99,
+      "change": 55.29,
+      "change_pct": 0.72,
       "prev_close": 7675.7,
       "day_open": 7710.34,
       "day_high": 7741.27,
       "day_low": 7689.89,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-27T13:23:29.000-0400",
+      "as_of": "2026-08-27T16:58:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1088,9 +1091,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           26544.064
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          26541.352
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1103,16 +1110,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26544.064,
-      "change": 413.868,
-      "change_pct": 1.58,
+      "value": 26541.352,
+      "change": 411.155,
+      "change_pct": 1.57,
       "prev_close": 26130.197,
       "day_open": 26356.977,
       "day_high": 26553.898,
       "day_low": 26273.873,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-27T13:23:25.000-0400",
+      "as_of": "2026-08-27T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1266,9 +1273,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           14.51
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          14.51
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1290,7 +1301,7 @@
       "day_low": 14.42,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-27T13:23:16.000-0400",
+      "as_of": "2026-08-27T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1472,9 +1483,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           1.165
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          1.1652
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1487,16 +1502,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.165,
+      "value": 1.1652,
       "change": 0.0001,
       "change_pct": 0.0086,
-      "prev_close": 1.1649,
-      "day_open": 1.1649,
-      "day_high": 1.1659,
-      "day_low": 1.1637,
+      "prev_close": 1.1651,
+      "day_open": 1.1651,
+      "day_high": 1.1654,
+      "day_low": 1.165,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-27T13:23:00.000-0400",
+      "as_of": "2026-08-27T18:53:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1662,9 +1677,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           0.8037
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          0.8039
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1677,16 +1696,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8037,
-      "change": -0.0017,
-      "change_pct": -0.2111,
-      "prev_close": 0.8054,
-      "day_open": 0.8051,
-      "day_high": 0.8061,
-      "day_low": 0.803,
+      "value": 0.8039,
+      "change": -0.0002,
+      "change_pct": -0.0249,
+      "prev_close": 0.8041,
+      "day_open": 0.8044,
+      "day_high": 0.8044,
+      "day_low": 0.8039,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-27T13:23:00.000-0400",
+      "as_of": "2026-08-27T18:53:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1848,9 +1867,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           4665.0
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          4661.1
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:56+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1863,16 +1886,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4665.0,
-      "change": 11.7,
-      "change_pct": 0.25,
-      "prev_close": 4653.3,
-      "day_open": 4650.0,
-      "day_high": 4697.7,
-      "day_low": 4616.0,
+      "value": 4661.1,
+      "change": -2.9,
+      "change_pct": -0.06,
+      "prev_close": 4664.0,
+      "day_open": 4656.0,
+      "day_high": 4663.4,
+      "day_low": 4653.9,
       "year_high": 5586.2,
       "year_low": 3422.2,
-      "as_of": "2026-08-27T13:13:13.000-0400",
+      "as_of": "2026-08-27T18:43:41.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2034,9 +2057,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           82.9
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          83.63
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:56+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2049,16 +2076,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 82.9,
-      "change": 0.67,
-      "change_pct": 0.81,
-      "prev_close": 82.23,
-      "day_open": 82.0,
-      "day_high": 83.14,
-      "day_low": 80.65,
+      "value": 83.63,
+      "change": 0.1,
+      "change_pct": 0.12,
+      "prev_close": 83.53,
+      "day_open": 83.67,
+      "day_high": 83.78,
+      "day_low": 83.45,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-27T13:13:21.000-0400",
+      "as_of": "2026-08-27T18:43:45.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2148,9 +2175,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           229.94
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          227.98
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:56+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2163,17 +2194,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 229.94,
-      "change": 20.28,
-      "change_pct": 9.67,
+      "value": 227.98,
+      "change": 18.32,
+      "change_pct": 8.74,
       "prev_close": 209.66,
       "day_open": 222.86,
-      "day_high": 229.99,
+      "day_high": 230.47,
       "day_low": 220.9,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-27T13:23:29.903-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-08-27T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2262,9 +2293,13 @@
         [
           "2026-08-27T17:23:35+00:00",
           572.41
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          573.0
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:56+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2277,17 +2312,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 572.41,
-      "change": 16.64,
-      "change_pct": 2.99,
+      "value": 573.0,
+      "change": 17.23,
+      "change_pct": 3.1,
       "prev_close": 555.77,
       "day_open": 569.37,
-      "day_high": 572.52,
+      "day_high": 573.21,
       "day_low": 562.54,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-27T13:23:27.053-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-08-27T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -2376,14 +2411,18 @@
         [
           "2026-08-27T17:23:35+00:00",
           73.9623294884103
+        ],
+        [
+          "2026-08-27T22:54:02+00:00",
+          74.11728640187091
         ]
       ],
-      "value": 73.9623294884103,
-      "fetched_at": "2026-08-27T17:23:32+00:00",
-      "as_of": "2026-08-27T13:23:27.053-0400",
+      "value": 74.11728640187091,
+      "fetched_at": "2026-08-27T22:53:55+00:00",
+      "as_of": "2026-08-27T16:15:00.000-0400",
       "prev_close": 72.40642547259533,
-      "change": 1.5559040158149742,
-      "change_pct": 2.148847986431617,
+      "change": 1.710860929275583,
+      "change_pct": 2.3628578791299626,
       "stale": false
     },
     {
@@ -2549,7 +2588,7 @@
           2.67
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:56+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -2731,7 +2770,7 @@
           0.8
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:56+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -2821,7 +2860,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:33+00:00",
+      "fetched_at": "2026-08-27T22:53:57+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -2909,7 +2948,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:34+00:00",
+      "fetched_at": "2026-08-27T22:54:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -2985,7 +3024,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:35+00:00",
+      "fetched_at": "2026-08-27T22:54:01+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3034,7 +3073,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-27T17:23:34+00:00",
+      "fetched_at": "2026-08-27T22:54:00+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3204,7 +3243,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:35+00:00",
+      "fetched_at": "2026-08-27T22:54:01+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3387,7 +3426,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-27T17:23:35+00:00",
+      "fetched_at": "2026-08-27T22:54:02+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
