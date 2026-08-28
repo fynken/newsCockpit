@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T18:16:31+00:00",
+  "generated_at": "2026-08-28T22:58:41+00:00",
   "briefing": {
-    "captured_at": "2026-08-28T18:16:33+00:00",
+    "captured_at": "2026-08-28T22:58:43+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,38 +17,71 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Eswar Prasad on US Dollar, Stablecoins, Kevin Warsh",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-28/eswar-prasad-on-us-dollar-stablecoins-kevin-warsh-video",
+        "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+        "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+        "sources": [
+          "BBC",
+          "CNBC",
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+            "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+            "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+            "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "\u2018We have work to do\u2019: Fed Reserve Chair Warsh suggests rate hike in coming months amid high inflation",
+            "url": "https://fortune.com/2026/08/28/federal-reserve-chair-kevin-warsh-raising-interest-rate/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
+            "url": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-08-28T20:10:00+00:00"
+      },
+      {
+        "headline": "Odd Lots: What\u2019s Behind the Classic Jackson Hole Photo Op?",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
         "sources": [
           "Bloomberg",
           "CNBC",
-          "Fortune",
-          "NPR"
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Eswar Prasad on US Dollar, Stablecoins, Kevin Warsh",
-            "url": "https://www.bloomberg.com/news/videos/2026-08-28/eswar-prasad-on-us-dollar-stablecoins-kevin-warsh-video"
+            "headline": "Odd Lots: What\u2019s Behind the Classic Jackson Hole Photo Op?",
+            "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video"
           },
           {
             "source": "CNBC",
-            "headline": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-            "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html"
+            "headline": "What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire",
+            "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html"
           },
           {
-            "source": "Fortune",
-            "headline": "Kevin Warsh finally threw Wall Street some crumbs on what he\u2019s thinking: \u2018There is one signal nobody can miss: 65 months of elevated inflation\u2019",
-            "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/"
-          },
-          {
-            "source": "NPR",
-            "headline": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-            "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates"
+            "source": "Seeking Alpha",
+            "headline": "Gold plunges as Warsh\u2019s Jackson Hole inflation concerns spark rate hike bets",
+            "url": "https://seekingalpha.com/news/4638021-gold-plunges-as-warshs-jackson-hole-inflation-concerns-spark-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-08-28T17:52:28+00:00"
+        "published": "2026-08-28T21:15:46+00:00"
       },
       {
         "headline": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
@@ -79,107 +112,80 @@
         "published": "2026-08-28T03:41:59+00:00"
       },
       {
-        "headline": "US Moves Against Egyptian Bank\u2019s UAE Branches Over Iran Ties",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/us-moves-against-egyptian-bank-s-uae-branches-over-iran-ties",
+        "headline": "Dolly Parton likely wrote 2 of her biggest hits on the same day",
+        "url": "https://fortune.com/2026/08/28/dolly-parton-three-greatest-songs-jolene-love-you-9-to-5/",
         "sources": [
-          "Bloomberg",
-          "CNBC"
+          "Fortune",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "US Moves Against Egyptian Bank\u2019s UAE Branches Over Iran Ties",
-            "url": "https://www.bloomberg.com/news/articles/2026-08-28/us-moves-against-egyptian-bank-s-uae-branches-over-iran-ties"
+            "source": "Fortune",
+            "headline": "Dolly Parton likely wrote 2 of her biggest hits on the same day",
+            "url": "https://fortune.com/2026/08/28/dolly-parton-three-greatest-songs-jolene-love-you-9-to-5/"
           },
           {
-            "source": "CNBC",
-            "headline": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
-            "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html"
+            "source": "MarketWatch",
+            "headline": "Dolly Parton\u2019s music, books and theme park see spikes in interest following her death",
+            "url": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-28T18:13:13+00:00"
+        "published": "2026-08-28T20:58:04+00:00"
       },
       {
-        "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
-        "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+        "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+        "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
         "sources": [
-          "BBC",
-          "CNBC"
+          "Fortune",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-            "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
+            "source": "Fortune",
+            "headline": "Kevin Warsh finally threw Wall Street some crumbs on what he\u2019s thinking: \u2018There is one signal nobody can miss: 65 months of elevated inflation\u2019",
+            "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/"
           },
           {
-            "source": "CNBC",
-            "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
-            "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html"
+            "source": "MarketWatch",
+            "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+            "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-28T18:11:45+00:00"
-      },
-      {
-        "headline": "3 takeaways from Warsh's debut Jackson Hole speech",
-        "url": "https://seekingalpha.com/news/4637939-3-takeaways-from-warshs-debut-jackson-hole-speech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Bloomberg Surveillance Live From Jackson Hole 8/28/2026",
-            "url": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-surveillance-live-from-jackson-hole-8-28-2026-video"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Fed's Warsh Leads Central Bankers on Walk at Jackson Hole",
-            "url": "https://www.bloomberg.com/news/videos/2026-08-28/warsh-leads-central-bankers-on-walk-at-jackson-hole-video"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "3 takeaways from Warsh's debut Jackson Hole speech",
-            "url": "https://seekingalpha.com/news/4637939-3-takeaways-from-warshs-debut-jackson-hole-speech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-08-28T17:21:43+00:00"
+        "published": "2026-08-28T20:58:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Warsh warns at Jackson Hole that inflation is too high, sparking bets on rate hikes.",
+          "text": "Fed Chair Warsh says the Fed may 'have work to do' on inflation, hinting at a rate hike; 2-year yield jumps.",
           "topic_ids": [
             0,
             4
           ],
           "sources": [
-            "Bloomberg",
+            "BBC",
             "CNBC",
             "Fortune",
-            "NPR",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Gold plunges after Warsh's Jackson Hole inflation warning sparks rate-hike bets.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC",
             "Seeking Alpha"
           ]
         },
         {
-          "text": "2-year Treasury yield jumps after Warsh says the Fed may 'have work to do' on prices.",
+          "text": "Judge rules the Pentagon's blacklisting of Anthropic unlawful and blocks it.",
           "topic_ids": [
-            3
-          ],
-          "sources": [
-            "BBC",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Judge rules the Pentagon's blacklisting of Anthropic as a supply chain risk was unlawful.",
-          "topic_ids": [
-            1
+            2
           ],
           "sources": [
             "BBC",
@@ -188,18 +194,18 @@
           ]
         },
         {
-          "text": "Treasury moves to sanction UAE branches of an Egyptian bank over Iran ties.",
+          "text": "Nvidia's revenue forecast is so large Wall Street asks whether SpaceX is behind it.",
           "topic_ids": [
-            2
+            4
           ],
           "sources": [
-            "Bloomberg",
-            "CNBC"
+            "Fortune",
+            "MarketWatch"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-28T18:16:40+00:00"
+      "written_at": "2026-08-28T22:58:52+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -379,9 +385,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           4.726
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          4.73
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -394,16 +404,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.726,
-      "change": 0.054,
-      "change_pct": 1.1558,
+      "value": 4.73,
+      "change": 0.058,
+      "change_pct": 1.2414,
       "prev_close": 4.672,
       "day_open": 4.668,
       "day_high": 4.73,
       "day_low": 4.648,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-28T14:14:07.000-0400",
+      "as_of": "2026-08-28T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -577,9 +587,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           4.352
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          4.36
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -592,16 +606,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.352,
-      "change": 0.12,
-      "change_pct": -0.2305,
+      "value": 4.36,
+      "change": 0.128,
+      "change_pct": -0.2461,
       "prev_close": 4.232,
       "day_open": 4.23,
-      "day_high": 4.356,
+      "day_high": 4.36,
       "day_low": 4.216,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-28T14:15:50.000-0400",
+      "as_of": "2026-08-28T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -775,9 +789,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           5.207
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          5.213
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -790,16 +808,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.207,
-      "change": 0.016,
-      "change_pct": 0.3082,
+      "value": 5.213,
+      "change": 0.022,
+      "change_pct": 0.4238,
       "prev_close": 5.191,
       "day_open": 5.191,
-      "day_high": 5.214,
+      "day_high": 5.218,
       "day_low": 5.155,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-28T14:16:11.000-0400",
+      "as_of": "2026-08-28T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -827,12 +845,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.2051155781387077,
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "value": 1.2091155781387082,
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.7875957880329034,
-      "change": 0.4175197901058043,
-      "change_pct": 53.011937906448225,
+      "change": 0.42151979010580476,
+      "change_pct": 53.51981263873835,
       "stale": false
     },
     {
@@ -976,9 +994,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           7712.51
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          7711.76
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -991,16 +1013,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7712.51,
-      "change": -18.48,
-      "change_pct": -0.24,
+      "value": 7711.76,
+      "change": -19.23,
+      "change_pct": -0.25,
       "prev_close": 7730.99,
       "day_open": 7735.17,
       "day_high": 7771.48,
-      "day_low": 7701.35,
+      "day_low": 7700.91,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-28T14:16:25.000-0400",
+      "as_of": "2026-08-28T16:37:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1146,9 +1168,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           26415.478
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          26402.423
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1161,16 +1187,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26415.478,
-      "change": -125.874,
-      "change_pct": -0.47,
+      "value": 26402.423,
+      "change": -138.929,
+      "change_pct": -0.52,
       "prev_close": 26541.352,
       "day_open": 26515.989,
       "day_high": 26700.678,
-      "day_low": 26373.388,
+      "day_low": 26359.266,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-28T14:16:21.000-0400",
+      "as_of": "2026-08-28T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1336,9 +1362,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           14.54
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          14.43
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1351,16 +1381,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 14.54,
-      "change": 0.03,
-      "change_pct": 0.21,
+      "value": 14.43,
+      "change": -0.08,
+      "change_pct": -0.55,
       "prev_close": 14.51,
       "day_open": 14.57,
       "day_high": 14.84,
       "day_low": 14.13,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-28T14:16:16.000-0400",
+      "as_of": "2026-08-28T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1554,9 +1584,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           1.158
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          1.1582
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1569,16 +1603,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.158,
-      "change": -0.0071,
-      "change_pct": -0.6094,
-      "prev_close": 1.1651,
-      "day_open": 1.1651,
-      "day_high": 1.1657,
-      "day_low": 1.1578,
+      "value": 1.1582,
+      "change": -0.0002,
+      "change_pct": -0.0173,
+      "prev_close": 1.1584,
+      "day_open": 1.1582,
+      "day_high": 1.1582,
+      "day_low": 1.1585,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-28T14:16:00.000-0400",
+      "as_of": "2026-08-28T17:49:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1756,13 +1790,15 @@
         [
           "2026-08-28T18:16:31+00:00",
           0.8095
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          0.8092
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:36+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -1771,16 +1807,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8095,
-      "change": 0.0054,
-      "change_pct": 0.6716,
-      "prev_close": 0.8041,
-      "day_open": 0.8044,
-      "day_high": 0.8098,
-      "day_low": 0.8028,
+      "value": 0.8092,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.8092,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-28T14:16:00.000-0400",
+      "as_of": "2026-08-28T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -1954,9 +1990,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           4514.7
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          4504.1
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1969,16 +2009,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4514.7,
-      "change": -149.3,
-      "change_pct": -3.2,
+      "value": 4504.1,
+      "change": -159.9,
+      "change_pct": -3.43,
       "prev_close": 4664.0,
       "day_open": 4656.0,
       "day_high": 4688.0,
-      "day_low": 4509.5,
+      "day_low": 4495.0,
       "year_high": 5586.2,
       "year_low": 3442.5,
-      "as_of": "2026-08-28T14:06:23.000-0400",
+      "as_of": "2026-08-28T18:19:04.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2152,9 +2192,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           83.29
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          83.44
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2167,16 +2211,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 83.29,
-      "change": -0.24,
-      "change_pct": -0.29,
+      "value": 83.44,
+      "change": -0.09,
+      "change_pct": -0.11,
       "prev_close": 83.53,
       "day_open": 83.67,
       "day_high": 83.78,
       "day_low": 82.25,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-28T14:06:23.000-0400",
+      "as_of": "2026-08-28T18:19:04.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2278,9 +2322,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           218.65
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          217.55
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:28+00:00",
+      "fetched_at": "2026-08-28T22:58:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2293,17 +2341,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 218.65,
-      "change": -9.33,
-      "change_pct": -4.09,
+      "value": 217.55,
+      "change": -10.43,
+      "change_pct": -4.57,
       "prev_close": 227.98,
       "day_open": 227.36,
       "day_high": 229.26,
-      "day_low": 217.89,
+      "day_low": 216.81,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-28T14:16:26.496-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-08-28T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2404,9 +2452,13 @@
         [
           "2026-08-28T18:16:31+00:00",
           554.63
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          553.11
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:29+00:00",
+      "fetched_at": "2026-08-28T22:58:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2419,17 +2471,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 554.63,
-      "change": -18.38,
-      "change_pct": -3.21,
+      "value": 553.11,
+      "change": -19.89,
+      "change_pct": -3.47,
       "prev_close": 573.0,
       "day_open": 568.72,
       "day_high": 570.12,
       "day_low": 552.3,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-28T14:16:18.933-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-08-28T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -2530,14 +2582,18 @@
         [
           "2026-08-28T18:16:31+00:00",
           71.91303479671339
+        ],
+        [
+          "2026-08-28T22:58:41+00:00",
+          71.7229270620455
         ]
       ],
-      "value": 71.91303479671339,
-      "fetched_at": "2026-08-28T18:16:28+00:00",
-      "as_of": "2026-08-28T14:16:18.933-0400",
+      "value": 71.7229270620455,
+      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "as_of": "2026-08-28T16:15:00.000-0400",
       "prev_close": 74.11728640187091,
-      "change": -2.2042516051575234,
-      "change_pct": -2.974004732453187,
+      "change": -2.3943593398254137,
+      "change_pct": -3.2305005432106237,
       "stale": false
     },
     {
@@ -2703,7 +2759,7 @@
           2.63
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:29+00:00",
+      "fetched_at": "2026-08-28T22:58:37+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -2885,7 +2941,7 @@
           0.79
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:29+00:00",
+      "fetched_at": "2026-08-28T22:58:37+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -2975,7 +3031,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:29+00:00",
+      "fetched_at": "2026-08-28T22:58:37+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3063,7 +3119,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:30+00:00",
+      "fetched_at": "2026-08-28T22:58:39+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3139,7 +3195,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:30+00:00",
+      "fetched_at": "2026-08-28T22:58:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3188,7 +3244,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-28T18:16:30+00:00",
+      "fetched_at": "2026-08-28T22:58:39+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3358,7 +3414,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:30+00:00",
+      "fetched_at": "2026-08-28T22:58:40+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3541,7 +3597,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-28T18:16:31+00:00",
+      "fetched_at": "2026-08-28T22:58:41+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
