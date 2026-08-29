@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T22:58:41+00:00",
+  "generated_at": "2026-08-29T02:53:42+00:00",
   "briefing": {
-    "captured_at": "2026-08-28T22:58:43+00:00",
+    "captured_at": "2026-08-29T02:53:45+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -16,6 +16,40 @@
     ],
     "feeds_configured": 14,
     "stories": [
+      {
+        "headline": "Trump announces new US oil agreement with Venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "Guardian",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+            "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Trump announces new US oil agreement with Venezuela",
+            "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "U.S. secures 65B barrels of oil reserves in sweeping deal with Venezuela, Trump announces",
+            "url": "https://seekingalpha.com/news/4638033-u-s-secures-65b-barrels-of-oil-reserves-from-venezuela-trump-announces?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-08-29T00:02:04+00:00"
+      },
       {
         "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
         "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
@@ -56,6 +90,34 @@
         "published": "2026-08-28T20:10:00+00:00"
       },
       {
+        "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+        "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+        "sources": [
+          "Bloomberg",
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street Week | Debt & Consequences, Defying Fiscal Gravity, Hollywood Gets Democratized",
+            "url": "https://www.bloomberg.com/news/videos/2026-08-28/wall-street-week-defying-fiscal-gravity-video"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Kevin Warsh finally threw Wall Street some crumbs on what he\u2019s thinking: \u2018There is one signal nobody can miss: 65 months of elevated inflation\u2019",
+            "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+            "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-08-28T23:12:33+00:00"
+      },
+      {
         "headline": "Odd Lots: What\u2019s Behind the Classic Jackson Hole Photo Op?",
         "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
         "sources": [
@@ -76,6 +138,11 @@
             "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html"
           },
           {
+            "source": "CNBC",
+            "headline": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+            "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html"
+          },
+          {
             "source": "Seeking Alpha",
             "headline": "Gold plunges as Warsh\u2019s Jackson Hole inflation concerns spark rate hike bets",
             "url": "https://seekingalpha.com/news/4638021-gold-plunges-as-warshs-jackson-hole-inflation-concerns-spark-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
@@ -84,128 +151,97 @@
         "published": "2026-08-28T21:15:46+00:00"
       },
       {
-        "headline": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-        "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
-        "sources": [
-          "BBC",
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Trump administration illegally retaliated against Anthropic, judge rules",
-            "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-            "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Pentagon\u2019s blacklisting of Anthropic was unlawful, US judge rules",
-            "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai"
-          }
-        ],
-        "published": "2026-08-28T03:41:59+00:00"
-      },
-      {
-        "headline": "Dolly Parton likely wrote 2 of her biggest hits on the same day",
-        "url": "https://fortune.com/2026/08/28/dolly-parton-three-greatest-songs-jolene-love-you-9-to-5/",
+        "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
+        "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
         "sources": [
           "Fortune",
-          "MarketWatch"
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Fortune",
-            "headline": "Dolly Parton likely wrote 2 of her biggest hits on the same day",
-            "url": "https://fortune.com/2026/08/28/dolly-parton-three-greatest-songs-jolene-love-you-9-to-5/"
+            "headline": "The Strait of Hormuz crisis threatened Asia\u2019s oil and gas lifeline. Here\u2019s how the region is rewriting its energy playbook",
+            "url": "https://fortune.com/2026/08/28/iran-war-hormuz-blocked-asia-energy-crisis-oil-gas/"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Dolly Parton\u2019s music, books and theme park see spikes in interest following her death",
-            "url": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories"
+            "source": "NPR",
+            "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
+            "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz"
           }
         ],
-        "published": "2026-08-28T20:58:04+00:00"
-      },
-      {
-        "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-        "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
-        "sources": [
-          "Fortune",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Fortune",
-            "headline": "Kevin Warsh finally threw Wall Street some crumbs on what he\u2019s thinking: \u2018There is one signal nobody can miss: 65 months of elevated inflation\u2019",
-            "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-            "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-08-28T20:58:00+00:00"
+        "published": "2026-08-29T00:00:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Fed Chair Warsh says the Fed may 'have work to do' on inflation, hinting at a rate hike; 2-year yield jumps.",
+          "text": "Fed Chair Warsh warns of 65 months of elevated inflation at Jackson Hole, signaling a possible rate hike.",
           "topic_ids": [
-            0,
-            4
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Fortune",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Gold plunges after Warsh's Jackson Hole inflation warning sparks rate-hike bets.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Judge rules the Pentagon's blacklisting of Anthropic unlawful and blocks it.",
-          "topic_ids": [
+            1,
+            3,
             2
           ],
           "sources": [
             "BBC",
+            "Bloomberg",
             "CNBC",
-            "Guardian"
+            "Fortune",
+            "MarketWatch",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "2-year Treasury yield jumps and gold plunges on Warsh's hawkish turn.",
+          "topic_ids": [
+            1,
+            3
+          ],
+          "sources": [
+            "BBC",
+            "Bloomberg",
+            "CNBC",
+            "Fortune",
+            "MarketWatch",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Trump announces a Venezuela deal securing more than 65 billion barrels of oil reserves.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC",
+            "Guardian",
+            "Seeking Alpha"
           ]
         },
         {
           "text": "Nvidia's revenue forecast is so large Wall Street asks whether SpaceX is behind it.",
           "topic_ids": [
+            2
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "US says new pipelines make the Strait of Hormuz irrelevant; energy experts disagree.",
+          "topic_ids": [
             4
           ],
           "sources": [
             "Fortune",
-            "MarketWatch"
+            "NPR"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-28T22:58:52+00:00"
+      "written_at": "2026-08-29T02:53:54+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -391,7 +427,7 @@
           4.73
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -593,7 +629,7 @@
           4.36
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -795,7 +831,7 @@
           5.213
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -846,7 +882,7 @@
         ]
       ],
       "value": 1.2091155781387082,
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.7875957880329034,
       "change": 0.42151979010580476,
@@ -1000,7 +1036,7 @@
           7711.76
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1174,7 +1210,7 @@
           26402.423
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1368,7 +1404,7 @@
           14.43
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1590,7 +1626,7 @@
           1.1582
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:36+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1796,7 +1832,7 @@
           0.8092
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:36+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -1996,7 +2032,7 @@
           4504.1
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:36+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2198,7 +2234,7 @@
           83.44
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:36+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2328,7 +2364,7 @@
           217.55
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:36+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2458,7 +2494,7 @@
           553.11
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:37+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2589,7 +2625,7 @@
         ]
       ],
       "value": 71.7229270620455,
-      "fetched_at": "2026-08-28T22:58:35+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "as_of": "2026-08-28T16:15:00.000-0400",
       "prev_close": 74.11728640187091,
       "change": -2.3943593398254137,
@@ -2759,7 +2795,7 @@
           2.63
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:37+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -2941,7 +2977,7 @@
           0.79
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:37+00:00",
+      "fetched_at": "2026-08-29T02:53:39+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -3031,7 +3067,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:37+00:00",
+      "fetched_at": "2026-08-29T02:53:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3119,7 +3155,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:39+00:00",
+      "fetched_at": "2026-08-29T02:53:41+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3195,7 +3231,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:40+00:00",
+      "fetched_at": "2026-08-29T02:53:41+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3244,7 +3280,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-28T22:58:39+00:00",
+      "fetched_at": "2026-08-29T02:53:41+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3414,7 +3450,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:40+00:00",
+      "fetched_at": "2026-08-29T02:53:42+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3597,7 +3633,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-28T22:58:41+00:00",
+      "fetched_at": "2026-08-29T02:53:42+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
