@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T02:53:42+00:00",
+  "generated_at": "2026-08-31T12:51:52+00:00",
   "briefing": {
-    "captured_at": "2026-08-29T02:53:45+00:00",
+    "captured_at": "2026-08-31T12:51:55+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -10,51 +10,15 @@
       "Seeking Alpha",
       "CNBC Finance",
       "BBC",
-      "NPR",
       "Fortune",
       "Business Insider"
     ],
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Trump announces new US oil agreement with Venezuela",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+        "headline": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+        "url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
         "sources": [
-          "Bloomberg",
-          "CNBC",
-          "Guardian",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal",
-            "url": "https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-            "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Trump announces new US oil agreement with Venezuela",
-            "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "U.S. secures 65B barrels of oil reserves in sweeping deal with Venezuela, Trump announces",
-            "url": "https://seekingalpha.com/news/4638033-u-s-secures-65b-barrels-of-oil-reserves-from-venezuela-trump-announces?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-08-29T00:02:04+00:00"
-      },
-      {
-        "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
-        "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
-        "sources": [
-          "BBC",
           "CNBC",
           "Fortune",
           "MarketWatch"
@@ -62,186 +26,158 @@
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-            "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "source": "CNBC",
-            "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
-            "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
-            "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
+            "headline": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
+            "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html"
           },
           {
             "source": "Fortune",
-            "headline": "\u2018We have work to do\u2019: Fed Reserve Chair Warsh suggests rate hike in coming months amid high inflation",
-            "url": "https://fortune.com/2026/08/28/federal-reserve-chair-kevin-warsh-raising-interest-rate/"
+            "headline": "Trump threatens to blow Kharg Island \u2018to smithereens\u2019 as U.S. and Iran trade fresh strikes in the Gulf, driving up the price of oil",
+            "url": "https://fortune.com/2026/08/31/trump-blow-kharg-island-smithereens-us-iran-strikes-gulf-oil/"
           },
           {
             "source": "MarketWatch",
-            "headline": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
-            "url": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories"
+            "headline": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+            "url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-28T20:10:00+00:00"
+        "published": "2026-08-31T12:30:47+00:00"
       },
       {
-        "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-        "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+        "headline": "S&P 500 entering its toughest month",
+        "url": "https://seekingalpha.com/news/4638215-sp-500-entering-its-toughest-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
           "Bloomberg",
-          "Fortune",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Wall Street Week | Debt & Consequences, Defying Fiscal Gravity, Hollywood Gets Democratized",
-            "url": "https://www.bloomberg.com/news/videos/2026-08-28/wall-street-week-defying-fiscal-gravity-video"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Kevin Warsh finally threw Wall Street some crumbs on what he\u2019s thinking: \u2018There is one signal nobody can miss: 65 months of elevated inflation\u2019",
-            "url": "https://fortune.com/2026/08/28/kevin-warsh-jackson-hole-clarity-inflation-employment-mandate/"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-            "url": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-08-28T23:12:33+00:00"
-      },
-      {
-        "headline": "Odd Lots: What\u2019s Behind the Classic Jackson Hole Photo Op?",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
-        "sources": [
-          "Bloomberg",
-          "CNBC",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Odd Lots: What\u2019s Behind the Classic Jackson Hole Photo Op?",
-            "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video"
-          },
-          {
-            "source": "CNBC",
-            "headline": "What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire",
-            "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-            "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html"
+            "headline": "Technicians Cautious Ahead of S&P 500\u2019s Worst Month Historically",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-31/technicians-cautious-ahead-of-s-p-500-s-worst-month-historically"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Gold plunges as Warsh\u2019s Jackson Hole inflation concerns spark rate hike bets",
-            "url": "https://seekingalpha.com/news/4638021-gold-plunges-as-warshs-jackson-hole-inflation-concerns-spark-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "S&P 500 entering its toughest month",
+            "url": "https://seekingalpha.com/news/4638215-sp-500-entering-its-toughest-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-08-28T21:15:46+00:00"
+        "published": "2026-08-31T12:47:36+00:00"
       },
       {
-        "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-        "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
+        "headline": "U.S. stock futures slip as chances of rate hike rise after Warsh\u2019s Jackson Hole comments",
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
         "sources": [
-          "Fortune",
-          "NPR"
+          "CNBC",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Fortune",
-            "headline": "The Strait of Hormuz crisis threatened Asia\u2019s oil and gas lifeline. Here\u2019s how the region is rewriting its energy playbook",
-            "url": "https://fortune.com/2026/08/28/iran-war-hormuz-blocked-asia-energy-crisis-oil-gas/"
+            "source": "CNBC",
+            "headline": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
+            "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html"
           },
           {
-            "source": "NPR",
-            "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-            "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz"
+            "source": "MarketWatch",
+            "headline": "U.S. stock futures slip as chances of rate hike rise after Warsh\u2019s Jackson Hole comments",
+            "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-29T00:00:00+00:00"
+        "published": "2026-08-31T11:28:03+00:00"
+      },
+      {
+        "headline": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+        "url": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+            "url": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+            "url": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html"
+          }
+        ],
+        "published": "2026-08-31T11:27:20+00:00"
+      },
+      {
+        "headline": "Trump Plans to Seize Direct Control of Venezuela\u2019s Oil Reserves",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-31/trump-plans-to-seize-control-of-venezuela-s-oil-reserves-video",
+        "sources": [
+          "Bloomberg",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Trump Plans to Seize Direct Control of Venezuela\u2019s Oil Reserves",
+            "url": "https://www.bloomberg.com/news/videos/2026-08-31/trump-plans-to-seize-control-of-venezuela-s-oil-reserves-video"
+          },
+          {
+            "source": "Fortune",
+            "headline": "I\u2019m working with Venezuela to kill its inflation. Trump\u2019s secret oil deal with Delcy Rodriguez is illegitimate \u2014 and unhelpful",
+            "url": "https://fortune.com/2026/08/31/venezuela-trump-oil-deal-delcy-rodriguez-illegitimate-illegal-unhelpful/"
+          }
+        ],
+        "published": "2026-08-31T11:00:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Fed Chair Warsh warns of 65 months of elevated inflation at Jackson Hole, signaling a possible rate hike.",
-          "topic_ids": [
-            1,
-            3,
-            2
-          ],
-          "sources": [
-            "BBC",
-            "Bloomberg",
-            "CNBC",
-            "Fortune",
-            "MarketWatch",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "2-year Treasury yield jumps and gold plunges on Warsh's hawkish turn.",
-          "topic_ids": [
-            1,
-            3
-          ],
-          "sources": [
-            "BBC",
-            "Bloomberg",
-            "CNBC",
-            "Fortune",
-            "MarketWatch",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Trump announces a Venezuela deal securing more than 65 billion barrels of oil reserves.",
+          "text": "Brent tops $90 after first U.S.-Iran strikes since July; Trump threatens Kharg Island oil hub.",
           "topic_ids": [
             0
           ],
           "sources": [
-            "Bloomberg",
             "CNBC",
-            "Guardian",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Nvidia's revenue forecast is so large Wall Street asks whether SpaceX is behind it.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
             "Fortune",
             "MarketWatch"
           ]
         },
         {
-          "text": "US says new pipelines make the Strait of Hormuz irrelevant; energy experts disagree.",
+          "text": "Warsh's Jackson Hole speech lifts rate-hike odds; stock futures slip.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Trump plans to take direct control of Venezuela's oil reserves.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "Fortune",
-            "NPR"
+            "Bloomberg",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "Technicians turn cautious as the S&P 500 enters its historically worst month.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-29T02:53:54+00:00"
+      "written_at": "2026-08-31T12:52:05+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -425,9 +361,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           4.73
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          4.752
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -440,16 +380,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.73,
-      "change": 0.058,
-      "change_pct": 1.2414,
-      "prev_close": 4.672,
-      "day_open": 4.668,
-      "day_high": 4.73,
-      "day_low": 4.648,
+      "value": 4.752,
+      "change": 0.03,
+      "change_pct": 0.6353,
+      "prev_close": 4.722,
+      "day_open": 4.716,
+      "day_high": 4.756,
+      "day_low": 4.706,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-28T17:05:00.000-0400",
+      "as_of": "2026-08-31T08:51:14.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -627,9 +567,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           4.36
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          4.339
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -642,16 +586,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.36,
-      "change": 0.128,
-      "change_pct": -0.2461,
-      "prev_close": 4.232,
-      "day_open": 4.23,
-      "day_high": 4.36,
-      "day_low": 4.216,
+      "value": 4.339,
+      "change": -0.011,
+      "change_pct": 0.0234,
+      "prev_close": 4.35,
+      "day_open": 4.339,
+      "day_high": 4.348,
+      "day_low": 4.319,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-28T17:05:00.000-0400",
+      "as_of": "2026-08-31T08:51:44.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -829,9 +773,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           5.213
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          5.253
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -844,16 +792,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.213,
-      "change": 0.022,
-      "change_pct": 0.4238,
-      "prev_close": 5.191,
-      "day_open": 5.191,
-      "day_high": 5.218,
-      "day_low": 5.155,
+      "value": 5.253,
+      "change": 0.045,
+      "change_pct": 0.8641,
+      "prev_close": 5.208,
+      "day_open": 5.205,
+      "day_high": 5.257,
+      "day_low": 5.194,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-28T17:05:00.000-0400",
+      "as_of": "2026-08-31T08:51:15.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -881,12 +829,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.2091155781387082,
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "value": 1.2311155781387075,
+      "fetched_at": "2026-08-31T12:51:47+00:00",
       "as_of": "2026-07-01",
-      "prev_close": 0.7875957880329034,
-      "change": 0.42151979010580476,
-      "change_pct": 53.51981263873835,
+      "prev_close": 0.8375957880329041,
+      "change": 0.3935197901058034,
+      "change_pct": 46.98206410874936,
       "stale": false
     },
     {
@@ -1034,9 +982,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           7711.76
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          7711.76
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1052,13 +1004,13 @@
       "value": 7711.76,
       "change": -19.23,
       "change_pct": -0.25,
-      "prev_close": 7730.99,
+      "prev_close": 7711.76,
       "day_open": 7735.17,
       "day_high": 7771.48,
       "day_low": 7700.91,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-28T16:37:00.000-0400",
+      "as_of": "2026-08-28",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1208,9 +1160,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           26402.423
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          26402.423
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1226,13 +1182,13 @@
       "value": 26402.423,
       "change": -138.929,
       "change_pct": -0.52,
-      "prev_close": 26541.352,
+      "prev_close": 26402.423,
       "day_open": 26515.989,
       "day_high": 26700.678,
       "day_low": 26359.266,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-28T17:15:59.000-0400",
+      "as_of": "2026-08-28",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1402,9 +1358,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           14.43
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          15.39
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1417,16 +1377,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 14.43,
-      "change": -0.08,
-      "change_pct": -0.55,
-      "prev_close": 14.51,
-      "day_open": 14.57,
-      "day_high": 14.84,
-      "day_low": 14.13,
+      "value": 15.39,
+      "change": 0.96,
+      "change_pct": 6.65,
+      "prev_close": 14.43,
+      "day_open": 15.24,
+      "day_high": 15.41,
+      "day_low": 14.89,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-28T16:15:01.000-0400",
+      "as_of": "2026-08-31T08:51:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1624,9 +1584,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           1.1582
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          1.1593
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1639,16 +1603,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1582,
-      "change": -0.0002,
-      "change_pct": -0.0173,
+      "value": 1.1593,
+      "change": 0.0009,
+      "change_pct": 0.0777,
       "prev_close": 1.1584,
-      "day_open": 1.1582,
-      "day_high": 1.1582,
-      "day_low": 1.1585,
+      "day_open": 1.158,
+      "day_high": 1.1605,
+      "day_low": 1.1579,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-28T17:49:00.000-0400",
+      "as_of": "2026-08-31T08:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1830,11 +1794,17 @@
         [
           "2026-08-28T22:58:41+00:00",
           0.8092
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          0.8086
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -1843,16 +1813,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8092,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.8086,
+      "change": -0.0006,
+      "change_pct": -0.0741,
       "prev_close": 0.8092,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 0.8071,
+      "day_high": 0.8098,
+      "day_low": 0.8076,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-28T16:59:00.000-0400",
+      "as_of": "2026-08-31T08:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2030,9 +2000,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           4504.1
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          4490.6
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2045,16 +2019,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4504.1,
-      "change": -159.9,
-      "change_pct": -3.43,
-      "prev_close": 4664.0,
-      "day_open": 4656.0,
-      "day_high": 4688.0,
-      "day_low": 4495.0,
+      "value": 4490.6,
+      "change": -39.3,
+      "change_pct": -0.87,
+      "prev_close": 4529.9,
+      "day_open": 4483.2,
+      "day_high": 4521.5,
+      "day_low": 4445.6,
       "year_high": 5586.2,
-      "year_low": 3442.5,
-      "as_of": "2026-08-28T18:19:04.000-0400",
+      "year_low": 3463.0,
+      "as_of": "2026-08-31T08:41:40.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2232,9 +2206,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           83.44
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          86.09
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2247,16 +2225,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 83.44,
-      "change": -0.09,
-      "change_pct": -0.11,
-      "prev_close": 83.53,
-      "day_open": 83.67,
-      "day_high": 83.78,
-      "day_low": 82.25,
+      "value": 86.09,
+      "change": 2.69,
+      "change_pct": 3.23,
+      "prev_close": 83.4,
+      "day_open": 84.69,
+      "day_high": 86.79,
+      "day_low": 84.11,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-28T18:19:04.000-0400",
+      "as_of": "2026-08-31T08:41:36.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2362,9 +2340,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           217.55
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          217.55
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2380,14 +2362,14 @@
       "value": 217.55,
       "change": -10.43,
       "change_pct": -4.57,
-      "prev_close": 227.98,
-      "day_open": 227.36,
-      "day_high": 229.26,
-      "day_low": 216.81,
+      "prev_close": 217.55,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-28T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-08-28",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2492,9 +2474,13 @@
         [
           "2026-08-28T22:58:41+00:00",
           553.11
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          553.11
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2510,14 +2496,14 @@
       "value": 553.11,
       "change": -19.89,
       "change_pct": -3.47,
-      "prev_close": 573.0,
-      "day_open": 568.72,
-      "day_high": 570.12,
-      "day_low": 552.3,
+      "prev_close": 553.11,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-28T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-08-28",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -2622,14 +2608,18 @@
         [
           "2026-08-28T22:58:41+00:00",
           71.7229270620455
+        ],
+        [
+          "2026-08-31T12:51:52+00:00",
+          71.7229270620455
         ]
       ],
       "value": 71.7229270620455,
-      "fetched_at": "2026-08-29T02:53:39+00:00",
-      "as_of": "2026-08-28T16:15:00.000-0400",
-      "prev_close": 74.11728640187091,
-      "change": -2.3943593398254137,
-      "change_pct": -3.2305005432106237,
+      "fetched_at": "2026-08-31T12:51:47+00:00",
+      "as_of": "2026-08-28",
+      "prev_close": 71.7229270620455,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -2795,7 +2785,7 @@
           2.63
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -2977,7 +2967,7 @@
           0.79
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:39+00:00",
+      "fetched_at": "2026-08-31T12:51:48+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -3067,7 +3057,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:40+00:00",
+      "fetched_at": "2026-08-31T12:51:49+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3155,7 +3145,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:41+00:00",
+      "fetched_at": "2026-08-31T12:51:50+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3231,7 +3221,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:41+00:00",
+      "fetched_at": "2026-08-31T12:51:51+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3280,7 +3270,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-29T02:53:41+00:00",
+      "fetched_at": "2026-08-31T12:51:50+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3450,7 +3440,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:42+00:00",
+      "fetched_at": "2026-08-31T12:51:51+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3633,7 +3623,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-29T02:53:42+00:00",
+      "fetched_at": "2026-08-31T12:51:52+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
