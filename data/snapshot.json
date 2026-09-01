@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T23:59:26+00:00",
+  "generated_at": "2026-09-01T11:12:41+00:00",
   "briefing": {
-    "captured_at": "2026-08-31T23:59:27+00:00",
+    "captured_at": "2026-09-01T11:12:42+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,45 +17,39 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "The U.S. sues Amazon again",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+        "headline": "New Apple CEO John Ternus faces an old problem: the innovator\u2019s dilemma",
+        "url": "https://fortune.com/2026/09/01/apple-ceo-john-ternus-innovators-dilemma/",
         "sources": [
-          "BBC",
           "CNBC",
-          "MarketWatch",
-          "NPR"
+          "Fortune",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
-            "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss"
+            "source": "CNBC",
+            "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+            "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html"
           },
           {
-            "source": "CNBC",
-            "headline": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
-            "url": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html"
+            "source": "Fortune",
+            "headline": "New Apple CEO John Ternus faces an old problem: the innovator\u2019s dilemma",
+            "url": "https://fortune.com/2026/09/01/apple-ceo-john-ternus-innovators-dilemma/"
           },
           {
             "source": "MarketWatch",
-            "headline": "Amazon\u2019s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-            "url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories"
-          },
-          {
-            "source": "NPR",
-            "headline": "The U.S. sues Amazon again",
-            "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit"
+            "headline": "New Apple CEO John Ternus\u2019s first big challenge: Leading when his old boss is still in the building",
+            "url": "https://www.marketwatch.com/story/new-apple-ceo-john-ternuss-first-big-challenge-leading-when-his-old-boss-is-still-in-the-building-32be88f7?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-08-31T22:24:00+00:00"
+        "published": "2026-09-01T11:01:00+00:00"
       },
       {
         "headline": "George Santos is the first person to be permanently banned from Kalshi",
         "url": "https://www.businessinsider.com/george-santos-kalshi-lifetime-ban-2026-8",
         "sources": [
           "Business Insider",
-          "CNBC",
+          "Guardian",
           "NPR"
         ],
         "corroborated": true,
@@ -66,9 +60,9 @@
             "url": "https://www.businessinsider.com/george-santos-kalshi-lifetime-ban-2026-8"
           },
           {
-            "source": "CNBC",
-            "headline": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
-            "url": "https://www.cnbc.com/2026/08/31/kalshi-perman.html"
+            "source": "Guardian",
+            "headline": "Kalshi bans ex-congressman George Santos from prediction platform for life",
+            "url": "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban"
           },
           {
             "source": "NPR",
@@ -79,130 +73,139 @@
         "published": "2026-08-31T20:21:47+00:00"
       },
       {
-        "headline": "Exxon 'going in' to Venezuela, Trump says in touting oil deals",
-        "url": "https://seekingalpha.com/news/4638523-exxon-going-in-to-venezuela-trump-says-in-touting-oil-deals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "Gilts Lead Global Bond Selloff as Traders Play Catch Up",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-01/gilts-lead-global-bond-selloff-as-traders-play-catch-up",
         "sources": [
-          "CNBC",
+          "Bloomberg",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
-            "url": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html"
+            "source": "Bloomberg",
+            "headline": "Gilts Lead Global Bond Selloff as Traders Play Catch Up",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-01/gilts-lead-global-bond-selloff-as-traders-play-catch-up"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Exxon 'going in' to Venezuela, Trump says in touting oil deals",
-            "url": "https://seekingalpha.com/news/4638523-exxon-going-in-to-venezuela-trump-says-in-touting-oil-deals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "iShares Emerging Markets Bond Active ETF declares monthly distribution of $0.2400",
+            "url": "https://seekingalpha.com/news/4638623-ishares-emerging-markets-bond-active-etf-declares-monthly-distribution-of-02400?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "iShares Flexible Income Active ETF declares monthly distribution of $0.2279",
+            "url": "https://seekingalpha.com/news/4638621-ishares-flexible-income-active-etf-declares-monthly-distribution-of-02279?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "iShares Global Green Bond ETF declares monthly distribution of $0.1742",
+            "url": "https://seekingalpha.com/news/4638620-ishares-global-green-bond-etf-declares-monthly-distribution-of-01742?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-08-31T22:59:56+00:00"
+        "published": "2026-09-01T11:10:04+00:00"
       },
       {
-        "headline": "EM Stocks See Best August Run Since 2004, FX Posts Monthly Gain",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-31/emerging-market-stocks-fall-as-warsh-stokes-fed-rate-hike-bets",
+        "headline": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+        "url": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
         "sources": [
-          "Bloomberg",
-          "MarketWatch"
+          "CNBC",
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "EM Stocks See Best August Run Since 2004, FX Posts Monthly Gain",
-            "url": "https://www.bloomberg.com/news/articles/2026-08-31/emerging-market-stocks-fall-as-warsh-stokes-fed-rate-hike-bets"
+            "source": "CNBC",
+            "headline": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+            "url": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html"
           },
           {
-            "source": "MarketWatch",
-            "headline": "23 best-performing stocks of August, as the software industry continues its recovery",
-            "url": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories"
+            "source": "CNBC Finance",
+            "headline": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+            "url": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html"
           }
         ],
-        "published": "2026-08-31T21:16:00+00:00"
+        "published": "2026-09-01T11:00:01+00:00"
       },
       {
-        "headline": "AI could cause global economic downturn, Andrew Bailey warns G20",
-        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "headline": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+        "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
         "sources": [
-          "BBC",
-          "Guardian"
+          "CNBC",
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "AI could cause global economic downturn, Andrew Bailey warns G20",
-            "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
+            "source": "CNBC",
+            "headline": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+            "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html"
           },
           {
-            "source": "Guardian",
-            "headline": "AI could cause global economic downturn, Bank of England governor tells G20",
-            "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20"
+            "source": "CNBC Finance",
+            "headline": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+            "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html"
           }
         ],
-        "published": "2026-08-31T16:49:11+00:00"
+        "published": "2026-09-01T11:00:01+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "FTC and states sue Amazon over billions in hidden ad fees; the stock slips.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Bank of England's Bailey tells G20 that AI could cause a global economic downturn.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "BBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Trump touts oil deals with Venezuela, saying Exxon is 'going in'; no near-term pump relief.",
+          "text": "Gilts lead a global bond selloff as traders play catch-up.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC",
+            "Bloomberg",
             "Seeking Alpha"
           ]
         },
         {
-          "text": "EM stocks post best August since 2004 and EM FX gains; software leads August's top performers.",
+          "text": "Apple starts the John Ternus era with AI challenges and a memory crunch.",
           "topic_ids": [
-            3
+            0
           ],
           "sources": [
-            "Bloomberg",
+            "CNBC",
+            "Fortune",
             "MarketWatch"
           ]
         },
         {
-          "text": "Kalshi permanently bans George Santos over illegal State of the Union trades.",
+          "text": "OneRail launches an AI delivery-decision platform with Nvidia for retailers.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Kalshi bans former congressman George Santos for life over State of the Union trades.",
           "topic_ids": [
             1
           ],
           "sources": [
             "Business Insider",
-            "CNBC",
+            "Guardian",
             "NPR"
+          ]
+        },
+        {
+          "text": "Livestream shopping gains US traction via TikTok and Whatnot.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-08-31T23:59:36+00:00"
+      "written_at": "2026-09-01T11:12:52+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -398,9 +401,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           4.762
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          4.782
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:23+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -413,16 +420,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.762,
-      "change": 0.004,
-      "change_pct": 0.0841,
+      "value": 4.782,
+      "change": 0.024,
+      "change_pct": 0.5044,
       "prev_close": 4.758,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.764,
+      "day_high": 4.792,
+      "day_low": 4.764,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-08-31T19:58:51.000-0400",
+      "as_of": "2026-09-01T07:12:17.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -612,13 +619,15 @@
         [
           "2026-08-31T23:59:26+00:00",
           4.348
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          4.35
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:23+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -627,16 +636,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.348,
-      "change": -0.002,
-      "change_pct": 0.0039,
+      "value": 4.35,
+      "change": 0.0,
+      "change_pct": 0.0,
       "prev_close": 4.35,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.35,
+      "day_high": 4.367,
+      "day_low": 4.346,
       "year_high": 4.37,
       "year_low": 3.37,
-      "as_of": "2026-08-31T19:52:42.000-0400",
+      "as_of": "2026-09-01T07:12:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -826,9 +835,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           5.256
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          5.272
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:23+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -841,16 +854,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.256,
-      "change": 0.007,
-      "change_pct": 0.1334,
+      "value": 5.272,
+      "change": 0.023,
+      "change_pct": 0.4382,
       "prev_close": 5.249,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.257,
+      "day_high": 5.281,
+      "day_low": 5.257,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-08-31T19:58:37.000-0400",
+      "as_of": "2026-09-01T07:12:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -878,12 +891,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.2411155781387073,
-      "fetched_at": "2026-08-31T23:59:23+00:00",
+      "value": 1.2611155781387078,
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8735957880329037,
-      "change": 0.3675197901058036,
-      "change_pct": 42.06977587808162,
+      "change": 0.38751979010580406,
+      "change_pct": 44.35916420549503,
       "stale": false
     },
     {
@@ -1043,9 +1056,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           7686.14
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          7686.14
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:23+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1061,13 +1078,13 @@
       "value": 7686.14,
       "change": -25.62,
       "change_pct": -0.33,
-      "prev_close": 7711.76,
+      "prev_close": 7686.14,
       "day_open": 7697.52,
       "day_high": 7697.52,
       "day_low": 7665.06,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-08-31T17:09:33.000-0400",
+      "as_of": "2026-08-31",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1229,9 +1246,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           26370.889
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          26370.889
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:23+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1247,13 +1268,13 @@
       "value": 26370.889,
       "change": -31.534,
       "change_pct": -0.12,
-      "prev_close": 26402.423,
+      "prev_close": 26370.889,
       "day_open": 26358.559,
       "day_high": 26398.333,
       "day_low": 26249.771,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-08-31T17:15:59.000-0400",
+      "as_of": "2026-08-31",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1435,9 +1456,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           14.92
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          15.82
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1450,16 +1475,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 14.92,
-      "change": 0.49,
-      "change_pct": 3.4,
-      "prev_close": 14.43,
-      "day_open": 15.24,
-      "day_high": 15.48,
-      "day_low": 14.86,
+      "value": 15.82,
+      "change": 0.9,
+      "change_pct": 6.03,
+      "prev_close": 14.92,
+      "day_open": 14.95,
+      "day_high": 15.96,
+      "day_low": 14.95,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-08-31T16:15:01.000-0400",
+      "as_of": "2026-09-01T07:12:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1669,9 +1694,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           1.1617
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          1.1592
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1684,16 +1713,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1617,
-      "change": 0.0001,
-      "change_pct": 0.0086,
+      "value": 1.1592,
+      "change": -0.0024,
+      "change_pct": -0.2066,
       "prev_close": 1.1616,
       "day_open": 1.1616,
-      "day_high": 1.1619,
-      "day_low": 1.1613,
+      "day_high": 1.1624,
+      "day_low": 1.1589,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-08-31T19:59:00.000-0400",
+      "as_of": "2026-09-01T07:12:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1887,9 +1916,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           0.8083
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          0.8097
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1902,16 +1935,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8083,
-      "change": 0.0002,
-      "change_pct": 0.0247,
+      "value": 0.8097,
+      "change": 0.0016,
+      "change_pct": 0.198,
       "prev_close": 0.8081,
       "day_open": 0.8074,
-      "day_high": 0.8087,
-      "day_low": 0.8082,
+      "day_high": 0.8108,
+      "day_low": 0.8079,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-08-31T19:59:00.000-0400",
+      "as_of": "2026-09-01T07:12:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2101,9 +2134,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           4495.4
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          4426.1
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2116,16 +2153,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4495.4,
-      "change": 13.9,
-      "change_pct": 0.31,
+      "value": 4426.1,
+      "change": -55.4,
+      "change_pct": -1.24,
       "prev_close": 4481.5,
       "day_open": 4498.7,
-      "day_high": 4504.8,
-      "day_low": 4490.3,
+      "day_high": 4510.5,
+      "day_low": 4413.0,
       "year_high": 5586.2,
       "year_low": 3463.0,
-      "as_of": "2026-08-31T19:49:20.000-0400",
+      "as_of": "2026-09-01T07:02:26.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2315,9 +2352,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           86.4
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          87.84
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2330,16 +2371,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 86.4,
-      "change": 0.64,
-      "change_pct": 0.75,
+      "value": 87.84,
+      "change": 2.08,
+      "change_pct": 2.43,
       "prev_close": 85.76,
       "day_open": 86.31,
-      "day_high": 86.49,
+      "day_high": 88.13,
       "day_low": 86.13,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-08-31T19:49:09.000-0400",
+      "as_of": "2026-09-01T07:02:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2457,9 +2498,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           220.78
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          220.78
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2475,14 +2520,14 @@
       "value": 220.78,
       "change": 3.23,
       "change_pct": 1.48,
-      "prev_close": 217.55,
-      "day_open": 218.87,
-      "day_high": 221.3,
-      "day_low": 216.21,
+      "prev_close": 220.78,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-08-31T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-08-31",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2599,9 +2644,13 @@
         [
           "2026-08-31T23:59:26+00:00",
           556.63
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          556.63
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2617,14 +2666,14 @@
       "value": 556.63,
       "change": 3.52,
       "change_pct": 0.64,
-      "prev_close": 553.11,
-      "day_open": 554.38,
-      "day_high": 558.43,
-      "day_low": 552.79,
+      "prev_close": 556.63,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-08-31T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-08-31",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -2741,14 +2790,18 @@
         [
           "2026-08-31T23:59:26+00:00",
           72.41996632900259
+        ],
+        [
+          "2026-09-01T11:12:41+00:00",
+          72.41996632900259
         ]
       ],
       "value": 72.41996632900259,
-      "fetched_at": "2026-08-31T23:59:23+00:00",
-      "as_of": "2026-08-31T16:15:00.000-0400",
-      "prev_close": 71.7229270620455,
-      "change": 0.6970392669570913,
-      "change_pct": 0.9718500004246927,
+      "fetched_at": "2026-09-01T11:12:37+00:00",
+      "as_of": "2026-08-31",
+      "prev_close": 72.41996632900259,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -2914,7 +2967,7 @@
           2.6
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -3096,7 +3149,7 @@
           0.79
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:38+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -3186,7 +3239,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:24+00:00",
+      "fetched_at": "2026-09-01T11:12:39+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3274,7 +3327,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:25+00:00",
+      "fetched_at": "2026-09-01T11:12:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3350,7 +3403,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:25+00:00",
+      "fetched_at": "2026-09-01T11:12:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3399,7 +3452,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-08-31T23:59:25+00:00",
+      "fetched_at": "2026-09-01T11:12:40+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3569,7 +3622,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:25+00:00",
+      "fetched_at": "2026-09-01T11:12:40+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3752,7 +3805,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-08-31T23:59:26+00:00",
+      "fetched_at": "2026-09-01T11:12:41+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
