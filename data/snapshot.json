@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T22:43:49+00:00",
+  "generated_at": "2026-09-02T10:45:26+00:00",
   "briefing": {
-    "captured_at": "2026-09-01T22:43:51+00:00",
+    "captured_at": "2026-09-02T10:45:28+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -10,12 +10,105 @@
       "Seeking Alpha",
       "CNBC Finance",
       "BBC",
-      "NPR",
       "Fortune",
       "Business Insider"
     ],
     "feeds_configured": 14,
     "stories": [
+      {
+        "headline": "Who is John Ternus, Apple\u2019s new CEO?",
+        "url": "https://www.theguardian.com/technology/2026/apr/20/john-ternus-apple-ceo-tim-cook",
+        "sources": [
+          "CNBC",
+          "Fortune",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+            "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Apple CEO John Ternus started Tuesday. His $55 million award starts next year",
+            "url": "https://fortune.com/2026/09/01/apple-ceo-john-ternus-started-tuesday-his-55-million-award-starts-next-year/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Who is John Ternus, Apple\u2019s new CEO?",
+            "url": "https://www.theguardian.com/technology/2026/apr/20/john-ternus-apple-ceo-tim-cook"
+          }
+        ],
+        "published": "2026-09-02T01:45:07+00:00"
+      },
+      {
+        "headline": "Wall Street\u2019s Direction Is Being Dictated by Oil",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-02/wall-street-s-direction-is-being-dictated-by-oil",
+        "sources": [
+          "Bloomberg",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street\u2019s Direction Is Being Dictated by Oil",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-09-02/wall-street-s-direction-is-being-dictated-by-oil"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Dell shares rise as demand jumps for AI servers \u2014 here\u2019s what Wall Street analysts are saying happens next",
+            "url": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-09-02T10:11:53+00:00"
+      },
+      {
+        "headline": "Range Rover launches first fully electric model",
+        "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Range Rover launches first fully electric model",
+            "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Range Rover launches its first electric vehicle, with starting price of \u00a3154,070",
+            "url": "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle"
+          }
+        ],
+        "published": "2026-09-02T09:08:23+00:00"
+      },
+      {
+        "headline": "Fake 10 Downing Street listing on Booking.com highlights security failures",
+        "url": "https://www.theguardian.com/money/2026/sep/02/fake-10-downing-street-listing-booking-com-highlights-security-failures",
+        "sources": [
+          "BBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+            "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Fake 10 Downing Street listing on Booking.com highlights security failures",
+            "url": "https://www.theguardian.com/money/2026/sep/02/fake-10-downing-street-listing-booking-com-highlights-security-failures"
+          }
+        ],
+        "published": "2026-09-02T07:45:12+00:00"
+      },
       {
         "headline": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand",
         "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
@@ -27,6 +120,11 @@
         "variants": [
           {
             "source": "CNBC",
+            "headline": "We're lifting our price target on Palo Alto Networks as AI-driven cyber demand intensifies",
+            "url": "https://www.cnbc.com/2026/09/01/were-lifting-our-price-target-on-palo-alto-networks-as-ai-driven-cyber-demand-intensifies.html"
+          },
+          {
+            "source": "CNBC",
             "headline": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
             "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html"
           },
@@ -36,152 +134,65 @@
             "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-01T21:43:00+00:00"
-      },
-      {
-        "headline": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-        "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-            "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-            "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html"
-          }
-        ],
-        "published": "2026-09-01T21:40:30+00:00"
-      },
-      {
-        "headline": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-        "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-        "sources": [
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-            "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
-            "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-09-01T20:56:50+00:00"
-      },
-      {
-        "headline": "Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII",
-        "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-        "sources": [
-          "CNBC",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII",
-            "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Chevron is expanding in Venezuela as Trump pushes U.S. oil companies back into the country with 65 billion barrels up for grabs",
-            "url": "https://fortune.com/2026/09/01/chevron-venezuela-oil-trump-65-billion-barrels/"
-          }
-        ],
-        "published": "2026-09-01T20:52:07+00:00"
-      },
-      {
-        "headline": "OpenAI to limit access to Astra model\u2019s advanced cyber features due to hacking concerns",
-        "url": "https://fortune.com/2026/09/01/openai-to-limit-release-of-its-asttra-model-astra-due-to-hacking-concerns/",
-        "sources": [
-          "CNBC",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-            "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "OpenAI to limit access to Astra model\u2019s advanced cyber features due to hacking concerns",
-            "url": "https://fortune.com/2026/09/01/openai-to-limit-release-of-its-asttra-model-astra-due-to-hacking-concerns/"
-          }
-        ],
-        "published": "2026-09-01T20:20:50+00:00"
+        "published": "2026-09-02T00:21:40+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "U.S. strikes Iran in Hormuz, Tehran retaliates; oil prices jump to a six-week high.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "OpenAI's Astra is its first model crossing 'Critical' cyber capability; access to those features limited.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "Palo Alto Networks beats estimates on AI demand and keeps acquiring, but the stock falls.",
+          "text": "Apple's John Ternus starts as CEO, with a $55 million award beginning next year, into an AI and memory crunch.",
           "topic_ids": [
             0
           ],
           "sources": [
             "CNBC",
+            "Fortune",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Palo Alto Networks beats estimates on AI security demand and keeps buying, but the stock falls.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "CNBC",
             "MarketWatch"
           ]
         },
         {
-          "text": "Trump says U.S. growth could hit 20%, matching only one postwar year; Chevron expands in Venezuela.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion.",
+          "text": "Dell shares rise on jumping AI server demand; oil is dictating Wall Street's direction.",
           "topic_ids": [
             1
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Bloomberg",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Range Rover launches its first fully electric model, starting at \u00a3154,070.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "BBC",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "A fake 10 Downing Street listing exposes Booking.com security failures, a consumer group says.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "BBC",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-01T22:44:01+00:00"
+      "written_at": "2026-09-02T10:45:38+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -389,11 +400,17 @@
         [
           "2026-09-01T22:43:49+00:00",
           4.796
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          4.812
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:44+00:00",
+      "fetched_at": "2026-09-02T10:45:23+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -402,16 +419,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.796,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 4.812,
+      "change": 0.016,
+      "change_pct": 0.3336,
       "prev_close": 4.796,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.8,
+      "day_high": 4.818,
+      "day_low": 4.792,
       "year_high": 4.88,
       "year_low": 3.93,
-      "as_of": "2026-09-01T17:05:00.000-0400",
+      "as_of": "2026-09-02T06:45:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -613,11 +630,16 @@
         [
           "2026-09-01T22:43:49+00:00",
           4.4
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          4.402
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:44+00:00",
+      "fetched_at": "2026-09-02T10:45:23+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -627,16 +649,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.4,
-      "change": 0.006000000000000227,
-      "change_pct": 0.0,
+      "value": 4.402,
+      "change": 0.008,
+      "change_pct": -0.0195,
       "prev_close": 4.394,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
-      "year_high": 4.4,
+      "day_open": 4.4,
+      "day_high": 4.41,
+      "day_low": 4.39,
+      "year_high": 4.41,
       "year_low": 3.37,
-      "as_of": "2026-09-01T17:05:00.000-0400",
+      "as_of": "2026-09-02T06:44:57.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -838,11 +860,17 @@
         [
           "2026-09-01T22:43:49+00:00",
           5.267
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          5.286
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:44+00:00",
+      "fetched_at": "2026-09-02T10:45:23+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -851,16 +879,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.267,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 5.286,
+      "change": 0.019,
+      "change_pct": 0.3607,
       "prev_close": 5.267,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.277,
+      "day_high": 5.296,
+      "day_low": 5.269,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-09-01T17:05:00.000-0400",
+      "as_of": "2026-09-02T06:44:56.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -888,12 +916,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.275115578138708,
-      "fetched_at": "2026-09-01T22:43:44+00:00",
+      "value": 1.291115578138708,
+      "fetched_at": "2026-09-02T10:45:23+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.911595788032904,
-      "change": 0.36351979010580404,
-      "change_pct": 39.8773003208175,
+      "change": 0.37951979010580406,
+      "change_pct": 41.63246420047142,
       "stale": false
     },
     {
@@ -1065,9 +1093,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           7631.47
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          7631.47
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:44+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1083,13 +1115,13 @@
       "value": 7631.47,
       "change": -54.67,
       "change_pct": -0.71,
-      "prev_close": 7686.14,
+      "prev_close": 7631.47,
       "day_open": 7635.47,
       "day_high": 7663.63,
       "day_low": 7611.2,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-01T16:45:36.000-0400",
+      "as_of": "2026-09-01",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1263,9 +1295,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           26099.774
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          26099.774
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:45+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1281,13 +1317,13 @@
       "value": 26099.774,
       "change": -271.115,
       "change_pct": -1.03,
-      "prev_close": 26370.889,
+      "prev_close": 26099.774,
       "day_open": 26031.67,
       "day_high": 26260.682,
       "day_low": 25995.53,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-01T17:15:59.000-0400",
+      "as_of": "2026-09-01",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1481,9 +1517,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           16.34
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          16.73
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:45+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1496,16 +1536,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.34,
-      "change": 1.42,
-      "change_pct": 9.52,
-      "prev_close": 14.92,
-      "day_open": 14.95,
-      "day_high": 16.8,
-      "day_low": 14.95,
+      "value": 16.73,
+      "change": 0.39,
+      "change_pct": 2.39,
+      "prev_close": 16.34,
+      "day_open": 16.39,
+      "day_high": 16.82,
+      "day_low": 16.34,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-01T16:15:01.000-0400",
+      "as_of": "2026-09-02T06:45:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1727,9 +1767,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           1.1591
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          1.1568
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:45+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1742,16 +1786,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1591,
-      "change": -0.0001,
-      "change_pct": -0.0086,
+      "value": 1.1568,
+      "change": -0.0024,
+      "change_pct": -0.207,
       "prev_close": 1.1592,
       "day_open": 1.1592,
       "day_high": 1.1596,
-      "day_low": 1.1589,
+      "day_low": 1.1567,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-01T18:43:00.000-0400",
+      "as_of": "2026-09-02T06:45:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -1957,9 +2001,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           0.8114
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          0.8153
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:45+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1972,16 +2020,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8114,
-      "change": -0.0001,
-      "change_pct": -0.0123,
+      "value": 0.8153,
+      "change": 0.0038,
+      "change_pct": 0.4683,
       "prev_close": 0.8115,
       "day_open": 0.8119,
-      "day_high": 0.8119,
+      "day_high": 0.8156,
       "day_low": 0.8114,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-01T18:43:00.000-0400",
+      "as_of": "2026-09-02T06:45:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2183,9 +2231,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           4373.5
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          4356.2
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:45+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2198,16 +2250,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4373.5,
-      "change": -22.9,
-      "change_pct": -0.52,
+      "value": 4356.2,
+      "change": -40.2,
+      "change_pct": -0.91,
       "prev_close": 4396.4,
       "day_open": 4377.2,
-      "day_high": 4381.0,
-      "day_low": 4372.8,
+      "day_high": 4382.0,
+      "day_low": 4329.2,
       "year_high": 5586.2,
       "year_low": 3506.0,
-      "as_of": "2026-09-01T18:33:31.000-0400",
+      "as_of": "2026-09-02T06:35:10.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2409,9 +2461,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           90.83
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          90.4
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:45+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2424,16 +2480,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 90.83,
-      "change": 0.61,
-      "change_pct": 0.68,
+      "value": 90.4,
+      "change": 0.18,
+      "change_pct": 0.2,
       "prev_close": 90.22,
       "day_open": 90.65,
-      "day_high": 91.01,
-      "day_low": 90.57,
+      "day_high": 92.29,
+      "day_low": 89.92,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-01T18:33:41.000-0400",
+      "as_of": "2026-09-02T06:35:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2563,9 +2619,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           217.44
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          217.44
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:46+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2581,14 +2641,14 @@
       "value": 217.44,
       "change": -3.34,
       "change_pct": -1.51,
-      "prev_close": 220.78,
-      "day_open": 216.75,
-      "day_high": 220.41,
-      "day_low": 215.1,
+      "prev_close": 217.44,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-09-01T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-01",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2717,9 +2777,13 @@
         [
           "2026-09-01T22:43:49+00:00",
           545.22
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          545.22
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:46+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2735,14 +2799,14 @@
       "value": 545.22,
       "change": -11.41,
       "change_pct": -2.05,
-      "prev_close": 556.63,
-      "day_open": 546.48,
-      "day_high": 549.88,
-      "day_low": 540.85,
+      "prev_close": 545.22,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-09-01T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-01",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -2871,14 +2935,18 @@
         [
           "2026-09-01T22:43:49+00:00",
           71.44364060921421
+        ],
+        [
+          "2026-09-02T10:45:26+00:00",
+          71.44364060921421
         ]
       ],
       "value": 71.44364060921421,
-      "fetched_at": "2026-09-01T22:43:44+00:00",
-      "as_of": "2026-09-01T16:15:00.000-0400",
-      "prev_close": 72.41996632900259,
-      "change": -0.9763257197883775,
-      "change_pct": -1.3481443989533872,
+      "fetched_at": "2026-09-02T10:45:24+00:00",
+      "as_of": "2026-09-01",
+      "prev_close": 71.44364060921421,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -3044,7 +3112,7 @@
           2.63
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:46+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -3226,7 +3294,7 @@
           0.8
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:46+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -3316,7 +3384,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:46+00:00",
+      "fetched_at": "2026-09-02T10:45:24+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3404,7 +3472,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:48+00:00",
+      "fetched_at": "2026-09-02T10:45:25+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3480,7 +3548,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:48+00:00",
+      "fetched_at": "2026-09-02T10:45:26+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3529,7 +3597,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-01T22:43:48+00:00",
+      "fetched_at": "2026-09-02T10:45:25+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3699,7 +3767,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:48+00:00",
+      "fetched_at": "2026-09-02T10:45:26+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -3882,7 +3950,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-09-01T22:43:49+00:00",
+      "fetched_at": "2026-09-02T10:45:26+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
