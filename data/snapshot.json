@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T22:46:07+00:00",
+  "generated_at": "2026-09-03T10:46:22+00:00",
   "briefing": {
-    "captured_at": "2026-09-02T22:46:10+00:00",
+    "captured_at": "2026-09-03T10:46:24+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,178 +17,176 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "NBA Suspends Clippers Owner Ballmer After Leonard Salary Probe",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-02/nba-suspends-clippers-owner-ballmer-after-leonard-probe-video",
+        "headline": "Gold Rises as Traders Weigh Yen Intervention Risk, Iran Conflict",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/gold-holds-gain-as-trump-s-war-comments-ease-inflation-jitters",
         "sources": [
           "Bloomberg",
-          "CNBC",
-          "CNBC Finance"
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "NBA Suspends Clippers Owner Ballmer After Leonard Salary Probe",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-02/nba-suspends-clippers-owner-ballmer-after-leonard-probe-video"
+            "headline": "Yen Rallies as Intervention Risk Weighs on Minds of Wary Traders",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-03/yen-traders-brace-for-holiday-intervention-risk-around-boj"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Gold Rises as Traders Weigh Yen Intervention Risk, Iran Conflict",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-02/gold-holds-gain-as-trump-s-war-comments-ease-inflation-jitters"
           },
           {
             "source": "CNBC",
-            "headline": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-            "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-            "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html"
+            "headline": "Yen jumps to one-month high as traders weigh chance of further intervention",
+            "url": "https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html"
           }
         ],
-        "published": "2026-09-02T22:17:19+00:00"
+        "published": "2026-09-03T10:26:51+00:00"
       },
       {
-        "headline": "Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim",
-        "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+        "headline": "Dutch central bank moves gold bars out of U.S. and Canada, citing \u2018crisis preparedness\u2019",
+        "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
         "sources": [
           "CNBC",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim",
-            "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
-            "url": "https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/"
-          }
-        ],
-        "published": "2026-09-02T21:20:51+00:00"
-      },
-      {
-        "headline": "Southwest to debut airport lounges in four cities, with more to come",
-        "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Southwest to debut airport lounges in four cities, with more to come",
-            "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Southwest to debut airport lounges in four cities, with more to come",
-            "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html"
-          }
-        ],
-        "published": "2026-09-02T17:14:33+00:00"
-      },
-      {
-        "headline": "Uber to cut 3,300 corporate jobs in management overhaul",
-        "url": "https://www.theguardian.com/technology/2026/sep/02/uber-to-cut-3300-corporate-jobs-in-management-overhaul",
-        "sources": [
-          "BBC",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Uber to cut over 3,000 jobs in major global restructuring",
-            "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss"
+            "source": "CNBC",
+            "headline": "Dutch central bank moves gold bars out of U.S. and Canada, citing \u2018crisis preparedness\u2019",
+            "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html"
           },
           {
             "source": "Guardian",
-            "headline": "Uber to cut 3,300 corporate jobs in management overhaul",
-            "url": "https://www.theguardian.com/technology/2026/sep/02/uber-to-cut-3300-corporate-jobs-in-management-overhaul"
+            "headline": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing \u2018geopolitical unrest\u2019",
+            "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest"
           }
         ],
-        "published": "2026-09-02T16:51:49+00:00"
+        "published": "2026-09-03T09:38:05+00:00"
       },
       {
-        "headline": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
-        "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
+        "headline": "Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users after Trump order",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
+          "Fortune",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
-            "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html"
+            "source": "Fortune",
+            "headline": "Tim Cook stepped down as Apple CEO, but the \u2018Trump whisperer\u2019 isn\u2019t going anywhere",
+            "url": "https://fortune.com/2026/09/03/tim-cook-apple-executive-chair-trump-whisperer-pay/"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
-            "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html"
+            "source": "Guardian",
+            "headline": "Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users after Trump order",
+            "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america"
           }
         ],
-        "published": "2026-09-02T16:25:19+00:00"
+        "published": "2026-09-03T07:00:00+00:00"
+      },
+      {
+        "headline": "Base Metals Gain Ground as Trump Says Iran Attacks Will Be Brief",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-03/base-metals-gain-ground-as-trump-says-iran-attacks-will-be-brief",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Base Metals Gain Ground as Trump Says Iran Attacks Will Be Brief",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-03/base-metals-gain-ground-as-trump-says-iran-attacks-will-be-brief"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+            "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html"
+          }
+        ],
+        "published": "2026-09-03T06:33:19+00:00"
+      },
+      {
+        "headline": "Trump\u2019s ridiculous bullying of Canada is backfiring | Robert Reich",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
+        "sources": [
+          "Fortune",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "Toilet paper becomes a kitchen table issue for Trump again as Canada\u2019s retaliatory tariffs could spell another shortage",
+            "url": "https://fortune.com/2026/09/03/toilet-paper-tariffs-canada-retaliatory-us-trump-shortage/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Trump\u2019s ridiculous bullying of Canada is backfiring | Robert Reich",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring"
+          }
+        ],
+        "published": "2026-09-03T06:31:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Iran says two tankers struck naval mines in Hormuz; U.S. disputes the claim and Iran fires on Gulf allies",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "Uber cuts about 3,300 corporate jobs in a global management overhaul",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "BBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Ford's Super Duty truck output hits a 20-year high after supplier fires",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "NBA suspends Clippers owner Ballmer for one year over Kawhi Leonard salary cap probe",
+          "text": "Yen hits one-month high on intervention risk; gold rises as traders also weigh the Iran conflict.",
           "topic_ids": [
             0
           ],
           "sources": [
             "Bloomberg",
-            "CNBC",
-            "CNBC Finance"
+            "CNBC"
           ]
         },
         {
-          "text": "Southwest to open airport lounges in four cities",
+          "text": "Iran strikes Kuwait; Trump says the hostilities will be brief, and base metals gain.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "Dutch central bank moves 86 tonnes of gold from the US and Canada to the UK, citing geopolitical unrest.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Canada's retaliatory tariffs could bring another US toilet paper shortage.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "Fortune",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Tim Cook steps down as Apple CEO but stays on; Apple Maps renames Lake Ontario for US users.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Fortune",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-02T22:46:19+00:00"
+      "written_at": "2026-09-03T10:46:35+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -408,9 +406,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           4.782
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          4.786
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:03+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -423,16 +425,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.782,
-      "change": -0.012,
-      "change_pct": -0.2503,
+      "value": 4.786,
+      "change": -0.008,
+      "change_pct": -0.1669,
       "prev_close": 4.794,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.776,
+      "day_high": 4.788,
+      "day_low": 4.756,
       "year_high": 4.8,
       "year_low": 3.93,
-      "as_of": "2026-09-02T17:05:00.000-0400",
+      "as_of": "2026-09-03T06:42:03.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -646,11 +648,16 @@
         [
           "2026-09-02T22:46:07+00:00",
           4.371
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          4.375
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:03+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -660,16 +667,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.371,
-      "change": -0.01499999999999968,
-      "change_pct": 0.0,
+      "value": 4.375,
+      "change": -0.011,
+      "change_pct": 0.0234,
       "prev_close": 4.386,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.371,
+      "day_high": 4.378,
+      "day_low": 4.353,
       "year_high": 4.4,
       "year_low": 3.37,
-      "as_of": "2026-09-02T17:05:00.000-0400",
+      "as_of": "2026-09-03T06:44:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -883,9 +890,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           5.26
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          5.262
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:03+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -898,16 +909,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.26,
-      "change": -0.007,
-      "change_pct": -0.1329,
+      "value": 5.262,
+      "change": -0.005,
+      "change_pct": -0.0949,
       "prev_close": 5.267,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.254,
+      "day_high": 5.263,
+      "day_low": 5.234,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-09-02T17:05:00.000-0400",
+      "as_of": "2026-09-03T06:46:06.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -935,12 +946,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.2611155781387078,
-      "fetched_at": "2026-09-02T22:46:03+00:00",
+      "value": 1.2651155781387073,
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.9095957880329033,
-      "change": 0.3515197901058045,
-      "change_pct": 38.64571436351998,
+      "change": 0.35551979010580403,
+      "change_pct": 39.0854701377469,
       "stale": false
     },
     {
@@ -1124,9 +1135,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           7666.6
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          7666.6
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:03+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1142,13 +1157,13 @@
       "value": 7666.6,
       "change": 35.13,
       "change_pct": 0.46,
-      "prev_close": 7631.47,
+      "prev_close": 7666.6,
       "day_open": 7634.58,
       "day_high": 7681.19,
       "day_low": 7633.62,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-02T16:42:34.000-0400",
+      "as_of": "2026-09-02",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1334,9 +1349,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           26217.828
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          26217.828
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:03+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1352,13 +1371,13 @@
       "value": 26217.828,
       "change": 118.054,
       "change_pct": 0.45,
-      "prev_close": 26099.774,
+      "prev_close": 26217.828,
       "day_open": 26094.004,
       "day_high": 26245.037,
       "day_low": 26062.68,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-02T17:15:59.000-0400",
+      "as_of": "2026-09-02",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1564,9 +1583,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           15.2
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          15.39
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1579,16 +1602,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.2,
-      "change": -1.14,
-      "change_pct": -6.98,
-      "prev_close": 16.34,
-      "day_open": 16.39,
-      "day_high": 16.82,
-      "day_low": 15.12,
+      "value": 15.39,
+      "change": 0.19,
+      "change_pct": 1.25,
+      "prev_close": 15.2,
+      "day_open": 15.25,
+      "day_high": 15.44,
+      "day_low": 15.08,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-02T16:15:01.000-0400",
+      "as_of": "2026-09-03T06:46:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1822,9 +1845,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           1.1586
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          1.1596
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1837,16 +1864,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1586,
-      "change": -0.0001,
-      "change_pct": -0.0086,
+      "value": 1.1596,
+      "change": 0.0009,
+      "change_pct": 0.0777,
       "prev_close": 1.1587,
       "day_open": 1.1588,
-      "day_high": 1.1589,
-      "day_low": 1.1586,
+      "day_high": 1.1614,
+      "day_low": 1.1584,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-02T18:45:00.000-0400",
+      "as_of": "2026-09-03T06:46:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2064,9 +2091,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           0.8127
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          0.8094
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2079,16 +2110,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8127,
-      "change": 0.0001,
-      "change_pct": 0.0123,
+      "value": 0.8094,
+      "change": -0.0032,
+      "change_pct": -0.3938,
       "prev_close": 0.8126,
       "day_open": 0.8129,
       "day_high": 0.8133,
-      "day_low": 0.8125,
+      "day_low": 0.8084,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-02T18:45:00.000-0400",
+      "as_of": "2026-09-03T06:46:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2302,9 +2333,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           4433.2
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          4470.8
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2317,16 +2352,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4433.2,
-      "change": 18.6,
-      "change_pct": 0.42,
+      "value": 4470.8,
+      "change": 56.2,
+      "change_pct": 1.27,
       "prev_close": 4414.6,
       "day_open": 4436.4,
-      "day_high": 4438.1,
-      "day_low": 4432.6,
+      "day_high": 4490.0,
+      "day_low": 4426.7,
       "year_high": 5586.2,
       "year_low": 3506.0,
-      "as_of": "2026-09-02T18:35:49.000-0400",
+      "as_of": "2026-09-03T06:36:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2540,9 +2575,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           90.8
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          92.89
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2555,16 +2594,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 90.8,
-      "change": -0.21,
-      "change_pct": -0.23,
+      "value": 92.89,
+      "change": 1.88,
+      "change_pct": 2.07,
       "prev_close": 91.01,
       "day_open": 90.7,
-      "day_high": 90.81,
-      "day_low": 90.63,
+      "day_high": 92.97,
+      "day_low": 89.57,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-02T18:35:51.000-0400",
+      "as_of": "2026-09-03T06:36:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2706,9 +2745,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           224.41
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          224.41
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:19+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2724,14 +2767,14 @@
       "value": 224.41,
       "change": 6.97,
       "change_pct": 3.21,
-      "prev_close": 217.44,
-      "day_open": 218.79,
-      "day_high": 227.95,
-      "day_low": 218.48,
+      "prev_close": 224.41,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-09-02T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-02",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -2872,9 +2915,13 @@
         [
           "2026-09-02T22:46:07+00:00",
           550.48
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          550.48
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2890,14 +2937,14 @@
       "value": 550.48,
       "change": 5.26,
       "change_pct": 0.96,
-      "prev_close": 545.22,
-      "day_open": 545.23,
-      "day_high": 553.19,
-      "day_low": 541.72,
+      "prev_close": 550.48,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 281.74,
-      "as_of": "2026-09-02T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-02",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -3038,14 +3085,18 @@
         [
           "2026-09-02T22:46:07+00:00",
           71.80236349881302
+        ],
+        [
+          "2026-09-03T10:46:22+00:00",
+          71.80236349881302
         ]
       ],
       "value": 71.80236349881302,
-      "fetched_at": "2026-09-02T22:46:03+00:00",
-      "as_of": "2026-09-02T16:15:00.000-0400",
-      "prev_close": 71.44364060921421,
-      "change": 0.35872288959880905,
-      "change_pct": 0.5021061168494595,
+      "fetched_at": "2026-09-03T10:46:19+00:00",
+      "as_of": "2026-09-02",
+      "prev_close": 71.80236349881302,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -3211,7 +3262,7 @@
           2.65
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:20+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -3393,7 +3444,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:20+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -3483,7 +3534,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:04+00:00",
+      "fetched_at": "2026-09-03T10:46:20+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3571,7 +3622,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:05+00:00",
+      "fetched_at": "2026-09-03T10:46:21+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3647,7 +3698,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:06+00:00",
+      "fetched_at": "2026-09-03T10:46:21+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3696,7 +3747,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-02T22:46:05+00:00",
+      "fetched_at": "2026-09-03T10:46:21+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -3866,7 +3917,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:06+00:00",
+      "fetched_at": "2026-09-03T10:46:21+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -4049,7 +4100,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-09-02T22:46:07+00:00",
+      "fetched_at": "2026-09-03T10:46:22+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
