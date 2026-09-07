@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-09-04T22:28:05+00:00",
+  "generated_at": "2026-09-07T11:43:33+00:00",
   "briefing": {
-    "captured_at": "2026-09-04T22:28:09+00:00",
+    "captured_at": "2026-09-07T11:43:35+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
       "CNBC",
       "Guardian",
       "Seeking Alpha",
-      "CNBC Finance",
       "BBC",
       "NPR",
       "Fortune",
@@ -17,182 +16,188 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
-        "sources": [
-          "Bloomberg",
-          "MarketWatch",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
-            "url": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Bloom Energy surges on inclusion to S&P 500; Illumina, Everpure also added",
-            "url": "https://seekingalpha.com/news/4640486-bloom-energy-surges-on-inclusion-to-s-and-p-500-illumina-everpure-also-added?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-09-04T22:20:19+00:00"
-      },
-      {
-        "headline": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+        "headline": "Probe begins into why cargo plane overran Miami runway",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
-          "CNBC",
+          "Fortune",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Volkswagen board approves plan to cut another 50,000 jobs",
-            "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
+            "headline": "Probe begins into why cargo plane overran Miami runway",
+            "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "CNBC",
-            "headline": "Volkswagen plans 50,000 job cuts as analysts see \u2018halo effect\u2019 for German auto industry",
-            "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html"
+            "source": "Fortune",
+            "headline": "At least 5 dead after Amazon cargo plane barrels off runway at Miami airport, crashes into vehicles and bursts into flames",
+            "url": "https://fortune.com/2026/09/06/amazon-cargo-plane-runway-crash-miami-international-airport-flights/"
           },
           {
             "source": "Guardian",
-            "headline": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-            "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030"
-          }
-        ],
-        "published": "2026-09-04T13:04:49+00:00"
-      },
-      {
-        "headline": "Gold Falls as Strong US Payrolls Power Bets on Fed Rate Hikes",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-04/gold-to-end-volatile-week-higher-as-fedspeak-trims-rate-hike-bet",
-        "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Gold Falls as Strong US Payrolls Power Bets on Fed Rate Hikes",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-04/gold-to-end-volatile-week-higher-as-fedspeak-trims-rate-hike-bet"
+            "headline": "Amazon cargo plane crash at Miami airport kills at least five \u2013 video",
+            "url": "https://www.theguardian.com/us-news/video/2026/sep/07/amazon-cargo-plane-crash-at-miami-airport-kills-at-least-five-video"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Gold, silver slump as big boost in U.S. payrolls revives rate-hike bets",
-            "url": "https://seekingalpha.com/news/4640473-gold-silver-slump-as-big-boost-in-us-payrolls-revives-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "Guardian",
+            "headline": "At least five dead after Amazon cargo plane crashes at Miami airport",
+            "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport"
           }
         ],
-        "published": "2026-09-04T21:35:26+00:00"
+        "published": "2026-09-07T09:54:40+00:00"
       },
       {
-        "headline": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-        "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
+        "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-            "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-            "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html"
-          }
-        ],
-        "published": "2026-09-04T20:17:13+00:00"
-      },
-      {
-        "headline": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
-        "sources": [
-          "Bloomberg",
+          "BBC",
           "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout"
+            "source": "BBC",
+            "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+            "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
-            "headline": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-            "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html"
+            "headline": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
+            "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html"
           }
         ],
-        "published": "2026-09-04T20:14:30+00:00"
+        "published": "2026-09-07T11:40:15+00:00"
+      },
+      {
+        "headline": "Labor Day week has a nasty history for the S&P 500",
+        "url": "https://seekingalpha.com/news/4640553-labor-day-week-has-a-nasty-history-for-the-sp-500?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "sources": [
+          "MarketWatch",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "MarketWatch",
+            "headline": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
+            "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Labor Day week has a nasty history for the S&P 500",
+            "url": "https://seekingalpha.com/news/4640553-labor-day-week-has-a-nasty-history-for-the-sp-500?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-09-07T11:16:00+00:00"
+      },
+      {
+        "headline": "Chancellor says UK economy 'turning a corner' despite debt concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Chancellor says UK economy 'turning a corner' despite debt concerns",
+            "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Chancellor to argue UK economy can \u2018turn corner\u2019 despite bond market turmoil",
+            "url": "https://www.theguardian.com/politics/2026/sep/07/chancellor-uk-economy-growth-bond-market-turmoil"
+          }
+        ],
+        "published": "2026-09-07T10:16:19+00:00"
+      },
+      {
+        "headline": "Investors Are Embracing Risk Even as Global Bond Yields Climb",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/investors-are-embracing-risk-even-as-global-bond-yields-climb",
+        "sources": [
+          "Bloomberg",
+          "Business Insider"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Investors Are Embracing Risk Even as Global Bond Yields Climb",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-09-07/investors-are-embracing-risk-even-as-global-bond-yields-climb"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Bond Market: Gilts, BTPs, OATs Hit by Fears of Energy Shock, Political Risk",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-07/bond-market-gilts-btps-oats-hit-by-fears-of-energy-shock-political-risk"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages The Ensign Group, Inc. Investors to Inquire About Securities Class Action Investigation - ENSG",
+            "url": "https://markets.businessinsider.com/news/stocks/rosen-top-ranked-global-counsel-encourages-the-ensign-group-inc.-investors-to-inquire-about-securities-class-action-investigation-ensg-1036460916"
+          }
+        ],
+        "published": "2026-09-07T09:55:29+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Strong US payrolls revive Fed rate-hike bets; S&P 500 ends the week flat and gold and silver slump.",
-          "topic_ids": [
-            0,
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "MarketWatch",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Bloom Energy, Illumina and Everpure join the S&P 500 this month; Bloom Energy surges.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "Bloomberg",
-            "MarketWatch",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Wall Street risk assets hold up after the jobs data; Tesla drops 6% on an underwhelming Cybercab update.",
+          "text": "Global bond yields climb as gilts, BTPs and OATs sell off on energy-shock and political risk; investors still take risk.",
           "topic_ids": [
             4
           ],
           "sources": [
             "Bloomberg",
-            "CNBC"
+            "Business Insider"
           ]
         },
         {
-          "text": "Volkswagen's board approves 50,000 more job cuts, ending its union fight over the revival plan.",
+          "text": "UK chancellor says the economy is 'turning a corner' despite bond market turmoil and debt concerns.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "BBC",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Jaguar Land Rover to cut 4,000 jobs over two years in a cost-saving drive.",
           "topic_ids": [
             1
           ],
           "sources": [
             "BBC",
-            "CNBC",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "Amazon cargo plane overruns Miami runway and bursts into flames, killing at least five; probe begins.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "BBC",
+            "Fortune",
             "Guardian"
+          ]
+        },
+        {
+          "text": "US markets shut for Labor Day, a week with a poor S&P 500 track record.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "MarketWatch",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-04T22:28:17+00:00"
+      "written_at": "2026-09-07T11:43:45+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -438,7 +443,7 @@
           4.784
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:53+00:00",
+      "fetched_at": "2026-09-07T11:43:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -700,7 +705,7 @@
           4.374
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:54+00:00",
+      "fetched_at": "2026-09-07T11:43:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -962,7 +967,7 @@
           5.244
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:54+00:00",
+      "fetched_at": "2026-09-07T11:43:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1013,7 +1018,7 @@
         ]
       ],
       "value": 1.2631155781387076,
-      "fetched_at": "2026-09-04T22:27:53+00:00",
+      "fetched_at": "2026-09-07T11:43:30+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8775957880329033,
       "change": 0.3855197901058043,
@@ -1225,9 +1230,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           7718.6
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          7718.6
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:54+00:00",
+      "fetched_at": "2026-09-07T11:43:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1243,13 +1252,13 @@
       "value": 7718.6,
       "change": -29.11,
       "change_pct": -0.38,
-      "prev_close": 7747.71,
+      "prev_close": 7718.6,
       "day_open": 7750.19,
       "day_high": 7750.19,
       "day_low": 7706.12,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-04T16:33:06.000-0400",
+      "as_of": "2026-09-04",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1459,9 +1468,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           26506.99
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          26506.99
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:55+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1477,13 +1490,13 @@
       "value": 26506.99,
       "change": -77.07,
       "change_pct": -0.29,
-      "prev_close": 26584.06,
+      "prev_close": 26506.99,
       "day_open": 26587.896,
       "day_high": 26628.584,
       "day_low": 26444.843,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-04T17:15:59.000-0400",
+      "as_of": "2026-09-04",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1713,9 +1726,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           14.53
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          15.22
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:56+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1728,16 +1745,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 14.53,
-      "change": 0.21,
-      "change_pct": 1.47,
-      "prev_close": 14.32,
-      "day_open": 14.15,
-      "day_high": 14.58,
-      "day_low": 13.8,
+      "value": 15.22,
+      "change": 0.69,
+      "change_pct": 4.75,
+      "prev_close": 14.53,
+      "day_open": 15.02,
+      "day_high": 15.25,
+      "day_low": 14.99,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-04T16:15:01.000-0400",
+      "as_of": "2026-09-07T07:43:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -1995,11 +2012,17 @@
         [
           "2026-09-04T22:28:05+00:00",
           1.1613
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          1.1623
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:57+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -2008,16 +2031,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1613,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 1.1623,
+      "change": 0.001,
+      "change_pct": 0.0861,
       "prev_close": 1.1613,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 1.1609,
+      "day_high": 1.1635,
+      "day_low": 1.1608,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-04T16:59:00.000-0400",
+      "as_of": "2026-09-07T07:43:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2259,11 +2282,17 @@
         [
           "2026-09-04T22:28:05+00:00",
           0.8095
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          0.8088
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:58+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -2272,16 +2301,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8095,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.8088,
+      "change": -0.0007,
+      "change_pct": -0.0865,
       "prev_close": 0.8095,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 0.8076,
+      "day_high": 0.8109,
+      "day_low": 0.8085,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-04T16:59:00.000-0400",
+      "as_of": "2026-09-07T07:43:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2519,9 +2548,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           4477.2
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          4429.3
         ]
       ],
-      "fetched_at": "2026-09-04T22:27:59+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2534,16 +2567,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4477.2,
-      "change": -62.7,
-      "change_pct": -1.38,
-      "prev_close": 4539.9,
-      "day_open": 4522.0,
-      "day_high": 4537.8,
-      "day_low": 4412.0,
+      "value": 4429.3,
+      "change": -47.3,
+      "change_pct": -1.06,
+      "prev_close": 4476.6,
+      "day_open": 4466.5,
+      "day_high": 4481.3,
+      "day_low": 4426.2,
       "year_high": 5586.2,
-      "year_low": 3573.7,
-      "as_of": "2026-09-04T17:55:57.000-0400",
+      "year_low": 3595.4,
+      "as_of": "2026-09-07T07:33:20.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2781,9 +2814,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           91.22
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          92.28
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:00+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2796,16 +2833,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.22,
-      "change": -0.08,
-      "change_pct": -0.09,
-      "prev_close": 91.3,
-      "day_open": 91.67,
-      "day_high": 92.17,
-      "day_low": 88.72,
+      "value": 92.28,
+      "change": 0.8,
+      "change_pct": 0.87,
+      "prev_close": 91.48,
+      "day_open": 92.26,
+      "day_high": 93.04,
+      "day_low": 90.87,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-04T17:55:57.000-0400",
+      "as_of": "2026-09-07T07:33:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -2971,9 +3008,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           230.36
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          230.36
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:01+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2995,7 +3036,7 @@
       "day_low": 229.63,
       "year_high": 236.54,
       "year_low": 164.07,
-      "as_of": "2026-09-04T16:00:00.000-0400",
+      "as_of": "2026-09-04",
       "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
@@ -3161,9 +3202,13 @@
         [
           "2026-09-04T22:28:05+00:00",
           567.01
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          567.01
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:03+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3185,7 +3230,7 @@
       "day_low": 557.72,
       "year_high": 671.83,
       "year_low": 284.3,
-      "as_of": "2026-09-04T16:15:00.000-0400",
+      "as_of": "2026-09-04",
       "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
@@ -3351,14 +3396,18 @@
         [
           "2026-09-04T22:28:05+00:00",
           73.46021299199336
+        ],
+        [
+          "2026-09-07T11:43:33+00:00",
+          73.46021299199336
         ]
       ],
       "value": 73.46021299199336,
-      "fetched_at": "2026-09-04T22:27:54+00:00",
-      "as_of": "2026-09-04T16:15:00.000-0400",
-      "prev_close": 71.32430098700132,
-      "change": 2.1359120049920364,
-      "change_pct": 2.9946483532748553,
+      "fetched_at": "2026-09-07T11:43:30+00:00",
+      "as_of": "2026-09-04",
+      "prev_close": 71.59329412069548,
+      "change": 1.8669188712978837,
+      "change_pct": 2.607672819399175,
       "stale": false
     },
     {
@@ -3524,7 +3573,7 @@
           2.65
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:03+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -3706,7 +3755,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:03+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -3796,7 +3845,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:03+00:00",
+      "fetched_at": "2026-09-07T11:43:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3884,7 +3933,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:04+00:00",
+      "fetched_at": "2026-09-07T11:43:32+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -3960,7 +4009,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:05+00:00",
+      "fetched_at": "2026-09-07T11:43:32+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4009,7 +4058,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-04T22:28:04+00:00",
+      "fetched_at": "2026-09-07T11:43:32+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -4179,7 +4228,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:05+00:00",
+      "fetched_at": "2026-09-07T11:43:32+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -4362,7 +4411,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-09-04T22:28:05+00:00",
+      "fetched_at": "2026-09-07T11:43:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
