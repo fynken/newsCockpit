@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07T18:11:07+00:00",
+  "generated_at": "2026-09-07T22:57:22+00:00",
   "briefing": {
-    "captured_at": "2026-09-07T18:11:09+00:00",
+    "captured_at": "2026-09-07T22:57:25+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -9,6 +9,7 @@
       "Guardian",
       "Seeking Alpha",
       "BBC",
+      "NPR",
       "Fortune",
       "Business Insider"
     ],
@@ -53,30 +54,35 @@
         "published": "2026-09-07T17:22:51+00:00"
       },
       {
-        "headline": "Investigators begin work on why cargo plane overran Miami runway",
-        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "headline": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+        "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
         "sources": [
-          "BBC",
-          "Guardian"
+          "CNBC",
+          "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Investigators begin work on why cargo plane overran Miami runway",
-            "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
+            "source": "CNBC",
+            "headline": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+            "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"
           },
           {
-            "source": "Guardian",
-            "headline": "Amazon cargo plane crash at Miami airport kills at least five \u2013 video",
-            "url": "https://www.theguardian.com/us-news/video/2026/sep/07/amazon-cargo-plane-crash-at-miami-airport-kills-at-least-five-video"
+            "source": "CNBC",
+            "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+            "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump\u2019s Canada tariffs punch swing states just before the midterms",
+            "url": "https://fortune.com/2026/09/07/canada-retaliatory-tariffs-swing-states-midterms/"
           }
         ],
-        "published": "2026-09-07T17:46:25+00:00"
+        "published": "2026-09-07T18:52:24+00:00"
       },
       {
-        "headline": "Trump sets unwanted Labor Day record with gas price at $4.14 mark",
-        "url": "https://fortune.com/2026/09/07/labor-day-record-gas-price-diesel-hormuz-trump-all-time-high/",
+        "headline": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
+        "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
         "sources": [
           "Fortune",
           "MarketWatch"
@@ -85,8 +91,8 @@
         "variants": [
           {
             "source": "Fortune",
-            "headline": "Trump sets unwanted Labor Day record with gas price at $4.14 mark",
-            "url": "https://fortune.com/2026/09/07/labor-day-record-gas-price-diesel-hormuz-trump-all-time-high/"
+            "headline": "Trump braces for midterms, crucial union vote as Labor Day shows 75,000 lost manufacturing jobs",
+            "url": "https://fortune.com/2026/09/07/union-voters-michigan-pennsylvania-midterms/"
           },
           {
             "source": "MarketWatch",
@@ -94,56 +100,51 @@
             "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-07T17:21:15+00:00"
+        "published": "2026-09-07T18:24:03+00:00"
       },
       {
-        "headline": "Deutsche Bank\u2019s Allen Says Traders Are Wrong on Rates or Prices",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/deutsche-bank-s-allen-says-traders-are-wrong-on-rates-or-prices",
+        "headline": "Spider-Man, Odyssey Help Power Box Office Comeback",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-07/spider-man-odyssey-help-power-box-office-comeback-video",
         "sources": [
           "Bloomberg",
-          "Seeking Alpha"
+          "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Deutsche Bank\u2019s Allen Says Traders Are Wrong on Rates or Prices",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-07/deutsche-bank-s-allen-says-traders-are-wrong-on-rates-or-prices"
+            "headline": "Spider-Man, Odyssey Help Power Box Office Comeback",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-07/spider-man-odyssey-help-power-box-office-comeback-video"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Midday Need to Know: Cognizant expands AI push; Deutsche Bank settles lawsuit & more",
-            "url": "https://seekingalpha.com/news/4640609-midday-need-to-know-cognizant-expands-ai-push-deutsche-bank-settles-lawsuit-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Deutsche Bank warns of growing market dislocations as inflation and rate risks build",
-            "url": "https://seekingalpha.com/news/4640608-deutsche-bank-warns-of-growing-market-dislocations-as-inflation-and-rate-risks-build?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "Fortune",
+            "headline": "Spider-Man hits $2.4 billion worldwide to crown Hollywood\u2019s best summer since the pandemic",
+            "url": "https://fortune.com/2026/09/07/spider-man-2-4-billion-six-straight-weeks-best-summer-since-pandemic-hollywood/"
           }
         ],
-        "published": "2026-09-07T16:58:54+00:00"
+        "published": "2026-09-07T18:06:25+00:00"
       },
       {
-        "headline": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-        "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+        "headline": "Next wins key appeal to overturn \u00a330m equal pay ruling",
+        "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "CNBC",
-          "MarketWatch"
+          "BBC",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
-            "url": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html"
+            "source": "BBC",
+            "headline": "Next wins key appeal to overturn \u00a330m equal pay ruling",
+            "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-            "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories"
+            "source": "Guardian",
+            "headline": "Next overturns equal pay ruling that raised basic wages for shop staff",
+            "url": "https://www.theguardian.com/business/2026/sep/07/next-overturns-equal-pay-ruling-that-raised-basic-wages-for-shop-staff"
           }
         ],
-        "published": "2026-09-07T16:44:36+00:00"
+        "published": "2026-09-07T16:25:41+00:00"
       }
     ],
     "synthesis": {
@@ -160,27 +161,17 @@
           ]
         },
         {
-          "text": "Oil hits a six-week high after Iran-US clashes and reported strikes on Saudi Aramco facilities.",
+          "text": "Trump says Bombardier can't sell in the U.S. unless it builds there; Canada tariffs hit swing states.",
           "topic_ids": [
-            4
+            1
           ],
           "sources": [
             "CNBC",
-            "MarketWatch"
+            "Fortune"
           ]
         },
         {
-          "text": "Deutsche Bank warns of market dislocations, says traders are wrong on rates or prices.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Bloomberg",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Gas price hits $4.14 on Labor Day, a record for Trump; US stock and bond markets closed.",
+          "text": "Labor Day data shows 75,000 manufacturing jobs lost; U.S. stock and bond markets closed.",
           "topic_ids": [
             2
           ],
@@ -190,18 +181,28 @@
           ]
         },
         {
-          "text": "Investigators probe Amazon cargo plane that overran Miami runway, killing at least five.",
+          "text": "Next wins appeal overturning the \u00a330m equal pay ruling for shop staff.",
           "topic_ids": [
-            1
+            4
           ],
           "sources": [
             "BBC",
             "Guardian"
           ]
+        },
+        {
+          "text": "Spider-Man reaches $2.4bn worldwide, powering Hollywood's best summer since the pandemic.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune"
+          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-07T18:11:18+00:00"
+      "written_at": "2026-09-07T22:57:41+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -447,11 +448,9 @@
           4.784
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:02+00:00",
+      "fetched_at": "2026-09-07T22:57:16+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -461,12 +460,12 @@
         "_symbol": "US10Y"
       },
       "value": 4.784,
-      "change": 0.022,
-      "change_pct": 0.462,
-      "prev_close": 4.762,
-      "day_open": 4.764,
-      "day_high": 4.812,
-      "day_low": 4.748,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 4.784,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.82,
       "year_low": 3.93,
       "as_of": "2026-09-04T17:05:00.000-0400",
@@ -709,10 +708,9 @@
           4.374
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:16+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -723,12 +721,12 @@
         "_symbol": "US2Y"
       },
       "value": 4.374,
-      "change": 0.04,
-      "change_pct": -0.0781,
-      "prev_close": 4.334,
-      "day_open": 4.339,
-      "day_high": 4.425,
-      "day_low": 4.329,
+      "change": -0.004999999999999893,
+      "change_pct": 0.0,
+      "prev_close": 4.379,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.43,
       "year_low": 3.37,
       "as_of": "2026-09-04T17:05:00.000-0400",
@@ -971,7 +969,7 @@
           5.244
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:16+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -985,12 +983,12 @@
         "_symbol": "US30Y"
       },
       "value": 5.244,
-      "change": 0.001,
-      "change_pct": 0.0191,
-      "prev_close": 5.243,
-      "day_open": 5.245,
-      "day_high": 5.275,
-      "day_low": 5.222,
+      "change": -0.002,
+      "change_pct": -0.0381,
+      "prev_close": 5.246,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.34,
       "year_low": 4.52,
       "as_of": "2026-09-04T17:05:00.000-0400",
@@ -1022,11 +1020,11 @@
         ]
       ],
       "value": 1.2631155781387076,
-      "fetched_at": "2026-09-07T18:11:02+00:00",
+      "fetched_at": "2026-09-07T22:57:16+00:00",
       "as_of": "2026-07-01",
-      "prev_close": 0.8775957880329033,
-      "change": 0.3855197901058043,
-      "change_pct": 43.92908390888382,
+      "prev_close": 0.8995957880329035,
+      "change": 0.36351979010580404,
+      "change_pct": 40.40923656397866,
       "stale": false
     },
     {
@@ -1240,7 +1238,7 @@
           7718.6
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:16+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1478,7 +1476,7 @@
           26506.99
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1740,7 +1738,7 @@
           15.3
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2028,9 +2026,13 @@
         [
           "2026-09-07T18:11:07+00:00",
           1.1624
+        ],
+        [
+          "2026-09-07T22:57:22+00:00",
+          1.1624
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2044,15 +2046,15 @@
         "_symbol": "EUR="
       },
       "value": 1.1624,
-      "change": 0.0011,
-      "change_pct": 0.0947,
-      "prev_close": 1.1613,
-      "day_open": 1.1609,
-      "day_high": 1.1635,
-      "day_low": 1.1608,
+      "change": 0.0003,
+      "change_pct": 0.0258,
+      "prev_close": 1.1621,
+      "day_open": 1.1627,
+      "day_high": 1.1627,
+      "day_low": 1.1622,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-07T14:10:00.000-0400",
+      "as_of": "2026-09-07T18:56:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2302,13 +2304,15 @@
         [
           "2026-09-07T18:11:07+00:00",
           0.8092
+        ],
+        [
+          "2026-09-07T22:57:22+00:00",
+          0.8092
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -2318,15 +2322,15 @@
         "_symbol": "CHF="
       },
       "value": 0.8092,
-      "change": -0.0003,
-      "change_pct": -0.0371,
-      "prev_close": 0.8095,
-      "day_open": 0.8076,
-      "day_high": 0.8109,
-      "day_low": 0.8085,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.8092,
+      "day_open": 0.8091,
+      "day_high": 0.8098,
+      "day_low": 0.8092,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-07T14:11:00.000-0400",
+      "as_of": "2026-09-07T18:56:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2572,9 +2576,13 @@
         [
           "2026-09-07T18:11:07+00:00",
           4453.1
+        ],
+        [
+          "2026-09-07T22:57:22+00:00",
+          4453.0
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2587,16 +2595,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4453.1,
-      "change": -23.5,
-      "change_pct": -0.52,
+      "value": 4453.0,
+      "change": -23.6,
+      "change_pct": -0.53,
       "prev_close": 4476.6,
       "day_open": 4466.5,
       "day_high": 4481.3,
       "day_low": 4426.2,
       "year_high": 5586.2,
       "year_low": 3595.4,
-      "as_of": "2026-09-07T14:00:49.000-0400",
+      "as_of": "2026-09-07T18:46:52.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2842,9 +2850,13 @@
         [
           "2026-09-07T18:11:07+00:00",
           92.77
+        ],
+        [
+          "2026-09-07T22:57:22+00:00",
+          92.61
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:04+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2857,16 +2869,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 92.77,
-      "change": 1.29,
-      "change_pct": 1.41,
+      "value": 92.61,
+      "change": 1.13,
+      "change_pct": 1.24,
       "prev_close": 91.48,
       "day_open": 92.26,
       "day_high": 93.29,
       "day_low": 90.87,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-07T14:00:53.000-0400",
+      "as_of": "2026-09-07T18:46:07.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -3038,7 +3050,7 @@
           230.36
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:04+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3232,7 +3244,7 @@
           567.01
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:04+00:00",
+      "fetched_at": "2026-09-07T22:57:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3427,7 +3439,7 @@
         ]
       ],
       "value": 73.46021299199336,
-      "fetched_at": "2026-09-07T18:11:03+00:00",
+      "fetched_at": "2026-09-07T22:57:16+00:00",
       "as_of": "2026-09-04",
       "prev_close": 71.32430098700132,
       "change": 2.1359120049920364,
@@ -3597,7 +3609,7 @@
           2.65
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:04+00:00",
+      "fetched_at": "2026-09-07T22:57:18+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -3779,7 +3791,7 @@
           0.81
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:04+00:00",
+      "fetched_at": "2026-09-07T22:57:18+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -3869,7 +3881,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:04+00:00",
+      "fetched_at": "2026-09-07T22:57:18+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -3957,7 +3969,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:05+00:00",
+      "fetched_at": "2026-09-07T22:57:19+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4033,7 +4045,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:06+00:00",
+      "fetched_at": "2026-09-07T22:57:20+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4082,7 +4094,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-07T18:11:05+00:00",
+      "fetched_at": "2026-09-07T22:57:19+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -4252,7 +4264,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:06+00:00",
+      "fetched_at": "2026-09-07T22:57:21+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -4435,7 +4447,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-09-07T18:11:07+00:00",
+      "fetched_at": "2026-09-07T22:57:22+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
