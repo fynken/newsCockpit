@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-09-08T10:42:26+00:00",
+  "generated_at": "2026-09-08T17:08:51+00:00",
   "briefing": {
-    "captured_at": "2026-09-08T10:42:28+00:00",
+    "captured_at": "2026-09-08T17:08:53+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
       "CNBC",
       "Guardian",
       "Seeking Alpha",
+      "CNBC Finance",
       "BBC",
       "NPR",
       "Fortune",
@@ -16,46 +17,41 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+        "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
           "CNBC",
-          "Guardian"
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-            "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-            "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss"
+            "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+            "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
-            "headline": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
-            "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html"
+            "headline": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+            "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"
           },
           {
-            "source": "Guardian",
-            "headline": "Jonathan Reynolds is right, Jaguar Land Rover doesn\u2019t warrant use of public money | Nils Pratley",
-            "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/07/jaguar-land-rover-job-losses-financial-state-assistance"
+            "source": "CNBC",
+            "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+            "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html"
           },
           {
-            "source": "Guardian",
-            "headline": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
-            "url": "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs"
+            "source": "MarketWatch",
+            "headline": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump may target next.",
+            "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-07T17:22:51+00:00"
+        "published": "2026-09-08T17:08:01+00:00"
       },
       {
-        "headline": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities",
-        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "headline": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
+        "url": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html",
         "sources": [
           "CNBC",
           "Guardian"
@@ -64,88 +60,119 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities",
-            "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html"
+            "headline": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
+            "url": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html"
           },
           {
             "source": "Guardian",
-            "headline": "Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates"
+            "headline": "UK foreign secretary announces sanctions on trade with Israeli West Bank settlements \u2013 video",
+            "url": "https://www.theguardian.com/politics/video/2026/sep/08/uk-foreign-secretary-sanctions-trade-israeli-west-bank-settlements-video"
           }
         ],
-        "published": "2026-09-08T10:25:46+00:00"
+        "published": "2026-09-08T15:47:26+00:00"
       },
       {
-        "headline": "Novartis Sees Avidity Drug Suffer Third Clinical-Trial Setback",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-08/novartis-sees-avidity-drug-suffer-third-setback-video",
+        "headline": "Pharma major Novartis falls 10% after three drug trial setbacks",
+        "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
         "sources": [
-          "Bloomberg",
-          "CNBC"
+          "CNBC",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Novartis Sees Avidity Drug Suffer Third Clinical-Trial Setback",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-08/novartis-sees-avidity-drug-suffer-third-setback-video"
-          },
-          {
             "source": "CNBC",
-            "headline": "Pharma major Novartis falls 9% after three drug trial setbacks",
+            "headline": "Pharma major Novartis falls 10% after three drug trial setbacks",
             "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Novartis\u2019s failed trial for cholesterol drug leads to broad biopharma stock selloff",
+            "url": "https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-08T10:13:43+00:00"
+        "published": "2026-09-08T15:29:52+00:00"
       },
       {
-        "headline": "What to know about Canada's escalating trade war with the U.S.",
-        "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+        "headline": "Carney Says Tariffs on US Goods Meant to Protect Canada, Not Escalate Conflict",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-08/carney-says-tariffs-on-us-goods-meant-to-protect-canada-not-escalate-conflict",
+        "sources": [
+          "BBC",
+          "Bloomberg"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+            "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Carney Says Tariffs on US Goods Meant to Protect Canada, Not Escalate Conflict",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-08/carney-says-tariffs-on-us-goods-meant-to-protect-canada-not-escalate-conflict"
+          }
+        ],
+        "published": "2026-09-08T15:28:45+00:00"
+      },
+      {
+        "headline": "Here\u2019s where rental demand is heading and what it means for future home sales",
+        "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
         "sources": [
           "CNBC",
-          "NPR"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
-            "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html"
+            "headline": "Here\u2019s where rental demand is heading and what it means for future home sales",
+            "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html"
           },
           {
-            "source": "NPR",
-            "headline": "What to know about Canada's escalating trade war with the U.S.",
-            "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us"
+            "source": "CNBC Finance",
+            "headline": "Here\u2019s where rental demand is heading and what it means for future home sales",
+            "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html"
           }
         ],
-        "published": "2026-09-08T08:21:33+00:00"
-      },
-      {
-        "headline": "Global Bond Rush Kicks Off Ahead of US Return from Labor Day",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-08/global-bond-rush-kicks-off-in-asia-with-banks-leading-the-charge",
-        "sources": [
-          "Bloomberg",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Global Bond Rush Kicks Off Ahead of US Return from Labor Day",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-08/global-bond-rush-kicks-off-in-asia-with-banks-leading-the-charge"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Trump braces for midterms, crucial union vote as Labor Day shows 75,000 lost manufacturing jobs",
-            "url": "https://fortune.com/2026/09/07/union-voters-michigan-pennsylvania-midterms/"
-          }
-        ],
-        "published": "2026-09-08T06:10:06+00:00"
+        "published": "2026-09-08T15:19:43+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Brent nears $100 after strikes on Saudi energy sites; UK mortgage rates highest since June.",
+          "text": "Trump threatens to block US sales of Canadian Bombardier jets; the stock drops.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "BBC",
+            "CNBC",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Carney says Canada's retaliatory tariffs protect Canada, and the US trade war will come at a cost.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "BBC",
+            "Bloomberg"
+          ]
+        },
+        {
+          "text": "Novartis falls 10% on three trial setbacks, dragging biopharma shares lower.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "UK sanctions trade with Israeli West Bank settlements despite US warning of economic consequences.",
           "topic_ids": [
             1
           ],
@@ -153,51 +180,10 @@
             "CNBC",
             "Guardian"
           ]
-        },
-        {
-          "text": "Canada's $27.6bn retaliatory tariffs take effect, deepening the trade rift with the US.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "CNBC",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Jaguar Land Rover confirms 4,000 job cuts over two years in a cost-saving drive.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Novartis falls 9% after three drug trial setbacks, including Avidity's third.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Global bond issuance rush kicks off before the US returns from Labor Day.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "Bloomberg",
-            "Fortune"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-08T10:42:37+00:00"
+      "written_at": "2026-09-08T17:09:01+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -445,9 +431,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           4.798
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          4.792
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -460,16 +450,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.798,
-      "change": 0.014,
-      "change_pct": 0.2926,
+      "value": 4.792,
+      "change": 0.008,
+      "change_pct": 0.1672,
       "prev_close": 4.784,
       "day_open": 4.792,
       "day_high": 4.812,
-      "day_low": 4.772,
+      "day_low": 4.76,
       "year_high": 4.82,
       "year_low": 3.93,
-      "as_of": "2026-09-08T06:39:09.000-0400",
+      "as_of": "2026-09-08T13:08:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -711,9 +701,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           4.377
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          4.387
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -726,16 +720,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.377,
-      "change": -0.002,
-      "change_pct": 0.0039,
+      "value": 4.387,
+      "change": 0.008,
+      "change_pct": -0.0195,
       "prev_close": 4.379,
       "day_open": 4.375,
-      "day_high": 4.385,
+      "day_high": 4.396,
       "day_low": 4.36,
       "year_high": 4.43,
       "year_low": 3.37,
-      "as_of": "2026-09-08T06:40:06.000-0400",
+      "as_of": "2026-09-08T13:08:38.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -977,9 +971,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           5.262
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          5.248
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -992,16 +990,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.262,
-      "change": 0.016,
-      "change_pct": 0.305,
+      "value": 5.248,
+      "change": 0.002,
+      "change_pct": 0.0381,
       "prev_close": 5.246,
       "day_open": 5.252,
       "day_high": 5.278,
-      "day_low": 5.229,
+      "day_low": 5.216,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-09-08T06:41:38.000-0400",
+      "as_of": "2026-09-08T13:08:06.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1029,12 +1027,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.2771155781387078,
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "value": 1.2711155781387076,
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.8995957880329035,
-      "change": 0.3775197901058043,
-      "change_pct": 41.96549107141841,
+      "change": 0.37151979010580405,
+      "change_pct": 41.29852485394422,
       "stale": false
     },
     {
@@ -1246,9 +1244,13 @@
         [
           "2026-09-07T11:43:33+00:00",
           7718.6
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          7691.33
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1261,16 +1263,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7718.6,
-      "change": -29.11,
-      "change_pct": -0.38,
+      "value": 7691.33,
+      "change": -27.27,
+      "change_pct": -0.35,
       "prev_close": 7718.6,
-      "day_open": 7750.19,
-      "day_high": 7750.19,
-      "day_low": 7706.12,
+      "day_open": 7717.81,
+      "day_high": 7717.81,
+      "day_low": 7675.69,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-08T13:08:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1484,9 +1486,13 @@
         [
           "2026-09-07T11:43:33+00:00",
           26506.99
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          26483.379
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1499,16 +1505,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29,
+      "value": 26483.379,
+      "change": -23.611,
+      "change_pct": -0.09,
       "prev_close": 26506.99,
-      "day_open": 26587.896,
-      "day_high": 26628.584,
-      "day_low": 26444.843,
+      "day_open": 26528.571,
+      "day_high": 26542.136,
+      "day_low": 26341.173,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-08T13:08:41.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1750,9 +1756,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           15.69
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          15.27
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1765,16 +1775,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.69,
-      "change": 0.39,
-      "change_pct": 2.55,
+      "value": 15.27,
+      "change": -0.03,
+      "change_pct": -0.2,
       "prev_close": 15.3,
       "day_open": 15.56,
       "day_high": 15.94,
-      "day_low": 15.5,
+      "day_low": 15.22,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-08T06:42:01.000-0400",
+      "as_of": "2026-09-08T13:08:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2048,9 +2058,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           1.1609
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          1.1625
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:22+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2063,16 +2077,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1609,
-      "change": -0.0012,
-      "change_pct": -0.1033,
+      "value": 1.1625,
+      "change": 0.0004,
+      "change_pct": 0.0344,
       "prev_close": 1.1621,
       "day_open": 1.1627,
       "day_high": 1.1636,
       "day_low": 1.1609,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-08T06:42:00.000-0400",
+      "as_of": "2026-09-08T13:08:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2330,9 +2344,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           0.8118
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          0.809
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2345,16 +2363,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8118,
-      "change": 0.0026,
-      "change_pct": 0.3213,
+      "value": 0.809,
+      "change": -0.0002,
+      "change_pct": -0.0247,
       "prev_close": 0.8092,
       "day_open": 0.8091,
       "day_high": 0.812,
       "day_low": 0.8078,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-08T06:42:00.000-0400",
+      "as_of": "2026-09-08T13:08:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2608,9 +2626,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           4442.5
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          4439.5
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2623,16 +2645,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4442.5,
-      "change": -34.1,
-      "change_pct": -0.76,
+      "value": 4439.5,
+      "change": -37.1,
+      "change_pct": -0.83,
       "prev_close": 4476.6,
       "day_open": 4466.5,
       "day_high": 4488.8,
-      "day_low": 4426.2,
+      "day_low": 4425.1,
       "year_high": 5586.2,
-      "year_low": 3595.4,
-      "as_of": "2026-09-08T06:32:13.000-0400",
+      "year_low": 3621.7,
+      "as_of": "2026-09-08T12:58:38.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -2886,9 +2908,13 @@
         [
           "2026-09-08T10:42:26+00:00",
           93.75
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          92.28
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2901,16 +2927,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 93.75,
-      "change": 2.27,
-      "change_pct": 2.48,
+      "value": 92.28,
+      "change": 0.8,
+      "change_pct": 0.87,
       "prev_close": 91.48,
       "day_open": 92.26,
       "day_high": 94.73,
       "day_low": 90.87,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-08T06:32:13.000-0400",
+      "as_of": "2026-09-08T12:58:38.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -3080,9 +3106,13 @@
         [
           "2026-09-07T11:43:33+00:00",
           230.36
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          226.09
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:49+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3095,17 +3125,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 230.36,
-      "change": 1.91,
-      "change_pct": 0.84,
+      "value": 226.09,
+      "change": -4.27,
+      "change_pct": -1.85,
       "prev_close": 230.36,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 233.11,
+      "day_high": 233.71,
+      "day_low": 225.55,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-04",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-08T13:08:45.359-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -3274,9 +3304,13 @@
         [
           "2026-09-07T11:43:33+00:00",
           567.01
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          576.12
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:49+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3289,17 +3323,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 567.01,
-      "change": 14.41,
-      "change_pct": 2.61,
+      "value": 576.12,
+      "change": 9.11,
+      "change_pct": 1.61,
       "prev_close": 567.01,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 578.7,
+      "day_high": 580.57,
+      "day_low": 572.0,
       "year_high": 671.83,
       "year_low": 294.8,
-      "as_of": "2026-09-04",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-08T13:08:34.134-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -3468,14 +3502,18 @@
         [
           "2026-09-07T11:43:33+00:00",
           73.46021299199336
+        ],
+        [
+          "2026-09-08T17:08:51+00:00",
+          74.90512044080803
         ]
       ],
-      "value": 73.46021299199336,
-      "fetched_at": "2026-09-08T10:42:22+00:00",
-      "as_of": "2026-09-04",
+      "value": 74.90512044080803,
+      "fetched_at": "2026-09-08T17:08:48+00:00",
+      "as_of": "2026-09-08T13:08:34.134-0400",
       "prev_close": 73.46021299199336,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 1.444907448814675,
+      "change_pct": 1.966925210211628,
       "stale": false
     },
     {
@@ -3496,14 +3534,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-16",
-          2.71
-        ],
-        [
-          "2026-07-17",
-          2.73
-        ],
         [
           "2026-07-20",
           2.69
@@ -3639,23 +3669,31 @@
         [
           "2026-09-03",
           2.65
+        ],
+        [
+          "2026-09-04",
+          2.68
+        ],
+        [
+          "2026-09-07",
+          2.68
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:49+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "787"
+        "_observations": "785"
       },
-      "value": 2.65,
-      "change": -0.010000000000000231,
-      "change_pct": -0.3759398496240688,
-      "prev_close": 2.66,
+      "value": 2.68,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 2.68,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 2.87,
       "year_low": 2.6,
-      "as_of": "2026-09-03",
+      "as_of": "2026-09-07",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -3678,14 +3716,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-16",
-          0.78
-        ],
-        [
-          "2026-07-17",
-          0.79
-        ],
         [
           "2026-07-20",
           0.78
@@ -3821,12 +3851,20 @@
         [
           "2026-09-03",
           0.81
+        ],
+        [
+          "2026-09-04",
+          0.81
+        ],
+        [
+          "2026-09-07",
+          0.81
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:49+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "786"
+        "_observations": "784"
       },
       "value": 0.81,
       "change": 0.0,
@@ -3837,7 +3875,7 @@
       "day_low": null,
       "year_high": 0.82,
       "year_low": 0.78,
-      "as_of": "2026-09-03",
+      "as_of": "2026-09-07",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -3913,7 +3951,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:23+00:00",
+      "fetched_at": "2026-09-08T17:08:49+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -4001,7 +4039,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:25+00:00",
+      "fetched_at": "2026-09-08T17:08:50+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4077,7 +4115,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:25+00:00",
+      "fetched_at": "2026-09-08T17:08:50+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4126,7 +4164,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-08T10:42:25+00:00",
+      "fetched_at": "2026-09-08T17:08:50+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -4296,7 +4334,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:26+00:00",
+      "fetched_at": "2026-09-08T17:08:51+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -4479,7 +4517,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-09-08T10:42:26+00:00",
+      "fetched_at": "2026-09-08T17:08:51+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
