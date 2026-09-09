@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T10:51:36+00:00",
+  "generated_at": "2026-09-09T17:06:05+00:00",
   "briefing": {
-    "captured_at": "2026-09-09T10:51:37+00:00",
+    "captured_at": "2026-09-09T17:06:09+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -10,17 +10,19 @@
       "Seeking Alpha",
       "CNBC Finance",
       "BBC",
+      "NPR",
       "Fortune",
       "Business Insider"
     ],
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+        "headline": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
         "sources": [
           "BBC",
           "CNBC",
+          "Fortune",
           "Guardian"
         ],
         "corroborated": true,
@@ -36,90 +38,44 @@
             "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html"
           },
           {
+            "source": "Fortune",
+            "headline": "Canada hit U.S. goods with $20 billion in tariffs. Now America is banning Canadian alcohol, dairy and motorcycles",
+            "url": "https://fortune.com/2026/09/09/us-canada-trade-war-alcohol-dairy-motorcycle-ban/"
+          },
+          {
             "source": "Guardian",
-            "headline": "US bans Canadian dairy, alcohol and motorcycles as trade war with longtime ally escalates",
+            "headline": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
             "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol"
           }
         ],
-        "published": "2026-09-09T10:20:40+00:00"
+        "published": "2026-09-09T16:17:46+00:00"
       },
       {
-        "headline": "Brent crude passes $100 threshold as war in Iran intensifies",
-        "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+        "headline": "Crude Hits $100 as US-Iran War Escalates With Tankers Targeted",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-09/crude-hits-100-as-us-iran-war-escalates-video",
         "sources": [
           "Bloomberg",
-          "Guardian",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "US Stocks Fall as $100 Brent Lifts Inflation Risk: Markets Wrap",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-08/stock-market-today-dow-s-p-live-updates"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-            "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Brent crude passes $100 threshold as war in Iran intensifies",
-            "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-09-09T09:27:07+00:00"
-      },
-      {
-        "headline": "LIV Golf files for Chapter 11 bankruptcy protection",
-        "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "LIV Golf files for Chapter 11 bankruptcy protection",
-            "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html"
+            "source": "Bloomberg",
+            "headline": "Crude Hits $100 as US-Iran War Escalates With Tankers Targeted",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-09/crude-hits-100-as-us-iran-war-escalates-video"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "LIV Golf files for Chapter 11 bankruptcy protection",
-            "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html"
+            "source": "Bloomberg",
+            "headline": "Crude Tops $101 as US-Iran War Escalates With Tankers Targeted",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-08/latest-oil-market-news-and-analysis-for-sept-9"
           },
           {
             "source": "Guardian",
-            "headline": "LIV Golf files for bankruptcy protection as it looks to \u2018begin the next chapter\u2019",
-            "url": "https://www.theguardian.com/sport/2026/sep/08/liv-golf-files-for-bankruptcy-protection-as-it-looks-to-begin-the-next-chapter"
+            "headline": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+            "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates"
           }
         ],
-        "published": "2026-09-08T21:51:11+00:00"
-      },
-      {
-        "headline": "Korn Ferry Non-GAAP EPS of $1.43 beats by $0.07, revenue of $764.6M beats by $26.94M",
-        "url": "https://seekingalpha.com/news/4641085-korn-ferry-non-gaap-eps-of-1_43-beats-by-0_07-revenue-of-764_6m-beats-by-26_94m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Business Insider",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Business Insider",
-            "headline": "Casey's General Stores GAAP EPS of $7.37 beats by $0.55, revenue of $5.69B beats by $140M",
-            "url": "https://seekingalpha.com/news/4640976-caseys-general-stores-gaap-eps-of-7_37-beats-by-0_55-revenue-of-5_69b-beats-by-140m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Korn Ferry Non-GAAP EPS of $1.43 beats by $0.07, revenue of $764.6M beats by $26.94M",
-            "url": "https://seekingalpha.com/news/4641085-korn-ferry-non-gaap-eps-of-1_43-beats-by-0_07-revenue-of-764_6m-beats-by-26_94m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-09-09T10:47:39+00:00"
+        "published": "2026-09-09T16:51:13+00:00"
       },
       {
         "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
@@ -137,71 +93,104 @@
           },
           {
             "source": "CNBC",
-            "headline": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
+            "headline": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
             "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html"
           }
         ],
-        "published": "2026-09-09T10:46:43+00:00"
+        "published": "2026-09-09T16:50:10+00:00"
+      },
+      {
+        "headline": "Wall Street slides as oil clears $100/bbl amid Middle East escalation",
+        "url": "https://seekingalpha.com/news/4641197-wall-street-slides-as-oil-clears-100bbl-amid-middle-east-escalation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "sources": [
+          "Fortune",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "The latest Bitcoin mystery: Who is behind the tiny non-profit buying a $2 million ad campaign in the Wall Street Journal?",
+            "url": "https://fortune.com/2026/09/09/bitcoin-mystery-tiny-non-profit-2-million-ad-campaign-wall-street-journal/"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Wall Street slides as oil clears $100/bbl amid Middle East escalation",
+            "url": "https://seekingalpha.com/news/4641197-wall-street-slides-as-oil-clears-100bbl-amid-middle-east-escalation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-09-09T16:48:12+00:00"
+      },
+      {
+        "headline": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+        "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+            "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+            "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html"
+          }
+        ],
+        "published": "2026-09-09T16:47:24+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Brent tops $100 for the first time since July on the Iran war; US stocks fall on inflation risk.",
+          "text": "Crude tops $100 for the first time since July as the US-Iran war escalates with tankers targeted.",
           "topic_ids": [
             1
           ],
           "sources": [
             "Bloomberg",
-            "Guardian",
-            "MarketWatch"
+            "Guardian"
           ]
         },
         {
-          "text": "US bans imports of some Canadian dairy, alcohol and motorcycles, escalating the trade war.",
+          "text": "Wall Street slides with oil clearing $100 a barrel.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "Fortune",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "US bans imports of some Canadian alcohol, dairy and motorcycles after Canada's $20bn tariffs.",
           "topic_ids": [
             0
           ],
           "sources": [
             "BBC",
             "CNBC",
+            "Fortune",
             "Guardian"
           ]
         },
         {
-          "text": "LIV Golf files for Chapter 11 bankruptcy protection.",
+          "text": "An Anthropic researcher puts the chance AI kills all humans above 10%.",
           "topic_ids": [
             2
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "An Anthropic researcher puts the chance AI kills all humans above 10% after a colleague quit.",
-          "topic_ids": [
-            4
           ],
           "sources": [
             "BBC",
             "CNBC"
           ]
-        },
-        {
-          "text": "Casey's and Korn Ferry both beat on EPS and revenue.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Business Insider",
-            "Seeking Alpha"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-09T10:51:47+00:00"
+      "written_at": "2026-09-09T17:06:19+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -461,9 +450,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           4.806
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          4.831
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:32+00:00",
+      "fetched_at": "2026-09-09T17:05:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -476,16 +469,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.806,
-      "change": 0.002,
-      "change_pct": 0.0416,
+      "value": 4.831,
+      "change": 0.027,
+      "change_pct": 0.562,
       "prev_close": 4.804,
       "day_open": 4.788,
-      "day_high": 4.812,
+      "day_high": 4.857,
       "day_low": 4.786,
-      "year_high": 4.82,
+      "year_high": 4.86,
       "year_low": 3.93,
-      "as_of": "2026-09-09T06:51:29.000-0400",
+      "as_of": "2026-09-09T13:05:51.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -739,9 +732,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           4.417
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          4.419
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:32+00:00",
+      "fetched_at": "2026-09-09T17:05:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -754,16 +751,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.417,
-      "change": 0.019,
-      "change_pct": -0.0391,
+      "value": 4.419,
+      "change": 0.021,
+      "change_pct": -0.043,
       "prev_close": 4.398,
       "day_open": 4.394,
-      "day_high": 4.421,
+      "day_high": 4.43,
       "day_low": 4.392,
       "year_high": 4.43,
       "year_low": 3.37,
-      "as_of": "2026-09-09T06:50:15.000-0400",
+      "as_of": "2026-09-09T13:05:52.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1017,9 +1014,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           5.25
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          5.284
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:05:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1032,16 +1033,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.25,
-      "change": -0.014,
-      "change_pct": -0.266,
+      "value": 5.284,
+      "change": 0.02,
+      "change_pct": 0.3799,
       "prev_close": 5.264,
       "day_open": 5.246,
-      "day_high": 5.258,
-      "day_low": 5.239,
+      "day_high": 5.315,
+      "day_low": 5.235,
       "year_high": 5.34,
       "year_low": 4.52,
-      "as_of": "2026-09-09T06:51:15.000-0400",
+      "as_of": "2026-09-09T13:05:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1069,12 +1070,12 @@
           1.2151155781387075
         ]
       ],
-      "value": 1.2851155781387078,
-      "fetched_at": "2026-09-09T10:51:32+00:00",
+      "value": 1.3101155781387082,
+      "fetched_at": "2026-09-09T17:05:59+00:00",
       "as_of": "2026-07-01",
       "prev_close": 0.919595788032904,
-      "change": 0.3655197901058038,
-      "change_pct": 39.747875627799765,
+      "change": 0.3905197901058042,
+      "change_pct": 42.46646137224707,
       "stale": false
     },
     {
@@ -1298,9 +1299,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           7673.52
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          7640.61
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:05:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1313,16 +1318,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7673.52,
-      "change": -45.08,
-      "change_pct": -0.58,
+      "value": 7640.61,
+      "change": -32.91,
+      "change_pct": -0.43,
       "prev_close": 7673.52,
-      "day_open": 7717.81,
-      "day_high": 7717.81,
-      "day_low": 7666.99,
+      "day_open": 7660.68,
+      "day_high": 7660.68,
+      "day_low": 7624.16,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-08",
+      "as_of": "2026-09-09T13:05:58.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1548,9 +1553,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           26421.413
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          26258.185
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1563,16 +1572,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26421.413,
-      "change": -85.577,
-      "change_pct": -0.32,
+      "value": 26258.185,
+      "change": -163.227,
+      "change_pct": -0.62,
       "prev_close": 26421.413,
-      "day_open": 26528.571,
-      "day_high": 26542.136,
-      "day_low": 26341.173,
+      "day_open": 26325.061,
+      "day_high": 26366.559,
+      "day_low": 26184.214,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-08",
+      "as_of": "2026-09-09T13:05:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -1826,9 +1835,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           16.34
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          16.32
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1841,16 +1854,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.34,
-      "change": 0.62,
-      "change_pct": 3.94,
+      "value": 16.32,
+      "change": 0.6,
+      "change_pct": 3.82,
       "prev_close": 15.72,
       "day_open": 15.65,
-      "day_high": 16.36,
+      "day_high": 16.68,
       "day_low": 15.57,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-09T06:51:16.000-0400",
+      "as_of": "2026-09-09T13:05:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2136,9 +2149,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           1.1631
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          1.1639
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2151,16 +2168,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1631,
-      "change": 0.0008,
-      "change_pct": 0.0688,
+      "value": 1.1639,
+      "change": 0.0016,
+      "change_pct": 0.1377,
       "prev_close": 1.1623,
       "day_open": 1.1623,
-      "day_high": 1.1649,
-      "day_low": 1.1623,
+      "day_high": 1.1653,
+      "day_low": 1.1621,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-09T06:51:00.000-0400",
+      "as_of": "2026-09-09T13:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2430,9 +2447,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           0.8091
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          0.8095
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2445,16 +2466,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8091,
-      "change": -0.0003,
-      "change_pct": -0.0371,
+      "value": 0.8095,
+      "change": 0.0001,
+      "change_pct": 0.0124,
       "prev_close": 0.8094,
       "day_open": 0.8095,
-      "day_high": 0.8106,
-      "day_low": 0.8079,
+      "day_high": 0.8109,
+      "day_low": 0.8068,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-09T06:51:00.000-0400",
+      "as_of": "2026-09-09T13:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -2720,9 +2741,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           4440.0
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          4451.8
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2735,16 +2760,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4440.0,
-      "change": 1.0,
-      "change_pct": 0.02,
+      "value": 4451.8,
+      "change": 12.8,
+      "change_pct": 0.29,
       "prev_close": 4439.0,
       "day_open": 4399.0,
-      "day_high": 4456.3,
+      "day_high": 4479.0,
       "day_low": 4384.1,
       "year_high": 5586.2,
-      "year_low": 3621.7,
-      "as_of": "2026-09-09T06:41:17.000-0400",
+      "year_low": 3651.0,
+      "as_of": "2026-09-09T12:55:54.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -3010,9 +3035,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           95.22
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          95.69
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3025,16 +3054,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 95.22,
-      "change": 2.19,
-      "change_pct": 2.35,
+      "value": 95.69,
+      "change": 2.66,
+      "change_pct": 2.86,
       "prev_close": 93.03,
       "day_open": 94.31,
-      "day_high": 95.57,
+      "day_high": 96.82,
       "day_low": 93.76,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-09T06:41:15.000-0400",
+      "as_of": "2026-09-09T12:55:54.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -3216,9 +3245,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           225.73
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          224.22
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3231,17 +3264,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 225.73,
-      "change": -4.63,
-      "change_pct": -2.01,
+      "value": 224.22,
+      "change": -1.51,
+      "change_pct": -0.67,
       "prev_close": 225.73,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 225.28,
+      "day_high": 226.18,
+      "day_low": 223.51,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-08",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-09T13:05:54.632-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -3422,9 +3455,13 @@
         [
           "2026-09-09T10:51:36+00:00",
           573.73
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          575.22
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3437,17 +3474,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 573.73,
-      "change": 6.72,
-      "change_pct": 1.19,
+      "value": 575.22,
+      "change": 1.49,
+      "change_pct": 0.26,
       "prev_close": 573.73,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 569.9,
+      "day_high": 577.57,
+      "day_low": 569.9,
       "year_high": 671.83,
       "year_low": 295.11,
-      "as_of": "2026-09-08",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-09T13:05:59.913-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -3628,14 +3665,18 @@
         [
           "2026-09-09T10:51:36+00:00",
           74.76751217172823
+        ],
+        [
+          "2026-09-09T17:06:05+00:00",
+          75.28456497583309
         ]
       ],
-      "value": 74.76751217172823,
-      "fetched_at": "2026-09-09T10:51:33+00:00",
-      "as_of": "2026-09-08",
+      "value": 75.28456497583309,
+      "fetched_at": "2026-09-09T17:05:59+00:00",
+      "as_of": "2026-09-09T13:05:58.000-0400",
       "prev_close": 74.76751217172823,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 0.5170528041048641,
+      "change_pct": 0.6915474235885793,
       "stale": false
     },
     {
@@ -3656,10 +3697,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-20",
-          2.69
-        ],
         [
           "2026-07-21",
           2.69
@@ -3799,23 +3836,27 @@
         [
           "2026-09-07",
           2.68
+        ],
+        [
+          "2026-09-08",
+          2.67
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:01+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "785"
+        "_observations": "786"
       },
-      "value": 2.68,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 2.67,
+      "change": -0.010000000000000231,
+      "change_pct": -0.3731343283582175,
       "prev_close": 2.68,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 2.87,
       "year_low": 2.6,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -3838,10 +3879,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-20",
-          0.78
-        ],
         [
           "2026-07-21",
           0.78
@@ -3981,12 +4018,16 @@
         [
           "2026-09-07",
           0.81
+        ],
+        [
+          "2026-09-08",
+          0.81
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:33+00:00",
+      "fetched_at": "2026-09-09T17:06:01+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "785"
       },
       "value": 0.81,
       "change": 0.0,
@@ -3997,7 +4038,7 @@
       "day_low": null,
       "year_high": 0.82,
       "year_low": 0.78,
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-08",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -4073,7 +4114,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:34+00:00",
+      "fetched_at": "2026-09-09T17:06:02+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -4161,7 +4202,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:35+00:00",
+      "fetched_at": "2026-09-09T17:06:03+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4237,7 +4278,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:35+00:00",
+      "fetched_at": "2026-09-09T17:06:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4286,7 +4327,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-09T10:51:35+00:00",
+      "fetched_at": "2026-09-09T17:06:03+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -4456,7 +4497,7 @@
           3.5208844218612922
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:35+00:00",
+      "fetched_at": "2026-09-09T17:06:04+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -4639,7 +4680,7 @@
           1.177971006308592
         ]
       ],
-      "fetched_at": "2026-09-09T10:51:36+00:00",
+      "fetched_at": "2026-09-09T17:06:05+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "841"
