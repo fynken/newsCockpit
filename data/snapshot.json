@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T11:13:25+00:00",
+  "generated_at": "2026-09-15T17:34:27+00:00",
   "briefing": {
-    "captured_at": "2026-09-15T11:13:28+00:00",
+    "captured_at": "2026-09-15T17:34:30+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -16,6 +16,109 @@
     ],
     "feeds_configured": 14,
     "stories": [
+      {
+        "headline": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-15/us-10-year-yield-rises-to-highest-since-07-as-fed-looms-video",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "US 10-Year Yield Rises to Highest Since 2007 Ahead of Fed Decision",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-15/bloomberg-surveillance-9-15-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-15/us-10-year-yield-rises-to-highest-since-07-as-fed-looms-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "US Stocks Fall as 10-Year Yield Hits Highest Level Since 2007",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-15/us-stock-futures-drop-as-10-year-treasury-yield-passes-5"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007"
+          },
+          {
+            "source": "CNBC",
+            "headline": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+            "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"
+          }
+        ],
+        "published": "2026-09-15T17:33:27+00:00"
+      },
+      {
+        "headline": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+        "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+            "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+            "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html"
+          }
+        ],
+        "published": "2026-09-15T17:12:34+00:00"
+      },
+      {
+        "headline": "Bessent Defends Treasury's Bond Market Intervention",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-15/bessent-defends-treasury-s-bond-market-intervention-video",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Bessent Defends Treasury's Bond Market Intervention",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-15/bessent-defends-treasury-s-bond-market-intervention-video"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Scott Bessent defends Treasury intervention, Trump economy in contentious House hearing",
+            "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html"
+          }
+        ],
+        "published": "2026-09-15T17:11:56+00:00"
+      },
+      {
+        "headline": "Wall Street may have gotten the \u2018slower AI\u2019 story all wrong",
+        "url": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
+        "sources": [
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Wall Street weighs prospect of an AI slowdown on data center buildout",
+            "url": "https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Wall Street may have gotten the \u2018slower AI\u2019 story all wrong",
+            "url": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-09-15T16:16:00+00:00"
+      },
       {
         "headline": "State pension likely to top \u00a313,000 a year as UK wage growth slows to 3.9%",
         "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
@@ -37,110 +140,27 @@
           },
           {
             "source": "Guardian",
-            "headline": "Pensioners are \u2018big winners\u2019 with triple-lock set to rise by 3.9%, lifting state pension to \u00a313,000 \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates"
+            "headline": "UK retirees with no other income will not pay tax on new \u00a313,000 state pension, No 10 says",
+            "url": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price"
           }
         ],
-        "published": "2026-09-15T11:05:42+00:00"
-      },
-      {
-        "headline": "Oil Climbs as Saudi East-West Pipeline Remains Offline",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-15/oil-climbs-as-saudi-east-west-pipeline-remains-offline-video",
-        "sources": [
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Oil Climbs as Saudi East-West Pipeline Remains Offline",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-15/oil-climbs-as-saudi-east-west-pipeline-remains-offline-video"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Oil\u2019s next test: Saudi Arabia races to restore a key safety valve for prices",
-            "url": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia",
-            "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html"
-          }
-        ],
-        "published": "2026-09-15T10:51:55+00:00"
-      },
-      {
-        "headline": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007",
-        "sources": [
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007"
-          },
-          {
-            "source": "CNBC",
-            "headline": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-            "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"
-          }
-        ],
-        "published": "2026-09-15T10:31:24+00:00"
-      },
-      {
-        "headline": "What It Takes to Get a Job on Wall Street",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-15/what-it-takes-to-get-a-job-on-wall-street",
-        "sources": [
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "What It Takes to Get a Job on Wall Street",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-15/what-it-takes-to-get-a-job-on-wall-street"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Wall Street weighs prospect of an AI slowdown on data center buildout",
-            "url": "https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html"
-          }
-        ],
-        "published": "2026-09-15T10:01:00+00:00"
-      },
-      {
-        "headline": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-        "url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-            "url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-            "url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html"
-          }
-        ],
-        "published": "2026-09-15T10:00:01+00:00"
+        "published": "2026-09-15T15:43:42+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "US 10-year Treasury yield hits highest since 2007 ahead of the Fed, with rate-hike bets rising",
+          "text": "US 10-year yield hits highest since 2007 before the Fed decision; stocks fall.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "Bessent defends Treasury's bond market intervention in a contentious House hearing.",
           "topic_ids": [
             2
           ],
@@ -150,48 +170,28 @@
           ]
         },
         {
-          "text": "Oil extends gains, Brent near $108, after Houthi strikes leave Saudi East-West pipeline offline",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Wall Street weighs the prospect of an AI slowdown in data center buildout",
+          "text": "Wall Street debates an AI slowdown in data center buildout, with some saying the story is wrong.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "Bloomberg",
-            "CNBC"
+            "CNBC",
+            "MarketWatch"
           ]
         },
         {
-          "text": "UK triple lock set to rise 3.9% with wage growth, lifting the state pension above \u00a313,000",
+          "text": "UK state pension set to top \u00a313,000 as wage growth slows to 3.9%; No 10 says no tax for retirees with no other income.",
           "topic_ids": [
-            0
+            4
           ],
           "sources": [
             "BBC",
             "Guardian"
           ]
-        },
-        {
-          "text": "Kraft Heinz adds Philadelphia cream cheese flavors in a push to revive its brands",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-15T11:13:36+00:00"
+      "written_at": "2026-09-15T17:34:39+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -499,9 +499,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           5.008
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          5.012
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "fetched_at": "2026-09-15T17:34:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -514,16 +518,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.008,
-      "change": 0.047,
-      "change_pct": 0.9474,
+      "value": 5.012,
+      "change": 0.051,
+      "change_pct": 1.028,
       "prev_close": 4.961,
       "day_open": 4.981,
       "day_high": 5.041,
       "day_low": 4.981,
       "year_high": 5.04,
       "year_low": 3.93,
-      "as_of": "2026-09-15T07:12:14.000-0400",
+      "as_of": "2026-09-15T13:34:05.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -825,9 +829,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           4.656
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          4.665
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "fetched_at": "2026-09-15T17:34:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -840,16 +848,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.656,
-      "change": 0.022,
-      "change_pct": -0.043,
+      "value": 4.665,
+      "change": 0.031,
+      "change_pct": -0.0586,
       "prev_close": 4.634,
       "day_open": 4.65,
       "day_high": 4.688,
-      "day_low": 4.648,
+      "day_low": 4.637,
       "year_high": 4.69,
       "year_low": 3.37,
-      "as_of": "2026-09-15T07:12:13.000-0400",
+      "as_of": "2026-09-15T13:31:07.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1151,9 +1159,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           5.375
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          5.38
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "fetched_at": "2026-09-15T17:34:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1166,16 +1178,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.375,
-      "change": 0.047,
-      "change_pct": 0.8821,
+      "value": 5.38,
+      "change": 0.052,
+      "change_pct": 0.976,
       "prev_close": 5.328,
       "day_open": 5.347,
       "day_high": 5.401,
       "day_low": 5.346,
       "year_high": 5.42,
       "year_low": 4.52,
-      "as_of": "2026-09-15T07:12:59.000-0400",
+      "as_of": "2026-09-15T13:34:17.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1207,12 +1219,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.3144312424159796,
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "value": 1.3184312424159792,
+      "fetched_at": "2026-09-15T17:34:22+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.440115578138708,
-      "change": -0.1256843357227284,
-      "change_pct": -8.72737838758542,
+      "change": -0.12168433572272885,
+      "change_pct": -8.449622903183993,
       "stale": false
     },
     {
@@ -1484,9 +1496,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           7619.98
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          7583.08
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "fetched_at": "2026-09-15T17:34:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1499,16 +1515,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7619.98,
-      "change": -37.0,
+      "value": 7583.08,
+      "change": -36.9,
       "change_pct": -0.48,
       "prev_close": 7619.98,
-      "day_open": 7611.44,
-      "day_high": 7647.99,
-      "day_low": 7592.28,
+      "day_open": 7612.3,
+      "day_high": 7617.26,
+      "day_low": 7572.69,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-14",
+      "as_of": "2026-09-15T13:34:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1782,9 +1798,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           26186.413
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          25980.178
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "fetched_at": "2026-09-15T17:34:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1797,16 +1817,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26186.413,
-      "change": -146.622,
-      "change_pct": -0.56,
+      "value": 25980.178,
+      "change": -206.235,
+      "change_pct": -0.79,
       "prev_close": 26186.413,
-      "day_open": 26018.502,
-      "day_high": 26329.979,
-      "day_low": 25992.546,
+      "day_open": 26140.227,
+      "day_high": 26172.121,
+      "day_low": 25949.478,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-14",
+      "as_of": "2026-09-15T13:34:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2108,9 +2128,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           17.06
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          17.6
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:18+00:00",
+      "fetched_at": "2026-09-15T17:34:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2123,16 +2147,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 17.06,
-      "change": -0.04,
-      "change_pct": -0.23,
+      "value": 17.6,
+      "change": 0.5,
+      "change_pct": 2.92,
       "prev_close": 17.1,
       "day_open": 17.57,
       "day_high": 18.03,
-      "day_low": 17.05,
+      "day_low": 16.79,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-15T07:13:01.000-0400",
+      "as_of": "2026-09-15T13:34:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2466,9 +2490,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           1.1536
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          1.1538
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:19+00:00",
+      "fetched_at": "2026-09-15T17:34:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2481,16 +2509,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1536,
-      "change": -0.0011,
-      "change_pct": -0.0953,
+      "value": 1.1538,
+      "change": -0.0009,
+      "change_pct": -0.0779,
       "prev_close": 1.1547,
       "day_open": 1.1549,
       "day_high": 1.1556,
       "day_low": 1.1528,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-15T07:12:00.000-0400",
+      "as_of": "2026-09-15T13:34:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2808,9 +2836,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           0.8181
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          0.8187
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:19+00:00",
+      "fetched_at": "2026-09-15T17:34:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2823,16 +2855,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8181,
-      "change": 0.001,
-      "change_pct": 0.1224,
+      "value": 0.8187,
+      "change": 0.0016,
+      "change_pct": 0.1958,
       "prev_close": 0.8171,
       "day_open": 0.817,
-      "day_high": 0.8186,
+      "day_high": 0.8198,
       "day_low": 0.8167,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-15T07:13:00.000-0400",
+      "as_of": "2026-09-15T13:34:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3146,9 +3178,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           4321.3
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          4332.9
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:19+00:00",
+      "fetched_at": "2026-09-15T17:34:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3161,16 +3197,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4321.3,
-      "change": -30.6,
-      "change_pct": -0.7,
+      "value": 4332.9,
+      "change": -19.0,
+      "change_pct": -0.44,
       "prev_close": 4351.9,
       "day_open": 4340.3,
       "day_high": 4358.2,
       "day_low": 4301.6,
       "year_high": 5586.2,
       "year_low": 3660.5,
-      "as_of": "2026-09-15T07:03:15.000-0400",
+      "as_of": "2026-09-15T13:24:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -3484,9 +3520,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           102.6
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          106.43
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:19+00:00",
+      "fetched_at": "2026-09-15T17:34:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3499,16 +3539,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 102.6,
-      "change": 1.21,
-      "change_pct": 1.19,
+      "value": 106.43,
+      "change": 5.04,
+      "change_pct": 4.97,
       "prev_close": 101.39,
       "day_open": 102.01,
-      "day_high": 104.21,
-      "day_low": 101.83,
+      "day_high": 106.59,
+      "day_low": 101.21,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-15T07:03:14.000-0400",
+      "as_of": "2026-09-15T13:24:20.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -3738,9 +3778,13 @@
         [
           "2026-09-15T11:13:25+00:00",
           210.96
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          211.59
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:19+00:00",
+      "fetched_at": "2026-09-15T17:34:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3753,17 +3797,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 210.96,
-      "change": -7.33,
-      "change_pct": -3.36,
+      "value": 211.59,
+      "change": 0.63,
+      "change_pct": 0.3,
       "prev_close": 210.96,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 213.38,
+      "day_high": 213.94,
+      "day_low": 211.16,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-14",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-15T13:34:18.830-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -3781,8 +3825,8 @@
       "featured": false,
       "good_when": "up",
       "note": "VanEck Semiconductor ETF \u2014 the AI supply chain in one instrument.",
-      "origin": "cache",
-      "error": "cnbc: no usable price for SMH (absent: last, latest_yield, bondlastprice, mark_price, previous_day_closing; market status 'unknown', 2 keys in the record); yahoo: HTTP 429 from query1.finance.yahoo.com (rate-limited \u2014 this host's IP is being throttled)",
+      "origin": "live",
+      "error": null,
       "source_note": "",
       "series": [
         [
@@ -3988,22 +4032,38 @@
         [
           "2026-09-14T23:16:55+00:00",
           541.5
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          541.3
         ]
       ],
-      "value": 541.5,
-      "change": -27.03,
-      "change_pct": -4.75,
-      "prev_close": 568.53,
-      "day_open": 539.99,
-      "day_high": 546.76,
-      "day_low": 537.73,
+      "fetched_at": "2026-09-15T17:34:24+00:00",
+      "field_map": {
+        "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": "SMH"
+      },
+      "value": 541.3,
+      "change": -0.21,
+      "change_pct": -0.04,
+      "prev_close": 541.5,
+      "day_open": 546.57,
+      "day_high": 548.19,
+      "day_low": 540.11,
       "year_high": 671.83,
       "year_low": 301.37,
-      "as_of": "2026-09-14T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-15T13:34:21.067-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
-      "fetched_at": "2026-09-14T23:16:53+00:00",
-      "stale": true
+      "stale": false
     },
     {
       "key": "semis_vs_spx",
@@ -4019,7 +4079,7 @@
       "featured": false,
       "good_when": "neutral",
       "note": "Semiconductors priced in units of the S&P. A ratio, not an index \u2014 nothing is normalised or weighted, so the only thing it can move on is the AI trade leading or lagging the broad market.",
-      "origin": "cache",
+      "origin": "live",
       "error": null,
       "source_note": "",
       "series": [
@@ -4226,15 +4286,19 @@
         [
           "2026-09-14T23:16:55+00:00",
           71.06317864351351
+        ],
+        [
+          "2026-09-15T17:34:27+00:00",
+          71.38260442986227
         ]
       ],
-      "value": 71.06317864351351,
-      "fetched_at": "2026-09-14T23:16:53+00:00",
-      "as_of": "2026-09-14",
-      "prev_close": 74.61043204837809,
-      "change": -3.547253404864577,
-      "change_pct": -4.754366524193969,
-      "stale": true
+      "value": 71.38260442986227,
+      "fetched_at": "2026-09-15T17:34:22+00:00",
+      "as_of": "2026-09-15T13:34:19.000-0400",
+      "prev_close": 71.06317864351351,
+      "change": 0.3194257863487593,
+      "change_pct": 0.449495494637455,
+      "stale": false
     },
     {
       "key": "hy_oas",
@@ -4254,10 +4318,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-24",
-          2.79
-        ],
         [
           "2026-07-27",
           2.81
@@ -4397,23 +4457,27 @@
         [
           "2026-09-11",
           2.65
+        ],
+        [
+          "2026-09-14",
+          2.71
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:22+00:00",
+      "fetched_at": "2026-09-15T17:34:24+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
       },
-      "value": 2.65,
-      "change": -0.050000000000000266,
-      "change_pct": -1.8518518518518614,
-      "prev_close": 2.7,
+      "value": 2.71,
+      "change": 0.06000000000000005,
+      "change_pct": 2.264150943396228,
+      "prev_close": 2.65,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 2.87,
       "year_low": 2.6,
-      "as_of": "2026-09-11",
+      "as_of": "2026-09-14",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -4436,10 +4500,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-07-24",
-          0.8
-        ],
         [
           "2026-07-27",
           0.81
@@ -4579,9 +4639,13 @@
         [
           "2026-09-11",
           0.8
+        ],
+        [
+          "2026-09-14",
+          0.8
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:22+00:00",
+      "fetched_at": "2026-09-15T17:34:24+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -4595,7 +4659,7 @@
       "day_low": null,
       "year_high": 0.82,
       "year_low": 0.78,
-      "as_of": "2026-09-11",
+      "as_of": "2026-09-14",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -4671,7 +4735,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:22+00:00",
+      "fetched_at": "2026-09-15T17:34:25+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -4759,7 +4823,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:23+00:00",
+      "fetched_at": "2026-09-15T17:34:26+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4835,7 +4899,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:24+00:00",
+      "fetched_at": "2026-09-15T17:34:27+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4884,7 +4948,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-15T11:13:23+00:00",
+      "fetched_at": "2026-09-15T17:34:26+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -5054,7 +5118,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:24+00:00",
+      "fetched_at": "2026-09-15T17:34:27+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -5237,7 +5301,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-15T11:13:25+00:00",
+      "fetched_at": "2026-09-15T17:34:27+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
