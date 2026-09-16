@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T23:02:09+00:00",
+  "generated_at": "2026-09-16T10:56:55+00:00",
   "briefing": {
-    "captured_at": "2026-09-15T23:02:11+00:00",
+    "captured_at": "2026-09-16T10:56:58+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,108 +17,103 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Bernie Sanders says Congress has been \u2018asleep at the wheel\u2019 over AI \u2013 video",
-        "url": "https://www.theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video",
+        "headline": "Meta\u2019s Zuckerberg, Nvidia\u2019s Huang Push Alternatives to AI Slowdown",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-16/the-pulse-9-16-2026-video",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Meta\u2019s Zuckerberg, Nvidia\u2019s Huang Push Alternatives to AI Slowdown",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-16/the-pulse-9-16-2026-video"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+            "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+            "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+            "url": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-09-16T10:11:30+00:00"
+      },
+      {
+        "headline": "European Union opens door for Canada to become first associate member",
+        "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
         "sources": [
           "CNBC",
-          "Fortune",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "AI skeptics from Bernie Sanders to Steve Bannon urge action, as Congress, Trump idle",
-            "url": "https://www.cnbc.com/2026/09/15/ai-skeptics-concerns-congress-trump.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Bernie Sanders says if AI is coming for workers, it should bring a four-day workweek with it",
-            "url": "https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/"
+            "headline": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies",
+            "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html"
           },
           {
             "source": "Guardian",
-            "headline": "Bernie Sanders says Congress has been \u2018asleep at the wheel\u2019 over AI \u2013 video",
-            "url": "https://www.theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video"
+            "headline": "European Union opens door for Canada to become first associate member",
+            "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
           }
         ],
-        "published": "2026-09-15T19:11:15+00:00"
+        "published": "2026-09-16T10:49:12+00:00"
       },
       {
-        "headline": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-        "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+        "headline": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+        "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
         "sources": [
           "CNBC",
-          "Fortune"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-            "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html"
+            "headline": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+            "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html"
           },
           {
-            "source": "CNBC",
-            "headline": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-            "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Urgent calls from OpenAI, Anthropic for an AI slowdown fall on deaf ears with Trump, Xi ahead of next week\u2019s meeting",
-            "url": "https://fortune.com/2026/09/15/ai-slowdown-agenda-trump-xi-jinping-meeting/"
+            "source": "CNBC Finance",
+            "headline": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+            "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html"
           }
         ],
-        "published": "2026-09-15T22:17:47+00:00"
+        "published": "2026-09-16T10:00:01+00:00"
       },
       {
-        "headline": "Trip.com Non-GAAP EPADS of $1.07 beats by $0.22, revenue of $2.3B misses by $20M",
-        "url": "https://seekingalpha.com/news/4643203-tripcom-non-gaap-epads-of-107-beats-by-022-revenue-of-23b-misses-by-20m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
+        "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
         "sources": [
-          "Business Insider",
-          "Seeking Alpha"
+          "BBC",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Business Insider",
-            "headline": "Evolution Petroleum Corporation Non-GAAP EPS of -$0.02 misses by $0.03, revenue of $24.21M beats by $0.97M",
-            "url": "https://seekingalpha.com/news/4643185-evolution-petroleum-corporation-non-gaap-eps-of-0_02-misses-by-0_03-revenue-of-24_21m-beats?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+            "source": "BBC",
+            "headline": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+            "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Trip.com Non-GAAP EPADS of $1.07 beats by $0.22, revenue of $2.3B misses by $20M",
-            "url": "https://seekingalpha.com/news/4643203-tripcom-non-gaap-epads-of-107-beats-by-022-revenue-of-23b-misses-by-20m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "Guardian",
+            "headline": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
+            "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers"
           }
         ],
-        "published": "2026-09-15T22:02:46+00:00"
-      },
-      {
-        "headline": "Lenovo inks MOU with MemryX to expand sovereign edge AI in Saudi Arabia",
-        "url": "https://seekingalpha.com/news/4643200-lenovo-inks-mou-with-memryx-to-expand-sovereign-edge-ai-in-saudi-arabia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "CNBC",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-            "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Oil\u2019s safety net is fraying as Saudi Arabia races to restart a key pipeline",
-            "url": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Lenovo inks MOU with MemryX to expand sovereign edge AI in Saudi Arabia",
-            "url": "https://seekingalpha.com/news/4643200-lenovo-inks-mou-with-memryx-to-expand-sovereign-edge-ai-in-saudi-arabia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-09-15T21:50:10+00:00"
+        "published": "2026-09-16T04:00:12+00:00"
       },
       {
         "headline": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
@@ -146,27 +141,18 @@
     "synthesis": {
       "lines": [
         {
-          "text": "US oil tops $105 after Saudi Arabia reportedly cancels some crude cargoes following a pipeline closure",
+          "text": "Zuckerberg sides with Nvidia's Huang against an AI slowdown; Huang to attend Trump's state dinner for Xi.",
           "topic_ids": [
-            3
+            0
           ],
           "sources": [
+            "Bloomberg",
             "CNBC",
-            "Seeking Alpha"
+            "MarketWatch"
           ]
         },
         {
-          "text": "OpenAI, Google and Anthropic discuss AI safety collaboration; Nvidia's Huang diverges at Dreamforce",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "Census Bureau: American incomes rose and poverty fell in 2025",
+          "text": "Census Bureau says American incomes rose and poverty fell in 2025; NPR flags safety-net cuts.",
           "topic_ids": [
             4
           ],
@@ -176,29 +162,28 @@
           ]
         },
         {
-          "text": "Sanders and Bannon press for AI action, saying Congress and Trump have been asleep at the wheel",
+          "text": "EU invites Canada to become its first 'associate member' as Trump's trade war intensifies.",
           "topic_ids": [
-            0
+            1
           ],
           "sources": [
             "CNBC",
-            "Fortune",
             "Guardian"
           ]
         },
         {
-          "text": "Trip.com earnings beat but revenue misses; Evolution Petroleum misses on EPS, beats on revenue",
+          "text": "UK climate advisers: a third Heathrow runway should proceed only if airlines pay for CO2 removal.",
           "topic_ids": [
-            2
+            3
           ],
           "sources": [
-            "Business Insider",
-            "Seeking Alpha"
+            "BBC",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-15T23:02:20+00:00"
+      "written_at": "2026-09-16T10:57:07+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -514,9 +499,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           5.006
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          4.99
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -529,16 +518,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.006,
-      "change": 0.01,
-      "change_pct": 0.2002,
+      "value": 4.99,
+      "change": -0.006,
+      "change_pct": -0.1201,
       "prev_close": 4.996,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.99,
+      "day_high": 5.008,
+      "day_low": 4.979,
       "year_high": 5.01,
       "year_low": 3.93,
-      "as_of": "2026-09-15T17:05:00.000-0400",
+      "as_of": "2026-09-16T06:56:06.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -848,11 +837,16 @@
         [
           "2026-09-15T23:02:09+00:00",
           4.671
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          4.655
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -862,16 +856,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.671,
-      "change": 0.008000000000000007,
-      "change_pct": 0.0,
+      "value": 4.655,
+      "change": -0.008,
+      "change_pct": 0.0195,
       "prev_close": 4.663,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.653,
+      "day_high": 4.666,
+      "day_low": 4.646,
       "year_high": 4.68,
       "year_low": 3.37,
-      "as_of": "2026-09-15T17:05:00.000-0400",
+      "as_of": "2026-09-16T06:52:09.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1181,9 +1175,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           5.369
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          5.356
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1196,16 +1194,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.369,
-      "change": 0.006,
-      "change_pct": 0.1119,
+      "value": 5.356,
+      "change": -0.007,
+      "change_pct": -0.1305,
       "prev_close": 5.363,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.356,
+      "day_high": 5.377,
+      "day_low": 5.346,
       "year_high": 5.42,
       "year_low": 4.52,
-      "as_of": "2026-09-15T17:05:00.000-0400",
+      "as_of": "2026-09-16T06:56:34.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1237,12 +1235,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.3124312424159799,
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "value": 1.2964312424159798,
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.4751155781387082,
-      "change": -0.16268433572272833,
-      "change_pct": -11.028582311360472,
+      "change": -0.17868433572272835,
+      "change_pct": -12.113243082158426,
       "stale": false
     },
     {
@@ -1522,9 +1520,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           7585.73
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          7585.73
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1540,13 +1542,13 @@
       "value": 7585.73,
       "change": -34.25,
       "change_pct": -0.45,
-      "prev_close": 7619.98,
+      "prev_close": 7585.73,
       "day_open": 7612.3,
       "day_high": 7617.26,
       "day_low": 7572.69,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-15T16:53:28.000-0400",
+      "as_of": "2026-09-15",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1828,9 +1830,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           25981.571
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          25981.571
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1844,15 +1850,15 @@
         "_symbol": ".IXIC"
       },
       "value": 25981.571,
-      "change": -204.843,
+      "change": -204.842,
       "change_pct": -0.78,
-      "prev_close": 26186.413,
+      "prev_close": 25981.571,
       "day_open": 26140.227,
       "day_high": 26172.121,
       "day_low": 25943.31,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-15T17:15:59.000-0400",
+      "as_of": "2026-09-15",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2162,9 +2168,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           17.2
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          16.98
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2177,16 +2187,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 17.2,
-      "change": 0.1,
-      "change_pct": 0.58,
-      "prev_close": 17.1,
-      "day_open": 17.57,
-      "day_high": 18.03,
-      "day_low": 16.79,
+      "value": 16.98,
+      "change": -0.22,
+      "change_pct": -1.28,
+      "prev_close": 17.2,
+      "day_open": 16.91,
+      "day_high": 17.15,
+      "day_low": 16.9,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-15T16:15:01.000-0400",
+      "as_of": "2026-09-16T06:56:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2528,9 +2538,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           1.1538
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          1.1533
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:03+00:00",
+      "fetched_at": "2026-09-16T10:56:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2543,16 +2557,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1538,
-      "change": -0.0005,
-      "change_pct": -0.0433,
+      "value": 1.1533,
+      "change": -0.001,
+      "change_pct": -0.0866,
       "prev_close": 1.1543,
       "day_open": 1.1538,
-      "day_high": 1.1544,
-      "day_low": 1.1537,
+      "day_high": 1.1556,
+      "day_low": 1.1532,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-15T19:01:00.000-0400",
+      "as_of": "2026-09-16T06:56:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2878,9 +2892,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           0.8189
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          0.8193
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:04+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2893,16 +2911,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8189,
-      "change": 0.0002,
-      "change_pct": 0.0244,
+      "value": 0.8193,
+      "change": 0.0006,
+      "change_pct": 0.0733,
       "prev_close": 0.8187,
       "day_open": 0.8181,
-      "day_high": 0.8189,
-      "day_low": 0.8183,
+      "day_high": 0.8196,
+      "day_low": 0.818,
       "year_high": 0.82,
       "year_low": 0.76,
-      "as_of": "2026-09-15T19:01:00.000-0400",
+      "as_of": "2026-09-16T06:56:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3224,9 +3242,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           4334.7
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          4389.4
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:04+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3239,16 +3261,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4334.7,
-      "change": 1.9,
-      "change_pct": 0.04,
+      "value": 4389.4,
+      "change": 56.6,
+      "change_pct": 1.31,
       "prev_close": 4332.8,
       "day_open": 4333.5,
-      "day_high": 4339.5,
-      "day_low": 4330.9,
+      "day_high": 4390.6,
+      "day_low": 4315.2,
       "year_high": 5586.2,
       "year_low": 3660.5,
-      "as_of": "2026-09-15T18:51:55.000-0400",
+      "as_of": "2026-09-16T06:46:48.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -3570,9 +3592,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           105.31
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          103.59
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:04+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3585,16 +3611,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 105.31,
-      "change": -0.52,
-      "change_pct": -0.49,
+      "value": 103.59,
+      "change": -2.24,
+      "change_pct": -2.12,
       "prev_close": 105.83,
       "day_open": 105.48,
       "day_high": 105.63,
-      "day_low": 105.24,
+      "day_low": 103.54,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-15T18:51:42.000-0400",
+      "as_of": "2026-09-16T06:46:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -3832,9 +3858,13 @@
         [
           "2026-09-15T23:02:09+00:00",
           212.17
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          212.17
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:04+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3850,14 +3880,14 @@
       "value": 212.17,
       "change": 1.21,
       "change_pct": 0.57,
-      "prev_close": 210.96,
-      "day_open": 213.38,
-      "day_high": 213.94,
-      "day_low": 211.16,
+      "prev_close": 212.17,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-15T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-15",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -3875,8 +3905,8 @@
       "featured": false,
       "good_when": "up",
       "note": "VanEck Semiconductor ETF \u2014 the AI supply chain in one instrument.",
-      "origin": "cache",
-      "error": "cnbc: no usable price for SMH (absent: last, latest_yield, bondlastprice, mark_price, previous_day_closing; market status 'unknown', 2 keys in the record); yahoo: HTTP 429 from query1.finance.yahoo.com (rate-limited \u2014 this host's IP is being throttled)",
+      "origin": "live",
+      "error": null,
       "source_note": "",
       "series": [
         [
@@ -4086,22 +4116,38 @@
         [
           "2026-09-15T17:34:27+00:00",
           541.3
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          542.11
         ]
       ],
-      "value": 541.3,
-      "change": -0.21,
-      "change_pct": -0.04,
-      "prev_close": 541.5,
-      "day_open": 546.57,
-      "day_high": 548.19,
-      "day_low": 540.11,
+      "fetched_at": "2026-09-16T10:56:53+00:00",
+      "field_map": {
+        "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": "SMH"
+      },
+      "value": 542.11,
+      "change": 0.61,
+      "change_pct": 0.11,
+      "prev_close": 542.11,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 301.37,
-      "as_of": "2026-09-15T13:34:21.067-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-15",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
-      "fetched_at": "2026-09-15T17:34:24+00:00",
-      "stale": true
+      "stale": false
     },
     {
       "key": "semis_vs_spx",
@@ -4117,7 +4163,7 @@
       "featured": false,
       "good_when": "neutral",
       "note": "Semiconductors priced in units of the S&P. A ratio, not an index \u2014 nothing is normalised or weighted, so the only thing it can move on is the AI trade leading or lagging the broad market.",
-      "origin": "cache",
+      "origin": "live",
       "error": null,
       "source_note": "",
       "series": [
@@ -4328,15 +4374,19 @@
         [
           "2026-09-15T17:34:27+00:00",
           71.38260442986227
+        ],
+        [
+          "2026-09-16T10:56:55+00:00",
+          71.46444706046749
         ]
       ],
-      "value": 71.35766762065087,
-      "fetched_at": "2026-09-15T17:34:24+00:00",
-      "as_of": "2026-09-15T13:34:21.067-0400",
-      "prev_close": 71.06317864351351,
-      "change": 0.29448897713736244,
-      "change_pct": 0.414404453556262,
-      "stale": true
+      "value": 71.46444706046749,
+      "fetched_at": "2026-09-16T10:56:52+00:00",
+      "as_of": "2026-09-15",
+      "prev_close": 71.46444706046749,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "stale": false
     },
     {
       "key": "hy_oas",
@@ -4501,7 +4551,7 @@
           2.71
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:06+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -4683,7 +4733,7 @@
           0.8
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:06+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -4773,7 +4823,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:06+00:00",
+      "fetched_at": "2026-09-16T10:56:53+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -4861,7 +4911,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:08+00:00",
+      "fetched_at": "2026-09-16T10:56:54+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4937,7 +4987,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:09+00:00",
+      "fetched_at": "2026-09-16T10:56:55+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -4986,7 +5036,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-15T23:02:08+00:00",
+      "fetched_at": "2026-09-16T10:56:54+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -5156,7 +5206,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:09+00:00",
+      "fetched_at": "2026-09-16T10:56:55+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -5339,7 +5389,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-15T23:02:09+00:00",
+      "fetched_at": "2026-09-16T10:56:55+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
