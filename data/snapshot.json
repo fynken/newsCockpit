@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T17:34:26+00:00",
+  "generated_at": "2026-09-16T23:07:43+00:00",
   "briefing": {
-    "captured_at": "2026-09-16T17:34:31+00:00",
+    "captured_at": "2026-09-16T23:07:44+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,74 +17,113 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-        "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
+        "headline": "Watch: Why has the Federal Reserve raised interest rates?",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
         "sources": [
+          "BBC",
+          "Business Insider",
           "CNBC",
-          "CNBC Finance"
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-            "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html"
+            "source": "BBC",
+            "headline": "Watch: Why has the Federal Reserve raised interest rates?",
+            "url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-            "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html"
+            "source": "Business Insider",
+            "headline": "Federal Reserve hikes rate to 3.75%-4.00%, the first increase in three years",
+            "url": "https://seekingalpha.com/news/4643474-federal-reserve-hikes-rate-to-375-400-first-increase-in-three-years?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve'",
+            "url": "https://www.cnbc.com/2026/09/16/jim-cramer-federal-reserve-rate-hike.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "US Federal Reserve raises interest rates for the first time since 2023",
+            "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
           }
         ],
-        "published": "2026-09-16T16:55:44+00:00"
+        "published": "2026-09-16T22:26:57+00:00"
       },
       {
-        "headline": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-        "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+        "headline": "European Union invites Canada to become first ever \u2018associate member\u2019",
+        "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
+          "Guardian",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-            "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html"
+            "source": "Guardian",
+            "headline": "European Union invites Canada to become first ever \u2018associate member\u2019",
+            "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-            "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html"
+            "source": "Seeking Alpha",
+            "headline": "European Union issues antitrust warning over MMG's nickel deal with Anglo American",
+            "url": "https://seekingalpha.com/news/4643611-european-union-issues-antitrust-warning-over-mmgs-nickel-deal-with-anglo-american?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-09-16T16:48:13+00:00"
+        "published": "2026-09-16T22:54:24+00:00"
       },
       {
-        "headline": "Ed Yardeni Cuts S&P 500 View to 7,900 on Downturn Risks",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-16/big-bull-yardeni-cuts-s-p-500-view-to-7-900-on-downturn-risks",
+        "headline": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "Bloomberg",
+          "BBC",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "US interest rates raised for first time in three years",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "BBC",
+            "headline": "US interest rates raised for first time in three years",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "NPR",
+            "headline": "The Fed raises interest rates for the first time in over three years",
+            "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy"
+          }
+        ],
+        "published": "2026-09-16T22:16:51+00:00"
+      },
+      {
+        "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+        "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+        "sources": [
+          "CNBC",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Ed Yardeni Cuts S&P 500 View to 7,900 on Downturn Risks",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-16/big-bull-yardeni-cuts-s-p-500-view-to-7-900-on-downturn-risks"
+            "source": "CNBC",
+            "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+            "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "15 stocks that have grown dividends the most \u2014 and nearly all have beaten the S&P 500",
-            "url": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories"
+            "headline": "Generac\u2019s stock soars more than 30% after Amazon deal cements company\u2019s status as an AI power player",
+            "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-16T16:00:00+00:00"
+        "published": "2026-09-16T21:56:00+00:00"
       },
       {
-        "headline": "Circle CEO: Clarity Act is Not Dead",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-16/circle-ceo-clarity-act-is-not-dead-video",
+        "headline": "Highlights From Fed Chairman Warsh\u2019s News Conference",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-16/highlights-from-fed-chairman-warsh-s-news-conference-video",
         "sources": [
           "Bloomberg",
           "CNBC"
@@ -93,46 +132,43 @@
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Circle CEO: Clarity Act is Not Dead",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-16/circle-ceo-clarity-act-is-not-dead-video"
+            "headline": "Highlights From Fed Chairman Warsh\u2019s News Conference",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-16/highlights-from-fed-chairman-warsh-s-news-conference-video"
           },
           {
             "source": "CNBC",
-            "headline": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
-            "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"
-          }
-        ],
-        "published": "2026-09-16T15:20:50+00:00"
-      },
-      {
-        "headline": "European Union invites Canada to become first ever \u2018associate member\u2019",
-        "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-        "sources": [
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies",
-            "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html"
+            "headline": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+            "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
           },
           {
-            "source": "Guardian",
-            "headline": "European Union invites Canada to become first ever \u2018associate member\u2019",
-            "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
+            "source": "CNBC",
+            "headline": "Here is what changed in the new Fed statement under Warsh",
+            "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html"
           }
         ],
-        "published": "2026-09-16T14:43:09+00:00"
+        "published": "2026-09-16T21:47:30+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Senate cloture vote on the Clarity Act fails, a regulatory blow to crypto; Circle CEO says it's not dead.",
+          "text": "Fed raises rates to 3.75%-4.00%, the first hike in three years.",
           "topic_ids": [
-            3
+            0,
+            2
+          ],
+          "sources": [
+            "BBC",
+            "Business Insider",
+            "CNBC",
+            "Guardian",
+            "NPR"
+          ]
+        },
+        {
+          "text": "10-year Treasury yield climbs back to 5% after the hike; Warsh flags inflation risks.",
+          "topic_ids": [
+            4
           ],
           "sources": [
             "Bloomberg",
@@ -140,48 +176,40 @@
           ]
         },
         {
-          "text": "Ed Yardeni cuts his S&P 500 target to 7,900 on downturn risks.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "J.B. Hunt drops 10% after warning third-quarter earnings will fall.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "American Airlines says 30% of seats deliver half of revenue as premium demand climbs.",
+          "text": "Cramer says buying stocks now means 'fighting the Federal Reserve'.",
           "topic_ids": [
             0
           ],
           "sources": [
+            "BBC",
+            "Business Insider",
             "CNBC",
-            "CNBC Finance"
+            "Guardian"
           ]
         },
         {
-          "text": "EU invites Canada to become its first 'associate member' as Trump's trade war intensifies.",
+          "text": "Generac jumps over 30% after Amazon gains the right to buy stock, tying it to AI power.",
           "topic_ids": [
-            4
+            3
           ],
           "sources": [
             "CNBC",
-            "Guardian"
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "EU invites Canada as first 'associate member' and warns on MMG's nickel deal with Anglo American.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Guardian",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-16T17:34:41+00:00"
+      "written_at": "2026-09-16T23:07:53+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -505,9 +533,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           4.953
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          5.02
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:13+00:00",
+      "fetched_at": "2026-09-16T23:07:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -520,16 +552,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.953,
-      "change": -0.043,
-      "change_pct": -0.8607,
-      "prev_close": 4.996,
-      "day_open": 4.99,
-      "day_high": 5.008,
-      "day_low": 4.947,
+      "value": 5.02,
+      "change": 0.016,
+      "change_pct": 0.3197,
+      "prev_close": 5.004,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.04,
       "year_low": 3.93,
-      "as_of": "2026-09-16T13:33:42.000-0400",
+      "as_of": "2026-09-16T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -847,12 +879,15 @@
         [
           "2026-09-16T17:34:26+00:00",
           4.612
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          4.736
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:14+00:00",
+      "fetched_at": "2026-09-16T23:07:39+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -862,16 +897,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.612,
-      "change": -0.051,
-      "change_pct": 0.0977,
-      "prev_close": 4.663,
-      "day_open": 4.653,
-      "day_high": 4.666,
-      "day_low": 4.604,
-      "year_high": 4.69,
+      "value": 4.736,
+      "change": 0.008999999999999453,
+      "change_pct": 0.0,
+      "prev_close": 4.727,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
+      "year_high": 4.74,
       "year_low": 3.37,
-      "as_of": "2026-09-16T13:33:43.000-0400",
+      "as_of": "2026-09-16T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1189,9 +1224,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           5.332
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          5.361
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:15+00:00",
+      "fetched_at": "2026-09-16T23:07:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1204,16 +1243,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.332,
-      "change": -0.031,
-      "change_pct": -0.578,
-      "prev_close": 5.363,
-      "day_open": 5.356,
-      "day_high": 5.377,
-      "day_low": 5.33,
+      "value": 5.361,
+      "change": 0.013,
+      "change_pct": 0.2431,
+      "prev_close": 5.348,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.42,
       "year_low": 4.52,
-      "as_of": "2026-09-16T13:33:46.000-0400",
+      "as_of": "2026-09-16T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1245,12 +1284,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.25943124241598,
-      "fetched_at": "2026-09-16T17:34:13+00:00",
+      "value": 1.3264312424159792,
+      "fetched_at": "2026-09-16T23:07:39+00:00",
       "as_of": "2026-08-01",
-      "prev_close": 1.4751155781387082,
-      "change": -0.21568433572272827,
-      "change_pct": -14.621521114628688,
+      "prev_close": 1.4831155781387073,
+      "change": -0.1566843357227281,
+      "change_pct": -10.564539812828688,
       "stale": false
     },
     {
@@ -1538,9 +1577,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           7608.99
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          7551.81
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:15+00:00",
+      "fetched_at": "2026-09-16T23:07:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1553,16 +1596,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7608.99,
-      "change": 23.26,
-      "change_pct": 0.31,
+      "value": 7551.81,
+      "change": -33.92,
+      "change_pct": -0.45,
       "prev_close": 7585.73,
       "day_open": 7601.25,
       "day_high": 7626.79,
-      "day_low": 7597.61,
+      "day_low": 7507.77,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-16T13:34:12.000-0400",
+      "as_of": "2026-09-16T16:31:33.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -1852,9 +1895,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           26151.698
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          25978.425
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:16+00:00",
+      "fetched_at": "2026-09-16T23:07:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1867,16 +1914,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26151.698,
-      "change": 170.127,
-      "change_pct": 0.66,
+      "value": 25978.425,
+      "change": -3.146,
+      "change_pct": -0.01,
       "prev_close": 25981.571,
       "day_open": 26108.462,
       "day_high": 26225.093,
-      "day_low": 26076.465,
+      "day_low": 25802.963,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-16T13:34:12.000-0400",
+      "as_of": "2026-09-16T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2194,9 +2241,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           16.81
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          17.71
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:17+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2209,16 +2260,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.81,
-      "change": -0.39,
-      "change_pct": -2.27,
+      "value": 17.71,
+      "change": 0.51,
+      "change_pct": 2.97,
       "prev_close": 17.2,
       "day_open": 16.91,
-      "day_high": 17.15,
-      "day_low": 16.55,
+      "day_high": 18.94,
+      "day_low": 16.4,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-16T13:34:01.000-0400",
+      "as_of": "2026-09-16T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2568,9 +2619,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           1.1532
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          1.1466
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:17+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2583,16 +2638,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1532,
-      "change": -0.0011,
-      "change_pct": -0.0953,
-      "prev_close": 1.1543,
-      "day_open": 1.1538,
-      "day_high": 1.1556,
-      "day_low": 1.1529,
+      "value": 1.1466,
+      "change": 0.0002,
+      "change_pct": 0.0174,
+      "prev_close": 1.1464,
+      "day_open": 1.1466,
+      "day_high": 1.1469,
+      "day_low": 1.1456,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-16T13:34:00.000-0400",
+      "as_of": "2026-09-16T19:07:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -2926,11 +2981,17 @@
         [
           "2026-09-16T17:34:26+00:00",
           0.8187
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          0.8258
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:18+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -2939,16 +3000,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8187,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "prev_close": 0.8187,
-      "day_open": 0.8181,
-      "day_high": 0.8196,
-      "day_low": 0.818,
-      "year_high": 0.82,
+      "value": 0.8258,
+      "change": 0.0005,
+      "change_pct": 0.0606,
+      "prev_close": 0.8253,
+      "day_open": 0.8248,
+      "day_high": 0.8262,
+      "day_low": 0.8246,
+      "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-16T13:34:00.000-0400",
+      "as_of": "2026-09-16T19:07:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3278,9 +3339,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           4385.7
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          4305.5
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:19+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3293,16 +3358,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4385.7,
-      "change": 52.9,
-      "change_pct": 1.22,
-      "prev_close": 4332.8,
-      "day_open": 4333.5,
-      "day_high": 4405.2,
-      "day_low": 4315.2,
+      "value": 4305.5,
+      "change": -82.0,
+      "change_pct": -1.87,
+      "prev_close": 4387.5,
+      "day_open": 4301.4,
+      "day_high": 4314.0,
+      "day_low": 4294.5,
       "year_high": 5586.2,
       "year_low": 3660.5,
-      "as_of": "2026-09-16T13:24:11.000-0400",
+      "as_of": "2026-09-16T18:57:37.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -3632,9 +3697,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           102.62
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          102.0
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:20+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3647,16 +3716,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 102.62,
-      "change": -3.21,
-      "change_pct": -3.03,
-      "prev_close": 105.83,
-      "day_open": 105.48,
-      "day_high": 105.63,
-      "day_low": 100.97,
+      "value": 102.0,
+      "change": -0.43,
+      "change_pct": -0.42,
+      "prev_close": 102.43,
+      "day_open": 102.18,
+      "day_high": 102.24,
+      "day_low": 101.87,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-16T13:24:12.000-0400",
+      "as_of": "2026-09-16T18:57:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -3902,9 +3971,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           215.31
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          213.9
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:21+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3917,17 +3990,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 215.31,
-      "change": 3.14,
-      "change_pct": 1.48,
+      "value": 213.9,
+      "change": 1.73,
+      "change_pct": 0.82,
       "prev_close": 212.17,
       "day_open": 214.14,
       "day_high": 216.76,
-      "day_low": 213.31,
+      "day_low": 212.5,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-16T13:34:16.058-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-16T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -4164,9 +4237,13 @@
         [
           "2026-09-16T17:34:26+00:00",
           549.32
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          545.56
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:23+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4179,17 +4256,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 549.32,
-      "change": 7.21,
-      "change_pct": 1.33,
+      "value": 545.56,
+      "change": 3.45,
+      "change_pct": 0.64,
       "prev_close": 542.11,
       "day_open": 549.95,
       "day_high": 553.17,
-      "day_low": 548.26,
+      "day_low": 540.45,
       "year_high": 671.83,
       "year_low": 301.37,
-      "as_of": "2026-09-16T13:34:18.257-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-16T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -4426,14 +4503,18 @@
         [
           "2026-09-16T17:34:26+00:00",
           72.19354999809437
+        ],
+        [
+          "2026-09-16T23:07:43+00:00",
+          72.24228363796229
         ]
       ],
-      "value": 72.19354999809437,
-      "fetched_at": "2026-09-16T17:34:15+00:00",
-      "as_of": "2026-09-16T13:34:12.000-0400",
+      "value": 72.24228363796229,
+      "fetched_at": "2026-09-16T23:07:39+00:00",
+      "as_of": "2026-09-16T16:15:00.000-0400",
       "prev_close": 71.46444706046749,
-      "change": 0.7291029376268767,
-      "change_pct": 1.020231692284652,
+      "change": 0.7778365774947957,
+      "change_pct": 1.0884245376398878,
       "stale": false
     },
     {
@@ -4599,7 +4680,7 @@
           2.76
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:23+00:00",
+      "fetched_at": "2026-09-16T23:07:40+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -4781,7 +4862,7 @@
           0.8
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:23+00:00",
+      "fetched_at": "2026-09-16T23:07:41+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -4871,7 +4952,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:23+00:00",
+      "fetched_at": "2026-09-16T23:07:41+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -4959,7 +5040,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:24+00:00",
+      "fetched_at": "2026-09-16T23:07:42+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5035,7 +5116,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:25+00:00",
+      "fetched_at": "2026-09-16T23:07:43+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5084,7 +5165,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-16T17:34:24+00:00",
+      "fetched_at": "2026-09-16T23:07:42+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -5254,7 +5335,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:25+00:00",
+      "fetched_at": "2026-09-16T23:07:43+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -5437,7 +5518,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-16T17:34:26+00:00",
+      "fetched_at": "2026-09-16T23:07:43+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
