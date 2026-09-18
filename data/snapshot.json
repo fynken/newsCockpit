@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T17:00:25+00:00",
+  "generated_at": "2026-09-18T22:44:28+00:00",
   "briefing": {
-    "captured_at": "2026-09-18T17:00:27+00:00",
+    "captured_at": "2026-09-18T22:44:31+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -20,38 +20,22 @@
         "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
         "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
         "sources": [
-          "Bloomberg",
+          "BBC",
           "CNBC",
-          "Fortune",
           "Guardian",
           "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "The New Buffett Chairing Berkshire\u2019s Board Knows the Firm Well",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-18/the-new-buffett-chairing-berkshire-s-board-knows-the-firm-well"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Buffett Steps Down as Berkshire Chair, Ending Six-Decade Run",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-18/buffett-steps-down-as-berkshire-chair-video"
+            "source": "BBC",
+            "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+            "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
             "headline": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
             "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Meet Warren Buffett\u2019s son Howard, a former sheriff, war photographer, and now, Berkshire\u2019s new chairman",
-            "url": "https://fortune.com/2026/09/18/warren-buffett-son-howard-berkshire-hathaway-chairman/"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Warren Buffett abruptly steps down as Berkshire chair as \u2018Father Time\u2019 wins, handing role to son Howard who will \u2018guard its culture and values\u2019",
-            "url": "https://fortune.com/2026/09/18/warren-buffett-resignation-chairman-berkshire-hathaway-brk-stock-howard-succession/"
           },
           {
             "source": "Guardian",
@@ -64,85 +48,7 @@
             "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down"
           }
         ],
-        "published": "2026-09-18T16:11:35+00:00"
-      },
-      {
-        "headline": "Soccer Star Mbapp\u00e9 Leaves Nike to Sign With On",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-18/mbappe-signs-with-on-video",
-        "sources": [
-          "Bloomberg",
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Soccer Star Mbapp\u00e9 Leaves Nike to Sign With On",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-18/mbappe-signs-with-on-video"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Nike parts ways with Kylian Mbapp\u00e9, soccer superstar signs with On",
-            "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Nike parts ways with Kylian Mbapp\u00e9, soccer superstar signs with On",
-            "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
-          }
-        ],
-        "published": "2026-09-18T16:42:14+00:00"
-      },
-      {
-        "headline": "Japan raises interest rate to new 31-year high to curb rising prices",
-        "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Japan raises interest rate to new 31-year high to curb rising prices",
-            "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-            "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-            "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices"
-          }
-        ],
-        "published": "2026-09-18T07:14:57+00:00"
-      },
-      {
-        "headline": "BofA Warns of Warsh\u2019s Fed Hiking Rate Above 5% in 2022 Redux",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-18/bofa-warns-of-warsh-s-fed-raising-rates-above-5-in-2022-redux",
-        "sources": [
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "BofA Warns of Warsh\u2019s Fed Hiking Rate Above 5% in 2022 Redux",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-18/bofa-warns-of-warsh-s-fed-raising-rates-above-5-in-2022-redux"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-            "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html"
-          }
-        ],
-        "published": "2026-09-18T16:33:43+00:00"
+        "published": "2026-09-18T17:15:02+00:00"
       },
       {
         "headline": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
@@ -155,6 +61,11 @@
         "variants": [
           {
             "source": "CNBC",
+            "headline": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+            "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html"
+          },
+          {
+            "source": "CNBC",
             "headline": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
             "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html"
           },
@@ -164,47 +75,121 @@
             "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html"
           }
         ],
-        "published": "2026-09-18T16:26:27+00:00"
+        "published": "2026-09-18T22:32:08+00:00"
+      },
+      {
+        "headline": "Trump says he's banning MS NOW, CNN and Politico from White House",
+        "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+        "sources": [
+          "CNBC",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Trump says he's banning MS NOW, CNN and Politico from White House",
+            "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html"
+          },
+          {
+            "source": "NPR",
+            "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+            "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
+          }
+        ],
+        "published": "2026-09-18T21:20:17+00:00"
+      },
+      {
+        "headline": "Kevin Warsh just revealed a huge change for the Fed. The press missed it",
+        "url": "https://fortune.com/2026/09/18/kevin-warsh-federal-reserve-what-is-monetarism/",
+        "sources": [
+          "CNBC",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+            "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Kevin Warsh just revealed a huge change for the Fed. The press missed it",
+            "url": "https://fortune.com/2026/09/18/kevin-warsh-federal-reserve-what-is-monetarism/"
+          }
+        ],
+        "published": "2026-09-18T20:45:10+00:00"
+      },
+      {
+        "headline": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
+        "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
+            "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
+            "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
+          }
+        ],
+        "published": "2026-09-18T19:30:55+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Warren Buffett steps down as Berkshire chair after six decades; son Howard takes the role.",
+          "text": "Warren Buffett steps down as Berkshire Hathaway chairman after six decades: 'Father Time always wins'",
           "topic_ids": [
             0
           ],
           "sources": [
-            "Bloomberg",
+            "BBC",
             "CNBC",
-            "Fortune",
             "Guardian",
             "NPR"
           ]
         },
         {
-          "text": "Bank of Japan raises rates to a 31-year high, flagging inflation concerns.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "BofA warns Warsh's Fed could hike above 5%, echoing 2022.",
+          "text": "Kevin Warsh's three words leave Wall Street guessing how far the Fed goes on rate hikes",
           "topic_ids": [
             3
           ],
           "sources": [
-            "Bloomberg",
-            "CNBC"
+            "CNBC",
+            "Fortune"
           ]
         },
         {
-          "text": "Auto industry urges Trump to bar Chinese automakers from the US before Xi's visit.",
+          "text": "Auto industry urges Trump to bar Chinese automakers before Xi visit; Trump plans military presence in Greenland",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Nike parts ways with Kylian Mbappe, who signs with On",
           "topic_ids": [
             4
           ],
@@ -212,21 +197,10 @@
             "CNBC",
             "CNBC Finance"
           ]
-        },
-        {
-          "text": "Nike parts ways with Kylian Mbappe, who signs with On.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC",
-            "CNBC Finance"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-18T17:00:36+00:00"
+      "written_at": "2026-09-18T22:44:40+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -574,9 +548,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           5.0
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          5.0
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:21+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -598,7 +576,7 @@
       "day_low": 4.92,
       "year_high": 5.04,
       "year_low": 3.93,
-      "as_of": "2026-09-18T13:00:05.000-0400",
+      "as_of": "2026-09-18T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -940,9 +918,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           4.739
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          4.756
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:21+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -955,16 +937,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.739,
-      "change": 0.049,
-      "change_pct": -0.0898,
+      "value": 4.756,
+      "change": 0.066,
+      "change_pct": -0.1211,
       "prev_close": 4.69,
       "day_open": 4.679,
-      "day_high": 4.748,
+      "day_high": 4.76,
       "day_low": 4.668,
-      "year_high": 4.75,
+      "year_high": 4.76,
       "year_low": 3.37,
-      "as_of": "2026-09-18T12:58:26.000-0400",
+      "as_of": "2026-09-18T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1306,9 +1288,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           5.335
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          5.328
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1321,16 +1307,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.335,
-      "change": 0.039,
-      "change_pct": 0.7364,
+      "value": 5.328,
+      "change": 0.032,
+      "change_pct": 0.6042,
       "prev_close": 5.296,
       "day_open": 5.29,
       "day_high": 5.344,
       "day_low": 5.271,
       "year_high": 5.42,
       "year_low": 4.52,
-      "as_of": "2026-09-18T13:00:05.000-0400",
+      "as_of": "2026-09-18T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1363,7 +1349,7 @@
         ]
       ],
       "value": 1.3064312424159796,
-      "fetched_at": "2026-09-18T17:00:21+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.4261155781387078,
       "change": -0.11968433572272819,
@@ -1679,9 +1665,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           7622.85
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          7650.5
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1694,16 +1684,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7622.85,
-      "change": -14.91,
-      "change_pct": -0.2,
+      "value": 7650.5,
+      "change": 12.74,
+      "change_pct": 0.17,
       "prev_close": 7637.76,
       "day_open": 7657.17,
       "day_high": 7657.17,
       "day_low": 7610.52,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-18T13:00:16.000-0400",
+      "as_of": "2026-09-18T17:29:48.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2017,9 +2007,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           26386.462
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          26522.545
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2032,16 +2026,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26386.462,
-      "change": -31.836,
-      "change_pct": -0.12,
+      "value": 26522.545,
+      "change": 104.247,
+      "change_pct": 0.4,
       "prev_close": 26418.298,
       "day_open": 26522.09,
       "day_high": 26544.93,
       "day_low": 26333.983,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-18T13:00:13.000-0400",
+      "as_of": "2026-09-18T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2383,9 +2377,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           15.43
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          14.81
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2398,16 +2396,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.43,
-      "change": -0.01,
-      "change_pct": -0.06,
+      "value": 14.81,
+      "change": -0.63,
+      "change_pct": -4.08,
       "prev_close": 15.44,
       "day_open": 15.07,
       "day_high": 15.63,
-      "day_low": 14.99,
+      "day_low": 14.8,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-18T13:00:16.000-0400",
+      "as_of": "2026-09-18T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2781,9 +2779,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           1.1474
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          1.1483
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "value": "last",
         "prev_close": "previous_day_closing",
@@ -2794,16 +2796,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1474,
+      "value": 1.1483,
       "change": 0.0,
       "change_pct": 0.0,
-      "prev_close": 1.1474,
-      "day_open": 1.1475,
-      "day_high": 1.1491,
-      "day_low": 1.1456,
+      "prev_close": 1.1483,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-18T13:00:00.000-0400",
+      "as_of": "2026-09-18T17:00:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3161,13 +3163,15 @@
         [
           "2026-09-18T17:00:25+00:00",
           0.8226
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          0.8218
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -3176,16 +3180,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8226,
-      "change": -0.0017,
-      "change_pct": -0.2062,
-      "prev_close": 0.8243,
-      "day_open": 0.8241,
-      "day_high": 0.8259,
-      "day_low": 0.8226,
+      "value": 0.8218,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.8218,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-18T13:00:00.000-0400",
+      "as_of": "2026-09-18T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3539,9 +3543,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           4418.2
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          4415.9
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3554,16 +3562,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4418.2,
-      "change": 18.5,
-      "change_pct": 0.42,
+      "value": 4415.9,
+      "change": 16.2,
+      "change_pct": 0.37,
       "prev_close": 4399.7,
       "day_open": 4381.6,
       "day_high": 4439.8,
       "day_low": 4372.2,
       "year_high": 5586.2,
       "year_low": 3660.5,
-      "as_of": "2026-09-18T12:50:11.000-0400",
+      "as_of": "2026-09-18T18:08:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -3917,9 +3925,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           100.81
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          99.53
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3932,16 +3944,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 100.81,
-      "change": -1.1,
-      "change_pct": -1.08,
+      "value": 99.53,
+      "change": -2.38,
+      "change_pct": -2.34,
       "prev_close": 101.91,
       "day_open": 101.06,
       "day_high": 103.48,
-      "day_low": 99.39,
+      "day_low": 99.19,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-18T12:50:16.000-0400",
+      "as_of": "2026-09-18T18:08:23.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -4211,9 +4223,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           219.66
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          222.27
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4226,17 +4242,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 219.66,
-      "change": 0.31,
-      "change_pct": 0.14,
+      "value": 222.27,
+      "change": 2.93,
+      "change_pct": 1.34,
       "prev_close": 219.34,
       "day_open": 219.35,
-      "day_high": 220.89,
+      "day_high": 222.73,
       "day_low": 218.03,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-18T13:00:14.779-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-18T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -4497,9 +4513,13 @@
         [
           "2026-09-18T17:00:25+00:00",
           564.05
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          573.0
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4512,17 +4532,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 564.05,
-      "change": 3.43,
-      "change_pct": 0.61,
+      "value": 573.0,
+      "change": 12.39,
+      "change_pct": 2.21,
       "prev_close": 560.61,
       "day_open": 562.88,
-      "day_high": 567.63,
+      "day_high": 580.81,
       "day_low": 562.75,
       "year_high": 671.83,
       "year_low": 312.6,
-      "as_of": "2026-09-18T13:00:04.766-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-18T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -4783,14 +4803,18 @@
         [
           "2026-09-18T17:00:25+00:00",
           73.99463455269354
+        ],
+        [
+          "2026-09-18T22:44:28+00:00",
+          74.89706555127115
         ]
       ],
-      "value": 73.99463455269354,
-      "fetched_at": "2026-09-18T17:00:22+00:00",
-      "as_of": "2026-09-18T13:00:04.766-0400",
+      "value": 74.89706555127115,
+      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "as_of": "2026-09-18T16:15:00.000-0400",
       "prev_close": 73.39979260935144,
-      "change": 0.5948419433421037,
-      "change_pct": 0.8104136567632733,
+      "change": 1.497272941919718,
+      "change_pct": 2.039887155933134,
       "stale": false
     },
     {
@@ -4956,7 +4980,7 @@
           2.7
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -5138,7 +5162,7 @@
           0.78
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:22+00:00",
+      "fetched_at": "2026-09-18T22:44:24+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -5228,7 +5252,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:23+00:00",
+      "fetched_at": "2026-09-18T22:44:25+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -5316,7 +5340,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:24+00:00",
+      "fetched_at": "2026-09-18T22:44:26+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5392,7 +5416,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:24+00:00",
+      "fetched_at": "2026-09-18T22:44:27+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5441,7 +5465,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-18T17:00:24+00:00",
+      "fetched_at": "2026-09-18T22:44:26+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -5611,7 +5635,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:25+00:00",
+      "fetched_at": "2026-09-18T22:44:27+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -5794,7 +5818,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-18T17:00:25+00:00",
+      "fetched_at": "2026-09-18T22:44:28+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
