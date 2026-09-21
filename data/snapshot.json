@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T18:34:25+00:00",
+  "generated_at": "2026-09-21T23:28:32+00:00",
   "briefing": {
-    "captured_at": "2026-09-21T18:34:31+00:00",
+    "captured_at": "2026-09-21T23:28:35+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,20 +17,28 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-        "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+        "headline": "Paramount settles lawsuits, allowing for Warner Bros. deal",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-suits-allowing-for-warner-bros-deal-video",
         "sources": [
           "BBC",
+          "Bloomberg",
           "CNBC",
           "CNBC Finance",
+          "Fortune",
+          "Guardian",
           "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+            "headline": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
             "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Paramount settles lawsuits, allowing for Warner Bros. deal",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-suits-allowing-for-warner-bros-deal-video"
           },
           {
             "source": "CNBC",
@@ -43,117 +51,25 @@
             "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html"
           },
           {
-            "source": "NPR",
-            "headline": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
-            "url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
-          }
-        ],
-        "published": "2026-09-21T18:24:08+00:00"
-      },
-      {
-        "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "CNBC",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-            "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-            "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html"
-          },
-          {
             "source": "Fortune",
-            "headline": "U.S. and China propose AI risk notification mechanism ahead of Trump-Xi talks",
-            "url": "https://fortune.com/2026/09/21/bessent-china-ai-alert-system/"
-          }
-        ],
-        "published": "2026-09-21T15:34:42+00:00"
-      },
-      {
-        "headline": "Invesco S&P 500 GARP ETF declares quarterly distribution of $0.1082",
-        "url": "https://seekingalpha.com/news/4644974-invesco-sp-500-garp-etf-declares-quarterly-distribution-of-01082?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Business Insider",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Business Insider",
-            "headline": "Invesco S&P 500 Revenue ETF declares quarterly distribution of $0.3984",
-            "url": "https://seekingalpha.com/news/4644976-invesco-sp-500-revenue-etf-declares-quarterly-distribution-of-03984?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Invesco S&P 500 QVM Multi-factor ETF declares quarterly distribution of $0.1113",
-            "url": "https://seekingalpha.com/news/4644975-invesco-sp-500-qvm-multi-factor-etf-declares-quarterly-distribution-of-01113?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Invesco S&P 500 GARP ETF declares quarterly distribution of $0.1082",
-            "url": "https://seekingalpha.com/news/4644974-invesco-sp-500-garp-etf-declares-quarterly-distribution-of-01082?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Invesco Dow Jones Industrial Average Dividend ETF declares $0.3338 dividend",
-            "url": "https://seekingalpha.com/news/4644972-invesco-dow-jones-industrial-average-dividend-etf-declares-03338-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Invesco BulletShares 2034 Corporate Bond ETF declares monthly distribution of $0.0809",
-            "url": "https://seekingalpha.com/news/4645054-invesco-bulletshares-2034-corporate-bond-etf-declares-monthly-distribution-of-00809?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Invesco BulletShares 2033 Municipal Bond ETF declares monthly distribution of $0.0684",
-            "url": "https://seekingalpha.com/news/4645051-invesco-bulletshares-2033-municipal-bond-etf-declares-monthly-distribution-of-00684?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Invesco BulletShares 2033 High Yield Corporate Bond ETF declares monthly distribution of $0.1291",
-            "url": "https://seekingalpha.com/news/4645049-invesco-bulletshares-2033-high-yield-corporate-bond-etf-declares-monthly-distribution-of-01291?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-09-21T18:30:43+00:00"
-      },
-      {
-        "headline": "Paramount Settles Lawsuits With States Clearing the Way to Buy WBD",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-lawsuits-clearing-way-to-buy-wbd-video",
-        "sources": [
-          "Bloomberg",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Paramount Settles Lawsuits With States Clearing the Way to Buy WBD",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-lawsuits-clearing-way-to-buy-wbd-video"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Paramount Set to Settle Lawsuits, Clearing Way for Warner Bros. Deal",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-to-settle-lawsuits-over-warner-bros-deal-video"
+            "headline": "Paramount agrees invest $1.5 billion in domestic movies and create a board for editorial independence at CNN, CBS as part of deal for Warner Bros.",
+            "url": "https://fortune.com/2026/09/21/paramount-settlement-1-5-billion-investment-domestic-movies-board-editorial-independence-cnn-cbs-warner-bros-takeover/"
           },
           {
             "source": "Guardian",
             "headline": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger",
             "url": "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger"
+          },
+          {
+            "source": "NPR",
+            "headline": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+            "url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
           }
         ],
-        "published": "2026-09-21T18:27:40+00:00"
+        "published": "2026-09-21T22:29:35+00:00"
       },
       {
-        "headline": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem",
+        "headline": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
         "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
         "sources": [
           "CNBC",
@@ -163,61 +79,115 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem",
+            "headline": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
             "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "FAA halts flights to Newark, Philadelphia, New York because of equipment problem",
+            "headline": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
             "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html"
           }
         ],
-        "published": "2026-09-21T17:45:27+00:00"
+        "published": "2026-09-21T23:03:04+00:00"
+      },
+      {
+        "headline": "CNN, MS NOW and Politico sue Trump after being barred from White House",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+        "sources": [
+          "Fortune",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "If a president speaks, but TV crews aren\u2019t there to capture audio, does he make a sound? Networks keep cameras away after Trump bans CNN",
+            "url": "https://fortune.com/2026/09/21/trump-tv-pool-cnn-ban-white-house-landing-pad-networks-abc-cbs-nbc-fox/"
+          },
+          {
+            "source": "NPR",
+            "headline": "CNN, MS NOW and Politico sue Trump after being barred from White House",
+            "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets"
+          }
+        ],
+        "published": "2026-09-21T21:16:04+00:00"
+      },
+      {
+        "headline": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
+        "url": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
+            "url": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
+            "url": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
+            "url": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
+            "url": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html"
+          }
+        ],
+        "published": "2026-09-21T19:37:01+00:00"
+      },
+      {
+        "headline": "Strategy Makes First Purchase of Bitcoin Since August",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august",
+        "sources": [
+          "Bloomberg",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Strategy Makes First Purchase of Bitcoin Since August",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Michael Saylor\u2019s Strategy buys Bitcoin again as surprise rally pushes price above $85,000",
+            "url": "https://fortune.com/2026/09/21/michael-saylors-strategy-bitcoin-surprise-rally-price-85000/"
+          }
+        ],
+        "published": "2026-09-21T17:05:09+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Paramount settles with 12 state AGs, clearing its ~$110bn Warner Bros. Discovery merger to proceed.",
+          "text": "Paramount settles with 12 state AGs, clearing its ~$110bn Warner Bros. merger; pledges $1.5bn US film spend.",
           "topic_ids": [
-            0,
-            3
+            0
           ],
           "sources": [
             "BBC",
             "Bloomberg",
             "CNBC",
             "CNBC Finance",
+            "Fortune",
             "Guardian",
             "NPR"
           ]
         },
         {
-          "text": "US and China propose an AI risk notification mechanism before the Trump-Xi talks.",
+          "text": "Eli Lilly CEO: 700,000 new seniors started GLP-1s after Medicare coverage, 70% on Lilly drugs.",
           "topic_ids": [
-            1
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "US-listed Greenland stocks surge after Trump announces a security deal with Denmark.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "FAA halts flights into Newark, Philadelphia and New York over an equipment problem.",
-          "topic_ids": [
-            4
+            3
           ],
           "sources": [
             "CNBC",
@@ -225,18 +195,38 @@
           ]
         },
         {
-          "text": "Invesco declares quarterly and monthly distributions across its equity and BulletShares bond ETFs.",
+          "text": "Strategy buys bitcoin for the first time since August, with the price above $85,000.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "CNN, MS NOW and Politico sue Trump after being barred from the White House.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "Business Insider",
-            "Seeking Alpha"
+            "Fortune",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Cut Verizon fiber line disrupts hundreds of flights into Newark, New York and Philadelphia.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-21T18:34:40+00:00"
+      "written_at": "2026-09-21T23:28:44+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -596,9 +586,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           4.967
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          4.951
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:21+00:00",
+      "fetched_at": "2026-09-21T23:28:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -611,16 +605,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.967,
-      "change": -0.029,
-      "change_pct": -0.5805,
-      "prev_close": 4.996,
-      "day_open": 4.972,
-      "day_high": 4.976,
-      "day_low": 4.943,
+      "value": 4.951,
+      "change": -0.012,
+      "change_pct": -0.2418,
+      "prev_close": 4.963,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.04,
       "year_low": 3.93,
-      "as_of": "2026-09-21T14:34:08.000-0400",
+      "as_of": "2026-09-21T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -974,12 +968,15 @@
         [
           "2026-09-21T18:34:25+00:00",
           4.753
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          4.751
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:21+00:00",
+      "fetched_at": "2026-09-21T23:28:28+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -989,16 +986,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.753,
-      "change": 0.01,
-      "change_pct": -0.0195,
-      "prev_close": 4.743,
-      "day_open": 4.772,
-      "day_high": 4.772,
-      "day_low": 4.703,
-      "year_high": 4.77,
+      "value": 4.751,
+      "change": -0.0019999999999997797,
+      "change_pct": 0.0,
+      "prev_close": 4.753,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
+      "year_high": 4.75,
       "year_low": 3.37,
-      "as_of": "2026-09-21T14:34:03.000-0400",
+      "as_of": "2026-09-21T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1352,9 +1349,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           5.301
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          5.28
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:21+00:00",
+      "fetched_at": "2026-09-21T23:28:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1367,16 +1368,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.301,
-      "change": -0.026,
-      "change_pct": -0.4881,
-      "prev_close": 5.327,
-      "day_open": 5.298,
-      "day_high": 5.31,
-      "day_low": 5.285,
+      "value": 5.28,
+      "change": -0.016,
+      "change_pct": -0.3021,
+      "prev_close": 5.296,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.42,
       "year_low": 4.52,
-      "as_of": "2026-09-21T14:34:08.000-0400",
+      "as_of": "2026-09-21T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1408,12 +1409,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.2734312424159793,
-      "fetched_at": "2026-09-21T18:34:21+00:00",
+      "value": 1.2574312424159793,
+      "fetched_at": "2026-09-21T23:28:28+00:00",
       "as_of": "2026-08-01",
-      "prev_close": 1.4751155781387082,
-      "change": -0.20168433572272892,
-      "change_pct": -13.672442940180524,
+      "prev_close": 1.4421155781387078,
+      "change": -0.18468433572272858,
+      "change_pct": -12.806486423306978,
       "stale": false
     },
     {
@@ -1737,9 +1738,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           7767.17
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          7764.7
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1752,16 +1757,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7767.17,
-      "change": 116.67,
-      "change_pct": 1.52,
+      "value": 7764.7,
+      "change": 114.2,
+      "change_pct": 1.49,
       "prev_close": 7650.5,
       "day_open": 7692.83,
-      "day_high": 7769.64,
+      "day_high": 7779.22,
       "day_low": 7691.19,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-21T14:34:16.000-0400",
+      "as_of": "2026-09-21T16:51:02.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2087,9 +2092,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           27093.595
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          27122.094
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2102,16 +2111,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27093.595,
-      "change": 571.05,
-      "change_pct": 2.15,
+      "value": 27122.094,
+      "change": 599.549,
+      "change_pct": 2.26,
       "prev_close": 26522.545,
       "day_open": 26723.194,
-      "day_high": 27111.22,
+      "day_high": 27183.927,
       "day_low": 26707.417,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-21T14:34:15.000-0400",
+      "as_of": "2026-09-21T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2465,9 +2474,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           15.01
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          14.87
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2480,16 +2493,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.01,
-      "change": 0.2,
-      "change_pct": 1.35,
+      "value": 14.87,
+      "change": 0.06,
+      "change_pct": 0.41,
       "prev_close": 14.81,
       "day_open": 14.96,
       "day_high": 15.13,
       "day_low": 14.6,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-21T14:34:01.000-0400",
+      "as_of": "2026-09-21T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2875,9 +2888,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           1.1463
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          1.1461
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2890,16 +2907,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1463,
-      "change": -0.002,
-      "change_pct": -0.1742,
-      "prev_close": 1.1483,
-      "day_open": 1.1482,
-      "day_high": 1.1495,
+      "value": 1.1461,
+      "change": -0.0001,
+      "change_pct": -0.0087,
+      "prev_close": 1.1462,
+      "day_open": 1.1465,
+      "day_high": 1.1474,
       "day_low": 1.1464,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-21T14:34:00.000-0400",
+      "as_of": "2026-09-21T19:28:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3269,9 +3286,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           0.8211
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          0.8208
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3284,16 +3305,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8211,
-      "change": -0.0007,
-      "change_pct": -0.0852,
-      "prev_close": 0.8218,
-      "day_open": 0.8218,
-      "day_high": 0.8238,
-      "day_low": 0.8207,
+      "value": 0.8208,
+      "change": -0.0001,
+      "change_pct": -0.0122,
+      "prev_close": 0.8209,
+      "day_open": 0.8214,
+      "day_high": 0.8216,
+      "day_low": 0.8208,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-21T14:34:00.000-0400",
+      "as_of": "2026-09-21T19:28:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3659,9 +3680,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           4388.8
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          4400.2
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3674,16 +3699,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4388.8,
-      "change": -36.1,
-      "change_pct": -0.82,
-      "prev_close": 4424.9,
-      "day_open": 4413.0,
-      "day_high": 4422.1,
-      "day_low": 4360.3,
+      "value": 4400.2,
+      "change": 16.3,
+      "change_pct": 0.37,
+      "prev_close": 4383.9,
+      "day_open": 4382.5,
+      "day_high": 4403.7,
+      "day_low": 4382.0,
       "year_high": 5586.2,
       "year_low": 3664.4,
-      "as_of": "2026-09-21T14:24:13.000-0400",
+      "as_of": "2026-09-21T19:18:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4049,9 +4074,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           95.74
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          95.75
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4064,16 +4093,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 95.74,
-      "change": -4.56,
-      "change_pct": -4.55,
-      "prev_close": 100.3,
-      "day_open": 101.0,
-      "day_high": 101.08,
-      "day_low": 94.22,
+      "value": 95.75,
+      "change": -0.03,
+      "change_pct": -0.03,
+      "prev_close": 95.78,
+      "day_open": 95.39,
+      "day_high": 95.75,
+      "day_low": 95.29,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-21T14:24:12.000-0400",
+      "as_of": "2026-09-21T18:56:03.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -4355,9 +4384,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           227.38
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          227.38
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:22+00:00",
+      "fetched_at": "2026-09-21T23:28:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4371,16 +4404,16 @@
         "_symbol": "NVDA"
       },
       "value": 227.38,
-      "change": 5.1,
+      "change": 5.11,
       "change_pct": 2.3,
       "prev_close": 222.27,
       "day_open": 222.94,
-      "day_high": 227.68,
+      "day_high": 228.5,
       "day_low": 221.56,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-21T14:34:13.217-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-21T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -4653,9 +4686,13 @@
         [
           "2026-09-21T18:34:25+00:00",
           594.39
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          596.03
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:23+00:00",
+      "fetched_at": "2026-09-21T23:28:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4668,17 +4705,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 594.39,
-      "change": 21.39,
-      "change_pct": 3.73,
+      "value": 596.03,
+      "change": 23.03,
+      "change_pct": 4.02,
       "prev_close": 573.0,
       "day_open": 581.9,
-      "day_high": 594.97,
+      "day_high": 598.62,
       "day_low": 578.51,
       "year_high": 671.83,
       "year_low": 313.6,
-      "as_of": "2026-09-21T14:34:13.186-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-21T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -4951,14 +4988,18 @@
         [
           "2026-09-21T18:34:25+00:00",
           76.52594188101973
+        ],
+        [
+          "2026-09-21T23:28:32+00:00",
+          76.76149754658906
         ]
       ],
-      "value": 76.52594188101973,
-      "fetched_at": "2026-09-21T18:34:22+00:00",
-      "as_of": "2026-09-21T14:34:13.186-0400",
+      "value": 76.76149754658906,
+      "fetched_at": "2026-09-21T23:28:28+00:00",
+      "as_of": "2026-09-21T16:15:00.000-0400",
       "prev_close": 74.89706555127115,
-      "change": 1.6288763297485787,
-      "change_pct": 2.17481995824459,
+      "change": 1.8644319953179007,
+      "change_pct": 2.489325825511274,
       "stale": false
     },
     {
@@ -5124,7 +5165,7 @@
           2.68
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:23+00:00",
+      "fetched_at": "2026-09-21T23:28:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -5306,7 +5347,7 @@
           0.77
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:23+00:00",
+      "fetched_at": "2026-09-21T23:28:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -5396,7 +5437,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:23+00:00",
+      "fetched_at": "2026-09-21T23:28:30+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -5484,7 +5525,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:24+00:00",
+      "fetched_at": "2026-09-21T23:28:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5560,7 +5601,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:24+00:00",
+      "fetched_at": "2026-09-21T23:28:32+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5609,7 +5650,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-21T18:34:24+00:00",
+      "fetched_at": "2026-09-21T23:28:31+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -5779,7 +5820,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:24+00:00",
+      "fetched_at": "2026-09-21T23:28:32+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -5962,7 +6003,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-21T18:34:25+00:00",
+      "fetched_at": "2026-09-21T23:28:32+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
