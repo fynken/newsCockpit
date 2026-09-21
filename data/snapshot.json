@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T22:44:28+00:00",
+  "generated_at": "2026-09-21T12:08:54+00:00",
   "briefing": {
-    "captured_at": "2026-09-18T22:44:31+00:00",
+    "captured_at": "2026-09-21T12:08:57+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,91 +17,57 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+        "headline": "Fed\u2019s Goolsbee Says Path to 2% \u2018Unlikely to Be Painless\u2019",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-21/fed-s-goolsbee-says-path-to-2-unlikely-to-be-painless-video",
         "sources": [
-          "BBC",
-          "CNBC",
-          "Guardian",
-          "NPR"
+          "Bloomberg",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-            "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
+            "source": "Bloomberg",
+            "headline": "Fed\u2019s Goolsbee Says Path to 2% \u2018Unlikely to Be Painless\u2019",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-21/fed-s-goolsbee-says-path-to-2-unlikely-to-be-painless-video"
           },
           {
-            "source": "CNBC",
-            "headline": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-            "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
+            "source": "Bloomberg",
+            "headline": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "The Fed shouldn't 'look through' some supply shocks, Chicago Fed's Goolsbee says",
+            "url": "https://seekingalpha.com/news/4644700-the-fed-shouldnt-look-through-some-supply-shocks-chicago-feds-goolsbee-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-09-21T11:50:44+00:00"
+      },
+      {
+        "headline": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/us-lng-producers-eye-bonanza-if-trump-and-xi-can-ease-tariffs",
+        "sources": [
+          "Bloomberg",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/us-lng-producers-eye-bonanza-if-trump-and-xi-can-ease-tariffs"
           },
           {
             "source": "Guardian",
-            "headline": "Warren Buffett steps down as chair of Berkshire Hathaway after over 50 years",
-            "url": "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway"
-          },
-          {
-            "source": "NPR",
-            "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
-            "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down"
+            "headline": "Can Trump and Xi cooperate to guide humanity through the AI revolution? Humanity might depend on it | Alan Finkel",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it"
           }
         ],
-        "published": "2026-09-18T17:15:02+00:00"
+        "published": "2026-09-21T11:27:11+00:00"
       },
       {
-        "headline": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-        "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-            "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-            "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-            "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html"
-          }
-        ],
-        "published": "2026-09-18T22:32:08+00:00"
-      },
-      {
-        "headline": "Trump says he's banning MS NOW, CNN and Politico from White House",
-        "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
-        "sources": [
-          "CNBC",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Trump says he's banning MS NOW, CNN and Politico from White House",
-            "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html"
-          },
-          {
-            "source": "NPR",
-            "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-            "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
-          }
-        ],
-        "published": "2026-09-18T21:20:17+00:00"
-      },
-      {
-        "headline": "Kevin Warsh just revealed a huge change for the Fed. The press missed it",
-        "url": "https://fortune.com/2026/09/18/kevin-warsh-federal-reserve-what-is-monetarism/",
+        "headline": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+        "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
         "sources": [
           "CNBC",
           "Fortune"
@@ -110,20 +76,25 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-            "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html"
+            "headline": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
+            "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+            "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html"
           },
           {
             "source": "Fortune",
-            "headline": "Kevin Warsh just revealed a huge change for the Fed. The press missed it",
-            "url": "https://fortune.com/2026/09/18/kevin-warsh-federal-reserve-what-is-monetarism/"
+            "headline": "U.S. Treasury\u2019s bond scheme is not a national debt management tool, say top economists, but it did show Wall Street what makes Scott Bessent flinch",
+            "url": "https://fortune.com/2026/09/21/wall-street-bessent-bond-plan-buyback-reaction-treasury/"
           }
         ],
-        "published": "2026-09-18T20:45:10+00:00"
+        "published": "2026-09-21T11:05:14+00:00"
       },
       {
-        "headline": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
-        "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+        "headline": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+        "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
         "sources": [
           "CNBC",
           "CNBC Finance"
@@ -132,75 +103,103 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
-            "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
+            "headline": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+            "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
-            "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
+            "headline": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+            "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html"
           }
         ],
-        "published": "2026-09-18T19:30:55+00:00"
+        "published": "2026-09-21T11:00:01+00:00"
+      },
+      {
+        "headline": "Trump-Xi Summit in Focus After Positive US-China Talks",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-21/the-pulse-9-21-2026-video",
+        "sources": [
+          "BBC",
+          "Bloomberg"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+            "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Trump-Xi Summit in Focus After Positive US-China Talks",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-21/the-pulse-9-21-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Wheat, Corn Rise With China Talks and Black Sea Risks in Focus",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-21/wheat-jumps-after-positive-signals-from-initial-us-china-talks"
+          }
+        ],
+        "published": "2026-09-21T10:17:45+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Warren Buffett steps down as Berkshire Hathaway chairman after six decades: 'Father Time always wins'",
+          "text": "Bessent calls talks with China's He Lifeng successful ahead of the Trump-Xi summit.",
           "topic_ids": [
-            0
+            2,
+            4
           ],
           "sources": [
             "BBC",
-            "CNBC",
-            "Guardian",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Kevin Warsh's three words leave Wall Street guessing how far the Fed goes on rate hikes",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
+            "Bloomberg",
             "CNBC",
             "Fortune"
           ]
         },
         {
-          "text": "Auto industry urges Trump to bar Chinese automakers before Xi visit; Trump plans military presence in Greenland",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "CNBC",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Nike parts ways with Kylian Mbappe, who signs with On",
+          "text": "US and China discuss an AI safety plan before the summit; wheat and corn rise.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "BBC",
+            "Bloomberg"
+          ]
+        },
+        {
+          "text": "Goolsbee says the path to 2% is unlikely to be painless and the Fed shouldn't look through some supply shocks.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Gold edges lower as traders weigh oil prices and the Fed rate path.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "US LNG producers eye a bonanza if Trump and Xi ease tariffs.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-18T22:44:40+00:00"
+      "written_at": "2026-09-21T12:09:07+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -552,9 +551,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           5.0
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          4.947
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -567,16 +570,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.0,
-      "change": 0.053,
-      "change_pct": 1.0714,
-      "prev_close": 4.947,
-      "day_open": 4.939,
-      "day_high": 5.008,
-      "day_low": 4.92,
+      "value": 4.947,
+      "change": -0.049,
+      "change_pct": -0.9808,
+      "prev_close": 4.996,
+      "day_open": 4.972,
+      "day_high": 4.976,
+      "day_low": 4.943,
       "year_high": 5.04,
       "year_low": 3.93,
-      "as_of": "2026-09-18T17:05:00.000-0400",
+      "as_of": "2026-09-21T08:08:45.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -922,9 +925,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           4.756
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          4.71
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -937,16 +944,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.756,
-      "change": 0.066,
-      "change_pct": -0.1211,
-      "prev_close": 4.69,
-      "day_open": 4.679,
-      "day_high": 4.76,
-      "day_low": 4.668,
-      "year_high": 4.76,
+      "value": 4.71,
+      "change": -0.033,
+      "change_pct": 0.0664,
+      "prev_close": 4.743,
+      "day_open": 4.772,
+      "day_high": 4.772,
+      "day_low": 4.703,
+      "year_high": 4.77,
       "year_low": 3.37,
-      "as_of": "2026-09-18T17:05:00.000-0400",
+      "as_of": "2026-09-21T08:08:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1292,9 +1299,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           5.328
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          5.289
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1307,16 +1318,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.328,
-      "change": 0.032,
-      "change_pct": 0.6042,
-      "prev_close": 5.296,
-      "day_open": 5.29,
-      "day_high": 5.344,
-      "day_low": 5.271,
+      "value": 5.289,
+      "change": -0.038,
+      "change_pct": -0.7133,
+      "prev_close": 5.327,
+      "day_open": 5.298,
+      "day_high": 5.307,
+      "day_low": 5.285,
       "year_high": 5.42,
       "year_low": 4.52,
-      "as_of": "2026-09-18T17:05:00.000-0400",
+      "as_of": "2026-09-21T08:08:22.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1348,12 +1359,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.3064312424159796,
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "value": 1.2534312424159797,
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "as_of": "2026-08-01",
-      "prev_close": 1.4261155781387078,
-      "change": -0.11968433572272819,
-      "change_pct": -8.392330716906828,
+      "prev_close": 1.4751155781387082,
+      "change": -0.2216843357227285,
+      "change_pct": -15.028268903677935,
       "stale": false
     },
     {
@@ -1669,9 +1680,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           7650.5
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          7650.5
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1687,13 +1702,13 @@
       "value": 7650.5,
       "change": 12.74,
       "change_pct": 0.17,
-      "prev_close": 7637.76,
+      "prev_close": 7650.5,
       "day_open": 7657.17,
       "day_high": 7657.17,
       "day_low": 7610.52,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-18T17:29:48.000-0400",
+      "as_of": "2026-09-18",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2011,9 +2026,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           26522.545
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          26522.545
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2028,14 +2047,14 @@
       },
       "value": 26522.545,
       "change": 104.247,
-      "change_pct": 0.4,
-      "prev_close": 26418.298,
+      "change_pct": 0.39,
+      "prev_close": 26522.545,
       "day_open": 26522.09,
       "day_high": 26544.93,
       "day_low": 26333.983,
       "year_high": 27190.21,
       "year_low": 20690.25,
-      "as_of": "2026-09-18T17:15:59.000-0400",
+      "as_of": "2026-09-18",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2381,9 +2400,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           14.81
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          14.78
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:23+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2396,16 +2419,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 14.81,
-      "change": -0.63,
-      "change_pct": -4.08,
-      "prev_close": 15.44,
-      "day_open": 15.07,
-      "day_high": 15.63,
-      "day_low": 14.8,
+      "value": 14.78,
+      "change": -0.03,
+      "change_pct": -0.2,
+      "prev_close": 14.81,
+      "day_open": 14.96,
+      "day_high": 14.99,
+      "day_low": 14.76,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-18T16:15:01.000-0400",
+      "as_of": "2026-09-21T08:08:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2783,11 +2806,17 @@
         [
           "2026-09-18T22:44:28+00:00",
           1.1483
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          1.149
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -2796,16 +2825,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1483,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 1.149,
+      "change": 0.0007,
+      "change_pct": 0.061,
       "prev_close": 1.1483,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 1.1482,
+      "day_high": 1.1495,
+      "day_low": 1.1472,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-18T17:00:00.000-0400",
+      "as_of": "2026-09-21T08:08:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3167,11 +3196,17 @@
         [
           "2026-09-18T22:44:28+00:00",
           0.8218
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          0.821
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -3180,16 +3215,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8218,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.821,
+      "change": -0.0008,
+      "change_pct": -0.0973,
       "prev_close": 0.8218,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 0.8218,
+      "day_high": 0.8238,
+      "day_low": 0.8209,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-18T16:59:00.000-0400",
+      "as_of": "2026-09-21T08:08:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3547,9 +3582,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           4415.9
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          4405.5
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3562,16 +3601,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4415.9,
-      "change": 16.2,
-      "change_pct": 0.37,
-      "prev_close": 4399.7,
-      "day_open": 4381.6,
-      "day_high": 4439.8,
-      "day_low": 4372.2,
+      "value": 4405.5,
+      "change": -19.4,
+      "change_pct": -0.44,
+      "prev_close": 4424.9,
+      "day_open": 4413.0,
+      "day_high": 4422.1,
+      "day_low": 4377.5,
       "year_high": 5586.2,
-      "year_low": 3660.5,
-      "as_of": "2026-09-18T18:08:24.000-0400",
+      "year_low": 3664.4,
+      "as_of": "2026-09-21T07:58:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -3929,9 +3968,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           99.53
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          97.52
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3944,16 +3987,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 99.53,
-      "change": -2.38,
-      "change_pct": -2.34,
-      "prev_close": 101.91,
-      "day_open": 101.06,
-      "day_high": 103.48,
-      "day_low": 99.19,
+      "value": 97.52,
+      "change": -2.78,
+      "change_pct": -2.77,
+      "prev_close": 100.3,
+      "day_open": 101.0,
+      "day_high": 101.08,
+      "day_low": 96.92,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-18T18:08:23.000-0400",
+      "as_of": "2026-09-21T07:58:45.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Oct'26)",
       "stale": false
@@ -4227,9 +4270,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           222.27
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          222.27
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:52+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4245,14 +4292,14 @@
       "value": 222.27,
       "change": 2.93,
       "change_pct": 1.34,
-      "prev_close": 219.34,
-      "day_open": 219.35,
-      "day_high": 222.73,
-      "day_low": 218.03,
+      "prev_close": 222.27,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-18T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-18",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -4517,9 +4564,13 @@
         [
           "2026-09-18T22:44:28+00:00",
           573.0
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          573.0
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:53+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4535,14 +4586,14 @@
       "value": 573.0,
       "change": 12.39,
       "change_pct": 2.21,
-      "prev_close": 560.61,
-      "day_open": 562.88,
-      "day_high": 580.81,
-      "day_low": 562.75,
+      "prev_close": 573.0,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
-      "year_low": 312.6,
-      "as_of": "2026-09-18T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "year_low": 313.6,
+      "as_of": "2026-09-18",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -4807,14 +4858,18 @@
         [
           "2026-09-18T22:44:28+00:00",
           74.89706555127115
+        ],
+        [
+          "2026-09-21T12:08:54+00:00",
+          74.89706555127115
         ]
       ],
       "value": 74.89706555127115,
-      "fetched_at": "2026-09-18T22:44:23+00:00",
-      "as_of": "2026-09-18T16:15:00.000-0400",
-      "prev_close": 73.39979260935144,
-      "change": 1.497272941919718,
-      "change_pct": 2.039887155933134,
+      "fetched_at": "2026-09-21T12:08:52+00:00",
+      "as_of": "2026-09-18",
+      "prev_close": 74.89706555127115,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -4980,7 +5035,7 @@
           2.7
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:53+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -5162,7 +5217,7 @@
           0.78
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:24+00:00",
+      "fetched_at": "2026-09-21T12:08:53+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -5252,7 +5307,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:25+00:00",
+      "fetched_at": "2026-09-21T12:08:53+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -5340,7 +5395,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:26+00:00",
+      "fetched_at": "2026-09-21T12:08:53+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5416,7 +5471,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:27+00:00",
+      "fetched_at": "2026-09-21T12:08:54+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5465,7 +5520,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-18T22:44:26+00:00",
+      "fetched_at": "2026-09-21T12:08:53+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -5635,7 +5690,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:27+00:00",
+      "fetched_at": "2026-09-21T12:08:54+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -5818,7 +5873,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-18T22:44:28+00:00",
+      "fetched_at": "2026-09-21T12:08:54+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
