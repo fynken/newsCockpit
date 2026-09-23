@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T17:47:19+00:00",
+  "generated_at": "2026-09-23T23:03:26+00:00",
   "briefing": {
-    "captured_at": "2026-09-23T17:47:22+00:00",
+    "captured_at": "2026-09-23T23:03:27+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,79 +17,122 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
-        "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+        "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+        "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
         "sources": [
           "CNBC",
           "CNBC Finance",
-          "Guardian"
+          "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
-            "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html"
+            "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+            "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+            "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
-            "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html"
+            "headline": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+            "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html"
           },
           {
-            "source": "Guardian",
-            "headline": "Qantas announces 18-hour direct flights from Sydney to New York with onboard \u2018wellbeing zones\u2019",
-            "url": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york"
+            "source": "Fortune",
+            "headline": "Why Trump banning diesel exports would upset the U.S. oil sector and upend global fuel markets \u2014 \u2018the cure would be far worse than the disease\u2019",
+            "url": "https://fortune.com/2026/09/23/trump-banning-diesel-exports-upset-oil-sector-upend-global-fuel/"
           }
         ],
-        "published": "2026-09-23T05:17:07+00:00"
+        "published": "2026-09-23T22:45:50+00:00"
       },
       {
-        "headline": "Insurers trade higher after online insurance marketplace blocks Meta's Muse",
-        "url": "https://seekingalpha.com/news/4646210-insurers-trade-higher-after-online-insurance-marketplace-blocks-metas-muse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
+        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
+            "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+            "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "OpenAI and Anthropic\u2019s CEOs just delivered this message to the U.N. as AI fears swirl",
+            "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-09-23T22:35:14+00:00"
+      },
+      {
+        "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
+        "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
         "sources": [
           "CNBC",
-          "Seeking Alpha"
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
-            "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html"
+            "headline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+            "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Insurers trade higher after online insurance marketplace blocks Meta's Muse",
-            "url": "https://seekingalpha.com/news/4646210-insurers-trade-higher-after-online-insurance-marketplace-blocks-metas-muse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "CNBC",
+            "headline": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege \u2014 not a right'",
+            "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html"
+          },
+          {
+            "source": "NPR",
+            "headline": "Judge considers restoring journalists' access to White House after Trump's ban",
+            "url": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico"
+          },
+          {
+            "source": "NPR",
+            "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
+            "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban"
           }
         ],
-        "published": "2026-09-23T17:43:56+00:00"
+        "published": "2026-09-23T22:40:39+00:00"
       },
       {
-        "headline": "Fed October hike odds top 70% as inflation fears build, yields surge",
-        "url": "https://seekingalpha.com/news/4646207-fed-october-hike-odds-top-70-as-inflation-fears-build-yields-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "New Social Security bill would lower retirement age to 60 for some workers",
+        "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
         "sources": [
           "CNBC",
-          "Seeking Alpha"
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-            "url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html"
+            "headline": "New Social Security bill would lower retirement age to 60 for some workers",
+            "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Fed October hike odds top 70% as inflation fears build, yields surge",
-            "url": "https://seekingalpha.com/news/4646207-fed-october-hike-odds-top-70-as-inflation-fears-build-yields-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "MarketWatch",
+            "headline": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+            "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-23T17:32:03+00:00"
+        "published": "2026-09-23T22:15:00+00:00"
       },
       {
-        "headline": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+        "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
         "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
         "sources": [
           "CNBC",
@@ -99,85 +142,75 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+            "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
             "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+            "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
             "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html"
           }
         ],
-        "published": "2026-09-23T17:25:26+00:00"
-      },
-      {
-        "headline": "US Five-Year Yields Exceed 5% for First Time Since 2007",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-23/us-treasury-five-year-yields-breach-5-for-first-time-since-2007",
-        "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "US Five-Year Yields Exceed 5% for First Time Since 2007",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-23/us-treasury-five-year-yields-breach-5-for-first-time-since-2007"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "10-year U.S. Treasury yield tops 5.1%, marking its highest level since 2007",
-            "url": "https://seekingalpha.com/news/4646208-us10y-tops-5_1-percent-marking-its-highest-level-since-2007?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-09-23T17:19:34+00:00"
+        "published": "2026-09-23T20:23:52+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Market prices over 70% odds of an October Fed hike after Barr comments and a hot inflation reading.",
+          "text": "Trump meets Xi; Chinese automakers loom as a risk for the U.S. auto industry.",
           "topic_ids": [
-            2
+            0
           ],
           "sources": [
             "CNBC",
-            "Seeking Alpha"
+            "CNBC Finance",
+            "Fortune"
           ]
         },
         {
-          "text": "Five-year Treasury yields top 5% and the 10-year tops 5.1%, both highest since 2007.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "Bloomberg",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Meta's Muse revives AI disruption fears; insurers rise after an online marketplace blocks it.",
+          "text": "OpenAI and Anthropic CEOs press the UN for global AI terms after Trump rebuffs the idea.",
           "topic_ids": [
             1
           ],
           "sources": [
+            "BBC",
             "CNBC",
-            "Seeking Alpha"
+            "MarketWatch"
           ]
         },
         {
-          "text": "McDonald's CEO says high inflation and fewer diner visits are here to stay.",
+          "text": "McDonald's CEO says high inflation and weak traffic are here to stay.",
           "topic_ids": [
-            3
+            4
           ],
           "sources": [
             "CNBC",
             "CNBC Finance"
           ]
+        },
+        {
+          "text": "Judge weighs Trump's ban on three news outlets; DOJ calls White House access a privilege.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "NPR"
+          ]
+        },
+        {
+          "text": "New Social Security bill would cut the retirement age to 60 for some workers.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "CNBC",
+            "MarketWatch"
+          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-23T17:47:35+00:00"
+      "written_at": "2026-09-23T23:03:38+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -561,9 +594,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           5.116
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          5.11
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:12+00:00",
+      "fetched_at": "2026-09-23T23:03:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -576,16 +613,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.116,
-      "change": 0.149,
-      "change_pct": 2.9998,
-      "prev_close": 4.967,
-      "day_open": 4.943,
-      "day_high": 5.135,
-      "day_low": 4.935,
-      "year_high": 5.14,
+      "value": 5.11,
+      "change": -0.004,
+      "change_pct": -0.0782,
+      "prev_close": 5.114,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
+      "year_high": 5.11,
       "year_low": 3.93,
-      "as_of": "2026-09-23T13:47:07.000-0400",
+      "as_of": "2026-09-23T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -963,12 +1000,15 @@
         [
           "2026-09-23T17:47:19+00:00",
           4.901
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          4.897
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:12+00:00",
+      "fetched_at": "2026-09-23T23:03:20+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -978,16 +1018,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.901,
-      "change": 0.124,
-      "change_pct": -0.9688,
-      "prev_close": 4.777,
-      "day_open": 4.767,
-      "day_high": 4.947,
-      "day_low": 4.754,
+      "value": 4.897,
+      "change": 0.002000000000000668,
+      "change_pct": 0.0,
+      "prev_close": 4.895,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.31,
       "year_low": 3.37,
-      "as_of": "2026-09-23T13:47:07.000-0400",
+      "as_of": "2026-09-23T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -999,16 +1039,16 @@
       "provider": "cnbc",
       "symbol": "US30Y",
       "expr": "",
-      "url": "https://finance.yahoo.com/quote/^TYX",
+      "url": "https://www.cnbc.com/quotes/US30Y/",
       "unit": "%",
       "prefix": "",
       "decimals": 3,
       "featured": false,
       "good_when": "neutral",
       "note": "",
-      "origin": "manual",
-      "error": "cnbc: no usable price for US30Y (absent: last, latest_yield, bondlastprice, mark_price, previous_day_closing; market status 'unknown', 2 keys in the record); yahoo: HTTP 429 from query1.finance.yahoo.com (rate-limited \u2014 this host's IP is being throttled)",
-      "source_note": "Yahoo Finance chart API, symbol ^TYX \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP).",
+      "origin": "live",
+      "error": null,
+      "source_note": "",
       "series": [
         [
           "2026-08-21T11:43:04+00:00",
@@ -1365,22 +1405,37 @@
         [
           "2026-09-23T17:47:19+00:00",
           5.259
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          5.397
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:14+00:00",
-      "field_map": {},
-      "value": 5.259,
-      "change": 0.02200000000000024,
-      "change_pct": 0.4200878365476464,
-      "prev_close": 5.237,
-      "day_open": null,
-      "day_high": 5.261,
-      "day_low": 5.241,
-      "year_high": 5.326,
-      "year_low": 4.528,
-      "as_of": "2026-08-21T13:24:34+00:00",
-      "market_status": "",
-      "instrument_name": "",
+      "fetched_at": "2026-09-23T23:03:20+00:00",
+      "field_map": {
+        "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
+        "prev_close": "previous_day_closing",
+        "day_open": "open",
+        "day_high": "high",
+        "day_low": "low",
+        "year_high": "yrhiprice",
+        "year_low": "yrloprice",
+        "_symbol": "US30Y"
+      },
+      "value": 5.397,
+      "change": -0.005,
+      "change_pct": -0.0926,
+      "prev_close": 5.402,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
+      "year_high": 5.42,
+      "year_low": 4.52,
+      "as_of": "2026-09-23T17:05:00.000-0400",
+      "market_status": "REG_MKT",
+      "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
     },
     {
@@ -1410,12 +1465,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.4224312424159793,
-      "fetched_at": "2026-09-23T17:47:12+00:00",
+      "value": 1.41643124241598,
+      "fetched_at": "2026-09-23T23:03:20+00:00",
       "as_of": "2026-08-01",
-      "prev_close": 1.4461155781387074,
-      "change": -0.0236843357227281,
-      "change_pct": -1.6377899582004478,
+      "prev_close": 1.5931155781387076,
+      "change": -0.17668433572272768,
+      "change_pct": -11.090490743248782,
       "stale": false
     },
     {
@@ -1763,9 +1818,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           7715.6
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          7706.03
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:14+00:00",
+      "fetched_at": "2026-09-23T23:03:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1778,16 +1837,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7715.6,
-      "change": -49.04,
-      "change_pct": -0.63,
+      "value": 7706.03,
+      "change": -58.61,
+      "change_pct": -0.75,
       "prev_close": 7764.64,
       "day_open": 7761.94,
       "day_high": 7761.94,
       "day_low": 7694.89,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-23T13:47:10.000-0400",
+      "as_of": "2026-09-23T16:36:22.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2137,9 +2196,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           26950.358
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          26936.037
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:14+00:00",
+      "fetched_at": "2026-09-23T23:03:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2152,16 +2215,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26950.358,
-      "change": -293.92,
-      "change_pct": -1.08,
+      "value": 26936.037,
+      "change": -308.241,
+      "change_pct": -1.13,
       "prev_close": 27244.278,
       "day_open": 27213.519,
       "day_high": 27217.33,
       "day_low": 26873.544,
       "year_high": 27288.79,
       "year_low": 20690.25,
-      "as_of": "2026-09-23T13:47:10.000-0400",
+      "as_of": "2026-09-23T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2539,9 +2602,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           15.05
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          15.18
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:15+00:00",
+      "fetched_at": "2026-09-23T23:03:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2554,16 +2621,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.05,
-      "change": 0.84,
-      "change_pct": 5.91,
+      "value": 15.18,
+      "change": 0.97,
+      "change_pct": 6.83,
       "prev_close": 14.21,
       "day_open": 14.16,
       "day_high": 15.45,
       "day_low": 14.12,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-23T13:47:01.000-0400",
+      "as_of": "2026-09-23T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -2973,13 +3040,15 @@
         [
           "2026-09-23T17:47:19+00:00",
           1.1386
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          1.138
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:15+00:00",
+      "fetched_at": "2026-09-23T23:03:21+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -2988,16 +3057,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1386,
-      "change": -0.0061,
-      "change_pct": -0.5329,
-      "prev_close": 1.1447,
-      "day_open": 1.1445,
-      "day_high": 1.1452,
-      "day_low": 1.1371,
+      "value": 1.138,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 1.138,
+      "day_open": 1.1378,
+      "day_high": 1.1393,
+      "day_low": 1.1379,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-23T13:47:00.000-0400",
+      "as_of": "2026-09-23T19:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3391,9 +3460,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           0.8239
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          0.8247
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:15+00:00",
+      "fetched_at": "2026-09-23T23:03:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3406,16 +3479,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8239,
-      "change": 0.0034,
-      "change_pct": 0.4144,
-      "prev_close": 0.8205,
-      "day_open": 0.8208,
-      "day_high": 0.826,
-      "day_low": 0.8203,
+      "value": 0.8247,
+      "change": -0.0004,
+      "change_pct": -0.0485,
+      "prev_close": 0.8251,
+      "day_open": 0.8253,
+      "day_high": 0.8253,
+      "day_low": 0.8245,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-23T13:47:00.000-0400",
+      "as_of": "2026-09-23T19:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3805,9 +3878,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           4314.8
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          4322.8
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:15+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3820,16 +3897,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4314.8,
-      "change": -61.6,
-      "change_pct": -1.41,
-      "prev_close": 4376.4,
-      "day_open": 4394.7,
-      "day_high": 4407.5,
-      "day_low": 4311.5,
+      "value": 4322.8,
+      "change": 4.4,
+      "change_pct": 0.1,
+      "prev_close": 4318.4,
+      "day_open": 4324.4,
+      "day_high": 4328.8,
+      "day_low": 4320.9,
       "year_high": 5586.2,
       "year_low": 3749.7,
-      "as_of": "2026-09-23T13:37:00.000-0400",
+      "as_of": "2026-09-23T18:53:15.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4219,9 +4296,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           91.85
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          92.24
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:15+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4234,16 +4315,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.85,
-      "change": 1.33,
-      "change_pct": 1.47,
-      "prev_close": 90.52,
-      "day_open": 89.89,
-      "day_high": 92.89,
-      "day_low": 88.71,
+      "value": 92.24,
+      "change": 0.08,
+      "change_pct": 0.09,
+      "prev_close": 92.16,
+      "day_open": 92.72,
+      "day_high": 92.79,
+      "day_low": 92.12,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-23T13:37:07.000-0400",
+      "as_of": "2026-09-23T18:53:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -4549,9 +4630,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           225.2
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          225.51
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:15+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4564,17 +4649,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 225.2,
-      "change": -3.67,
-      "change_pct": -1.6,
+      "value": 225.51,
+      "change": -3.36,
+      "change_pct": -1.47,
       "prev_close": 228.87,
       "day_open": 228.03,
       "day_high": 228.95,
       "day_low": 224.02,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-23T13:47:10.491-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-23T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -4871,9 +4956,13 @@
         [
           "2026-09-23T17:47:19+00:00",
           599.54
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          601.41
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:16+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4886,17 +4975,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 599.54,
-      "change": -7.92,
-      "change_pct": -1.3,
+      "value": 601.41,
+      "change": -6.05,
+      "change_pct": -1.0,
       "prev_close": 607.46,
       "day_open": 604.39,
       "day_high": 606.29,
       "day_low": 593.79,
       "year_high": 671.83,
       "year_low": 313.6,
-      "as_of": "2026-09-23T13:47:15.179-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-23T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -5193,14 +5282,18 @@
         [
           "2026-09-23T17:47:19+00:00",
           77.70490953393124
+        ],
+        [
+          "2026-09-23T23:03:26+00:00",
+          78.04407717073512
         ]
       ],
-      "value": 77.70490953393124,
-      "fetched_at": "2026-09-23T17:47:14+00:00",
-      "as_of": "2026-09-23T13:47:10.000-0400",
+      "value": 78.04407717073512,
+      "fetched_at": "2026-09-23T23:03:21+00:00",
+      "as_of": "2026-09-23T16:15:00.000-0400",
       "prev_close": 78.23414865338252,
-      "change": -0.529239119451276,
-      "change_pct": -0.6764809594798267,
+      "change": -0.19007148264739726,
+      "change_pct": -0.24295206878202458,
       "stale": false
     },
     {
@@ -5366,7 +5459,7 @@
           2.68
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:16+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -5548,7 +5641,7 @@
           0.77
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:16+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -5638,7 +5731,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:16+00:00",
+      "fetched_at": "2026-09-23T23:03:22+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -5726,7 +5819,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:18+00:00",
+      "fetched_at": "2026-09-23T23:03:24+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5802,7 +5895,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:19+00:00",
+      "fetched_at": "2026-09-23T23:03:24+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5851,7 +5944,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-23T17:47:18+00:00",
+      "fetched_at": "2026-09-23T23:03:24+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -6021,7 +6114,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:19+00:00",
+      "fetched_at": "2026-09-23T23:03:24+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -6204,7 +6297,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-23T17:47:19+00:00",
+      "fetched_at": "2026-09-23T23:03:26+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
