@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T23:03:26+00:00",
+  "generated_at": "2026-09-24T11:13:06+00:00",
   "briefing": {
-    "captured_at": "2026-09-23T23:03:27+00:00",
+    "captured_at": "2026-09-24T11:13:08+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,69 +17,112 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-        "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
+        "headline": "Trump, Xi to Meet in Washington; Meta Unveils Muse AI Device",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-24/the-opening-trade-9-24-2026-video",
         "sources": [
-          "CNBC",
-          "CNBC Finance",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-            "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-            "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-            "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Why Trump banning diesel exports would upset the U.S. oil sector and upend global fuel markets \u2014 \u2018the cure would be far worse than the disease\u2019",
-            "url": "https://fortune.com/2026/09/23/trump-banning-diesel-exports-upset-oil-sector-upend-global-fuel/"
-          }
-        ],
-        "published": "2026-09-23T22:45:50+00:00"
-      },
-      {
-        "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
-        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
+          "Bloomberg",
           "CNBC",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
-            "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
+            "source": "Bloomberg",
+            "headline": "Trump, Xi to Meet in Washington; Meta Unveils Muse AI Device",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-24/the-opening-trade-9-24-2026-video"
           },
           {
             "source": "CNBC",
-            "headline": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
-            "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
+            "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+            "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "OpenAI and Anthropic\u2019s CEOs just delivered this message to the U.N. as AI fears swirl",
-            "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories"
+            "headline": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+            "url": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-23T22:35:14+00:00"
+        "published": "2026-09-24T10:20:13+00:00"
       },
       {
-        "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
+        "headline": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+        "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+        "sources": [
+          "CNBC",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+            "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+            "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Xi Jinping has made China\u2019s hard-tech rise core to his policy\u2014and U.S. containment is only fueling those plans",
+            "url": "https://fortune.com/2026/09/24/xi-trump-ai-summit-china-tech-rise-opinion/"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Meta plans to spend $145 billion this year, more than every military budget except the U.S., China and Russia",
+            "url": "https://fortune.com/2026/09/24/meta-145-billion-capex-military-budgets/"
+          }
+        ],
+        "published": "2026-09-24T10:18:19+00:00"
+      },
+      {
+        "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+            "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "OpenAI says agent hacked Australian government website without being told to do so",
+            "url": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html"
+          }
+        ],
+        "published": "2026-09-24T07:10:58+00:00"
+      },
+      {
+        "headline": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+            "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Fortune",
+            "headline": "China now makes up a record 40% of all global container exports\u2014and it\u2019s a sign Trump\u2019s tariffs meant to punish Chinese firms have fallen flat",
+            "url": "https://fortune.com/2026/09/24/china-record-40-percent-global-container-exports-trump-tariffs/"
+          }
+        ],
+        "published": "2026-09-24T07:05:00+00:00"
+      },
+      {
+        "headline": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+        "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
         "sources": [
           "CNBC",
           "NPR"
@@ -88,129 +131,81 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-            "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html"
+            "headline": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+            "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html"
           },
           {
-            "source": "CNBC",
-            "headline": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege \u2014 not a right'",
-            "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html"
+            "source": "NPR",
+            "headline": "Judge orders Trump administration to restore journalists' access to White House",
+            "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house"
           },
           {
             "source": "NPR",
             "headline": "Judge considers restoring journalists' access to White House after Trump's ban",
             "url": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico"
-          },
-          {
-            "source": "NPR",
-            "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
-            "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban"
           }
         ],
-        "published": "2026-09-23T22:40:39+00:00"
-      },
-      {
-        "headline": "New Social Security bill would lower retirement age to 60 for some workers",
-        "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
-        "sources": [
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "New Social Security bill would lower retirement age to 60 for some workers",
-            "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-            "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-09-23T22:15:00+00:00"
-      },
-      {
-        "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
-        "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
-            "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
-            "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html"
-          }
-        ],
-        "published": "2026-09-23T20:23:52+00:00"
+        "published": "2026-09-24T06:22:46+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Trump meets Xi; Chinese automakers loom as a risk for the U.S. auto industry.",
+          "text": "Meta debuts $1,299 VR glasses and Muse Charm pendant; JPMorgan lifts price target on Muse agent",
           "topic_ids": [
             0
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "OpenAI and Anthropic CEOs press the UN for global AI terms after Trump rebuffs the idea.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "BBC",
+            "Bloomberg",
             "CNBC",
             "MarketWatch"
           ]
         },
         {
-          "text": "McDonald's CEO says high inflation and weak traffic are here to stay.",
+          "text": "Meta plans $145 billion of spending this year, Fortune says",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "Bessent says US-China trade truce extended two months as Xi begins Washington state visit",
+          "topic_ids": [
+            1,
+            3
+          ],
+          "sources": [
+            "BBC",
+            "CNBC",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "OpenAI says an agent hacked an Australian government website without being told to",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "BBC",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "Judge orders White House to restore access for CNN, MS NOW and Politico",
           "topic_ids": [
             4
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "Judge weighs Trump's ban on three news outlets; DOJ calls White House access a privilege.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "CNBC",
             "NPR"
-          ]
-        },
-        {
-          "text": "New Social Security bill would cut the retirement age to 60 for some workers.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-23T23:03:38+00:00"
+      "written_at": "2026-09-24T11:13:17+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -598,9 +593,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           5.11
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          5.127
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:20+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -613,16 +612,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.11,
-      "change": -0.004,
-      "change_pct": -0.0782,
+      "value": 5.127,
+      "change": 0.013,
+      "change_pct": 0.2542,
       "prev_close": 5.114,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
-      "year_high": 5.11,
+      "day_open": 5.108,
+      "day_high": 5.15,
+      "day_low": 5.106,
+      "year_high": 5.15,
       "year_low": 3.93,
-      "as_of": "2026-09-23T17:05:00.000-0400",
+      "as_of": "2026-09-24T07:12:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1004,11 +1003,16 @@
         [
           "2026-09-23T23:03:26+00:00",
           4.897
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          4.866
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:20+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -1018,16 +1022,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.897,
-      "change": 0.002000000000000668,
-      "change_pct": 0.0,
+      "value": 4.866,
+      "change": -0.029,
+      "change_pct": 0.0586,
       "prev_close": 4.895,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.895,
+      "day_high": 4.91,
+      "day_low": 4.864,
       "year_high": 5.31,
       "year_low": 3.37,
-      "as_of": "2026-09-23T17:05:00.000-0400",
+      "as_of": "2026-09-24T07:12:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1409,9 +1413,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           5.397
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          5.436
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:20+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1424,16 +1432,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.397,
-      "change": -0.005,
-      "change_pct": -0.0926,
+      "value": 5.436,
+      "change": 0.034,
+      "change_pct": 0.6294,
       "prev_close": 5.402,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
-      "year_high": 5.42,
+      "day_open": 5.398,
+      "day_high": 5.446,
+      "day_low": 5.395,
+      "year_high": 5.45,
       "year_low": 4.52,
-      "as_of": "2026-09-23T17:05:00.000-0400",
+      "as_of": "2026-09-24T07:12:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1465,12 +1473,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.41643124241598,
-      "fetched_at": "2026-09-23T23:03:20+00:00",
+      "value": 1.4334312424159794,
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.5931155781387076,
-      "change": -0.17668433572272768,
-      "change_pct": -11.090490743248782,
+      "change": -0.15968433572272822,
+      "change_pct": -10.023399300965533,
       "stale": false
     },
     {
@@ -1822,9 +1830,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           7706.03
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          7706.03
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:21+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1840,13 +1852,13 @@
       "value": 7706.03,
       "change": -58.61,
       "change_pct": -0.75,
-      "prev_close": 7764.64,
+      "prev_close": 7706.03,
       "day_open": 7761.94,
       "day_high": 7761.94,
       "day_low": 7694.89,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-23T16:36:22.000-0400",
+      "as_of": "2026-09-23",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2200,9 +2212,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           26936.037
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          26936.037
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:21+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2218,13 +2234,13 @@
       "value": 26936.037,
       "change": -308.241,
       "change_pct": -1.13,
-      "prev_close": 27244.278,
+      "prev_close": 26936.037,
       "day_open": 27213.519,
       "day_high": 27217.33,
       "day_low": 26873.544,
       "year_high": 27288.79,
       "year_low": 20690.25,
-      "as_of": "2026-09-23T17:15:59.000-0400",
+      "as_of": "2026-09-23",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2606,9 +2622,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           15.18
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          16.19
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:21+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2621,16 +2641,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.18,
-      "change": 0.97,
-      "change_pct": 6.83,
-      "prev_close": 14.21,
-      "day_open": 14.16,
-      "day_high": 15.45,
-      "day_low": 14.12,
+      "value": 16.19,
+      "change": 1.01,
+      "change_pct": 6.65,
+      "prev_close": 15.18,
+      "day_open": 15.83,
+      "day_high": 16.57,
+      "day_low": 15.77,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-23T16:15:01.000-0400",
+      "as_of": "2026-09-24T07:13:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3044,11 +3064,17 @@
         [
           "2026-09-23T23:03:26+00:00",
           1.138
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          1.1374
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:21+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -3057,16 +3083,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.138,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 1.1374,
+      "change": -0.0006,
+      "change_pct": -0.0527,
       "prev_close": 1.138,
       "day_open": 1.1378,
-      "day_high": 1.1393,
-      "day_low": 1.1379,
+      "day_high": 1.1399,
+      "day_low": 1.1363,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-23T19:03:00.000-0400",
+      "as_of": "2026-09-24T07:12:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3464,9 +3490,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           0.8247
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          0.827
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:21+00:00",
+      "fetched_at": "2026-09-24T11:13:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3479,16 +3509,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8247,
-      "change": -0.0004,
-      "change_pct": -0.0485,
+      "value": 0.827,
+      "change": 0.0019,
+      "change_pct": 0.2303,
       "prev_close": 0.8251,
       "day_open": 0.8253,
-      "day_high": 0.8253,
-      "day_low": 0.8245,
+      "day_high": 0.8283,
+      "day_low": 0.823,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-23T19:03:00.000-0400",
+      "as_of": "2026-09-24T07:12:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3882,9 +3912,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           4322.8
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          4292.6
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3897,16 +3931,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4322.8,
-      "change": 4.4,
-      "change_pct": 0.1,
+      "value": 4292.6,
+      "change": -25.8,
+      "change_pct": -0.6,
       "prev_close": 4318.4,
       "day_open": 4324.4,
-      "day_high": 4328.8,
-      "day_low": 4320.9,
+      "day_high": 4338.0,
+      "day_low": 4278.3,
       "year_high": 5586.2,
       "year_low": 3749.7,
-      "as_of": "2026-09-23T18:53:15.000-0400",
+      "as_of": "2026-09-24T07:02:54.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4300,9 +4334,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           92.24
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          93.1
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4315,16 +4353,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 92.24,
-      "change": 0.08,
-      "change_pct": 0.09,
+      "value": 93.1,
+      "change": 0.94,
+      "change_pct": 1.02,
       "prev_close": 92.16,
       "day_open": 92.72,
-      "day_high": 92.79,
-      "day_low": 92.12,
+      "day_high": 94.69,
+      "day_low": 91.23,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-23T18:53:13.000-0400",
+      "as_of": "2026-09-24T07:02:54.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -4634,9 +4672,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           225.51
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          225.51
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4652,14 +4694,14 @@
       "value": 225.51,
       "change": -3.36,
       "change_pct": -1.47,
-      "prev_close": 228.87,
-      "day_open": 228.03,
-      "day_high": 228.95,
-      "day_low": 224.02,
+      "prev_close": 225.51,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-23T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-23",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -4960,9 +5002,13 @@
         [
           "2026-09-23T23:03:26+00:00",
           601.41
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          601.41
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4978,14 +5024,14 @@
       "value": 601.41,
       "change": -6.05,
       "change_pct": -1.0,
-      "prev_close": 607.46,
-      "day_open": 604.39,
-      "day_high": 606.29,
-      "day_low": 593.79,
+      "prev_close": 601.41,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 313.6,
-      "as_of": "2026-09-23T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-23",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -5286,14 +5332,18 @@
         [
           "2026-09-23T23:03:26+00:00",
           78.04407717073512
+        ],
+        [
+          "2026-09-24T11:13:06+00:00",
+          78.04407717073512
         ]
       ],
       "value": 78.04407717073512,
-      "fetched_at": "2026-09-23T23:03:21+00:00",
-      "as_of": "2026-09-23T16:15:00.000-0400",
-      "prev_close": 78.23414865338252,
-      "change": -0.19007148264739726,
-      "change_pct": -0.24295206878202458,
+      "fetched_at": "2026-09-24T11:13:03+00:00",
+      "as_of": "2026-09-23",
+      "prev_close": 78.04407717073512,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -5459,7 +5509,7 @@
           2.68
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -5641,7 +5691,7 @@
           0.77
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -5731,7 +5781,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:22+00:00",
+      "fetched_at": "2026-09-24T11:13:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -5819,7 +5869,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:24+00:00",
+      "fetched_at": "2026-09-24T11:13:05+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5895,7 +5945,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:24+00:00",
+      "fetched_at": "2026-09-24T11:13:06+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -5944,7 +5994,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-23T23:03:24+00:00",
+      "fetched_at": "2026-09-24T11:13:05+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -6114,7 +6164,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:24+00:00",
+      "fetched_at": "2026-09-24T11:13:06+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -6297,7 +6347,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-23T23:03:26+00:00",
+      "fetched_at": "2026-09-24T11:13:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
