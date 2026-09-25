@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T17:51:39+00:00",
+  "generated_at": "2026-09-25T23:24:23+00:00",
   "briefing": {
-    "captured_at": "2026-09-25T17:51:41+00:00",
+    "captured_at": "2026-09-25T23:24:25+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,161 +17,188 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-25/polymarket-wagers-on-bank-failures-trigger-fdic-concerns",
+        "headline": "Man City found guilty of breaking financial rules",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
         "sources": [
+          "BBC",
           "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-25/polymarket-wagers-on-bank-failures-trigger-fdic-concerns"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Polymarket bets on bank failures raise concerns among regulators, lawmakers - report",
-            "url": "https://seekingalpha.com/news/4647271-polymarket-bets-on-bank-failures-raise-concerns-among-regulators-lawmakers---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-09-25T17:37:17+00:00"
-      },
-      {
-        "headline": "Here's who attended the Trump-Xi state dinner",
-        "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-        "sources": [
-          "BBC",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Here's who attended the Trump-Xi state dinner",
-            "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html"
-          }
-        ],
-        "published": "2026-09-25T16:01:54+00:00"
-      },
-      {
-        "headline": "Sir David Beckham nets \u00a338.5m after World Cup ad deals",
-        "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Sir David Beckham nets \u00a338.5m after World Cup ad deals",
-            "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss"
+            "headline": "Man City found guilty of breaking financial rules",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Manchester City Found Guilty of Nearly All 115 Premier League Charges",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-25/manchester-city-found-guilty-of-premier-league-charges-video"
           },
           {
             "source": "Guardian",
-            "headline": "David Beckham takes \u00a339m dividend as World Cup deals drive record profits",
-            "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits"
+            "headline": "Manchester City found guilty of breaking Premier League\u2019s financial fair play rules",
+            "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules"
           }
         ],
-        "published": "2026-09-25T16:00:44+00:00"
+        "published": "2026-09-25T20:11:12+00:00"
       },
       {
-        "headline": "Tesla\u2019s stock falls as launch of Semi truck fails to excite investors",
-        "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+        "headline": "White House claims pro-Trump ad it paid Fox to air was \u2018public service announcement\u2019",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
+        "sources": [
+          "Fortune",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "Trump banned MS NOW from the White House. Symone Sanders-Townsend says he still watches, and she\u2019s not backing down on Hasan Piker",
+            "url": "https://fortune.com/2026/09/25/trump-banned-ms-now-white-house-symone-sanders-townsend-hasan-piker/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "White House claims pro-Trump ad it paid Fox to air was \u2018public service announcement\u2019",
+            "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox"
+          }
+        ],
+        "published": "2026-09-25T23:02:35+00:00"
+      },
+      {
+        "headline": "U.S. grain futures pull back from sharp losses with China ag deal news pending",
+        "url": "https://seekingalpha.com/news/4647365-us-grain-futures-pull-back-from-sharp-losses-with-china-ag-deal-news-pending?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
           "CNBC",
-          "MarketWatch"
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
-            "url": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html"
+            "headline": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "url": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Tesla\u2019s stock falls as launch of Semi truck fails to excite investors",
-            "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories"
+            "source": "Seeking Alpha",
+            "headline": "U.S. grain futures pull back from sharp losses with China ag deal news pending",
+            "url": "https://seekingalpha.com/news/4647365-us-grain-futures-pull-back-from-sharp-losses-with-china-ag-deal-news-pending?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-09-25T15:53:00+00:00"
+        "published": "2026-09-25T22:42:32+00:00"
       },
       {
-        "headline": "Microsoft unveils Copilot super app, targeting business users with AI agents",
-        "url": "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/",
+        "headline": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+        "url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
         "sources": [
           "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+            "url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+            "url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html"
+          }
+        ],
+        "published": "2026-09-25T21:02:20+00:00"
+      },
+      {
+        "headline": "Dollar\u2019s Best Run Since March Has Wall Street Rethink View",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/dollar-s-best-rally-since-march-is-set-to-last-as-fortunes-shift",
+        "sources": [
+          "Bloomberg",
           "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-            "url": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html"
+            "source": "Bloomberg",
+            "headline": "Wall Street\u2019s \u201880/20\u2019 Shift Finds Fresh Fuel in Stock Bounceback",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street\u2019s Nike (NKE) Fandom at 25-Year Low as Bank of America Cuts to Sell",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-nike-nke-fandom-at-25-year-low-as-bank-of-america-cuts-to-sell"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Dollar\u2019s Best Run Since March Has Wall Street Rethink View",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-25/dollar-s-best-rally-since-march-is-set-to-last-as-fortunes-shift"
           },
           {
             "source": "Fortune",
-            "headline": "Microsoft unveils Copilot super app, targeting business users with AI agents",
-            "url": "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/"
+            "headline": "Quantum won\u2019t kill crypto\u2014but it could accelerate Wall Street\u2019s adoption of blockchain",
+            "url": "https://fortune.com/2026/09/25/chris-perkins-op-ed/"
           }
         ],
-        "published": "2026-09-25T15:51:25+00:00"
+        "published": "2026-09-25T20:48:29+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Microsoft bundles business AI into a single Copilot app with agents, aiming at Anthropic.",
+          "text": "Wall Street's dollar rally, the best since March, forces strategists to rethink positioning.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "CNBC",
+            "Bloomberg",
             "Fortune"
           ]
         },
         {
-          "text": "Tesla opens Nevada factory to scale Semi truck output; the stock falls on the launch.",
+          "text": "Bank of America cuts Nike to sell, leaving Street sentiment at a 25-year low.",
           "topic_ids": [
-            3
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Polymarket bets on bank failures draw concern from the FDIC and lawmakers.",
-          "topic_ids": [
-            0
+            4
           ],
           "sources": [
             "Bloomberg",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "A private survey shows a surprise jump in Chinese orders from the US before the Trump-Xi summit.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
             "Seeking Alpha"
           ]
         },
         {
-          "text": "Trump and Xi trade warm words at a state dinner with little progress on key issues.",
+          "text": "Grain futures pare sharp losses with a China agriculture deal pending.",
           "topic_ids": [
-            1
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Manchester City found guilty of nearly all 115 Premier League financial charges.",
+          "topic_ids": [
+            0
           ],
           "sources": [
             "BBC",
-            "CNBC"
+            "Bloomberg",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-25T17:51:50+00:00"
+      "written_at": "2026-09-25T23:24:35+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -579,9 +606,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           5.2
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          5.165
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -594,16 +625,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.2,
-      "change": 0.038,
-      "change_pct": 0.7361,
+      "value": 5.165,
+      "change": 0.003,
+      "change_pct": 0.0581,
       "prev_close": 5.162,
       "day_open": 5.192,
       "day_high": 5.23,
       "day_low": 5.154,
       "year_high": 5.23,
       "year_low": 3.93,
-      "as_of": "2026-09-25T13:51:24.000-0400",
+      "as_of": "2026-09-25T17:03:02.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1005,9 +1036,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           4.889
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          4.86
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:17+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1020,16 +1055,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.889,
-      "change": -0.006,
-      "change_pct": 0.0156,
+      "value": 4.86,
+      "change": -0.035,
+      "change_pct": 0.0703,
       "prev_close": 4.895,
       "day_open": 4.912,
       "day_high": 4.914,
-      "day_low": 4.847,
+      "day_low": 4.845,
       "year_high": 4.95,
       "year_low": 3.37,
-      "as_of": "2026-09-25T13:49:53.000-0400",
+      "as_of": "2026-09-25T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1041,16 +1076,16 @@
       "provider": "cnbc",
       "symbol": "US30Y",
       "expr": "",
-      "url": "https://www.cnbc.com/quotes/US30Y/",
+      "url": "https://finance.yahoo.com/quote/^TYX",
       "unit": "%",
       "prefix": "",
       "decimals": 3,
       "featured": false,
       "good_when": "neutral",
       "note": "",
-      "origin": "live",
-      "error": null,
-      "source_note": "",
+      "origin": "manual",
+      "error": "cnbc: no usable price for US30Y (absent: last, latest_yield, bondlastprice, mark_price, previous_day_closing; market status 'unknown', 2 keys in the record); yahoo: HTTP 429 from query1.finance.yahoo.com (rate-limited \u2014 this host's IP is being throttled)",
+      "source_note": "Yahoo Finance chart API, symbol ^TYX \u2014 relayed rather than fetched by the build host, which Yahoo answers with HTTP 429 (rate limit on its IP).",
       "series": [
         [
           "2026-08-21T11:43:04+00:00",
@@ -1431,33 +1466,26 @@
         [
           "2026-09-25T17:51:39+00:00",
           5.513
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          5.259
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
-      "field_map": {
-        "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
-        "prev_close": "previous_day_closing",
-        "day_open": "open",
-        "day_high": "high",
-        "day_low": "low",
-        "year_high": "yrhiprice",
-        "year_low": "yrloprice",
-        "_symbol": "US30Y"
-      },
-      "value": 5.513,
-      "change": 0.051,
-      "change_pct": 0.9337,
-      "prev_close": 5.462,
-      "day_open": 5.478,
-      "day_high": 5.532,
-      "day_low": 5.452,
-      "year_high": 5.53,
-      "year_low": 4.52,
-      "as_of": "2026-09-25T13:51:09.000-0400",
-      "market_status": "REG_MKT",
-      "instrument_name": "U.S. 30 Year Treasury",
+      "fetched_at": "2026-09-25T23:24:19+00:00",
+      "field_map": {},
+      "value": 5.259,
+      "change": 0.02200000000000024,
+      "change_pct": 0.4200878365476464,
+      "prev_close": 5.237,
+      "day_open": null,
+      "day_high": 5.261,
+      "day_low": 5.241,
+      "year_high": 5.326,
+      "year_low": 4.528,
+      "as_of": "2026-08-21T13:24:34+00:00",
+      "market_status": "",
+      "instrument_name": "",
       "stale": false
     },
     {
@@ -1487,12 +1515,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5064312424159798,
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "value": 1.4714312424159797,
+      "fetched_at": "2026-09-25T23:24:17+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.6411155781387077,
-      "change": -0.13468433572272787,
-      "change_pct": -8.20687692669896,
+      "change": -0.169684335722728,
+      "change_pct": -10.339572543402316,
       "stale": false
     },
     {
@@ -1864,9 +1892,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           7740.47
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          7743.41
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1879,16 +1911,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7740.47,
-      "change": 36.34,
-      "change_pct": 0.47,
+      "value": 7743.41,
+      "change": 39.28,
+      "change_pct": 0.51,
       "prev_close": 7704.13,
       "day_open": 7709.86,
-      "day_high": 7749.3,
+      "day_high": 7752.07,
       "day_low": 7693.08,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-25T13:51:33.000-0400",
+      "as_of": "2026-09-25T16:39:57.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2262,9 +2294,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           27085.33
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          27068.716
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2277,16 +2313,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27085.33,
-      "change": 145.957,
-      "change_pct": 0.54,
+      "value": 27068.716,
+      "change": 129.343,
+      "change_pct": 0.48,
       "prev_close": 26939.373,
       "day_open": 26970.952,
       "day_high": 27122.763,
       "day_low": 26876.271,
       "year_high": 27288.79,
       "year_low": 20690.25,
-      "as_of": "2026-09-25T13:51:31.000-0400",
+      "as_of": "2026-09-25T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2688,9 +2724,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           15.0
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          14.87
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2703,16 +2743,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.0,
-      "change": -0.67,
-      "change_pct": -4.28,
+      "value": 14.87,
+      "change": -0.8,
+      "change_pct": -5.11,
       "prev_close": 15.67,
       "day_open": 15.61,
       "day_high": 15.94,
-      "day_low": 14.86,
+      "day_low": 14.68,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-25T13:51:31.000-0400",
+      "as_of": "2026-09-25T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3146,13 +3186,15 @@
         [
           "2026-09-25T17:51:39+00:00",
           1.1389
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          1.1391
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -3161,16 +3203,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1389,
-      "change": 0.001,
-      "change_pct": 0.0879,
-      "prev_close": 1.1379,
-      "day_open": 1.1376,
-      "day_high": 1.1411,
-      "day_low": 1.1369,
+      "value": 1.1391,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 1.1391,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-25T13:51:00.000-0400",
+      "as_of": "2026-09-25T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3588,13 +3630,15 @@
         [
           "2026-09-25T17:51:39+00:00",
           0.8289
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          0.8282
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -3603,16 +3647,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8289,
-      "change": 0.0014,
-      "change_pct": 0.1692,
-      "prev_close": 0.8275,
-      "day_open": 0.8278,
-      "day_high": 0.8298,
-      "day_low": 0.8272,
+      "value": 0.8282,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.8282,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-25T13:51:00.000-0400",
+      "as_of": "2026-09-25T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4026,9 +4070,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           4322.7
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          4320.5
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:35+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4041,16 +4089,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4322.7,
-      "change": 24.7,
-      "change_pct": 0.57,
+      "value": 4320.5,
+      "change": 22.5,
+      "change_pct": 0.52,
       "prev_close": 4298.0,
       "day_open": 4309.5,
       "day_high": 4351.6,
       "day_low": 4289.2,
       "year_high": 5586.2,
       "year_low": 3751.9,
-      "as_of": "2026-09-25T13:41:30.000-0400",
+      "as_of": "2026-09-25T18:34:41.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4464,9 +4512,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           91.94
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          92.44
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:36+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4479,16 +4531,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.94,
-      "change": -2.67,
-      "change_pct": -2.82,
+      "value": 92.44,
+      "change": -2.17,
+      "change_pct": -2.29,
       "prev_close": 94.61,
       "day_open": 94.75,
       "day_high": 94.75,
       "day_low": 91.51,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-25T13:41:33.000-0400",
+      "as_of": "2026-09-25T18:34:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -4818,9 +4870,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           224.77
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          225.07
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:36+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4833,17 +4889,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 224.77,
-      "change": 0.19,
-      "change_pct": 0.08,
+      "value": 225.07,
+      "change": 0.49,
+      "change_pct": 0.22,
       "prev_close": 224.58,
       "day_open": 225.13,
       "day_high": 226.94,
       "day_low": 223.13,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-25T13:51:29.468-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-25T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -5164,9 +5220,13 @@
         [
           "2026-09-25T17:51:39+00:00",
           607.74
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          606.56
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:36+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5179,17 +5239,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 607.74,
-      "change": 7.22,
-      "change_pct": 1.2,
+      "value": 606.56,
+      "change": 6.04,
+      "change_pct": 1.01,
       "prev_close": 600.52,
       "day_open": 605.57,
       "day_high": 609.66,
       "day_low": 602.22,
       "year_high": 671.83,
       "year_low": 313.6,
-      "as_of": "2026-09-25T13:51:26.019-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-09-25T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -5510,14 +5570,18 @@
         [
           "2026-09-25T17:51:39+00:00",
           78.51461216179379
+        ],
+        [
+          "2026-09-25T23:24:23+00:00",
+          78.33241427226505
         ]
       ],
-      "value": 78.51461216179379,
-      "fetched_at": "2026-09-25T17:51:35+00:00",
-      "as_of": "2026-09-25T13:51:26.019-0400",
+      "value": 78.33241427226505,
+      "fetched_at": "2026-09-25T23:24:20+00:00",
+      "as_of": "2026-09-25T16:15:00.000-0400",
       "prev_close": 77.94780202307074,
-      "change": 0.5668101387230564,
-      "change_pct": 0.7271662882236163,
+      "change": 0.38461224919431913,
+      "change_pct": 0.49342282811320687,
       "stale": false
     },
     {
@@ -5683,7 +5747,7 @@
           2.8
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:36+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -5865,7 +5929,7 @@
           0.79
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:36+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -5955,7 +6019,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:36+00:00",
+      "fetched_at": "2026-09-25T23:24:20+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -6043,7 +6107,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:37+00:00",
+      "fetched_at": "2026-09-25T23:24:21+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6119,7 +6183,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:38+00:00",
+      "fetched_at": "2026-09-25T23:24:22+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6168,7 +6232,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-25T17:51:37+00:00",
+      "fetched_at": "2026-09-25T23:24:21+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -6338,7 +6402,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:38+00:00",
+      "fetched_at": "2026-09-25T23:24:22+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -6521,7 +6585,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-25T17:51:39+00:00",
+      "fetched_at": "2026-09-25T23:24:23+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
