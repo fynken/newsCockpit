@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T23:18:38+00:00",
+  "generated_at": "2026-09-25T11:18:03+00:00",
   "briefing": {
-    "captured_at": "2026-09-24T23:18:41+00:00",
+    "captured_at": "2026-09-25T11:18:06+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,35 +17,8 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Trump, Xi to attend state dinner after White House meeting",
-        "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-        "sources": [
-          "CNBC",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Trump, Xi to attend state dinner after White House meeting",
-            "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "White House allows blocked reporters in after judge lifts Trump ban",
-            "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html"
-          },
-          {
-            "source": "NPR",
-            "headline": "Journalists for CNN, MS NOW and Politico return to the White House upon judge's orders",
-            "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house"
-          }
-        ],
-        "published": "2026-09-24T22:09:33+00:00"
-      },
-      {
-        "headline": "Bond Selloff Deepens After 30-Year Yield Hits Highest Since 2004",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
+        "headline": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-opening-trade-9-25-2026-video",
         "sources": [
           "Bloomberg",
           "CNBC"
@@ -54,90 +27,95 @@
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Bond Selloff Deepens After 30-Year Yield Hits Highest Since 2004",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens"
+            "headline": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-opening-trade-9-25-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "US, Iran Explore Hormuz Deal, Trump-Xi Summit Short on Substance",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-pulse-9-25-2026-video"
           },
           {
             "source": "CNBC",
-            "headline": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
-            "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html"
+            "headline": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+            "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html"
           }
         ],
-        "published": "2026-09-24T20:25:07+00:00"
+        "published": "2026-09-25T11:14:24+00:00"
       },
       {
-        "headline": "Oracle\u2019s stock is falling as investors fear a data-center setback",
-        "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+        "headline": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
+        "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
         "sources": [
           "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
+            "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
+            "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html"
+          }
+        ],
+        "published": "2026-09-25T11:00:01+00:00"
+      },
+      {
+        "headline": "The S&P 500\u2019s newest tech stock is now its best performer",
+        "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+        "sources": [
+          "Fortune",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Oracle sends 'force majeure' notice about data center project \u2014 stock drops 3%",
-            "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html"
+            "source": "Fortune",
+            "headline": "The S&P 500\u2019s \u2018biggest risk\u2019 is companies\u2019 \u2018debt refi wall\u2019 as bond yields top 5%",
+            "url": "https://fortune.com/2026/09/25/sp-500-risk-company-debt-refi-wall-bond-yields-5-percent/"
           },
           {
             "source": "MarketWatch",
-            "headline": "Oracle\u2019s stock is falling as investors fear a data-center setback",
-            "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories"
+            "headline": "The S&P 500\u2019s newest tech stock is now its best performer",
+            "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-24T20:12:00+00:00"
+        "published": "2026-09-25T10:30:11+00:00"
       },
       {
-        "headline": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-        "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
+        "headline": "Reported assaults on Great Britain\u2019s railways rise by fifth in a year",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/24/reported-assaults-britains-railways-rise-record-high",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
+          "BBC",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-            "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html"
+            "source": "BBC",
+            "headline": "Reported assaults on Britain's rail services rise by more than a third",
+            "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-            "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html"
+            "source": "Guardian",
+            "headline": "Reported assaults on Great Britain\u2019s railways rise by fifth in a year",
+            "url": "https://www.theguardian.com/uk-news/2026/sep/24/reported-assaults-britains-railways-rise-record-high"
           }
         ],
-        "published": "2026-09-24T20:11:24+00:00"
-      },
-      {
-        "headline": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-        "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-            "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-            "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html"
-          }
-        ],
-        "published": "2026-09-24T18:46:46+00:00"
+        "published": "2026-09-24T16:00:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "30-year Treasury yield hits highest since 2004 as the bond selloff deepens.",
+          "text": "US and Iran explore a phased deal to reopen the Strait of Hormuz within 7 days and restart nuclear talks.",
           "topic_ids": [
-            1
+            0
           ],
           "sources": [
             "Bloomberg",
@@ -145,48 +123,38 @@
           ]
         },
         {
-          "text": "Oracle sends a 'force majeure' notice on a data center project; stock drops 3%.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "MGM Resorts sinks 11% after Barry Diller's People Inc. rescinds its takeover offer.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "Hyundai is expected to outsell Ford in the third quarter as Detroit automakers lack hybrids.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "Trump and Xi to attend a state dinner; blocked reporters return to the White House on judge's order.",
+          "text": "Bloomberg calls the Trump-Xi summit short on substance.",
           "topic_ids": [
             0
           ],
           "sources": [
+            "Bloomberg",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "Analysts flag corporate debt refi wall as the S&P 500's biggest risk with bond yields above 5%.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "Fortune",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Novo Nordisk bets on its next chapter as Eli Lilly gains ground in GLP-1s.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
             "CNBC",
-            "NPR"
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-24T23:18:52+00:00"
+      "written_at": "2026-09-25T11:18:16+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -586,9 +554,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           5.208
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          5.165
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -601,16 +573,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.208,
-      "change": 0.046,
-      "change_pct": 0.8911,
+      "value": 5.165,
+      "change": 0.003,
+      "change_pct": 0.0581,
       "prev_close": 5.162,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
-      "year_high": 5.21,
+      "day_open": 5.192,
+      "day_high": 5.2,
+      "day_low": 5.154,
+      "year_high": 5.2,
       "year_low": 3.93,
-      "as_of": "2026-09-24T17:05:00.000-0400",
+      "as_of": "2026-09-25T07:17:54.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1004,11 +976,16 @@
         [
           "2026-09-24T23:18:38+00:00",
           4.931
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          4.881
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -1018,16 +995,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.931,
-      "change": 0.036000000000000476,
-      "change_pct": 0.0,
+      "value": 4.881,
+      "change": -0.014,
+      "change_pct": 0.0313,
       "prev_close": 4.895,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.912,
+      "day_high": 4.914,
+      "day_low": 4.872,
       "year_high": 4.95,
       "year_low": 3.37,
-      "as_of": "2026-09-24T17:05:00.000-0400",
+      "as_of": "2026-09-25T07:17:49.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1421,9 +1398,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           5.489
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          5.465
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1436,16 +1417,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.489,
-      "change": 0.027,
-      "change_pct": 0.4943,
+      "value": 5.465,
+      "change": 0.003,
+      "change_pct": 0.0549,
       "prev_close": 5.462,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.478,
+      "day_high": 5.486,
+      "day_low": 5.452,
       "year_high": 5.49,
       "year_low": 4.52,
-      "as_of": "2026-09-24T17:05:00.000-0400",
+      "as_of": "2026-09-25T07:17:53.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1477,12 +1458,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5144312424159798,
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "value": 1.4714312424159797,
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.6411155781387077,
-      "change": -0.12668433572272786,
-      "change_pct": -7.719403642881054,
+      "change": -0.169684335722728,
+      "change_pct": -10.339572543402316,
       "stale": false
     },
     {
@@ -1846,9 +1827,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           7704.13
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          7704.13
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1864,13 +1849,13 @@
       "value": 7704.13,
       "change": -1.9,
       "change_pct": -0.02,
-      "prev_close": 7706.03,
+      "prev_close": 7704.13,
       "day_open": 7666.99,
       "day_high": 7719.01,
       "day_low": 7662.57,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-24T16:36:52.000-0400",
+      "as_of": "2026-09-24",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2236,9 +2221,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           26939.373
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          26939.373
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2254,13 +2243,13 @@
       "value": 26939.373,
       "change": 3.336,
       "change_pct": 0.01,
-      "prev_close": 26936.037,
+      "prev_close": 26939.373,
       "day_open": 26734.508,
       "day_high": 26971.041,
       "day_low": 26706.138,
       "year_high": 27288.79,
       "year_low": 20690.25,
-      "as_of": "2026-09-24T17:15:59.000-0400",
+      "as_of": "2026-09-24",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2654,9 +2643,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           15.67
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          15.11
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2669,16 +2662,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.67,
-      "change": 0.49,
-      "change_pct": 3.23,
-      "prev_close": 15.18,
-      "day_open": 15.83,
-      "day_high": 16.57,
-      "day_low": 15.34,
+      "value": 15.11,
+      "change": -0.56,
+      "change_pct": -3.57,
+      "prev_close": 15.67,
+      "day_open": 15.61,
+      "day_high": 15.64,
+      "day_low": 15.08,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-24T16:15:01.000-0400",
+      "as_of": "2026-09-25T07:17:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3104,9 +3097,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           1.1375
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          1.1407
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3119,16 +3116,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1375,
-      "change": -0.0004,
-      "change_pct": -0.0352,
+      "value": 1.1407,
+      "change": 0.0028,
+      "change_pct": 0.2461,
       "prev_close": 1.1379,
       "day_open": 1.1376,
-      "day_high": 1.1387,
-      "day_low": 1.1377,
+      "day_high": 1.1409,
+      "day_low": 1.1369,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-24T19:18:00.000-0400",
+      "as_of": "2026-09-25T07:17:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3538,9 +3535,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           0.8276
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          0.8284
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:34+00:00",
+      "fetched_at": "2026-09-25T11:17:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3553,16 +3554,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8276,
-      "change": 0.0001,
-      "change_pct": 0.0121,
+      "value": 0.8284,
+      "change": 0.0009,
+      "change_pct": 0.1088,
       "prev_close": 0.8275,
       "day_open": 0.8278,
-      "day_high": 0.8282,
+      "day_high": 0.8298,
       "day_low": 0.8272,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-24T19:18:00.000-0400",
+      "as_of": "2026-09-25T07:17:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -3968,9 +3969,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           4307.7
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          4349.8
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:35+00:00",
+      "fetched_at": "2026-09-25T11:17:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3983,16 +3988,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4307.7,
-      "change": 9.7,
-      "change_pct": 0.23,
+      "value": 4349.8,
+      "change": 51.8,
+      "change_pct": 1.21,
       "prev_close": 4298.0,
       "day_open": 4309.5,
-      "day_high": 4312.8,
-      "day_low": 4303.1,
+      "day_high": 4350.1,
+      "day_low": 4290.3,
       "year_high": 5586.2,
-      "year_low": 3749.7,
-      "as_of": "2026-09-24T19:08:24.000-0400",
+      "year_low": 3751.9,
+      "as_of": "2026-09-25T07:07:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4398,9 +4403,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           94.3
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          92.81
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:35+00:00",
+      "fetched_at": "2026-09-25T11:17:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4413,16 +4422,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 94.3,
-      "change": -0.31,
-      "change_pct": -0.33,
+      "value": 92.81,
+      "change": -1.8,
+      "change_pct": -1.9,
       "prev_close": 94.61,
       "day_open": 94.75,
       "day_high": 94.75,
-      "day_low": 94.24,
+      "day_low": 92.14,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-24T19:08:09.000-0400",
+      "as_of": "2026-09-25T07:07:51.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -4744,9 +4753,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           224.58
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          224.58
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:35+00:00",
+      "fetched_at": "2026-09-25T11:17:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4762,14 +4775,14 @@
       "value": 224.58,
       "change": -0.93,
       "change_pct": -0.41,
-      "prev_close": 225.51,
-      "day_open": 222.08,
-      "day_high": 224.94,
-      "day_low": 221.09,
+      "prev_close": 224.58,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-24T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-24",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -5082,9 +5095,13 @@
         [
           "2026-09-24T23:18:38+00:00",
           600.52
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          600.52
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:35+00:00",
+      "fetched_at": "2026-09-25T11:18:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5100,14 +5117,14 @@
       "value": 600.52,
       "change": -0.89,
       "change_pct": -0.15,
-      "prev_close": 601.41,
-      "day_open": 591.62,
-      "day_high": 602.03,
-      "day_low": 588.92,
+      "prev_close": 600.52,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 313.6,
-      "as_of": "2026-09-24T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-09-24",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -5420,14 +5437,18 @@
         [
           "2026-09-24T23:18:38+00:00",
           77.94780202307074
+        ],
+        [
+          "2026-09-25T11:18:03+00:00",
+          77.94780202307074
         ]
       ],
       "value": 77.94780202307074,
-      "fetched_at": "2026-09-24T23:18:34+00:00",
-      "as_of": "2026-09-24T16:15:00.000-0400",
-      "prev_close": 78.04407717073512,
-      "change": -0.09627514766438594,
-      "change_pct": -0.12335996677078666,
+      "fetched_at": "2026-09-25T11:17:58+00:00",
+      "as_of": "2026-09-24",
+      "prev_close": 77.94780202307074,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -5593,7 +5614,7 @@
           2.73
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:35+00:00",
+      "fetched_at": "2026-09-25T11:18:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "787"
@@ -5775,7 +5796,7 @@
           0.77
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:35+00:00",
+      "fetched_at": "2026-09-25T11:18:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -5865,7 +5886,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:36+00:00",
+      "fetched_at": "2026-09-25T11:18:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -5953,7 +5974,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:37+00:00",
+      "fetched_at": "2026-09-25T11:18:01+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6029,7 +6050,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:37+00:00",
+      "fetched_at": "2026-09-25T11:18:02+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6078,7 +6099,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-24T23:18:37+00:00",
+      "fetched_at": "2026-09-25T11:18:01+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -6248,7 +6269,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:38+00:00",
+      "fetched_at": "2026-09-25T11:18:02+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -6431,7 +6452,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-24T23:18:38+00:00",
+      "fetched_at": "2026-09-25T11:18:03+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
