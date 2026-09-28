@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T13:03:53+00:00",
+  "generated_at": "2026-09-28T20:03:57+00:00",
   "briefing": {
-    "captured_at": "2026-09-28T13:03:57+00:00",
+    "captured_at": "2026-09-28T20:03:59+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,20 +17,15 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Wall Street\u00e2\u0080\u0099s Tom Brady Is Still Flying Under the Radar",
-        "url": "https://markets.businessinsider.com/news/stocks/wall-streets-tom-brady-is-still-flying-under-the-radar-1036576434",
+        "headline": "Oura puts a ring on Wall Street with one of this year's biggest IPOs",
+        "url": "https://www.npr.org/2026/09/28/nx-s1-5968603/oura-puts-a-ring-on-wall-street-with-one-of-this-years-biggest-ipos",
         "sources": [
-          "Business Insider",
           "CNBC",
-          "NPR"
+          "NPR",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
-          {
-            "source": "Business Insider",
-            "headline": "Wall Street\u00e2\u0080\u0099s Tom Brady Is Still Flying Under the Radar",
-            "url": "https://markets.businessinsider.com/news/stocks/wall-streets-tom-brady-is-still-flying-under-the-radar-1036576434"
-          },
           {
             "source": "CNBC",
             "headline": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
@@ -40,13 +35,96 @@
             "source": "NPR",
             "headline": "Oura puts a ring on Wall Street with one of this year's biggest IPOs",
             "url": "https://www.npr.org/2026/09/28/nx-s1-5968603/oura-puts-a-ring-on-wall-street-with-one-of-this-years-biggest-ipos"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Is Wall Street's Zervos the magic touch Bessent needs to rein in bond rout?",
+            "url": "https://seekingalpha.com/news/4647749-is-wall-streets-zervos-the-magic-touch-bessent-needs-to-rein-in-bond-rout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-09-28T12:53:03+00:00"
+        "published": "2026-09-28T19:43:45+00:00"
       },
       {
-        "headline": "White House moves to block $810 million in funding through pocket rescission",
-        "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+        "headline": "Former CEO Chapek Says Disney Erased Him From Company",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-28/former-ceo-chapek-says-disney-erased-him-from-company-video",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Former CEO Chapek Says Disney Erased Him From Company",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-28/former-ceo-chapek-says-disney-erased-him-from-company-video"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+            "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+            "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html"
+          }
+        ],
+        "published": "2026-09-28T19:36:33+00:00"
+      },
+      {
+        "headline": "SpaceX launches its massive Starship rocket into orbit for the first time",
+        "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+        "sources": [
+          "CNBC",
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "SpaceX launches its massive Starship rocket into orbit for the first time",
+            "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "\u2018We\u2019re being extremely cautious here\u2019: Starship reaches orbit for first time, but SpaceX cut its planned 10-hour trip after 3 hours",
+            "url": "https://fortune.com/2026/09/28/spacex-starship-orbit-space-10-hour-three-launch/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "SpaceX sends its Starship rocket to orbit for the first time \u2014 but not without some hiccups",
+            "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-09-28T17:21:00+00:00"
+      },
+      {
+        "headline": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+        "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+            "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+            "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html"
+          }
+        ],
+        "published": "2026-09-28T19:46:42+00:00"
+      },
+      {
+        "headline": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+        "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
         "sources": [
           "CNBC",
           "Fortune"
@@ -55,101 +133,35 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "White House moves to block $810 million in funding through pocket rescission",
-            "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html"
+            "headline": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+            "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html"
           },
           {
             "source": "Fortune",
-            "headline": "Memo smearing Anthropic\u2019s Amodei circulated in White House before CEO\u2019s dinner with President Trump",
-            "url": "https://fortune.com/2026/09/28/memo-smear-dario-amodei-white-house-anthropic-ceo-dinner-president-trump/"
+            "headline": "The U.S.-China relationship is on \u2018tactical autopilot\u2019 after the Xi-Trump summit. Maybe that\u2019s not so bad",
+            "url": "https://fortune.com/2026/09/28/xi-trump-summit-us-china-relations-managed-decline/"
           }
         ],
-        "published": "2026-09-28T12:54:16+00:00"
-      },
-      {
-        "headline": "Avanti West Coast to be renationalised in March",
-        "url": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
-        "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Avanti West Coast services to be nationalised from March",
-            "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Avanti West Coast to be renationalised in March",
-            "url": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march"
-          }
-        ],
-        "published": "2026-09-28T12:52:56+00:00"
-      },
-      {
-        "headline": "SpaceX is moments away from monumental Starship launch",
-        "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-        "sources": [
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "SpaceX prepares to send Starship rocket to orbit for first time",
-            "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "SpaceX is moments away from monumental Starship launch",
-            "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-09-28T12:35:00+00:00"
-      },
-      {
-        "headline": "UK diesel price hits all-time high, RAC says",
-        "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "UK diesel price hits all-time high, RAC says",
-            "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Price of diesel on UK forecourts reaches all-time high",
-            "url": "https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high"
-          }
-        ],
-        "published": "2026-09-28T10:45:36+00:00"
+        "published": "2026-09-28T19:37:50+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Treasury's Bessent hires Wall Street economist David Zervos; Oura files one of the year's biggest IPOs.",
+          "text": "Bessent hires Wall Street economist David Zervos at Treasury, pitched as a fix for the bond rout.",
           "topic_ids": [
             0
           ],
           "sources": [
-            "Business Insider",
             "CNBC",
-            "NPR"
+            "NPR",
+            "Seeking Alpha"
           ]
         },
         {
-          "text": "White House moves to block $810 million in funding via pocket rescission.",
+          "text": "Trump announces a $15 billion steel plant, which would be the largest in U.S. history.",
           "topic_ids": [
-            1
+            4
           ],
           "sources": [
             "CNBC",
@@ -157,39 +169,40 @@
           ]
         },
         {
-          "text": "Memo smearing Anthropic CEO Amodei circulated in White House before his Trump dinner.",
+          "text": "SpaceX's Starship reaches orbit for the first time, though the flight was cut from 10 hours to 3.",
           "topic_ids": [
-            1
+            2
           ],
           "sources": [
             "CNBC",
-            "Fortune"
+            "Fortune",
+            "MarketWatch"
           ]
         },
         {
-          "text": "SpaceX prepares first orbital Starship launch.",
+          "text": "FAA says a software issue delays Boeing 737 Max 10 certification.",
           "topic_ids": [
             3
           ],
           "sources": [
             "CNBC",
-            "MarketWatch"
+            "CNBC Finance"
           ]
         },
         {
-          "text": "UK diesel prices hit an all-time high; Avanti West Coast to be renationalised in March.",
+          "text": "Ex-Disney CEO Chapek says he raised concerns with the board weekly during the Iger power battle.",
           "topic_ids": [
-            4,
-            2
+            1
           ],
           "sources": [
-            "BBC",
-            "Guardian"
+            "Bloomberg",
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-28T13:04:07+00:00"
+      "written_at": "2026-09-28T20:04:11+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -605,9 +618,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           5.217
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          5.23
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -620,16 +637,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.217,
-      "change": 0.036,
-      "change_pct": 0.6948,
+      "value": 5.23,
+      "change": 0.049,
+      "change_pct": 0.9458,
       "prev_close": 5.181,
       "day_open": 5.196,
-      "day_high": 5.234,
+      "day_high": 5.274,
       "day_low": 5.192,
-      "year_high": 5.23,
+      "year_high": 5.27,
       "year_low": 3.93,
-      "as_of": "2026-09-28T09:03:42.000-0400",
+      "as_of": "2026-09-28T16:03:42.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1039,9 +1056,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           4.912
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          4.926
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1054,16 +1075,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.912,
-      "change": 0.048,
-      "change_pct": -0.0938,
+      "value": 4.926,
+      "change": 0.062,
+      "change_pct": -0.1211,
       "prev_close": 4.864,
       "day_open": 4.891,
-      "day_high": 4.926,
+      "day_high": 4.955,
       "day_low": 4.889,
-      "year_high": 4.95,
+      "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-09-28T09:03:39.000-0400",
+      "as_of": "2026-09-28T16:02:37.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1473,9 +1494,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           5.531
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          5.549
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1488,16 +1513,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.531,
-      "change": 0.029,
-      "change_pct": 0.5271,
+      "value": 5.549,
+      "change": 0.047,
+      "change_pct": 0.8542,
       "prev_close": 5.502,
       "day_open": 5.509,
-      "day_high": 5.542,
+      "day_high": 5.583,
       "day_low": 5.499,
-      "year_high": 5.54,
+      "year_high": 5.58,
       "year_low": 4.52,
-      "as_of": "2026-09-28T09:03:45.000-0400",
+      "as_of": "2026-09-28T16:03:48.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1529,12 +1554,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5234312424159793,
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "value": 1.53643124241598,
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.6601155781387078,
-      "change": -0.13668433572272853,
-      "change_pct": -8.233422872639782,
+      "change": -0.12368433572272775,
+      "change_pct": -7.450344864626861,
       "stale": false
     },
     {
@@ -1914,9 +1939,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           7743.41
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          7683.88
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1929,16 +1958,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7743.41,
-      "change": 39.28,
-      "change_pct": 0.51,
+      "value": 7683.88,
+      "change": -59.53,
+      "change_pct": -0.77,
       "prev_close": 7743.41,
-      "day_open": 7709.86,
-      "day_high": 7752.07,
-      "day_low": 7693.08,
+      "day_open": 7721.7,
+      "day_high": 7724.15,
+      "day_low": 7666.6,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-25",
+      "as_of": "2026-09-28T16:03:49.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2320,9 +2349,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           27068.716
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          26820.381
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2335,16 +2368,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27068.716,
-      "change": 129.343,
-      "change_pct": 0.48,
+      "value": 26820.381,
+      "change": -248.336,
+      "change_pct": -0.92,
       "prev_close": 27068.716,
-      "day_open": 26970.952,
-      "day_high": 27122.763,
-      "day_low": 26876.271,
+      "day_open": 26935.762,
+      "day_high": 26990.016,
+      "day_low": 26709.688,
       "year_high": 27288.79,
       "year_low": 20690.25,
-      "as_of": "2026-09-25",
+      "as_of": "2026-09-28T16:03:52.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2754,9 +2787,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           16.04
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          16.06
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2769,16 +2806,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.04,
-      "change": 1.17,
-      "change_pct": 7.87,
+      "value": 16.06,
+      "change": 1.19,
+      "change_pct": 8.0,
       "prev_close": 14.87,
       "day_open": 16.16,
-      "day_high": 16.43,
-      "day_low": 15.98,
+      "day_high": 16.62,
+      "day_low": 15.68,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-28T09:03:31.000-0400",
+      "as_of": "2026-09-28T16:03:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3220,9 +3257,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           1.1366
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          1.1369
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3235,16 +3276,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1366,
-      "change": -0.0025,
-      "change_pct": -0.2195,
+      "value": 1.1369,
+      "change": -0.0022,
+      "change_pct": -0.1931,
       "prev_close": 1.1391,
       "day_open": 1.1384,
       "day_high": 1.1391,
-      "day_low": 1.1366,
+      "day_low": 1.1354,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-28T09:03:00.000-0400",
+      "as_of": "2026-09-28T16:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3670,9 +3711,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           0.8324
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          0.8317
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3685,16 +3730,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8324,
-      "change": 0.0042,
-      "change_pct": 0.5071,
+      "value": 0.8317,
+      "change": 0.0035,
+      "change_pct": 0.4226,
       "prev_close": 0.8282,
       "day_open": 0.8283,
-      "day_high": 0.8325,
+      "day_high": 0.8327,
       "day_low": 0.8283,
       "year_high": 0.83,
       "year_low": 0.76,
-      "as_of": "2026-09-28T09:03:00.000-0400",
+      "as_of": "2026-09-28T16:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4116,9 +4161,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           4181.5
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          4159.2
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4131,16 +4180,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4181.5,
-      "change": -139.7,
-      "change_pct": -3.23,
+      "value": 4159.2,
+      "change": -162.0,
+      "change_pct": -3.75,
       "prev_close": 4321.2,
       "day_open": 4315.0,
       "day_high": 4315.6,
-      "day_low": 4172.7,
+      "day_low": 4143.1,
       "year_high": 5586.2,
       "year_low": 3764.0,
-      "as_of": "2026-09-28T08:53:43.000-0400",
+      "as_of": "2026-09-28T15:53:51.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4562,9 +4611,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           94.18
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          92.8
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4577,16 +4630,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 94.18,
-      "change": 1.77,
-      "change_pct": 1.92,
+      "value": 92.8,
+      "change": 0.39,
+      "change_pct": 0.42,
       "prev_close": 92.41,
       "day_open": 93.58,
       "day_high": 96.54,
-      "day_low": 92.68,
+      "day_low": 91.25,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-28T08:53:46.000-0400",
+      "as_of": "2026-09-28T15:53:40.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -4924,9 +4977,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           225.07
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          228.86
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:49+00:00",
+      "fetched_at": "2026-09-28T20:03:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4939,17 +4996,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 225.07,
-      "change": 0.49,
-      "change_pct": 0.22,
+      "value": 228.86,
+      "change": 3.79,
+      "change_pct": 1.68,
       "prev_close": 225.07,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 229.75,
+      "day_high": 233.21,
+      "day_low": 228.04,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-25",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-28T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -5278,9 +5335,13 @@
         [
           "2026-09-28T13:03:53+00:00",
           606.56
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          600.01
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:50+00:00",
+      "fetched_at": "2026-09-28T20:03:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5293,17 +5354,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 606.56,
-      "change": 6.04,
-      "change_pct": 1.01,
+      "value": 600.01,
+      "change": -6.55,
+      "change_pct": -1.08,
       "prev_close": 606.56,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 605.29,
+      "day_high": 607.95,
+      "day_low": 591.92,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-09-25",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-28T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -5632,14 +5693,18 @@
         [
           "2026-09-28T13:03:53+00:00",
           78.33241427226505
+        ],
+        [
+          "2026-09-28T20:03:57+00:00",
+          78.08685195500189
         ]
       ],
-      "value": 78.33241427226505,
-      "fetched_at": "2026-09-28T13:03:49+00:00",
-      "as_of": "2026-09-25",
+      "value": 78.08685195500189,
+      "fetched_at": "2026-09-28T20:03:54+00:00",
+      "as_of": "2026-09-28T16:00:00.000-0400",
       "prev_close": 78.33241427226505,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": -0.2455623172631647,
+      "change_pct": -0.31348748732503995,
       "stale": false
     },
     {
@@ -5660,10 +5725,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-06",
-          2.71
-        ],
         [
           "2026-08-07",
           2.7
@@ -5803,23 +5864,27 @@
         [
           "2026-09-24",
           2.8
+        ],
+        [
+          "2026-09-25",
+          2.93
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:50+00:00",
+      "fetched_at": "2026-09-28T20:03:55+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "787"
+        "_observations": "785"
       },
-      "value": 2.8,
-      "change": 0.06999999999999984,
-      "change_pct": 2.564102564102558,
-      "prev_close": 2.73,
+      "value": 2.93,
+      "change": 0.13000000000000034,
+      "change_pct": 4.642857142857156,
+      "prev_close": 2.8,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 2.8,
+      "year_high": 2.93,
       "year_low": 2.6,
-      "as_of": "2026-09-24",
+      "as_of": "2026-09-25",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -5842,10 +5907,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-06",
-          0.78
-        ],
         [
           "2026-08-07",
           0.78
@@ -5985,23 +6046,27 @@
         [
           "2026-09-24",
           0.79
+        ],
+        [
+          "2026-09-25",
+          0.81
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:50+00:00",
+      "fetched_at": "2026-09-28T20:03:55+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "786"
+        "_observations": "784"
       },
-      "value": 0.79,
+      "value": 0.81,
       "change": 0.020000000000000018,
-      "change_pct": 2.5974025974025996,
-      "prev_close": 0.77,
+      "change_pct": 2.531645569620255,
+      "prev_close": 0.79,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.82,
       "year_low": 0.77,
-      "as_of": "2026-09-24",
+      "as_of": "2026-09-25",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -6077,7 +6142,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:50+00:00",
+      "fetched_at": "2026-09-28T20:03:55+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -6165,7 +6230,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:52+00:00",
+      "fetched_at": "2026-09-28T20:03:56+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6241,7 +6306,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:52+00:00",
+      "fetched_at": "2026-09-28T20:03:56+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6290,7 +6355,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-28T13:03:52+00:00",
+      "fetched_at": "2026-09-28T20:03:56+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -6460,7 +6525,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:52+00:00",
+      "fetched_at": "2026-09-28T20:03:56+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -6643,7 +6708,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-28T13:03:53+00:00",
+      "fetched_at": "2026-09-28T20:03:57+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
