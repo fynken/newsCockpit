@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T12:01:01+00:00",
+  "generated_at": "2026-09-30T18:20:37+00:00",
   "briefing": {
-    "captured_at": "2026-09-30T12:01:03+00:00",
+    "captured_at": "2026-09-30T18:20:40+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,114 +17,52 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Goldman Sachs CEO succession planning faces one big problem",
-        "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+        "headline": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+        "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
         "sources": [
           "CNBC",
-          "CNBC Finance",
-          "Fortune",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Goldman Sachs CEO succession planning faces one big problem",
-            "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Goldman Sachs CEO succession planning faces one big problem",
-            "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "You\u2019re more likely to live paycheck to paycheck if you earn less than $50K\u2014or more than $500K\u2014Goldman Sachs says",
-            "url": "https://fortune.com/2026/09/30/high-low-income-earners-financial-strain-goldman-sachs-retirement-study/"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
-            "url": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-09-30T11:00:00+00:00"
-      },
-      {
-        "headline": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-        "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-            "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-            "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Ford CEO Jim Farley teams with Jamie Dimon on $2 billion initiative as he fears the \u2018backbone of the American dream\u2019 is crumbling",
-            "url": "https://fortune.com/2026/09/30/blue-collar-jobs-skilled-trades-backbone-american-dream/"
-          }
-        ],
-        "published": "2026-09-30T10:00:00+00:00"
-      },
-      {
-        "headline": "Greggs to shut four factories and cut 740 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Greggs to shut four factories and cut 740 jobs",
-            "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss"
+            "source": "CNBC",
+            "headline": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+            "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html"
           },
           {
             "source": "Guardian",
-            "headline": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
-            "url": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses"
+            "headline": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+            "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation"
           }
         ],
-        "published": "2026-09-30T11:47:22+00:00"
+        "published": "2026-09-30T17:49:27+00:00"
       },
       {
-        "headline": "BofA\u2019s Blanch on Global Impact of a US Diesel Export Ban",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-30/bofa-s-blanch-on-global-impact-of-a-us-diesel-export-ban-video",
+        "headline": "Fed finalizes changes to bank stress tests",
+        "url": "https://seekingalpha.com/news/4648677-fed-finalizes-changes-to-bank-stress-tests?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
         "sources": [
           "Bloomberg",
-          "Guardian"
+          "Business Insider"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "BofA\u2019s Blanch on Global Impact of a US Diesel Export Ban",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-30/bofa-s-blanch-on-global-impact-of-a-us-diesel-export-ban-video"
+            "headline": "Fed Votes to Overhaul Stress Tests in Win for Big Banks",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-30/fed-votes-to-overhaul-stress-tests-in-major-wall-street-bank-win"
           },
           {
-            "source": "Guardian",
-            "headline": "Diesel export ban: will Trump push global energy prices even higher? - The Latest",
-            "url": "https://www.theguardian.com/news/video/2026/sep/29/diesel-export-ban-will-trump-push-global-energy-prices-even-higher-the-latest"
+            "source": "Business Insider",
+            "headline": "Fed finalizes changes to bank stress tests",
+            "url": "https://seekingalpha.com/news/4648677-fed-finalizes-changes-to-bank-stress-tests?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-09-30T11:46:06+00:00"
+        "published": "2026-09-30T17:07:16+00:00"
       },
       {
-        "headline": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
-        "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+        "headline": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+        "url": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
         "sources": [
           "CNBC",
           "MarketWatch"
@@ -133,24 +71,78 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
+            "headline": "Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report",
             "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "There\u2019s a new Wall Street \u2018TACO\u2019 index \u2014 and this one is saying it\u2019s time for Trump to strike a deal",
-            "url": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories"
+            "headline": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+            "url": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-09-30T11:34:45+00:00"
+        "published": "2026-09-30T16:29:00+00:00"
+      },
+      {
+        "headline": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+        "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+            "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+            "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html"
+          }
+        ],
+        "published": "2026-09-30T16:14:12+00:00"
+      },
+      {
+        "headline": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+        "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+            "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+            "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html"
+          }
+        ],
+        "published": "2026-09-30T15:19:01+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Micron reports after the bell; traders position into the print.",
+          "text": "Fed votes to overhaul bank stress tests, finalizing changes big banks wanted.",
           "topic_ids": [
-            4
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "Business Insider"
+          ]
+        },
+        {
+          "text": "Micron reports after the bell; options traders position into the print.",
+          "topic_ids": [
+            2
           ],
           "sources": [
             "CNBC",
@@ -158,51 +150,38 @@
           ]
         },
         {
-          "text": "A Goldman Sachs strategist calls Tuesday one of the most disturbing market days in recent memory.",
+          "text": "Stellantis CEO reconfirms 2026 guidance as shares hit a new low.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Fed watchdog finds no criminal violations in building renovation cost overruns.",
           "topic_ids": [
             0
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance",
-            "Fortune",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "BofA and others weigh a US diesel export ban's hit to global energy prices.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Bloomberg",
             "Guardian"
           ]
         },
         {
-          "text": "Ford CEO Farley teams with Jamie Dimon on a $2 billion initiative; says Europe can't fend off China.",
+          "text": "Patients switching to Novo's Wegovy pill from injections kept losing weight in real-world study.",
           "topic_ids": [
-            1
+            4
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "Greggs to close four UK factories, cutting 740 jobs.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "BBC",
-            "Guardian"
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-09-30T12:01:12+00:00"
+      "written_at": "2026-09-30T18:20:50+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -642,9 +621,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           5.234
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          5.295
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -657,16 +640,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.234,
-      "change": -0.021,
-      "change_pct": -0.3996,
+      "value": 5.295,
+      "change": 0.04,
+      "change_pct": 0.7612,
       "prev_close": 5.255,
       "day_open": 5.238,
-      "day_high": 5.247,
-      "day_low": 5.207,
-      "year_high": 5.29,
+      "day_high": 5.306,
+      "day_low": 5.201,
+      "year_high": 5.31,
       "year_low": 3.93,
-      "as_of": "2026-09-30T08:00:50.000-0400",
+      "as_of": "2026-09-30T14:20:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1100,9 +1083,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           4.872
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          4.887
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:31+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1115,16 +1102,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.872,
-      "change": -0.017,
-      "change_pct": 0.0352,
+      "value": 4.887,
+      "change": -0.002,
+      "change_pct": 0.0039,
       "prev_close": 4.889,
       "day_open": 4.887,
       "day_high": 4.895,
-      "day_low": 4.864,
+      "day_low": 4.827,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-09-30T08:00:41.000-0400",
+      "as_of": "2026-09-30T14:20:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1558,9 +1545,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           5.569
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          5.642
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1573,16 +1564,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.569,
-      "change": -0.025,
-      "change_pct": -0.4469,
+      "value": 5.642,
+      "change": 0.048,
+      "change_pct": 0.8581,
       "prev_close": 5.594,
       "day_open": 5.568,
-      "day_high": 5.574,
+      "day_high": 5.651,
       "day_low": 5.543,
-      "year_high": 5.62,
+      "year_high": 5.65,
       "year_low": 4.52,
-      "as_of": "2026-09-30T08:00:50.000-0400",
+      "as_of": "2026-09-30T14:20:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1614,12 +1605,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5404312424159796,
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "value": 1.6014312424159796,
+      "fetched_at": "2026-09-30T18:20:31+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.7341155781387076,
-      "change": -0.19368433572272803,
-      "change_pct": -11.169055751786557,
+      "change": -0.1326843357227281,
+      "change_pct": -7.651412477658683,
       "stale": false
     },
     {
@@ -2023,9 +2014,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           7670.84
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          7699.56
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2038,16 +2033,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7670.84,
-      "change": -12.85,
-      "change_pct": -0.17,
+      "value": 7699.56,
+      "change": 28.72,
+      "change_pct": 0.37,
       "prev_close": 7670.84,
-      "day_open": 7699.6,
-      "day_high": 7699.6,
-      "day_low": 7653.55,
+      "day_open": 7688.99,
+      "day_high": 7722.88,
+      "day_low": 7688.99,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-09-29",
+      "as_of": "2026-09-30T14:20:23.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2453,9 +2448,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           26797.541
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          27033.421
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2468,16 +2467,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26797.541,
-      "change": -22.84,
-      "change_pct": -0.09,
+      "value": 27033.421,
+      "change": 235.88,
+      "change_pct": 0.88,
       "prev_close": 26797.541,
-      "day_open": 26908.758,
-      "day_high": 26919.724,
-      "day_low": 26717.952,
+      "day_open": 26892.796,
+      "day_high": 27108.203,
+      "day_low": 26885.354,
       "year_high": 27288.79,
       "year_low": 20690.25,
-      "as_of": "2026-09-29",
+      "as_of": "2026-09-30T14:20:27.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -2911,9 +2910,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           16.09
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          15.85
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2926,16 +2929,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.09,
-      "change": 0.05,
-      "change_pct": 0.31,
+      "value": 15.85,
+      "change": -0.19,
+      "change_pct": -1.18,
       "prev_close": 16.04,
       "day_open": 15.93,
       "day_high": 16.32,
-      "day_low": 15.81,
+      "day_low": 15.62,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-09-30T08:00:46.000-0400",
+      "as_of": "2026-09-30T14:20:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3401,9 +3404,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           1.1351
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          1.1335
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:58+00:00",
+      "fetched_at": "2026-09-30T18:20:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3416,16 +3423,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1351,
-      "change": 0.0011,
-      "change_pct": 0.097,
+      "value": 1.1335,
+      "change": -0.0005,
+      "change_pct": -0.0441,
       "prev_close": 1.134,
       "day_open": 1.134,
-      "day_high": 1.1363,
+      "day_high": 1.138,
       "day_low": 1.133,
       "year_high": 1.21,
       "year_low": 1.13,
-      "as_of": "2026-09-30T08:00:00.000-0400",
+      "as_of": "2026-09-30T14:20:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -3875,9 +3882,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           0.8346
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          0.8353
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3890,16 +3901,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8346,
-      "change": 0.0009,
-      "change_pct": 0.108,
+      "value": 0.8353,
+      "change": 0.0016,
+      "change_pct": 0.1919,
       "prev_close": 0.8337,
       "day_open": 0.8341,
-      "day_high": 0.8347,
-      "day_low": 0.8325,
+      "day_high": 0.8355,
+      "day_low": 0.8322,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-09-30T08:00:00.000-0400",
+      "as_of": "2026-09-30T14:20:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4345,9 +4356,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           4215.6
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          4181.2
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4360,16 +4375,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4215.6,
-      "change": 35.9,
-      "change_pct": 0.86,
+      "value": 4181.2,
+      "change": 1.5,
+      "change_pct": 0.04,
       "prev_close": 4179.7,
       "day_open": 4216.2,
-      "day_high": 4234.0,
-      "day_low": 4197.6,
+      "day_high": 4251.1,
+      "day_low": 4178.2,
       "year_high": 5586.2,
       "year_low": 3820.6,
-      "as_of": "2026-09-30T07:50:51.000-0400",
+      "as_of": "2026-09-30T14:10:26.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -4815,9 +4830,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           90.83
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          90.65
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4830,16 +4849,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 90.83,
-      "change": 1.45,
-      "change_pct": 1.62,
+      "value": 90.65,
+      "change": 1.27,
+      "change_pct": 1.42,
       "prev_close": 89.38,
       "day_open": 89.0,
-      "day_high": 90.91,
+      "day_high": 91.96,
       "day_low": 88.58,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-09-30T07:50:52.000-0400",
+      "as_of": "2026-09-30T14:10:25.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -5197,9 +5216,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           227.21
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          230.63
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5212,17 +5235,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 227.21,
-      "change": -1.65,
-      "change_pct": -0.72,
+      "value": 230.63,
+      "change": 3.42,
+      "change_pct": 1.51,
       "prev_close": 227.21,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 229.27,
+      "day_high": 232.37,
+      "day_low": 228.79,
       "year_high": 236.54,
       "year_low": 164.27,
-      "as_of": "2026-09-29",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-30T14:20:30.025-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -5575,9 +5598,13 @@
         [
           "2026-09-30T12:01:01+00:00",
           606.9
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          609.78
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5590,17 +5617,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 606.9,
-      "change": 6.89,
-      "change_pct": 1.15,
+      "value": 609.78,
+      "change": 2.88,
+      "change_pct": 0.47,
       "prev_close": 606.9,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 609.76,
+      "day_high": 611.95,
+      "day_low": 606.01,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-09-29",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-09-30T14:20:31.539-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -5953,14 +5980,18 @@
         [
           "2026-09-30T12:01:01+00:00",
           79.11780196171475
+        ],
+        [
+          "2026-09-30T18:20:37+00:00",
+          79.19673331982607
         ]
       ],
-      "value": 79.11780196171475,
-      "fetched_at": "2026-09-30T12:00:58+00:00",
-      "as_of": "2026-09-29",
+      "value": 79.19673331982607,
+      "fetched_at": "2026-09-30T18:20:32+00:00",
+      "as_of": "2026-09-30T14:20:23.000-0400",
       "prev_close": 79.11780196171475,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 0.07893135811131913,
+      "change_pct": 0.09976434652407831,
       "stale": false
     },
     {
@@ -5981,10 +6012,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-10",
-          2.7
-        ],
         [
           "2026-08-11",
           2.72
@@ -6124,23 +6151,27 @@
         [
           "2026-09-28",
           3.02
+        ],
+        [
+          "2026-09-29",
+          3.08
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
       },
-      "value": 3.02,
-      "change": 0.08999999999999986,
-      "change_pct": 3.0716723549488005,
-      "prev_close": 2.93,
+      "value": 3.08,
+      "change": 0.06000000000000005,
+      "change_pct": 1.986754966887419,
+      "prev_close": 3.02,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 3.02,
+      "year_high": 3.08,
       "year_low": 2.6,
-      "as_of": "2026-09-28",
+      "as_of": "2026-09-29",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -6163,10 +6194,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-10",
-          0.78
-        ],
         [
           "2026-08-11",
           0.79
@@ -6306,23 +6333,27 @@
         [
           "2026-09-28",
           0.83
+        ],
+        [
+          "2026-09-29",
+          0.84
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
       },
-      "value": 0.83,
-      "change": 0.019999999999999907,
-      "change_pct": 2.469135802469124,
-      "prev_close": 0.81,
+      "value": 0.84,
+      "change": 0.010000000000000009,
+      "change_pct": 1.204819277108435,
+      "prev_close": 0.83,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 0.83,
+      "year_high": 0.84,
       "year_low": 0.77,
-      "as_of": "2026-09-28",
+      "as_of": "2026-09-29",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -6398,7 +6429,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-09-30T12:00:59+00:00",
+      "fetched_at": "2026-09-30T18:20:34+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -6486,7 +6517,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-09-30T12:01:00+00:00",
+      "fetched_at": "2026-09-30T18:20:35+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6562,7 +6593,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-09-30T12:01:01+00:00",
+      "fetched_at": "2026-09-30T18:20:36+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6611,7 +6642,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-09-30T12:01:00+00:00",
+      "fetched_at": "2026-09-30T18:20:35+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -6781,7 +6812,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-09-30T12:01:01+00:00",
+      "fetched_at": "2026-09-30T18:20:36+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -6964,7 +6995,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-09-30T12:01:01+00:00",
+      "fetched_at": "2026-09-30T18:20:37+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
