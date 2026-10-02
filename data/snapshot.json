@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T18:17:25+00:00",
+  "generated_at": "2026-10-02T23:55:39+00:00",
   "briefing": {
-    "captured_at": "2026-10-02T18:17:27+00:00",
+    "captured_at": "2026-10-02T23:55:42+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -16,6 +16,73 @@
     ],
     "feeds_configured": 14,
     "stories": [
+      {
+        "headline": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "CNBC Finance",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow"
+          },
+          {
+            "source": "CNBC",
+            "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+            "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+            "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+            "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-10-02T23:12:45+00:00"
+      },
+      {
+        "headline": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-02/faa-says-737-max-computer-glitch-is-not-safety-issue-video",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-02/faa-says-737-max-computer-glitch-is-not-safety-issue-video"
+          },
+          {
+            "source": "CNBC",
+            "headline": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+            "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+            "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html"
+          }
+        ],
+        "published": "2026-10-02T20:36:17+00:00"
+      },
       {
         "headline": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
         "url": "https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
@@ -42,40 +109,7 @@
             "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency"
           }
         ],
-        "published": "2026-10-02T17:29:56+00:00"
-      },
-      {
-        "headline": "Wall Street Loads Up on Options Ahead of Toss-Up Brazil Vote",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-loads-up-on-derivatives-ahead-of-toss-up-brazil-vote",
-        "sources": [
-          "Bloomberg",
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Sleepless on Wall Street: All-Night Stock Exchanges Coming Soon",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-02/sleepless-on-wall-street-all-night-stock-exchanges-coming-soon"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Wall Street Loads Up on Options Ahead of Toss-Up Brazil Vote",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-loads-up-on-derivatives-ahead-of-toss-up-brazil-vote"
-          },
-          {
-            "source": "CNBC",
-            "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-            "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-            "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html"
-          }
-        ],
-        "published": "2026-10-02T14:08:29+00:00"
+        "published": "2026-10-02T20:25:19+00:00"
       },
       {
         "headline": "The U.S. added only 29,000 jobs in September as job market lacks spark",
@@ -106,56 +140,34 @@
         "published": "2026-10-02T14:04:29+00:00"
       },
       {
-        "headline": "Energy's inverse grip on stock market hits a record high",
-        "url": "https://seekingalpha.com/news/4649935-energys-inverse-grip-on-stock-market-hits-a-record-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "Western Digital retreats 10% amid storage selloff",
+        "url": "https://seekingalpha.com/news/4649991-western-digital-retreats-10-amid-storage-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
-          "Business Insider",
+          "MarketWatch",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Business Insider",
-            "headline": "Energy's inverse grip on stock market hits a record high",
-            "url": "https://seekingalpha.com/news/4649935-energys-inverse-grip-on-stock-market-hits-a-record-high?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+            "source": "MarketWatch",
+            "headline": "Why Western Digital and Seagate are seeing big stock drops today",
+            "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Energy's inverse grip on stock market hits a record high",
-            "url": "https://seekingalpha.com/news/4649935-energys-inverse-grip-on-stock-market-hits-a-record-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "Western Digital retreats 10% amid storage selloff",
+            "url": "https://seekingalpha.com/news/4649991-western-digital-retreats-10-amid-storage-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-02T18:03:22+00:00"
-      },
-      {
-        "headline": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-        "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-            "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-            "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html"
-          }
-        ],
-        "published": "2026-10-02T17:55:26+00:00"
+        "published": "2026-10-02T22:42:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "US added just 29,000 jobs in September, unemployment up to 4.2%.",
+          "text": "US added just 29,000 jobs in September; unemployment rate rose to 4.2%.",
           "topic_ids": [
-            2
+            3
           ],
           "sources": [
             "CNBC",
@@ -164,9 +176,21 @@
           ]
         },
         {
-          "text": "G7 will release up to 100 million barrels of crude and diesel after Trump's export ban threat.",
+          "text": "Wall Street adjusts to 5% yields as market cracks widen.",
           "topic_ids": [
             0
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC",
+            "CNBC Finance",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "G7 to release up to 100 million barrels of emergency crude and diesel after Trump export-ban threat.",
+          "topic_ids": [
+            2
           ],
           "sources": [
             "BBC",
@@ -175,17 +199,17 @@
           ]
         },
         {
-          "text": "Energy's inverse correlation with the stock market hits a record high.",
+          "text": "Western Digital falls 10% and Seagate drops in a storage selloff.",
           "topic_ids": [
-            3
+            4
           ],
           "sources": [
-            "Business Insider",
+            "MarketWatch",
             "Seeking Alpha"
           ]
         },
         {
-          "text": "Wall Street preps all-night exchanges and buys options into a toss-up Brazil vote.",
+          "text": "FAA says Boeing 737 Max software glitch is not a flight-safety issue.",
           "topic_ids": [
             1
           ],
@@ -194,20 +218,10 @@
             "CNBC",
             "CNBC Finance"
           ]
-        },
-        {
-          "text": "Lilly and Novo bet on amylin for the next wave of obesity drugs after GLP-1s.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-02T18:17:39+00:00"
+      "written_at": "2026-10-02T23:55:49+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -675,9 +689,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           5.281
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          5.273
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:21+00:00",
+      "fetched_at": "2026-10-02T23:55:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -690,16 +708,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.281,
-      "change": 0.047,
-      "change_pct": 0.898,
+      "value": 5.273,
+      "change": 0.039,
+      "change_pct": 0.7451,
       "prev_close": 5.234,
       "day_open": 5.249,
       "day_high": 5.298,
       "day_low": 5.157,
       "year_high": 5.34,
       "year_low": 3.93,
-      "as_of": "2026-10-02T14:17:15.000-0400",
+      "as_of": "2026-10-02T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1161,9 +1179,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           4.829
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          4.827
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:21+00:00",
+      "fetched_at": "2026-10-02T23:55:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1176,16 +1198,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.829,
-      "change": 0.042,
-      "change_pct": -0.082,
+      "value": 4.827,
+      "change": 0.04,
+      "change_pct": -0.0781,
       "prev_close": 4.787,
       "day_open": 4.8,
       "day_high": 4.85,
       "day_low": 4.693,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-02T14:16:55.000-0400",
+      "as_of": "2026-10-02T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1647,9 +1669,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           5.633
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          5.623
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1662,16 +1688,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.633,
-      "change": 0.03,
-      "change_pct": 0.5354,
+      "value": 5.623,
+      "change": 0.02,
+      "change_pct": 0.357,
       "prev_close": 5.603,
       "day_open": 5.618,
       "day_high": 5.647,
       "day_low": 5.552,
       "year_high": 5.69,
       "year_low": 4.52,
-      "as_of": "2026-10-02T14:17:11.000-0400",
+      "as_of": "2026-10-02T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1703,12 +1729,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5874312424159793,
-      "fetched_at": "2026-10-02T18:17:21+00:00",
+      "value": 1.5794312424159793,
+      "fetched_at": "2026-10-02T23:55:34+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.7131155781387077,
-      "change": -0.1256843357227284,
-      "change_pct": -7.336594058603091,
+      "change": -0.13368433572272842,
+      "change_pct": -7.803579479907354,
       "stale": false
     },
     {
@@ -2140,9 +2166,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           7718.25
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          7722.72
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2155,16 +2185,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7718.25,
-      "change": 51.8,
-      "change_pct": 0.68,
+      "value": 7722.72,
+      "change": 56.27,
+      "change_pct": 0.73,
       "prev_close": 7666.45,
       "day_open": 7726.24,
       "day_high": 7754.67,
       "day_low": 7700.51,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-10-02T14:17:18.000-0400",
+      "as_of": "2026-10-02T16:59:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2598,9 +2628,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           27171.082
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          27190.864
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2613,16 +2647,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27171.082,
-      "change": 299.487,
-      "change_pct": 1.12,
+      "value": 27190.864,
+      "change": 319.269,
+      "change_pct": 1.19,
       "prev_close": 26871.595,
       "day_open": 27216.907,
       "day_high": 27353.68,
       "day_low": 27112.241,
       "year_high": 27353.68,
       "year_low": 20690.25,
-      "as_of": "2026-10-02T14:17:21.000-0400",
+      "as_of": "2026-10-02T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3084,9 +3118,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           15.6
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          15.31
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:35+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3099,16 +3137,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.6,
-      "change": -0.79,
-      "change_pct": -4.82,
+      "value": 15.31,
+      "change": -1.08,
+      "change_pct": -6.59,
       "prev_close": 16.39,
       "day_open": 16.15,
       "day_high": 16.24,
-      "day_low": 15.42,
+      "day_low": 15.3,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-02T14:17:01.000-0400",
+      "as_of": "2026-10-02T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3602,13 +3640,15 @@
         [
           "2026-10-02T18:17:25+00:00",
           1.1252
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          1.1253
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:35+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -3617,16 +3657,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1252,
-      "change": 0.0011,
-      "change_pct": 0.0979,
-      "prev_close": 1.1241,
-      "day_open": 1.1239,
-      "day_high": 1.1285,
-      "day_low": 1.1222,
+      "value": 1.1253,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 1.1253,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-02T14:17:00.000-0400",
+      "as_of": "2026-10-02T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4104,13 +4144,15 @@
         [
           "2026-10-02T18:17:25+00:00",
           0.8288
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          0.8286
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -4119,16 +4161,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8288,
-      "change": -0.0019,
-      "change_pct": -0.2287,
-      "prev_close": 0.8307,
-      "day_open": 0.8312,
-      "day_high": 0.8326,
-      "day_low": 0.8229,
+      "value": 0.8286,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.8286,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-02T14:17:00.000-0400",
+      "as_of": "2026-10-02T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4602,9 +4644,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           4167.7
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          4172.1
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4617,16 +4663,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4167.7,
-      "change": -34.6,
-      "change_pct": -0.82,
+      "value": 4172.1,
+      "change": -30.2,
+      "change_pct": -0.72,
       "prev_close": 4202.3,
       "day_open": 4204.6,
       "day_high": 4259.0,
       "day_low": 4153.8,
       "year_high": 5586.2,
       "year_low": 3842.8,
-      "as_of": "2026-10-02T14:07:10.000-0400",
+      "as_of": "2026-10-02T19:35:14.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5100,9 +5146,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           91.64
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          91.26
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5115,16 +5165,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.64,
-      "change": -1.23,
-      "change_pct": -1.32,
+      "value": 91.26,
+      "change": -1.61,
+      "change_pct": -1.73,
       "prev_close": 92.87,
       "day_open": 93.46,
       "day_high": 93.51,
       "day_low": 88.06,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-02T14:07:20.000-0400",
+      "as_of": "2026-10-02T17:38:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -5510,9 +5560,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           234.7
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          233.95
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5525,17 +5579,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 234.7,
-      "change": 3.83,
-      "change_pct": 1.66,
+      "value": 233.95,
+      "change": 3.09,
+      "change_pct": 1.34,
       "prev_close": 230.86,
       "day_open": 236.06,
       "day_high": 237.88,
-      "day_low": 234.19,
+      "day_low": 233.6,
       "year_high": 237.88,
       "year_low": 164.27,
-      "as_of": "2026-10-02T14:17:19.202-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-02T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -5916,9 +5970,13 @@
         [
           "2026-10-02T18:17:25+00:00",
           630.24
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          630.6
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5931,17 +5989,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 630.24,
-      "change": 12.43,
-      "change_pct": 2.01,
+      "value": 630.6,
+      "change": 12.79,
+      "change_pct": 2.07,
       "prev_close": 617.81,
       "day_open": 632.27,
       "day_high": 636.25,
       "day_low": 628.55,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-02T14:17:10.465-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-02T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -6322,14 +6380,18 @@
         [
           "2026-10-02T18:17:25+00:00",
           81.65581576134487
+        ],
+        [
+          "2026-10-02T23:55:39+00:00",
+          81.65516812729194
         ]
       ],
-      "value": 81.65581576134487,
-      "fetched_at": "2026-10-02T18:17:22+00:00",
-      "as_of": "2026-10-02T14:17:10.465-0400",
+      "value": 81.65516812729194,
+      "fetched_at": "2026-10-02T23:55:35+00:00",
+      "as_of": "2026-10-02T16:15:00.000-0400",
       "prev_close": 80.58619047929615,
-      "change": 1.0696252820487189,
-      "change_pct": 1.3273059263466764,
+      "change": 1.0689776479957942,
+      "change_pct": 1.3265022724587425,
       "stale": false
     },
     {
@@ -6495,7 +6557,7 @@
           3.24
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:22+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -6677,7 +6739,7 @@
           0.86
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:23+00:00",
+      "fetched_at": "2026-10-02T23:55:36+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -6767,7 +6829,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:23+00:00",
+      "fetched_at": "2026-10-02T23:55:37+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -6855,7 +6917,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:24+00:00",
+      "fetched_at": "2026-10-02T23:55:38+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6931,7 +6993,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:25+00:00",
+      "fetched_at": "2026-10-02T23:55:39+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -6980,7 +7042,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-02T18:17:24+00:00",
+      "fetched_at": "2026-10-02T23:55:38+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -7150,7 +7212,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:25+00:00",
+      "fetched_at": "2026-10-02T23:55:39+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -7333,7 +7395,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-02T18:17:25+00:00",
+      "fetched_at": "2026-10-02T23:55:39+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
