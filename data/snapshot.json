@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T01:23:35+00:00",
+  "generated_at": "2026-10-06T12:52:02+00:00",
   "briefing": {
-    "captured_at": "2026-10-06T01:23:38+00:00",
+    "captured_at": "2026-10-06T12:52:04+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -10,199 +10,204 @@
       "Seeking Alpha",
       "CNBC Finance",
       "BBC",
+      "NPR",
       "Fortune",
       "Business Insider"
     ],
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-        "sources": [
-          "CNBC",
-          "Fortune",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
-            "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Sam Altman says the world should accept some \u2018bad things\u2019 happening with AI as the industry signs on to Trump\u2019s voluntary safety pact",
-            "url": "https://fortune.com/2026/10/05/sam-altman-ai-risks-bad-things-benefits-trump-voluntary-safety-pact-openai-regulation/"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Accept \u2018bad things\u2019 in return for benefits of AI, says Sam Altman",
-            "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
-          }
-        ],
-        "published": "2026-10-05T19:55:18+00:00"
-      },
-      {
-        "headline": "This new AI model could help America close a technological gap with China",
-        "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
-        "sources": [
-          "Fortune",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Fortune",
-            "headline": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America\u2019s best chance to compete with China?",
-            "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "This new AI model could help America close a technological gap with China",
-            "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-10-05T21:43:00+00:00"
-      },
-      {
-        "headline": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-        "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-            "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-            "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html"
-          }
-        ],
-        "published": "2026-10-05T21:04:17+00:00"
-      },
-      {
-        "headline": "Investors see big opportunity in ferocious 2026 bond-market rout",
-        "url": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+        "headline": "Most shorted stocks on Wall Street",
+        "url": "https://seekingalpha.com/news/4650074-most-shorted-stocks-on-wall-street?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
         "sources": [
           "Business Insider",
+          "CNBC",
+          "Fortune",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Business Insider",
-            "headline": "Kaplan Fox Encourages Investors of Lincoln Educational Services Corporation (LINC) to Contact the Firm Before the Securities Class Action Deadline on November 10, 2026",
-            "url": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-investors-of-lincoln-educational-services-corporation-linc-to-contact-the-firm-before-the-securities-class-action-deadline-on-november-10-2026-1036597139"
+            "headline": "Most shorted stocks on Wall Street",
+            "url": "https://seekingalpha.com/news/4650074-most-shorted-stocks-on-wall-street?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+            "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "\u2018We take the unpopular stance that a bond-market crisis would be a good thing\u2019: Wall Street is losing its patience with government debt",
+            "url": "https://fortune.com/2026/10/06/bond-market-crisis-would-be-a-good-thing-wall-street-government-debt/"
           },
           {
             "source": "MarketWatch",
-            "headline": "Investors see big opportunity in ferocious 2026 bond-market rout",
-            "url": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories"
+            "headline": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+            "url": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-05T20:14:00+00:00"
+        "published": "2026-10-06T12:44:00+00:00"
       },
       {
-        "headline": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-        "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
+        "headline": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.",
+        "url": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison",
         "sources": [
           "CNBC",
-          "CNBC Finance"
+          "CNBC Finance",
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
-            "url": "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-            "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-            "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html"
+            "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closes Tuesday. Here's how we got here",
+            "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-            "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html"
+            "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closes Tuesday. Here's how we got here",
+            "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-            "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html"
+            "source": "NPR",
+            "headline": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.",
+            "url": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison"
           }
         ],
-        "published": "2026-10-05T19:39:22+00:00"
+        "published": "2026-10-06T10:00:01+00:00"
+      },
+      {
+        "headline": "Canada posts C$4.2B trade surplus in August",
+        "url": "https://seekingalpha.com/news/4650516-canada-posts-c42b-trade-surplus-in-august?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "sources": [
+          "Bloomberg",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Canada Exports to US Surged in August Ahead of New Tariffs",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-06/canada-exports-to-us-surged-in-august-ahead-of-new-tariffs"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Canada posts C$4.2B trade surplus in August",
+            "url": "https://seekingalpha.com/news/4650516-canada-posts-c42b-trade-surplus-in-august?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "U.S. goods and services trade deficit widens more than expected in August",
+            "url": "https://seekingalpha.com/news/4650513-us-goods-and-services-trade-deficit-widens-in-august?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-10-06T12:35:00+00:00"
+      },
+      {
+        "headline": "Big Oil Faces Climate Reckoning in Supreme Court",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-06/big-oil-faces-climate-reckoning-in-supreme-court",
+        "sources": [
+          "Bloomberg",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Big Oil Faces Climate Reckoning in Supreme Court",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-10-06/big-oil-faces-climate-reckoning-in-supreme-court"
+          },
+          {
+            "source": "Fortune",
+            "headline": "The Supreme Court takes up climate costs. CEOs should worry about the cost of doing nothing",
+            "url": "https://fortune.com/2026/10/06/supreme-court-climate-change-cost-ceos-doing-nothing/"
+          }
+        ],
+        "published": "2026-10-06T12:03:49+00:00"
+      },
+      {
+        "headline": "World Bank Lifts Growth Forecast for Africa Despite Challenges",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-06/world-bank-lifts-growth-forecast-for-africa-despite-challenges",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "World Bank Lifts Growth Forecast for Africa Despite Challenges",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-06/world-bank-lifts-growth-forecast-for-africa-despite-challenges"
+          },
+          {
+            "source": "CNBC",
+            "headline": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+            "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
+          }
+        ],
+        "published": "2026-10-06T11:57:50+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Cerebras jumps 9% after Altman calls it a 'close partner'; he says world should accept some AI 'bad things'.",
+          "text": "Wall Street rewards Microsoft's AI pivot, while some fund managers rotate to HVAC and Berkshire.",
           "topic_ids": [
             0
           ],
           "sources": [
+            "Business Insider",
             "CNBC",
             "Fortune",
-            "Guardian"
+            "MarketWatch"
           ]
         },
         {
-          "text": "Nvidia-backed Reflection AI releases first open model, Beam, pitched as a counter to China.",
+          "text": "Paramount's takeover of Warner Bros. Discovery closes Tuesday.",
           "topic_ids": [
             1
           ],
           "sources": [
-            "Fortune",
-            "MarketWatch"
+            "CNBC",
+            "CNBC Finance",
+            "NPR"
           ]
         },
         {
-          "text": "MarketWatch: investors see big opportunity in a ferocious 2026 bond-market rout.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Business Insider",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Skydance names Ynon Kreiz co-CEO; CBS Sports' David Berson takes combined sports group as Silberwasser exits.",
+          "text": "World Bank lifts East Asia and Pacific growth to 4.5% and Africa, flags AI concentration risk.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Bloomberg",
+            "CNBC"
           ]
         },
         {
-          "text": "Lucid Q3 deliveries fall 6.7% as it cuts production to match demand.",
+          "text": "US trade deficit widens more than expected in August; Canada posts a C$4.2B surplus.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Bloomberg",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Supreme Court takes up climate costs case against Big Oil.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-06T01:23:47+00:00"
+      "written_at": "2026-10-06T12:52:14+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -682,9 +687,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           5.313
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          5.269
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:29+00:00",
+      "fetched_at": "2026-10-06T12:51:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -697,16 +706,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.313,
-      "change": 0.002,
-      "change_pct": 0.0377,
+      "value": 5.269,
+      "change": -0.042,
+      "change_pct": -0.7908,
       "prev_close": 5.311,
       "day_open": 5.311,
-      "day_high": 5.315,
-      "day_low": 5.305,
-      "year_high": 5.34,
+      "day_high": 5.326,
+      "day_low": 5.252,
+      "year_high": 5.35,
       "year_low": 3.93,
-      "as_of": "2026-10-05T21:22:12.000-0400",
+      "as_of": "2026-10-06T08:51:53.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1180,9 +1189,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           4.831
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          4.783
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:29+00:00",
+      "fetched_at": "2026-10-06T12:51:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1195,16 +1208,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.831,
-      "change": -0.002,
-      "change_pct": 0.0039,
+      "value": 4.783,
+      "change": -0.05,
+      "change_pct": 0.0977,
       "prev_close": 4.833,
       "day_open": 4.823,
-      "day_high": 4.831,
-      "day_low": 4.823,
+      "day_high": 4.837,
+      "day_low": 4.781,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-05T21:22:17.000-0400",
+      "as_of": "2026-10-06T08:51:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1678,9 +1691,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           5.667
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          5.643
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:29+00:00",
+      "fetched_at": "2026-10-06T12:51:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1693,16 +1710,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.667,
-      "change": 0.003,
-      "change_pct": 0.053,
+      "value": 5.643,
+      "change": -0.021,
+      "change_pct": -0.3708,
       "prev_close": 5.664,
       "day_open": 5.663,
-      "day_high": 5.669,
-      "day_low": 5.66,
-      "year_high": 5.69,
+      "day_high": 5.682,
+      "day_low": 5.621,
+      "year_high": 5.7,
       "year_low": 4.52,
-      "as_of": "2026-10-05T21:23:13.000-0400",
+      "as_of": "2026-10-06T08:51:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1734,12 +1751,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.6194312424159794,
-      "fetched_at": "2026-10-06T01:23:29+00:00",
+      "value": 1.5754312424159798,
+      "fetched_at": "2026-10-06T12:51:58+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.7901155781387077,
-      "change": -0.17068433572272834,
-      "change_pct": -9.53482209792282,
+      "change": -0.21468433572272794,
+      "change_pct": -11.992763950244393,
       "stale": false
     },
     {
@@ -2183,9 +2200,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           7773.95
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          7773.95
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:29+00:00",
+      "fetched_at": "2026-10-06T12:51:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2201,13 +2222,13 @@
       "value": 7773.95,
       "change": 51.23,
       "change_pct": 0.66,
-      "prev_close": 7722.72,
+      "prev_close": 7773.95,
       "day_open": 7730.86,
       "day_high": 7794.35,
       "day_low": 7727.59,
       "year_high": 7816.7,
       "year_low": 6316.91,
-      "as_of": "2026-10-05T16:48:30.000-0400",
+      "as_of": "2026-10-05",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2653,9 +2674,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           27477.31
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          27477.31
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:30+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2671,13 +2696,13 @@
       "value": 27477.31,
       "change": 286.446,
       "change_pct": 1.05,
-      "prev_close": 27190.864,
+      "prev_close": 27477.31,
       "day_open": 27225.93,
       "day_high": 27544.065,
       "day_low": 27223.494,
       "year_high": 27544.07,
       "year_low": 20690.25,
-      "as_of": "2026-10-05T17:15:59.000-0400",
+      "as_of": "2026-10-05",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3151,9 +3176,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           15.52
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          15.32
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:30+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3166,16 +3195,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.52,
-      "change": 0.21,
-      "change_pct": 1.37,
-      "prev_close": 15.31,
-      "day_open": 16.24,
-      "day_high": 16.38,
-      "day_low": 15.48,
+      "value": 15.32,
+      "change": -0.2,
+      "change_pct": -1.29,
+      "prev_close": 15.52,
+      "day_open": 15.5,
+      "day_high": 15.52,
+      "day_low": 15.28,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-05T16:15:01.000-0400",
+      "as_of": "2026-10-06T08:51:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3681,9 +3710,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           1.1227
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          1.1261
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:30+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3696,16 +3729,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1227,
-      "change": 0.0006,
-      "change_pct": 0.0535,
+      "value": 1.1261,
+      "change": 0.004,
+      "change_pct": 0.3565,
       "prev_close": 1.1221,
       "day_open": 1.1219,
-      "day_high": 1.1228,
-      "day_low": 1.1214,
+      "day_high": 1.1276,
+      "day_low": 1.1203,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-05T21:23:00.000-0400",
+      "as_of": "2026-10-06T08:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4195,11 +4228,17 @@
         [
           "2026-10-06T01:23:35+00:00",
           0.8305
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          0.8303
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:30+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -4208,16 +4247,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8305,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.8303,
+      "change": -0.0002,
+      "change_pct": -0.0241,
       "prev_close": 0.8305,
       "day_open": 0.8302,
-      "day_high": 0.8317,
-      "day_low": 0.8304,
+      "day_high": 0.8326,
+      "day_low": 0.8299,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-05T21:23:00.000-0400",
+      "as_of": "2026-10-06T08:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4703,9 +4742,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           4176.5
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          4201.8
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:31+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4718,16 +4761,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4176.5,
-      "change": 19.7,
-      "change_pct": 0.47,
+      "value": 4201.8,
+      "change": 45.0,
+      "change_pct": 1.08,
       "prev_close": 4156.8,
       "day_open": 4169.2,
-      "day_high": 4179.6,
-      "day_low": 4160.1,
+      "day_high": 4208.0,
+      "day_low": 4130.7,
       "year_high": 5586.2,
-      "year_low": 3861.1,
-      "as_of": "2026-10-05T21:13:16.000-0400",
+      "year_low": 3901.3,
+      "as_of": "2026-10-06T08:41:51.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5213,9 +5256,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           89.62
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          87.22
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:31+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5228,16 +5275,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 89.62,
-      "change": 0.19,
-      "change_pct": 0.21,
+      "value": 87.22,
+      "change": -2.21,
+      "change_pct": -2.47,
       "prev_close": 89.43,
       "day_open": 89.27,
-      "day_high": 89.62,
-      "day_low": 89.11,
+      "day_high": 90.05,
+      "day_low": 86.86,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-05T21:13:16.000-0400",
+      "as_of": "2026-10-06T08:41:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -5635,9 +5682,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           238.9
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          238.9
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:31+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5653,14 +5704,14 @@
       "value": 238.9,
       "change": 4.95,
       "change_pct": 2.12,
-      "prev_close": 233.95,
-      "day_open": 236.09,
-      "day_high": 240.1,
-      "day_low": 235.15,
+      "prev_close": 238.9,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 240.1,
       "year_low": 164.27,
-      "as_of": "2026-10-05T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-05",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -6053,9 +6104,13 @@
         [
           "2026-10-06T01:23:35+00:00",
           633.9
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          633.9
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:31+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6071,14 +6126,14 @@
       "value": 633.9,
       "change": 3.3,
       "change_pct": 0.52,
-      "prev_close": 630.6,
-      "day_open": 631.47,
-      "day_high": 634.78,
-      "day_low": 626.96,
+      "prev_close": 633.9,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-05T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-05",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -6471,14 +6526,18 @@
         [
           "2026-10-06T01:23:35+00:00",
           81.54155866708687
+        ],
+        [
+          "2026-10-06T12:52:02+00:00",
+          81.54155866708687
         ]
       ],
       "value": 81.54155866708687,
-      "fetched_at": "2026-10-06T01:23:29+00:00",
-      "as_of": "2026-10-05T16:15:00.000-0400",
-      "prev_close": 81.65516812729194,
-      "change": -0.11360946020506901,
-      "change_pct": -0.13913321448063598,
+      "fetched_at": "2026-10-06T12:51:58+00:00",
+      "as_of": "2026-10-05",
+      "prev_close": 81.54155866708687,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -6644,7 +6703,7 @@
           3.1
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:31+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -6826,7 +6885,7 @@
           0.85
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:31+00:00",
+      "fetched_at": "2026-10-06T12:51:59+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
@@ -6916,7 +6975,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:32+00:00",
+      "fetched_at": "2026-10-06T12:52:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -7004,7 +7063,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:33+00:00",
+      "fetched_at": "2026-10-06T12:52:01+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7080,7 +7139,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:35+00:00",
+      "fetched_at": "2026-10-06T12:52:02+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7129,7 +7188,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-06T01:23:33+00:00",
+      "fetched_at": "2026-10-06T12:52:01+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -7299,7 +7358,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:35+00:00",
+      "fetched_at": "2026-10-06T12:52:02+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -7482,7 +7541,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-06T01:23:35+00:00",
+      "fetched_at": "2026-10-06T12:52:02+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
