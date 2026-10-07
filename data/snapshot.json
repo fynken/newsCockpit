@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T23:57:51+00:00",
+  "generated_at": "2026-10-07T12:46:00+00:00",
   "briefing": {
-    "captured_at": "2026-10-06T23:57:53+00:00",
+    "captured_at": "2026-10-07T12:46:02+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -21,10 +21,8 @@
         "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
-          "CNBC",
           "CNBC Finance",
-          "Guardian",
-          "NPR"
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
@@ -39,97 +37,21 @@
             "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "CNBC",
-            "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-            "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
-          },
-          {
             "source": "CNBC Finance",
             "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
             "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
           },
           {
             "source": "Guardian",
-            "headline": "Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance",
-            "url": "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger"
-          },
-          {
-            "source": "NPR",
-            "headline": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.",
-            "url": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison"
+            "headline": "Goodbye Warner, hello Skydance: how will the major merger really impact Hollywood?",
+            "url": "https://www.theguardian.com/film/2026/oct/07/paramount-warner-bros-skydance-merger-explainer"
           }
         ],
-        "published": "2026-10-06T20:18:58+00:00"
+        "published": "2026-10-07T09:00:45+00:00"
       },
       {
-        "headline": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-        "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-        "sources": [
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-            "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
-            "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-10-06T22:23:01+00:00"
-      },
-      {
-        "headline": "Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-06/constellation-energy-surges-12-closing-bell-video",
-        "sources": [
-          "Bloomberg",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-06/constellation-energy-surges-12-closing-bell-video"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-            "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-10-06T20:31:33+00:00"
-      },
-      {
-        "headline": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-        "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-            "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-            "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html"
-          }
-        ],
-        "published": "2026-10-06T20:02:00+00:00"
-      },
-      {
-        "headline": "OpenAI admits response to Australian government hacks 'not good enough'",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "headline": "Royal Mail plans to cut 2,500 jobs",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
           "Guardian"
@@ -138,45 +60,98 @@
         "variants": [
           {
             "source": "BBC",
-            "headline": "OpenAI admits response to Australian government hacks 'not good enough'",
-            "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss"
+            "headline": "Royal Mail plans to cut 2,500 jobs",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "Guardian",
-            "headline": "OpenAI admits misstep in handling AI agent interactions with Australian government sites \u2013 video",
-            "url": "https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video"
+            "headline": "Royal Mail to cut up to 2,500 head office and support jobs by end of next year \u2013 business live",
+            "url": "https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates"
           }
         ],
-        "published": "2026-10-06T07:32:25+00:00"
+        "published": "2026-10-07T12:25:46+00:00"
+      },
+      {
+        "headline": "Stock Rally Fades on Higher Oil Prices; SpaceX in Talks to Buy Nvidia Chips",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-07/bloomberg-brief-10-07-2026-video",
+        "sources": [
+          "Bloomberg",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Stock Rally Fades on Higher Oil Prices; SpaceX in Talks to Buy Nvidia Chips",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-07/bloomberg-brief-10-07-2026-video"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
+            "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-10-07T11:57:00+00:00"
+      },
+      {
+        "headline": "US Mortgage Rates Jump to 7.49%, Highest Since 2023",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-07/us-mortgage-rates-jump-to-7-49-highest-in-nearly-three-years",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "US Mortgage Rates Jump to 7.49%, Highest Since 2023",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-07/us-mortgage-rates-jump-to-7-49-highest-in-nearly-three-years"
+          },
+          {
+            "source": "CNBC",
+            "headline": "India\u2019s central bank hikes rates for the first time since 2023 as inflation risks build",
+            "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
+          }
+        ],
+        "published": "2026-10-07T11:55:36+00:00"
+      },
+      {
+        "headline": "Jaguar unveils new electric car after 'woke' ridicule",
+        "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Jaguar unveils new electric car after 'woke' ridicule",
+            "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
+            "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
+          }
+        ],
+        "published": "2026-10-07T09:18:30+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Paramount closes its ~$110bn takeover of Warner Bros. Discovery, forming Skydance.",
+          "text": "US mortgage rates jump to 7.49%, highest since 2023; India's central bank hikes for first time since 2023.",
           "topic_ids": [
-            0
+            3
           ],
           "sources": [
-            "BBC",
-            "CNBC",
-            "CNBC Finance",
-            "Guardian",
-            "NPR"
+            "Bloomberg",
+            "CNBC"
           ]
         },
         {
-          "text": "S&P 500 hits a new record, led by the Magnificent Seven.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Constellation Energy jumps 12% on a Google nuclear power deal for AI demand.",
+          "text": "SpaceX in talks to borrow roughly a year's revenue to buy Nvidia chips; stock rally fades on higher oil.",
           "topic_ids": [
             2
           ],
@@ -186,18 +161,39 @@
           ]
         },
         {
-          "text": "OpenAI says its response to AI agent interactions with Australian government sites fell short.",
+          "text": "Paramount closed its $110bn takeover of Warner Bros. Discovery on Tuesday.",
           "topic_ids": [
-            4
+            0
+          ],
+          "sources": [
+            "BBC",
+            "CNBC Finance",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Royal Mail to cut up to 2,500 head office and support jobs by end of next year.",
+          "topic_ids": [
+            1
           ],
           "sources": [
             "BBC",
             "Guardian"
           ]
+        },
+        {
+          "text": "Jaguar unveils a $130,000 electric car two years after its contested rebrand.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "BBC",
+            "CNBC"
+          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-06T23:58:01+00:00"
+      "written_at": "2026-10-07T12:46:13+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -689,9 +685,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           5.29
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          5.345
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "fetched_at": "2026-10-07T12:45:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -704,16 +704,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.29,
-      "change": 0.019,
-      "change_pct": 0.3605,
+      "value": 5.345,
+      "change": 0.074,
+      "change_pct": 1.4039,
       "prev_close": 5.271,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.29,
+      "day_high": 5.35,
+      "day_low": 5.29,
       "year_high": 5.35,
       "year_low": 3.93,
-      "as_of": "2026-10-06T19:57:37.000-0400",
+      "as_of": "2026-10-07T08:45:39.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1199,9 +1199,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           4.806
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          4.818
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "fetched_at": "2026-10-07T12:45:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1214,16 +1218,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.806,
-      "change": 0.015,
-      "change_pct": -0.0313,
+      "value": 4.818,
+      "change": 0.027,
+      "change_pct": -0.0547,
       "prev_close": 4.791,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.804,
+      "day_high": 4.823,
+      "day_low": 4.793,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-06T19:56:42.000-0400",
+      "as_of": "2026-10-07T08:45:15.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1709,9 +1713,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           5.668
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          5.722
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1724,16 +1732,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.668,
-      "change": 0.027,
-      "change_pct": 0.4786,
+      "value": 5.722,
+      "change": 0.081,
+      "change_pct": 1.4359,
       "prev_close": 5.641,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
-      "year_high": 5.7,
+      "day_open": 5.669,
+      "day_high": 5.731,
+      "day_low": 5.668,
+      "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-06T19:57:05.000-0400",
+      "as_of": "2026-10-07T08:45:30.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1765,12 +1773,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5964312424159797,
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "value": 1.6514312424159794,
+      "fetched_at": "2026-10-07T12:45:57+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.7501155781387077,
-      "change": -0.153684335722728,
-      "change_pct": -8.781382077986825,
+      "change": -0.09868433572272828,
+      "change_pct": -5.6387324903239575,
       "stale": false
     },
     {
@@ -2226,9 +2234,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           7818.93
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          7818.93
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2244,13 +2256,13 @@
       "value": 7818.93,
       "change": 44.98,
       "change_pct": 0.58,
-      "prev_close": 7773.95,
+      "prev_close": 7818.93,
       "day_open": 7805.96,
       "day_high": 7844.52,
       "day_low": 7805.96,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-06T16:40:07.000-0400",
+      "as_of": "2026-10-06",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2708,9 +2720,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           27599.886
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          27599.886
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2726,13 +2742,13 @@
       "value": 27599.886,
       "change": 122.576,
       "change_pct": 0.45,
-      "prev_close": 27477.31,
+      "prev_close": 27599.886,
       "day_open": 27641.172,
       "day_high": 27722.747,
       "day_low": 27592.557,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-06T18:31:33.000-0400",
+      "as_of": "2026-10-06",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3218,9 +3234,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           15.01
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          15.75
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:47+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3233,16 +3253,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.01,
-      "change": -0.51,
-      "change_pct": -3.29,
-      "prev_close": 15.52,
-      "day_open": 15.5,
-      "day_high": 15.54,
-      "day_low": 14.96,
+      "value": 15.75,
+      "change": 0.74,
+      "change_pct": 4.93,
+      "prev_close": 15.01,
+      "day_open": 15.21,
+      "day_high": 16.01,
+      "day_low": 15.21,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-06T16:15:01.000-0400",
+      "as_of": "2026-10-07T08:45:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3760,9 +3780,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           1.125
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          1.1171
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3775,16 +3799,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.125,
-      "change": -0.0008,
-      "change_pct": -0.0711,
+      "value": 1.1171,
+      "change": -0.0087,
+      "change_pct": -0.7728,
       "prev_close": 1.1258,
       "day_open": 1.1258,
       "day_high": 1.1264,
-      "day_low": 1.1253,
+      "day_low": 1.1166,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-06T19:57:00.000-0400",
+      "as_of": "2026-10-07T08:45:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4286,9 +4310,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           0.8322
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          0.8336
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4301,16 +4329,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8322,
-      "change": 0.0008,
-      "change_pct": 0.0962,
+      "value": 0.8336,
+      "change": 0.0022,
+      "change_pct": 0.2646,
       "prev_close": 0.8314,
       "day_open": 0.8314,
-      "day_high": 0.8324,
+      "day_high": 0.8338,
       "day_low": 0.8315,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-06T19:57:00.000-0400",
+      "as_of": "2026-10-07T08:45:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4808,9 +4836,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           4194.0
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          4109.1
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4823,16 +4855,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4194.0,
-      "change": 6.9,
-      "change_pct": 0.16,
+      "value": 4109.1,
+      "change": -78.0,
+      "change_pct": -1.86,
       "prev_close": 4187.1,
       "day_open": 4195.0,
       "day_high": 4197.8,
-      "day_low": 4189.3,
+      "day_low": 4098.5,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-06T19:47:23.000-0400",
+      "as_of": "2026-10-07T08:35:53.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5330,9 +5362,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           89.97
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          90.18
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5345,16 +5381,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 89.97,
-      "change": 0.53,
-      "change_pct": 0.59,
+      "value": 90.18,
+      "change": 0.74,
+      "change_pct": 0.83,
       "prev_close": 89.44,
       "day_open": 89.96,
-      "day_high": 90.01,
-      "day_low": 89.62,
+      "day_high": 90.61,
+      "day_low": 89.33,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-06T19:46:26.000-0400",
+      "as_of": "2026-10-07T08:35:48.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -5764,9 +5800,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           239.24
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          239.24
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5782,14 +5822,14 @@
       "value": 239.24,
       "change": 0.34,
       "change_pct": 0.14,
-      "prev_close": 238.9,
-      "day_open": 242.1,
-      "day_high": 243.37,
-      "day_low": 238.93,
+      "prev_close": 239.24,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-06T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-06",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -6194,9 +6234,13 @@
         [
           "2026-10-06T23:57:51+00:00",
           632.5
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          632.5
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6212,14 +6256,14 @@
       "value": 632.5,
       "change": -1.4,
       "change_pct": -0.22,
-      "prev_close": 633.9,
-      "day_open": 638.38,
-      "day_high": 639.47,
-      "day_low": 631.49,
+      "prev_close": 632.5,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-06T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-06",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -6624,14 +6668,18 @@
         [
           "2026-10-06T23:57:51+00:00",
           80.89342147838641
+        ],
+        [
+          "2026-10-07T12:46:00+00:00",
+          80.89342147838641
         ]
       ],
       "value": 80.89342147838641,
-      "fetched_at": "2026-10-06T23:57:47+00:00",
-      "as_of": "2026-10-06T16:15:00.000-0400",
-      "prev_close": 81.54155866708687,
-      "change": -0.6481371887004599,
-      "change_pct": -0.7948550399271084,
+      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "as_of": "2026-10-06",
+      "prev_close": 80.89342147838641,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -6797,7 +6845,7 @@
           3.12
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -6979,7 +7027,7 @@
           0.84
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:48+00:00",
+      "fetched_at": "2026-10-07T12:45:58+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
@@ -7069,7 +7117,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:49+00:00",
+      "fetched_at": "2026-10-07T12:45:59+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -7157,7 +7205,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:50+00:00",
+      "fetched_at": "2026-10-07T12:46:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7233,7 +7281,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:50+00:00",
+      "fetched_at": "2026-10-07T12:46:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7282,7 +7330,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-06T23:57:50+00:00",
+      "fetched_at": "2026-10-07T12:46:00+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -7452,7 +7500,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:50+00:00",
+      "fetched_at": "2026-10-07T12:46:00+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -7635,7 +7683,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-06T23:57:51+00:00",
+      "fetched_at": "2026-10-07T12:46:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
