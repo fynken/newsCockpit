@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T12:46:00+00:00",
+  "generated_at": "2026-10-07T19:16:37+00:00",
   "briefing": {
-    "captured_at": "2026-10-07T12:46:02+00:00",
+    "captured_at": "2026-10-07T19:16:40+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,183 +17,180 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-        "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+        "headline": "Microsoft unveils new Surface laptops with Nvidia chips",
+        "url": "https://seekingalpha.com/news/4651125-microsoft-unveils-new-surface-laptops-with-nvidia-chips?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "sources": [
+          "CNBC",
+          "MarketWatch",
+          "Seeking Alpha"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "New data strengthens our faith in a TJX comeback. Plus, the Nvidia-Microsoft PC is here",
+            "url": "https://www.cnbc.com/investingclub/2026/10/07/new-data-strengthens-our-faith-in-a-tjx-comeback-plus-the-nvidia-microsoft-pc-is-here.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+            "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+            "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Microsoft unveils new Surface laptops with Nvidia chips",
+            "url": "https://seekingalpha.com/news/4651125-microsoft-unveils-new-surface-laptops-with-nvidia-chips?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-10-07T19:12:00+00:00"
+      },
+      {
+        "headline": "Canada\u2019s Weston family buys Boots for $8.9bn",
+        "url": "https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk",
         "sources": [
           "BBC",
-          "CNBC Finance",
+          "Bloomberg",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-            "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+            "headline": "Boots sold in \u00a37bn deal to Canadian billionaire family",
+            "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "BBC",
-            "headline": "From films to streaming prices - how the Warner Bros deal could affect you",
-            "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss"
+            "source": "Bloomberg",
+            "headline": "Boots Sold for $8.9B As Canada\u2019s Westons Re-Enter UK",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-07/boots-sold-for-8-9b-as-canada-s-westons-re-enter-uk-video"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Canada\u2019s Weston family buys Boots for $8.9bn",
+            "url": "https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk"
+          }
+        ],
+        "published": "2026-10-07T18:50:55+00:00"
+      },
+      {
+        "headline": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+        "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+            "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-            "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Goodbye Warner, hello Skydance: how will the major merger really impact Hollywood?",
-            "url": "https://www.theguardian.com/film/2026/oct/07/paramount-warner-bros-skydance-merger-explainer"
+            "headline": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+            "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html"
           }
         ],
-        "published": "2026-10-07T09:00:45+00:00"
+        "published": "2026-10-07T19:14:03+00:00"
       },
       {
-        "headline": "Royal Mail plans to cut 2,500 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
+        "headline": "Fed\u2019s minutes show no appetite for a series of interest-rate hikes",
+        "url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
         "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Royal Mail plans to cut 2,500 jobs",
-            "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Royal Mail to cut up to 2,500 head office and support jobs by end of next year \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates"
-          }
-        ],
-        "published": "2026-10-07T12:25:46+00:00"
-      },
-      {
-        "headline": "Stock Rally Fades on Higher Oil Prices; SpaceX in Talks to Buy Nvidia Chips",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-07/bloomberg-brief-10-07-2026-video",
-        "sources": [
-          "Bloomberg",
+          "CNBC",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Stock Rally Fades on Higher Oil Prices; SpaceX in Talks to Buy Nvidia Chips",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-07/bloomberg-brief-10-07-2026-video"
+            "source": "CNBC",
+            "headline": "Fed officials see another hike coming, but no sign as to when, minutes show",
+            "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
-            "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories"
+            "headline": "Fed\u2019s minutes show no appetite for a series of interest-rate hikes",
+            "url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-07T11:57:00+00:00"
+        "published": "2026-10-07T18:42:36+00:00"
       },
       {
-        "headline": "US Mortgage Rates Jump to 7.49%, Highest Since 2023",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-07/us-mortgage-rates-jump-to-7-49-highest-in-nearly-three-years",
+        "headline": "Former Barclays Traders Have Rate-Rigging Convictions Overturned",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-07/former-barclays-traders-have-convictions-overturned-video",
         "sources": [
           "Bloomberg",
-          "CNBC"
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "US Mortgage Rates Jump to 7.49%, Highest Since 2023",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-07/us-mortgage-rates-jump-to-7-49-highest-in-nearly-three-years"
+            "headline": "Former Barclays Traders Have Rate-Rigging Convictions Overturned",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-07/former-barclays-traders-have-convictions-overturned-video"
           },
           {
-            "source": "CNBC",
-            "headline": "India\u2019s central bank hikes rates for the first time since 2023 as inflation risks build",
-            "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
+            "source": "Guardian",
+            "headline": "Ex-Barclays traders jailed for rigging interest rates have convictions quashed",
+            "url": "https://www.theguardian.com/business/2026/oct/07/former-barclays-traders-rigging-interest-rates-convictions-quashed-libor"
           }
         ],
-        "published": "2026-10-07T11:55:36+00:00"
-      },
-      {
-        "headline": "Jaguar unveils new electric car after 'woke' ridicule",
-        "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Jaguar unveils new electric car after 'woke' ridicule",
-            "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
-            "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
-          }
-        ],
-        "published": "2026-10-07T09:18:30+00:00"
+        "published": "2026-10-07T18:05:15+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "US mortgage rates jump to 7.49%, highest since 2023; India's central bank hikes for first time since 2023.",
+          "text": "Fed minutes show officials expect another hike but no timing, and no appetite for a series.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "SpaceX in talks to borrow roughly a year's revenue to buy Nvidia chips; stock rally fades on higher oil.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
+            "CNBC",
             "MarketWatch"
           ]
         },
         {
-          "text": "Paramount closed its $110bn takeover of Warner Bros. Discovery on Tuesday.",
+          "text": "Microsoft unveils Surface laptops with Nvidia AI chips, including a $2,599 Laptop Ultra.",
           "topic_ids": [
             0
           ],
           "sources": [
-            "BBC",
-            "CNBC Finance",
-            "Guardian"
+            "CNBC",
+            "MarketWatch",
+            "Seeking Alpha"
           ]
         },
         {
-          "text": "Royal Mail to cut up to 2,500 head office and support jobs by end of next year.",
+          "text": "Canada's Weston family buys Boots for $8.9bn.",
           "topic_ids": [
             1
           ],
           "sources": [
             "BBC",
+            "Bloomberg",
             "Guardian"
           ]
         },
         {
-          "text": "Jaguar unveils a $130,000 electric car two years after its contested rebrand.",
+          "text": "UK court quashes rate-rigging convictions of former Barclays traders.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "BBC",
-            "CNBC"
+            "Bloomberg",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-07T12:46:13+00:00"
+      "written_at": "2026-10-07T19:16:49+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -689,9 +686,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           5.345
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          5.284
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:57+00:00",
+      "fetched_at": "2026-10-07T19:16:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -704,16 +705,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.345,
-      "change": 0.074,
-      "change_pct": 1.4039,
+      "value": 5.284,
+      "change": 0.013,
+      "change_pct": 0.2466,
       "prev_close": 5.271,
       "day_open": 5.29,
-      "day_high": 5.35,
-      "day_low": 5.29,
-      "year_high": 5.35,
+      "day_high": 5.365,
+      "day_low": 5.269,
+      "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-07T08:45:39.000-0400",
+      "as_of": "2026-10-07T15:16:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1203,9 +1204,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           4.818
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          4.77
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:57+00:00",
+      "fetched_at": "2026-10-07T19:16:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1218,16 +1223,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.818,
-      "change": 0.027,
-      "change_pct": -0.0547,
+      "value": 4.77,
+      "change": -0.021,
+      "change_pct": 0.043,
       "prev_close": 4.791,
       "day_open": 4.804,
-      "day_high": 4.823,
-      "day_low": 4.793,
+      "day_high": 4.837,
+      "day_low": 4.756,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-07T08:45:15.000-0400",
+      "as_of": "2026-10-07T15:15:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1717,9 +1722,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           5.722
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          5.667
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1732,16 +1741,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.722,
-      "change": 0.081,
-      "change_pct": 1.4359,
+      "value": 5.667,
+      "change": 0.026,
+      "change_pct": 0.4609,
       "prev_close": 5.641,
       "day_open": 5.669,
-      "day_high": 5.731,
-      "day_low": 5.668,
+      "day_high": 5.732,
+      "day_low": 5.652,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-07T08:45:30.000-0400",
+      "as_of": "2026-10-07T15:16:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1773,12 +1782,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.6514312424159794,
-      "fetched_at": "2026-10-07T12:45:57+00:00",
+      "value": 1.5904312424159794,
+      "fetched_at": "2026-10-07T19:16:32+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.7501155781387077,
-      "change": -0.09868433572272828,
-      "change_pct": -5.6387324903239575,
+      "change": -0.15968433572272822,
+      "change_pct": -9.124216578459153,
       "stale": false
     },
     {
@@ -2238,9 +2247,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           7818.93
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          7798.81
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2253,16 +2266,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7818.93,
-      "change": 44.98,
-      "change_pct": 0.58,
+      "value": 7798.81,
+      "change": -20.12,
+      "change_pct": -0.26,
       "prev_close": 7818.93,
-      "day_open": 7805.96,
-      "day_high": 7844.52,
-      "day_low": 7805.96,
+      "day_open": 7792.98,
+      "day_high": 7807.02,
+      "day_low": 7763.34,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-06",
+      "as_of": "2026-10-07T15:16:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2724,9 +2737,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           27599.886
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          27505.51
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2739,16 +2756,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27599.886,
-      "change": 122.576,
-      "change_pct": 0.45,
+      "value": 27505.51,
+      "change": -94.376,
+      "change_pct": -0.34,
       "prev_close": 27599.886,
-      "day_open": 27641.172,
-      "day_high": 27722.747,
-      "day_low": 27592.557,
+      "day_open": 27430.536,
+      "day_high": 27531.255,
+      "day_low": 27341.309,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-06",
+      "as_of": "2026-10-07T15:16:32.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3238,9 +3255,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           15.75
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          15.12
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3253,16 +3274,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.75,
-      "change": 0.74,
-      "change_pct": 4.93,
+      "value": 15.12,
+      "change": 0.11,
+      "change_pct": 0.73,
       "prev_close": 15.01,
       "day_open": 15.21,
       "day_high": 16.01,
-      "day_low": 15.21,
+      "day_low": 15.03,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-07T08:45:46.000-0400",
+      "as_of": "2026-10-07T15:16:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3784,9 +3805,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           1.1171
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          1.1196
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3799,16 +3824,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1171,
-      "change": -0.0087,
-      "change_pct": -0.7728,
+      "value": 1.1196,
+      "change": -0.0062,
+      "change_pct": -0.5507,
       "prev_close": 1.1258,
       "day_open": 1.1258,
       "day_high": 1.1264,
       "day_low": 1.1166,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-07T08:45:00.000-0400",
+      "as_of": "2026-10-07T15:16:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4314,9 +4339,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           0.8336
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          0.8331
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4329,16 +4358,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8336,
-      "change": 0.0022,
-      "change_pct": 0.2646,
+      "value": 0.8331,
+      "change": 0.0017,
+      "change_pct": 0.2045,
       "prev_close": 0.8314,
       "day_open": 0.8314,
-      "day_high": 0.8338,
+      "day_high": 0.8341,
       "day_low": 0.8315,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-07T08:45:00.000-0400",
+      "as_of": "2026-10-07T15:16:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4840,9 +4869,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           4109.1
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          4131.9
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4855,16 +4888,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4109.1,
-      "change": -78.0,
-      "change_pct": -1.86,
+      "value": 4131.9,
+      "change": -55.2,
+      "change_pct": -1.32,
       "prev_close": 4187.1,
       "day_open": 4195.0,
       "day_high": 4197.8,
-      "day_low": 4098.5,
+      "day_low": 4091.2,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-07T08:35:53.000-0400",
+      "as_of": "2026-10-07T15:06:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5366,9 +5399,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           90.18
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          88.98
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5381,16 +5418,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 90.18,
-      "change": 0.74,
-      "change_pct": 0.83,
+      "value": 88.98,
+      "change": -0.46,
+      "change_pct": -0.51,
       "prev_close": 89.44,
       "day_open": 89.96,
-      "day_high": 90.61,
-      "day_low": 89.33,
+      "day_high": 90.98,
+      "day_low": 87.96,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-07T08:35:48.000-0400",
+      "as_of": "2026-10-07T15:06:28.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -5804,9 +5841,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           239.24
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          236.96
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5819,17 +5860,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 239.24,
-      "change": 0.34,
-      "change_pct": 0.14,
+      "value": 236.96,
+      "change": -2.28,
+      "change_pct": -0.95,
       "prev_close": 239.24,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 237.69,
+      "day_high": 239.08,
+      "day_low": 236.38,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-06",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-07T15:16:30.468-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -6238,9 +6279,13 @@
         [
           "2026-10-07T12:46:00+00:00",
           632.5
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          622.34
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6253,17 +6298,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 632.5,
-      "change": -1.4,
-      "change_pct": -0.22,
+      "value": 622.34,
+      "change": -10.16,
+      "change_pct": -1.61,
       "prev_close": 632.5,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 621.1,
+      "day_high": 625.19,
+      "day_low": 618.79,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-06",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-07T15:16:30.015-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -6672,14 +6717,18 @@
         [
           "2026-10-07T12:46:00+00:00",
           80.89342147838641
+        ],
+        [
+          "2026-10-07T19:16:37+00:00",
+          79.79935400400831
         ]
       ],
-      "value": 80.89342147838641,
-      "fetched_at": "2026-10-07T12:45:58+00:00",
-      "as_of": "2026-10-06",
+      "value": 79.79935400400831,
+      "fetched_at": "2026-10-07T19:16:33+00:00",
+      "as_of": "2026-10-07T15:16:30.015-0400",
       "prev_close": 80.89342147838641,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": -1.0940674743781074,
+      "change_pct": -1.3524801576979,
       "stale": false
     },
     {
@@ -6700,10 +6749,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-17",
-          2.7
-        ],
         [
           "2026-08-18",
           2.75
@@ -6843,23 +6888,27 @@
         [
           "2026-10-05",
           3.12
+        ],
+        [
+          "2026-10-06",
+          3.03
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "785"
       },
-      "value": 3.12,
-      "change": 0.020000000000000018,
-      "change_pct": 0.6451612903225812,
-      "prev_close": 3.1,
+      "value": 3.03,
+      "change": -0.0900000000000003,
+      "change_pct": -2.8846153846153944,
+      "prev_close": 3.12,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.24,
       "year_low": 2.6,
-      "as_of": "2026-10-05",
+      "as_of": "2026-10-06",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -6882,10 +6931,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-17",
-          0.81
-        ],
         [
           "2026-08-18",
           0.82
@@ -7025,23 +7070,27 @@
         [
           "2026-10-05",
           0.84
+        ],
+        [
+          "2026-10-06",
+          0.83
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:58+00:00",
+      "fetched_at": "2026-10-07T19:16:34+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "783"
+        "_observations": "784"
       },
-      "value": 0.84,
+      "value": 0.83,
       "change": -0.010000000000000009,
-      "change_pct": -1.176470588235295,
-      "prev_close": 0.85,
+      "change_pct": -1.1904761904761916,
+      "prev_close": 0.84,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.86,
       "year_low": 0.77,
-      "as_of": "2026-10-05",
+      "as_of": "2026-10-06",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -7117,7 +7166,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-07T12:45:59+00:00",
+      "fetched_at": "2026-10-07T19:16:35+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -7205,7 +7254,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-07T12:46:00+00:00",
+      "fetched_at": "2026-10-07T19:16:36+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7281,7 +7330,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-07T12:46:00+00:00",
+      "fetched_at": "2026-10-07T19:16:37+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7330,7 +7379,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-07T12:46:00+00:00",
+      "fetched_at": "2026-10-07T19:16:36+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -7500,7 +7549,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-07T12:46:00+00:00",
+      "fetched_at": "2026-10-07T19:16:37+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -7683,7 +7732,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-07T12:46:00+00:00",
+      "fetched_at": "2026-10-07T19:16:37+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
