@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T19:13:04+00:00",
+  "generated_at": "2026-10-09T00:32:47+00:00",
   "briefing": {
-    "captured_at": "2026-10-08T19:13:07+00:00",
+    "captured_at": "2026-10-09T00:32:49+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,36 +17,21 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "US Suspends Visa Program for Tech Firms Including Microsoft",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-08/us-suspends-visa-program-for-tech-firms-video",
+        "headline": "Chipotle Jumps on Report Starbucks Has Explored Takeover",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-08/chipotle-jumps-on-report-starbucks-has-explored-takeover-video",
         "sources": [
           "Bloomberg",
-          "CNBC"
+          "CNBC",
+          "CNBC Finance",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "US Suspends Visa Program for Tech Firms Including Microsoft",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-08/us-suspends-visa-program-for-tech-firms-video"
+            "headline": "Chipotle Jumps on Report Starbucks Has Explored Takeover",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-08/chipotle-jumps-on-report-starbucks-has-explored-takeover-video"
           },
-          {
-            "source": "CNBC",
-            "headline": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-            "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html"
-          }
-        ],
-        "published": "2026-10-08T19:10:45+00:00"
-      },
-      {
-        "headline": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
-        "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
           {
             "source": "CNBC",
             "headline": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
@@ -56,53 +41,85 @@
             "source": "CNBC Finance",
             "headline": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
             "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+            "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-08T18:37:46+00:00"
+        "published": "2026-10-08T23:14:00+00:00"
       },
       {
-        "headline": "Stocks Fall as Reports on OpenAI Sink Chipmakers: Markets Wrap",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
+        "headline": "Trump says U.S. will not attack Iran before midterm election",
+        "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
         "sources": [
-          "Bloomberg",
-          "CNBC"
+          "CNBC",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Stocks Fall as Reports on OpenAI Sink Chipmakers: Markets Wrap",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates"
+            "source": "CNBC",
+            "headline": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+            "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html"
           },
+          {
+            "source": "CNBC",
+            "headline": "Trump says U.S. will not attack Iran before midterm election",
+            "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Oil finishes sharply higher even as Trump says no attacks on Iran before midterms",
+            "url": "https://seekingalpha.com/news/4651622-oil-finishes-sharply-higher-even-as-trump-says-no-attacks-on-iran-before-midterms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          }
+        ],
+        "published": "2026-10-08T23:30:20+00:00"
+      },
+      {
+        "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+        "sources": [
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
           {
             "source": "CNBC",
             "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
             "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Micron, Nvidia and AI chip stocks fall as report on OpenAI\u2019s revenue causes \u2018undue concern\u2019",
+            "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-08T18:18:31+00:00"
+        "published": "2026-10-08T22:08:00+00:00"
       },
       {
-        "headline": "NFL Asks Supreme Court to Let States Regulate Event Markets",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-08/nfl-asks-supreme-court-to-let-states-regulate-prediction-markets",
+        "headline": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
+        "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
         "sources": [
-          "Bloomberg",
-          "CNBC"
+          "CNBC",
+          "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "NFL Asks Supreme Court to Let States Regulate Event Markets",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-08/nfl-asks-supreme-court-to-let-states-regulate-prediction-markets"
-          },
-          {
             "source": "CNBC",
             "headline": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
             "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "NFL urges Supreme Court to back state gambling rules\u2014breaking with other leagues on prediction markets",
+            "url": "https://fortune.com/2026/10/08/nfl-supreme-court-state-gambling-rules-leagues-prediction-markets/"
           }
         ],
-        "published": "2026-10-08T16:50:45+00:00"
+        "published": "2026-10-08T20:12:56+00:00"
       },
       {
         "headline": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
@@ -130,58 +147,60 @@
     "synthesis": {
       "lines": [
         {
-          "text": "AI stocks sink on an OpenAI revenue report, with Nvidia, Oracle and CoreWeave leading chipmakers lower.",
+          "text": "Nvidia, Oracle, CoreWeave and Micron fall on a report about OpenAI's revenue.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "US suspends Microsoft and Adobe from the green card labor program in a foreign worker crackdown.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "NFL asks the Supreme Court to treat prediction markets as gambling, regulated by states.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Skydance's David Ellison says the combined company is 'positioned to win in every single vertical'.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
             "CNBC",
-            "CNBC Finance"
+            "MarketWatch"
           ]
         },
         {
-          "text": "Analysts weigh the case for and against a Starbucks takeover of Chipotle.",
+          "text": "Oil finishes sharply higher on Iran tanker attacks and a hurricane threat to US Gulf production.",
           "topic_ids": [
             1
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance"
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Trump says the US will not attack Iran before the midterm election.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Chipotle jumps on a report Starbucks has explored a takeover.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC",
+            "CNBC Finance",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "NFL tells the Supreme Court prediction markets are gambling and belong under state regulation.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "CNBC",
+            "Fortune"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-08T19:13:25+00:00"
+      "written_at": "2026-10-09T00:33:00+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -693,9 +712,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           5.227
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          5.234
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:00+00:00",
+      "fetched_at": "2026-10-09T00:32:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -708,16 +731,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.227,
-      "change": -0.05,
-      "change_pct": -0.9475,
-      "prev_close": 5.277,
-      "day_open": 5.294,
-      "day_high": 5.354,
-      "day_low": 5.223,
+      "value": 5.234,
+      "change": 0.001,
+      "change_pct": 0.0191,
+      "prev_close": 5.233,
+      "day_open": 5.24,
+      "day_high": 5.24,
+      "day_low": 5.225,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-08T15:12:49.000-0400",
+      "as_of": "2026-10-08T20:32:35.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1223,9 +1246,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           4.751
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          4.76
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:00+00:00",
+      "fetched_at": "2026-10-09T00:32:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1238,16 +1265,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.751,
-      "change": -0.013,
-      "change_pct": 0.0234,
-      "prev_close": 4.764,
-      "day_open": 4.772,
-      "day_high": 4.823,
-      "day_low": 4.737,
+      "value": 4.76,
+      "change": 0.004,
+      "change_pct": -0.0078,
+      "prev_close": 4.756,
+      "day_open": 4.766,
+      "day_high": 4.768,
+      "day_low": 4.755,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-08T15:11:00.000-0400",
+      "as_of": "2026-10-08T20:32:36.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1753,9 +1780,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           5.602
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          5.608
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:00+00:00",
+      "fetched_at": "2026-10-09T00:32:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1768,16 +1799,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.602,
-      "change": -0.059,
-      "change_pct": -1.0422,
-      "prev_close": 5.661,
-      "day_open": 5.682,
-      "day_high": 5.733,
-      "day_low": 5.6,
+      "value": 5.608,
+      "change": 0.001,
+      "change_pct": 0.0178,
+      "prev_close": 5.607,
+      "day_open": 5.613,
+      "day_high": 5.614,
+      "day_low": 5.601,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-08T15:12:47.000-0400",
+      "as_of": "2026-10-08T20:32:35.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1809,12 +1840,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.53343124241598,
-      "fetched_at": "2026-10-08T19:13:00+00:00",
+      "value": 1.5404312424159796,
+      "fetched_at": "2026-10-09T00:32:43+00:00",
       "as_of": "2026-08-01",
-      "prev_close": 1.7561155781387079,
-      "change": -0.22268433572272794,
-      "change_pct": -12.680505685095579,
+      "prev_close": 1.7121155781387074,
+      "change": -0.1716843357227278,
+      "change_pct": -10.02761366784426,
       "stale": false
     },
     {
@@ -2290,9 +2321,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           7755.27
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          7765.36
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:00+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2305,16 +2340,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7755.27,
-      "change": -46.5,
-      "change_pct": -0.6,
+      "value": 7765.36,
+      "change": -36.41,
+      "change_pct": -0.47,
       "prev_close": 7801.77,
       "day_open": 7778.45,
       "day_high": 7797.79,
       "day_low": 7731.26,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-08T15:13:00.000-0400",
+      "as_of": "2026-10-08T16:46:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2792,9 +2827,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           27147.408
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          27193.34
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:01+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2807,16 +2846,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27147.408,
-      "change": -391.283,
-      "change_pct": -1.42,
+      "value": 27193.34,
+      "change": -345.35,
+      "change_pct": -1.25,
       "prev_close": 27538.691,
       "day_open": 27416.031,
       "day_high": 27491.895,
       "day_low": 27066.757,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-08T15:13:00.000-0400",
+      "as_of": "2026-10-08T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3322,9 +3361,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           15.61
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          15.41
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:01+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3337,16 +3380,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 15.61,
-      "change": 0.53,
-      "change_pct": 3.51,
+      "value": 15.41,
+      "change": 0.33,
+      "change_pct": 2.19,
       "prev_close": 15.08,
       "day_open": 15.68,
       "day_high": 16.46,
       "day_low": 15.15,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-08T15:12:46.000-0400",
+      "as_of": "2026-10-08T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -3884,9 +3927,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           1.1211
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          1.1215
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:01+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3899,16 +3946,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1211,
-      "change": 0.0016,
-      "change_pct": 0.1429,
-      "prev_close": 1.1195,
-      "day_open": 1.1194,
-      "day_high": 1.1226,
-      "day_low": 1.1172,
+      "value": 1.1215,
+      "change": 0.0006,
+      "change_pct": 0.0535,
+      "prev_close": 1.1209,
+      "day_open": 1.1211,
+      "day_high": 1.1222,
+      "day_low": 1.1211,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-08T15:12:00.000-0400",
+      "as_of": "2026-10-08T20:32:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4430,9 +4477,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           0.8314
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          0.8311
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4445,16 +4496,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8314,
-      "change": -0.0017,
-      "change_pct": -0.2041,
-      "prev_close": 0.8331,
-      "day_open": 0.8331,
-      "day_high": 0.8346,
-      "day_low": 0.8307,
+      "value": 0.8311,
+      "change": -0.0003,
+      "change_pct": -0.0361,
+      "prev_close": 0.8314,
+      "day_open": 0.8313,
+      "day_high": 0.8317,
+      "day_low": 0.8311,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-08T15:12:00.000-0400",
+      "as_of": "2026-10-08T20:32:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -4972,9 +5023,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           4152.1
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          4171.9
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4987,16 +5042,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4152.1,
-      "change": 11.4,
-      "change_pct": 0.28,
-      "prev_close": 4140.7,
-      "day_open": 4139.9,
-      "day_high": 4170.7,
-      "day_low": 4128.1,
+      "value": 4171.9,
+      "change": 14.9,
+      "change_pct": 0.36,
+      "prev_close": 4157.0,
+      "day_open": 4159.7,
+      "day_high": 4175.3,
+      "day_low": 4156.1,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-08T15:02:46.000-0400",
+      "as_of": "2026-10-08T20:22:28.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5514,9 +5569,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           91.4
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          91.12
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5529,16 +5588,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.4,
-      "change": 3.12,
-      "change_pct": 3.53,
-      "prev_close": 88.28,
-      "day_open": 89.0,
-      "day_high": 93.2,
-      "day_low": 88.77,
+      "value": 91.12,
+      "change": -0.37,
+      "change_pct": -0.4,
+      "prev_close": 91.49,
+      "day_open": 91.29,
+      "day_high": 91.41,
+      "day_low": 90.93,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-08T15:02:57.000-0400",
+      "as_of": "2026-10-08T20:22:35.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -5968,9 +6027,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           230.15
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          230.48
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:44+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5983,17 +6046,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 230.15,
-      "change": -7.32,
-      "change_pct": -3.08,
+      "value": 230.48,
+      "change": -6.99,
+      "change_pct": -2.94,
       "prev_close": 237.47,
       "day_open": 234.92,
       "day_high": 237.07,
       "day_low": 229.85,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-08T15:12:59.558-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-08T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -6418,9 +6481,13 @@
         [
           "2026-10-08T19:13:04+00:00",
           603.12
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          607.27
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:45+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6433,17 +6500,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 603.12,
-      "change": -21.91,
-      "change_pct": -3.51,
+      "value": 607.27,
+      "change": -17.76,
+      "change_pct": -2.84,
       "prev_close": 625.03,
       "day_open": 615.7,
       "day_high": 623.13,
       "day_low": 600.32,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-08T15:12:56.461-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-08T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -6868,14 +6935,18 @@
         [
           "2026-10-08T19:13:04+00:00",
           77.76905252815182
+        ],
+        [
+          "2026-10-09T00:32:47+00:00",
+          78.20242718946707
         ]
       ],
-      "value": 77.76905252815182,
-      "fetched_at": "2026-10-08T19:13:00+00:00",
-      "as_of": "2026-10-08T15:12:56.461-0400",
+      "value": 78.20242718946707,
+      "fetched_at": "2026-10-09T00:32:44+00:00",
+      "as_of": "2026-10-08T16:15:00.000-0400",
       "prev_close": 80.11387159580454,
-      "change": -2.344819067652722,
-      "change_pct": -2.926857760018075,
+      "change": -1.9114444063374663,
+      "change_pct": -2.38590941651304,
       "stale": false
     },
     {
@@ -7041,7 +7112,7 @@
           3.09
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:45+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -7223,7 +7294,7 @@
           0.82
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:45+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -7313,7 +7384,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:02+00:00",
+      "fetched_at": "2026-10-09T00:32:45+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -7401,7 +7472,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:04+00:00",
+      "fetched_at": "2026-10-09T00:32:46+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7477,7 +7548,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:04+00:00",
+      "fetched_at": "2026-10-09T00:32:46+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7526,7 +7597,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-08T19:13:04+00:00",
+      "fetched_at": "2026-10-09T00:32:46+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -7696,7 +7767,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:04+00:00",
+      "fetched_at": "2026-10-09T00:32:46+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -7879,7 +7950,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-08T19:13:04+00:00",
+      "fetched_at": "2026-10-09T00:32:47+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
