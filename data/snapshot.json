@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T00:11:14+00:00",
+  "generated_at": "2026-10-12T14:34:45+00:00",
   "briefing": {
-    "captured_at": "2026-10-10T00:11:18+00:00",
+    "captured_at": "2026-10-12T14:34:46+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,233 +17,204 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact",
-        "url": "https://seekingalpha.com/news/4651899-trump-turns-to-russia-in-bid-to-lower-diesel-prices-but-analysts-see-minimal-impact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "Saudi Arabia Faces Fresh Attacks",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-12/saudi-arabia-faces-fresh-attacks-video",
         "sources": [
-          "Fortune",
-          "MarketWatch",
-          "Seeking Alpha"
+          "Bloomberg",
+          "CNBC",
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Fortune",
-            "headline": "Trump struck a diesel deal with Putin just weeks after signing Russia sanctions. Zelenskyy calls it \u2018a weak decision\u2019",
-            "url": "https://fortune.com/2026/10/09/trump-putin-russian-diesel-deal-zelenskyy-sanctions/"
+            "source": "Bloomberg",
+            "headline": "Saudi Arabia Faces Fresh Attacks",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-12/saudi-arabia-faces-fresh-attacks-video"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be \u2018too little, too late,\u2019 says strategist.",
-            "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories"
+            "source": "Bloomberg",
+            "headline": "Oil Swings on Russia-Ukraine Progress, Saudi Attacks",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-12/bloomberg-brief-10-12-2026-video"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact",
-            "url": "https://seekingalpha.com/news/4651899-trump-turns-to-russia-in-bid-to-lower-diesel-prices-but-analysts-see-minimal-impact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "CNBC",
+            "headline": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+            "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+            "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+            "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+            "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
           }
         ],
-        "published": "2026-10-09T23:50:41+00:00"
+        "published": "2026-10-12T14:31:32+00:00"
       },
       {
-        "headline": "Trump Says Putin to Supply US With Diesel",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video",
+        "headline": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
         "sources": [
-          "BBC",
+          "CNBC",
+          "Guardian",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+            "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on \u2018smoothing\u2019 crises",
+            "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+          },
+          {
+            "source": "NPR",
+            "headline": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+            "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics"
+          }
+        ],
+        "published": "2026-10-12T14:20:53+00:00"
+      },
+      {
+        "headline": "Starbucks says it is not buying Chipotle after takeover speculation",
+        "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Starbucks says it is not buying Chipotle after takeover speculation",
+            "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Starbucks says it is not buying Chipotle after takeover speculation",
+            "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html"
+          }
+        ],
+        "published": "2026-10-12T14:22:48+00:00"
+      },
+      {
+        "headline": "Zelenskyy Says Ukraine to Strike If Russia Violates Energy Truce",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-12/zelenskyy-vows-response-if-russia-violates-energy-truce-video",
+        "sources": [
           "Bloomberg",
           "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "source": "Bloomberg",
-            "headline": "Trump Says Putin to Supply US With Diesel",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video"
+            "headline": "Zelenskyy Says Ukraine to Strike If Russia Violates Energy Truce",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-12/zelenskyy-vows-response-if-russia-violates-energy-truce-video"
           },
           {
             "source": "CNBC",
-            "headline": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-            "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html"
+            "headline": "Zelenskyy accuses Russia of violating Trump\u2019s energy ceasefire as drone attacks continue",
+            "url": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html"
           }
         ],
-        "published": "2026-10-09T23:17:38+00:00"
+        "published": "2026-10-12T14:21:08+00:00"
       },
       {
-        "headline": "Wall Street\u2019s Rate Shock Spreads Beneath AI-Fueled Market Rally",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally",
+        "headline": "Law Firm DLA Piper Hires Latham Team to Expand Private Credit Group",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/law-firm-dla-piper-hires-latham-team-to-expand-private-credit-group",
         "sources": [
           "Bloomberg",
-          "CNBC",
-          "MarketWatch"
+          "Business Insider"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video"
+            "headline": "Law Firm DLA Piper Hires Latham Team to Expand Private Credit Group",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-12/law-firm-dla-piper-hires-latham-team-to-expand-private-credit-group"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Wall Street\u2019s Rate Shock Spreads Beneath AI-Fueled Market Rally",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "The Little-Known Trading Firm That Beat Wall Street\u2019s Biggest Giants",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-little-known-trading-firm-that-beat-wall-street-s-biggest-giants"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
-            "url": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-            "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories"
+            "source": "Business Insider",
+            "headline": "Hub Group Investor News: Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of Hub Group, Inc. - HUBG",
+            "url": "https://markets.businessinsider.com/news/stocks/hub-group-investor-news-rosen-law-firm-announces-investigation-of-breaches-of-fiduciary-duties-by-the-directors-and-officers-of-hub-group-inc.-hubg-1036614388"
           }
         ],
-        "published": "2026-10-09T23:13:28+00:00"
-      },
-      {
-        "headline": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-        "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-            "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-            "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-            "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-            "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "\u2018I drive a Tesla\u2019: After Elon Musk said he\u2019d lose his job, Delta CEO Ed Bastian says there\u2019s \u2018no tit for tat\u2019 as airline unveils earnings miss",
-            "url": "https://fortune.com/2026/10/09/delta-ed-bastian-elon-musk-q3-earnings-tit-for-tat-starlink/"
-          }
-        ],
-        "published": "2026-10-09T19:05:23+00:00"
-      },
-      {
-        "headline": "Fired OpenAI employees question the company's commitment to safety",
-        "url": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
-        "sources": [
-          "BBC",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-            "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "NPR",
-            "headline": "Fired OpenAI employees question the company's commitment to safety",
-            "url": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings"
-          }
-        ],
-        "published": "2026-10-09T21:28:09+00:00"
+        "published": "2026-10-12T14:08:18+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Trump announces deal for Putin to supply Russian diesel to the US; Zelensky calls it a weak decision.",
-          "topic_ids": [
-            0,
-            1
-          ],
-          "sources": [
-            "BBC",
-            "Bloomberg",
-            "CNBC",
-            "Fortune",
-            "MarketWatch",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Analysts see minimal price impact from the Russian diesel deal, calling it too little, too late.",
+          "text": "Oil swings as Saudi Arabia takes fresh attacks; FAA warns U.S. airlines, Delta delays Riyadh service to March",
           "topic_ids": [
             0
           ],
           "sources": [
-            "Fortune",
-            "MarketWatch",
-            "Seeking Alpha"
+            "Bloomberg",
+            "CNBC",
+            "CNBC Finance"
           ]
         },
         {
-          "text": "Rate shock spreads beneath the AI-fueled rally, and Wall Street pitches data centers as a real estate bet.",
+          "text": "Trump says he will 'look at' joining Saudi Arabia against Iran-backed Houthis after airport strike",
           "topic_ids": [
-            2
+            0
           ],
           "sources": [
             "Bloomberg",
             "CNBC",
-            "MarketWatch"
+            "CNBC Finance"
           ]
         },
         {
-          "text": "Delta cuts its 2026 forecast on a fuel surge and misses on earnings; CEO says demand stays strong.",
+          "text": "Zelenskyy accuses Russia of violating Trump's energy ceasefire, vows strikes if truce breaks",
           "topic_ids": [
             3
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance",
-            "Fortune"
+            "Bloomberg",
+            "CNBC"
           ]
         },
         {
-          "text": "Fired OpenAI researchers say they were let go for prioritising safety.",
+          "text": "Hall and Woodford win Nobel economics prize for work on boom-bust cycles",
           "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "Guardian",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Starbucks denies it is buying Chipotle; DLA Piper hires Latham team for private credit",
+          "topic_ids": [
+            2,
             4
           ],
           "sources": [
-            "BBC",
-            "NPR"
+            "Bloomberg",
+            "Business Insider",
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-10T00:11:31+00:00"
+      "written_at": "2026-10-12T14:34:56+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -771,9 +742,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           5.242
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          5.242
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:42+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -790,12 +765,12 @@
       "change": 0.009,
       "change_pct": 0.172,
       "prev_close": 5.233,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.24,
+      "day_high": 5.28,
+      "day_low": 5.219,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-09T18:50:00.000-0400",
+      "as_of": "2026-10-09T17:01:34.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1317,9 +1292,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           4.791
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          4.791
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1336,12 +1315,12 @@
       "change": 0.035,
       "change_pct": -0.0664,
       "prev_close": 4.756,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.766,
+      "day_high": 4.821,
+      "day_low": 4.747,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-09T18:50:00.000-0400",
+      "as_of": "2026-10-09T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1863,9 +1842,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           5.6
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          5.6
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1882,12 +1865,12 @@
       "change": -0.007,
       "change_pct": -0.1248,
       "prev_close": 5.607,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.613,
+      "day_high": 5.64,
+      "day_low": 5.591,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-09T18:50:00.000-0400",
+      "as_of": "2026-10-09T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1920,7 +1903,7 @@
         ]
       ],
       "value": 1.5484312424159796,
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:42+00:00",
       "as_of": "2026-08-01",
       "prev_close": 1.7121155781387074,
       "change": -0.16368433572272778,
@@ -2416,9 +2399,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           7811.54
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          7805.35
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2431,16 +2418,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7811.54,
-      "change": 46.18,
-      "change_pct": 0.59,
-      "prev_close": 7765.36,
-      "day_open": 7786.36,
-      "day_high": 7820.57,
-      "day_low": 7779.34,
+      "value": 7805.35,
+      "change": -6.19,
+      "change_pct": -0.08,
+      "prev_close": 7811.54,
+      "day_open": 7813.04,
+      "day_high": 7821.67,
+      "day_low": 7802.58,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-09T17:29:56.000-0400",
+      "as_of": "2026-10-12T10:34:39.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -2934,9 +2921,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           27366.17
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          27260.855
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2949,16 +2940,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 27366.17,
-      "change": 172.829,
-      "change_pct": 0.64,
-      "prev_close": 27193.34,
-      "day_open": 27342.266,
-      "day_high": 27395.413,
-      "day_low": 27254.033,
+      "value": 27260.855,
+      "change": -105.314,
+      "change_pct": -0.39,
+      "prev_close": 27366.17,
+      "day_open": 27352.51,
+      "day_high": 27376.66,
+      "day_low": 27240.474,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-09T17:16:01.000-0400",
+      "as_of": "2026-10-12T10:34:39.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3480,9 +3471,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           14.84
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          15.3
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3495,16 +3490,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 14.84,
-      "change": -0.57,
-      "change_pct": -3.7,
-      "prev_close": 15.41,
-      "day_open": 15.34,
-      "day_high": 15.34,
-      "day_low": 14.77,
+      "value": 15.3,
+      "change": 0.46,
+      "change_pct": 3.1,
+      "prev_close": 14.84,
+      "day_open": 15.39,
+      "day_high": 15.53,
+      "day_low": 15.26,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-09T16:15:01.000-0400",
+      "as_of": "2026-10-12T10:34:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4058,9 +4053,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           1.1201
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          1.1178
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:10+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4073,16 +4072,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1201,
-      "change": -0.0001,
-      "change_pct": -0.0058,
-      "prev_close": 1.1202,
-      "day_open": 1.1206,
-      "day_high": 1.1209,
-      "day_low": 1.1202,
+      "value": 1.1178,
+      "change": -0.0023,
+      "change_pct": -0.2053,
+      "prev_close": 1.1201,
+      "day_open": 1.1197,
+      "day_high": 1.1217,
+      "day_low": 1.117,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-09T20:10:05.000-0400",
+      "as_of": "2026-10-12T10:34:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4620,9 +4619,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           0.8292
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          0.8335
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4635,16 +4638,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8292,
-      "change": -0.0011,
-      "change_pct": -0.1283,
-      "prev_close": 0.8302,
-      "day_open": 0.8302,
-      "day_high": 0.8308,
-      "day_low": 0.8302,
+      "value": 0.8335,
+      "change": 0.0034,
+      "change_pct": 0.4096,
+      "prev_close": 0.8301,
+      "day_open": 0.8286,
+      "day_high": 0.8338,
+      "day_low": 0.8294,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-09T20:11:05.000-0400",
+      "as_of": "2026-10-12T10:34:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5178,11 +5181,17 @@
         [
           "2026-10-10T00:11:14+00:00",
           4078.7
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          4187.2
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -5191,16 +5200,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4078.7,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "prev_close": 4078.7,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "value": 4187.2,
+      "change": -29.1,
+      "change_pct": -0.69,
+      "prev_close": 4216.3,
+      "day_open": 4220.8,
+      "day_high": 4242.3,
+      "day_low": 4178.1,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-06-26",
+      "as_of": "2026-10-12T10:24:34.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5734,9 +5743,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           91.66
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          93.85
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5749,16 +5762,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.66,
-      "change": 0.17,
-      "change_pct": 0.19,
-      "prev_close": 91.49,
-      "day_open": 91.29,
-      "day_high": 92.17,
-      "day_low": 90.01,
+      "value": 93.85,
+      "change": 2.0,
+      "change_pct": 2.18,
+      "prev_close": 91.85,
+      "day_open": 91.83,
+      "day_high": 94.06,
+      "day_low": 89.61,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-09T16:59:58.000-0400",
+      "as_of": "2026-10-12T10:24:34.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -6204,9 +6217,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           229.28
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          225.22
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6219,16 +6236,16 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 229.28,
-      "change": -1.2,
-      "change_pct": -0.52,
-      "prev_close": 230.48,
-      "day_open": 233.84,
-      "day_high": 233.92,
-      "day_low": 229.11,
+      "value": 225.22,
+      "change": -4.06,
+      "change_pct": -1.77,
+      "prev_close": 229.28,
+      "day_open": 228.73,
+      "day_high": 228.86,
+      "day_low": 224.9,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-09T16:00:00.821-0400",
+      "as_of": "2026-10-12T10:34:38.229-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
@@ -6670,9 +6687,13 @@
         [
           "2026-10-10T00:11:14+00:00",
           603.33
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          589.77
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:43+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6685,16 +6706,16 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 603.33,
-      "change": -3.94,
-      "change_pct": -0.65,
-      "prev_close": 607.27,
-      "day_open": 615.14,
-      "day_high": 615.55,
-      "day_low": 601.38,
+      "value": 589.77,
+      "change": -13.57,
+      "change_pct": -2.25,
+      "prev_close": 603.33,
+      "day_open": 598.45,
+      "day_high": 598.45,
+      "day_low": 589.22,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-09T16:00:00.722-0400",
+      "as_of": "2026-10-12T10:34:38.628-0400",
       "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
@@ -7136,14 +7157,18 @@
         [
           "2026-10-10T00:11:14+00:00",
           77.2357307265917
+        ],
+        [
+          "2026-10-12T14:34:45+00:00",
+          75.55971224864996
         ]
       ],
-      "value": 77.2357307265917,
-      "fetched_at": "2026-10-10T00:11:10+00:00",
-      "as_of": "2026-10-09T16:00:00.722-0400",
-      "prev_close": 78.20242718946707,
-      "change": -0.966696462875376,
-      "change_pct": -1.2361463673413686,
+      "value": 75.55971224864996,
+      "fetched_at": "2026-10-12T14:34:43+00:00",
+      "as_of": "2026-10-12T10:34:38.628-0400",
+      "prev_close": 77.2357307265917,
+      "change": -1.6760184779417386,
+      "change_pct": -2.170004041102051,
       "stale": false
     },
     {
@@ -7309,7 +7334,7 @@
           3.15
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:44+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -7491,7 +7516,7 @@
           0.82
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:44+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -7581,7 +7606,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:11+00:00",
+      "fetched_at": "2026-10-12T14:34:44+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -7669,7 +7694,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:13+00:00",
+      "fetched_at": "2026-10-12T14:34:45+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7745,7 +7770,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:14+00:00",
+      "fetched_at": "2026-10-12T14:34:45+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7794,7 +7819,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-10T00:11:13+00:00",
+      "fetched_at": "2026-10-12T14:34:45+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -7964,7 +7989,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:14+00:00",
+      "fetched_at": "2026-10-12T14:34:45+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -8147,7 +8172,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-10T00:11:14+00:00",
+      "fetched_at": "2026-10-12T14:34:45+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
