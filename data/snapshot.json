@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T21:39:46+00:00",
+  "generated_at": "2026-10-13T02:11:16+00:00",
   "briefing": {
-    "captured_at": "2026-10-12T21:39:50+00:00",
+    "captured_at": "2026-10-13T02:11:18+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,20 +17,15 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Trump faces growing backlash over plans to import diesel from Russia",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "headline": "Trumps' Russia diesel deal will do little for U.S. prices, analysts say",
+        "url": "https://seekingalpha.com/news/4652291-trumps-russia-diesel-deal-will-do-little-for-u-s-prices-analysts-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
-          "BBC",
           "CNBC",
-          "Guardian"
+          "Guardian",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
-          {
-            "source": "BBC",
-            "headline": "Trump faces growing backlash over plans to import diesel from Russia",
-            "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
-          },
           {
             "source": "CNBC",
             "headline": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
@@ -40,59 +35,36 @@
             "source": "Guardian",
             "headline": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
             "url": "https://www.theguardian.com/news/video/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Trumps' Russia diesel deal will do little for U.S. prices, analysts say",
+            "url": "https://seekingalpha.com/news/4652291-trumps-russia-diesel-deal-will-do-little-for-u-s-prices-analysts-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-12T18:32:03+00:00"
+        "published": "2026-10-12T23:56:46+00:00"
       },
       {
-        "headline": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-        "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+        "headline": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+        "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
         "sources": [
-          "CNBC",
-          "Guardian",
-          "NPR"
+          "Business Insider",
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-            "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html"
+            "source": "Business Insider",
+            "headline": "Micas Networks Unveils Three 102.4T Open Ethernet Platforms for AI Factories at OCP Global Summit 2026",
+            "url": "https://markets.businessinsider.com/news/stocks/micas-networks-unveils-three-102-4t-open-ethernet-platforms-for-ai-factories-at-ocp-global-summit-2026-1036616957"
           },
-          {
-            "source": "Guardian",
-            "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on \u2018smoothing\u2019 crises",
-            "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
-          },
-          {
-            "source": "NPR",
-            "headline": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-            "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics"
-          }
-        ],
-        "published": "2026-10-12T14:20:53+00:00"
-      },
-      {
-        "headline": "Meta is back on the AI leaderboard with its new family of Wonder models",
-        "url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-        "sources": [
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
           {
             "source": "CNBC",
-            "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-            "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Meta is back on the AI leaderboard with its new family of Wonder models",
-            "url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories"
+            "headline": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+            "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
           }
         ],
-        "published": "2026-10-12T19:43:00+00:00"
+        "published": "2026-10-13T02:09:34+00:00"
       },
       {
         "headline": "Fridges in French supermarkets hit by cyber attack",
@@ -152,25 +124,46 @@
           }
         ],
         "published": "2026-10-12T16:50:44+00:00"
+      },
+      {
+        "headline": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
+        "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
+            "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
+            "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html"
+          }
+        ],
+        "published": "2026-10-12T14:56:42+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Trump defends Russia diesel import deal after bipartisan pushback, saying he made the right choice.",
+          "text": "IMF sees global economy slowing less than expected in 2026, AI boom offsetting war hit",
           "topic_ids": [
-            0
+            1
           ],
           "sources": [
-            "BBC",
-            "CNBC",
-            "Guardian"
+            "Business Insider",
+            "CNBC"
           ]
         },
         {
-          "text": "FAA warns US airlines over Saudi Arabia after attacks; Delta pushes Riyadh service debut to March.",
+          "text": "FAA warns US airlines on Saudi risk; Delta pushes Riyadh launch to March after airport attacks",
           "topic_ids": [
-            4
+            3
           ],
           "sources": [
             "CNBC",
@@ -178,39 +171,39 @@
           ]
         },
         {
-          "text": "Meta launches Muse Wonder AI model, testing whether users will pay.",
+          "text": "Trump defends Russia diesel deal after bipartisan pushback; analysts see little US price relief",
           "topic_ids": [
-            2
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Robert E. Hall and Michael Woodford win the Nobel economics prize for work on boom-bust cycles.",
-          "topic_ids": [
-            1
+            0
           ],
           "sources": [
             "CNBC",
             "Guardian",
-            "NPR"
+            "Seeking Alpha"
           ]
         },
         {
-          "text": "Cyber-attack forces fridges in French supermarkets to heat to 50C.",
+          "text": "Cyber-attack forces French supermarket fridges to heat to 50C",
           "topic_ids": [
-            3
+            2
           ],
           "sources": [
             "BBC",
             "Guardian"
           ]
+        },
+        {
+          "text": "McDonald's bets on chicken and drinks for growth; new data points to a tough task",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
+          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-12T21:40:01+00:00"
+      "written_at": "2026-10-13T02:11:28+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -742,9 +735,13 @@
         [
           "2026-10-12T14:34:45+00:00",
           5.242
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          5.194
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -757,16 +754,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.242,
-      "change": 0.009,
-      "change_pct": 0.172,
-      "prev_close": 5.233,
-      "day_open": 5.24,
-      "day_high": 5.28,
-      "day_low": 5.219,
+      "value": 5.194,
+      "change": -0.05,
+      "change_pct": -0.9535,
+      "prev_close": 5.244,
+      "day_open": 5.232,
+      "day_high": 5.236,
+      "day_low": 5.185,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-09T17:01:34.000-0400",
+      "as_of": "2026-10-12T22:11:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1292,9 +1289,13 @@
         [
           "2026-10-12T14:34:45+00:00",
           4.791
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          4.768
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1307,16 +1308,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.791,
-      "change": 0.035,
-      "change_pct": -0.0664,
-      "prev_close": 4.756,
-      "day_open": 4.766,
-      "day_high": 4.821,
-      "day_low": 4.747,
+      "value": 4.768,
+      "change": -0.023,
+      "change_pct": 0.0469,
+      "prev_close": 4.791,
+      "day_open": 4.797,
+      "day_high": 4.797,
+      "day_low": 4.766,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-09T17:05:00.000-0400",
+      "as_of": "2026-10-12T22:10:34.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1842,9 +1843,13 @@
         [
           "2026-10-12T14:34:45+00:00",
           5.6
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          5.554
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1857,16 +1862,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.6,
-      "change": -0.007,
-      "change_pct": -0.1248,
-      "prev_close": 5.607,
-      "day_open": 5.613,
-      "day_high": 5.64,
-      "day_low": 5.591,
+      "value": 5.554,
+      "change": -0.045,
+      "change_pct": -0.8037,
+      "prev_close": 5.599,
+      "day_open": 5.591,
+      "day_high": 5.597,
+      "day_low": 5.544,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-09T17:05:00.000-0400",
+      "as_of": "2026-10-12T22:10:58.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -1898,12 +1903,12 @@
           1.2524312424159794
         ]
       ],
-      "value": 1.5484312424159796,
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "value": 1.5004312424159796,
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "as_of": "2026-08-01",
-      "prev_close": 1.7121155781387074,
-      "change": -0.16368433572272778,
-      "change_pct": -9.560355493095505,
+      "prev_close": 1.7231155781387075,
+      "change": -0.22268433572272794,
+      "change_pct": -12.923354564716394,
       "stale": false
     },
     {
@@ -2405,7 +2410,7 @@
           7807.24
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2931,7 +2936,7 @@
           27245.902
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3485,7 +3490,7 @@
           15.21
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4069,9 +4074,13 @@
         [
           "2026-10-12T21:39:46+00:00",
           1.1155
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          1.117
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4084,16 +4093,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1155,
-      "change": 0.0002,
-      "change_pct": 0.0179,
+      "value": 1.117,
+      "change": 0.0017,
+      "change_pct": 0.1524,
       "prev_close": 1.1153,
       "day_open": 1.1154,
-      "day_high": 1.1155,
-      "day_low": 1.1155,
+      "day_high": 1.1171,
+      "day_low": 1.1154,
       "year_high": 1.21,
       "year_low": 1.12,
-      "as_of": "2026-10-12T17:39:00.000-0400",
+      "as_of": "2026-10-12T22:11:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4639,9 +4648,13 @@
         [
           "2026-10-12T21:39:46+00:00",
           0.8341
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          0.8331
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4654,16 +4667,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8341,
-      "change": -0.0003,
-      "change_pct": -0.036,
+      "value": 0.8331,
+      "change": -0.0013,
+      "change_pct": -0.1558,
       "prev_close": 0.8344,
       "day_open": 0.8345,
       "day_high": 0.8348,
-      "day_low": 0.8341,
+      "day_low": 0.8331,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-12T17:39:00.000-0400",
+      "as_of": "2026-10-12T22:11:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5205,9 +5218,13 @@
         [
           "2026-10-12T21:39:46+00:00",
           4195.9
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          4188.7
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5220,16 +5237,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4195.9,
-      "change": -20.4,
-      "change_pct": -0.48,
-      "prev_close": 4216.3,
-      "day_open": 4220.8,
-      "day_high": 4242.3,
-      "day_low": 4178.1,
+      "value": 4188.7,
+      "change": -1.9,
+      "change_pct": -0.05,
+      "prev_close": 4190.6,
+      "day_open": 4195.5,
+      "day_high": 4201.7,
+      "day_low": 4173.7,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-12T16:59:59.000-0400",
+      "as_of": "2026-10-12T22:00:57.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -5771,9 +5788,13 @@
         [
           "2026-10-12T21:39:46+00:00",
           93.16
+        ],
+        [
+          "2026-10-13T02:11:16+00:00",
+          92.47
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5786,16 +5807,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 93.16,
-      "change": 1.31,
-      "change_pct": 1.43,
-      "prev_close": 91.85,
-      "day_open": 91.83,
-      "day_high": 94.36,
-      "day_low": 89.61,
+      "value": 92.47,
+      "change": -1.27,
+      "change_pct": -1.35,
+      "prev_close": 93.74,
+      "day_open": 93.21,
+      "day_high": 93.49,
+      "day_low": 92.44,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-12T16:59:58.000-0400",
+      "as_of": "2026-10-12T22:01:06.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -6251,7 +6272,7 @@
           226.32
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6725,7 +6746,7 @@
           590.99
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7200,7 +7221,7 @@
         ]
       ],
       "value": 75.69768573785359,
-      "fetched_at": "2026-10-12T21:39:42+00:00",
+      "fetched_at": "2026-10-13T02:11:11+00:00",
       "as_of": "2026-10-12T16:15:00.000-0400",
       "prev_close": 77.2357307265917,
       "change": -1.5380449887381076,
@@ -7370,7 +7391,7 @@
           3.15
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -7552,7 +7573,7 @@
           0.82
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:43+00:00",
+      "fetched_at": "2026-10-13T02:11:12+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -7642,7 +7663,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:44+00:00",
+      "fetched_at": "2026-10-13T02:11:13+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -7730,7 +7751,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:45+00:00",
+      "fetched_at": "2026-10-13T02:11:14+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7806,7 +7827,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:45+00:00",
+      "fetched_at": "2026-10-13T02:11:15+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -7855,7 +7876,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-12T21:39:45+00:00",
+      "fetched_at": "2026-10-13T02:11:14+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -8025,7 +8046,7 @@
           3.6935687575840204
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:45+00:00",
+      "fetched_at": "2026-10-13T02:11:15+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -8208,7 +8229,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-12T21:39:46+00:00",
+      "fetched_at": "2026-10-13T02:11:16+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
