@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T23:22:29+00:00",
+  "generated_at": "2026-10-15T10:57:32+00:00",
   "briefing": {
-    "captured_at": "2026-10-14T23:22:38+00:00",
+    "captured_at": "2026-10-15T10:57:35+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -20,30 +20,12 @@
         "headline": "Bank of America fined $1.2bn for money-laundering failures",
         "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
         "sources": [
-          "BBC",
-          "Bloomberg",
           "CNBC",
           "CNBC Finance",
-          "Guardian",
-          "MarketWatch"
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
-          {
-            "source": "BBC",
-            "headline": "Bank of America hit with $1.2bn fine for money laundering failings",
-            "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Bank of America Slides on $1.21 Billion Fine as Chip Stocks Tumble | Closing Bell",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-14/bofa-slides-on-1-2b-fine-closing-bell-video"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-            "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
-          },
           {
             "source": "CNBC",
             "headline": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -63,21 +45,15 @@
             "source": "Guardian",
             "headline": "Bank of America fined $1.2bn for money-laundering failures",
             "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-            "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-14T21:40:00+00:00"
+        "published": "2026-10-14T20:20:46+00:00"
       },
       {
         "headline": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
         "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
-          "CNBC",
           "CNBC Finance",
           "Guardian"
         ],
@@ -87,11 +63,6 @@
             "source": "BBC",
             "headline": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
             "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-            "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html"
           },
           {
             "source": "CNBC Finance",
@@ -107,97 +78,83 @@
         "published": "2026-10-14T16:47:32+00:00"
       },
       {
-        "headline": "The COLA wars are coming for Social Security",
-        "url": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+        "headline": "Ukraine to Resume Russia Refinery Strikes, Defying Trump",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-15/ukraine-to-resume-russia-refinery-strikes-defying-trump-video",
         "sources": [
-          "CNBC",
-          "MarketWatch",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-            "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
-            "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "The COLA wars are coming for Social Security",
-            "url": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories"
-          },
-          {
-            "source": "NPR",
-            "headline": "Inflation sizzled in September \u2014 and Social Security benefits will get a boost",
-            "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
-          }
-        ],
-        "published": "2026-10-14T22:24:00+00:00"
-      },
-      {
-        "headline": "CNN, MS NOW and Politico prevail against White House \u2014 for now",
-        "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
-        "sources": [
-          "CNBC",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-            "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html"
-          },
-          {
-            "source": "NPR",
-            "headline": "CNN, MS NOW and Politico prevail against White House \u2014 for now",
-            "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban"
-          }
-        ],
-        "published": "2026-10-14T21:18:46+00:00"
-      },
-      {
-        "headline": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-        "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-        "sources": [
-          "BBC",
+          "Bloomberg",
           "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-            "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss"
+            "source": "Bloomberg",
+            "headline": "Ukraine to Resume Russia Refinery Strikes, Defying Trump",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-15/ukraine-to-resume-russia-refinery-strikes-defying-trump-video"
           },
           {
             "source": "CNBC",
-            "headline": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-            "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html"
+            "headline": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+            "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html"
           }
         ],
-        "published": "2026-10-14T21:18:13+00:00"
+        "published": "2026-10-15T10:13:25+00:00"
+      },
+      {
+        "headline": "Healey Says Budget Will Protect UK Economic 'Resilience'",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-15/healey-says-budget-will-protect-uk-economic-resilience-video",
+        "sources": [
+          "BBC",
+          "Bloomberg"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+            "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Healey Says Budget Will Protect UK Economic 'Resilience'",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-15/healey-says-budget-will-protect-uk-economic-resilience-video"
+          }
+        ],
+        "published": "2026-10-15T09:29:54+00:00"
+      },
+      {
+        "headline": "India\u2019s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+        "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
+        "sources": [
+          "Business Insider",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Business Insider",
+            "headline": "Fairfax Declared \u00e2\u0080\u009cStrategic Buyer\u00e2\u0080\u009d in Auction to Acquire Interest in IDBI Bank; Plans to Contribute Digit Insurance and IIFL Capital to IDBI Bank",
+            "url": "https://markets.businessinsider.com/news/stocks/fairfax-declared-strategic-buyer-in-auction-to-acquire-interest-in-idbi-bank-plans-to-contribute-digit-insurance-and-iifl-capital-to-idbi-bank-1036627511"
+          },
+          {
+            "source": "CNBC",
+            "headline": "India\u2019s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+            "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html"
+          }
+        ],
+        "published": "2026-10-15T06:12:04+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Bank of America falls on a $1.21bn money-laundering fine and a Q3 revenue miss; chip stocks tumble.",
+          "text": "Bank of America falls on Q3 revenue miss and $1.2bn money-laundering fine.",
           "topic_ids": [
             0
           ],
           "sources": [
-            "BBC",
-            "Bloomberg",
             "CNBC",
             "CNBC Finance",
-            "Guardian",
-            "MarketWatch"
+            "Guardian"
           ]
         },
         {
@@ -206,12 +163,9 @@
             0
           ],
           "sources": [
-            "BBC",
-            "Bloomberg",
             "CNBC",
             "CNBC Finance",
-            "Guardian",
-            "MarketWatch"
+            "Guardian"
           ]
         },
         {
@@ -221,35 +175,33 @@
           ],
           "sources": [
             "BBC",
-            "CNBC",
             "CNBC Finance",
             "Guardian"
           ]
         },
         {
-          "text": "Social Security sets a 3.6% 2027 COLA, about $75 more a month, after September inflation sizzled.",
+          "text": "Ukraine resumes strikes on Russian refineries, defying Trump's energy ceasefire hopes.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC",
-            "MarketWatch",
-            "NPR"
+            "Bloomberg",
+            "CNBC"
           ]
         },
         {
-          "text": "OpenAI bugging suspect had booked a one-way ticket to Saudi Arabia with family before arrest.",
+          "text": "IDBI Bank drops 7% as India sells $5.5bn stake to Canada's Fairfax.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "BBC",
+            "Business Insider",
             "CNBC"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-14T23:22:47+00:00"
+      "written_at": "2026-10-15T10:57:46+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -809,9 +761,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           5.194
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          5.087
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:03+00:00",
+      "fetched_at": "2026-10-15T10:57:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -824,16 +780,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.194,
-      "change": 0.004,
-      "change_pct": 0.0771,
+      "value": 5.087,
+      "change": -0.103,
+      "change_pct": -1.9846,
       "prev_close": 5.19,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.148,
+      "day_high": 5.158,
+      "day_low": 5.075,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-14T17:05:00.000-0400",
+      "as_of": "2026-10-15T06:56:08.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1387,11 +1343,16 @@
         [
           "2026-10-14T23:22:29+00:00",
           4.806
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          4.738
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:04+00:00",
+      "fetched_at": "2026-10-15T10:57:28+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
         "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
@@ -1401,16 +1362,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.806,
-      "change": 0.004000000000000448,
-      "change_pct": 0.0,
+      "value": 4.738,
+      "change": -0.064,
+      "change_pct": 0.1211,
       "prev_close": 4.802,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4.757,
+      "day_high": 4.77,
+      "day_low": 4.702,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-14T17:05:00.000-0400",
+      "as_of": "2026-10-15T06:55:49.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1964,9 +1925,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           5.525
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          5.431
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:06+00:00",
+      "fetched_at": "2026-10-15T10:57:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1979,16 +1944,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.525,
-      "change": 0.001,
-      "change_pct": 0.0181,
+      "value": 5.431,
+      "change": -0.093,
+      "change_pct": -1.6836,
       "prev_close": 5.524,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 5.497,
+      "day_high": 5.502,
+      "day_low": 5.419,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-14T17:05:00.000-0400",
+      "as_of": "2026-10-15T06:57:20.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2024,12 +1989,12 @@
           1.215469022396726
         ]
       ],
-      "value": 1.1924690223967263,
-      "fetched_at": "2026-10-14T23:22:03+00:00",
+      "value": 1.085469022396726,
+      "fetched_at": "2026-10-15T10:57:28+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.49643124241598,
-      "change": -0.30396222001925377,
-      "change_pct": -20.31247486710505,
+      "change": -0.410962220019254,
+      "change_pct": -27.462820099623002,
       "stale": false
     },
     {
@@ -2553,9 +2518,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           7718.94
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          7718.94
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:08+00:00",
+      "fetched_at": "2026-10-15T10:57:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2571,13 +2540,13 @@
       "value": 7718.94,
       "change": -86.51,
       "change_pct": -1.11,
-      "prev_close": 7805.45,
+      "prev_close": 7718.94,
       "day_open": 7774.18,
       "day_high": 7789.15,
       "day_low": 7693.31,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-14T16:36:08.000-0400",
+      "as_of": "2026-10-14",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3103,9 +3072,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           26692.868
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          26692.868
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:10+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3121,13 +3094,13 @@
       "value": 26692.868,
       "change": -511.512,
       "change_pct": -1.88,
-      "prev_close": 27204.38,
+      "prev_close": 26692.868,
       "day_open": 27031.64,
       "day_high": 27134.286,
       "day_low": 26602.115,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-14T17:15:59.000-0400",
+      "as_of": "2026-10-14",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3681,9 +3654,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           16.87
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          17.61
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:12+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3696,16 +3673,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.87,
-      "change": 1.6,
-      "change_pct": 10.48,
-      "prev_close": 15.27,
-      "day_open": 15.17,
-      "day_high": 17.45,
-      "day_low": 14.98,
+      "value": 17.61,
+      "change": 0.74,
+      "change_pct": 4.39,
+      "prev_close": 16.87,
+      "day_open": 17.55,
+      "day_high": 17.62,
+      "day_low": 17.32,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-14T16:15:01.000-0400",
+      "as_of": "2026-10-15T06:57:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4295,9 +4272,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           1.1177
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          1.1215
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:14+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4310,16 +4291,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1177,
-      "change": 0.0021,
-      "change_pct": 0.1882,
+      "value": 1.1215,
+      "change": 0.0059,
+      "change_pct": 0.5289,
       "prev_close": 1.1156,
       "day_open": 1.1156,
-      "day_high": 1.1179,
+      "day_high": 1.124,
       "day_low": 1.1152,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-14T19:22:00.000-0400",
+      "as_of": "2026-10-15T06:57:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -4893,9 +4874,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           0.8332
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          0.83
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:16+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4908,16 +4893,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8332,
-      "change": -0.0014,
-      "change_pct": -0.1677,
+      "value": 0.83,
+      "change": -0.0046,
+      "change_pct": -0.5512,
       "prev_close": 0.8346,
       "day_open": 0.8348,
       "day_high": 0.8353,
-      "day_low": 0.8335,
+      "day_low": 0.8279,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-14T19:22:00.000-0400",
+      "as_of": "2026-10-15T06:57:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5487,9 +5472,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           4121.7
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          4175.2
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:19+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5502,16 +5491,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4121.7,
-      "change": 13.8,
-      "change_pct": 0.34,
+      "value": 4175.2,
+      "change": 67.3,
+      "change_pct": 1.64,
       "prev_close": 4107.9,
       "day_open": 4128.3,
-      "day_high": 4133.0,
+      "day_high": 4183.3,
       "day_low": 4120.9,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-14T19:12:08.000-0400",
+      "as_of": "2026-10-15T06:47:22.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6081,9 +6070,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           94.8
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          95.15
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:20+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6096,16 +6089,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 94.8,
-      "change": -0.29,
-      "change_pct": -0.3,
+      "value": 95.15,
+      "change": 0.06,
+      "change_pct": 0.06,
       "prev_close": 95.09,
       "day_open": 95.19,
-      "day_high": 95.31,
-      "day_low": 94.61,
+      "day_high": 95.39,
+      "day_low": 93.58,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-14T19:12:15.000-0400",
+      "as_of": "2026-10-15T06:47:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -6583,9 +6576,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           221.3
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          221.3
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:24+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6601,14 +6598,14 @@
       "value": 221.3,
       "change": -7.22,
       "change_pct": -3.16,
-      "prev_close": 228.52,
-      "day_open": 225.53,
-      "day_high": 226.0,
-      "day_low": 219.64,
+      "prev_close": 221.3,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-14T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-14",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -7081,9 +7078,13 @@
         [
           "2026-10-14T23:22:29+00:00",
           564.74
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          564.74
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:26+00:00",
+      "fetched_at": "2026-10-15T10:57:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7099,14 +7100,14 @@
       "value": 564.74,
       "change": -23.38,
       "change_pct": -3.98,
-      "prev_close": 588.12,
-      "day_open": 576.49,
-      "day_high": 580.08,
-      "day_low": 563.12,
+      "prev_close": 564.74,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-14T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-14",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -7579,14 +7580,18 @@
         [
           "2026-10-14T23:22:29+00:00",
           73.16289542346487
+        ],
+        [
+          "2026-10-15T10:57:32+00:00",
+          73.16289542346487
         ]
       ],
       "value": 73.16289542346487,
-      "fetched_at": "2026-10-14T23:22:08+00:00",
-      "as_of": "2026-10-14T16:15:00.000-0400",
-      "prev_close": 75.34735345175486,
-      "change": -2.1844580282899813,
-      "change_pct": -2.8991834858389507,
+      "fetched_at": "2026-10-15T10:57:28+00:00",
+      "as_of": "2026-10-14",
+      "prev_close": 73.16289542346487,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -7752,7 +7757,7 @@
           3.16
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:26+00:00",
+      "fetched_at": "2026-10-15T10:57:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -7934,7 +7939,7 @@
           0.83
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:26+00:00",
+      "fetched_at": "2026-10-15T10:57:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -8024,7 +8029,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:27+00:00",
+      "fetched_at": "2026-10-15T10:57:30+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -8112,7 +8117,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:28+00:00",
+      "fetched_at": "2026-10-15T10:57:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8188,7 +8193,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:29+00:00",
+      "fetched_at": "2026-10-15T10:57:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8237,7 +8242,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-14T23:22:28+00:00",
+      "fetched_at": "2026-10-15T10:57:31+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -8407,7 +8412,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:29+00:00",
+      "fetched_at": "2026-10-15T10:57:32+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -8590,7 +8595,7 @@
           1.083420490020889
         ]
       ],
-      "fetched_at": "2026-10-14T23:22:29+00:00",
+      "fetched_at": "2026-10-15T10:57:32+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "843"
