@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T19:10:22+00:00",
+  "generated_at": "2026-10-19T23:51:44+00:00",
   "briefing": {
-    "captured_at": "2026-10-19T19:10:25+00:00",
+    "captured_at": "2026-10-19T23:51:49+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -10,167 +10,146 @@
       "Seeking Alpha",
       "CNBC Finance",
       "BBC",
+      "NPR",
       "Fortune",
       "Business Insider"
     ],
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Europe Should Release More Diesel Fuel, Wright Says",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-19/europe-should-release-more-diesel-fuel-wright-says-video",
+        "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "Bloomberg",
-          "Business Insider"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Europe Should Release More Diesel Fuel, Wright Says",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-19/europe-should-release-more-diesel-fuel-wright-says-video"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "EQS-PVR: Instone Real Estate Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-            "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-instone-real-estate-group-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036639370"
-          }
-        ],
-        "published": "2026-10-19T18:16:39+00:00"
-      },
-      {
-        "headline": "Saudi Arabia is learning the hard way: they can\u2019t count on Trump for protection | Mohamad Bazzi",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
-        "sources": [
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-            "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Saudi Arabia is learning the hard way: they can\u2019t count on Trump for protection | Mohamad Bazzi",
-            "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship"
-          }
-        ],
-        "published": "2026-10-19T17:01:26+00:00"
-      },
-      {
-        "headline": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-        "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-        "sources": [
-          "CNBC",
+          "BBC",
           "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-            "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html"
+            "source": "BBC",
+            "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+            "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "Fortune",
-            "headline": "Billionaire Elon Musk says he\u2019ll give every kid in America shares of SpaceX next year\u2014it\u2019ll add up to over $10 billion in stock",
-            "url": "https://fortune.com/2026/10/19/billionaire-elon-musk-give-every-kid-in-america-shares-of-spacex-add-up-to-10-billion-in-stock/"
+            "headline": "Ex-OpenAI engineer accused of bugging office stays in jail as prosecutors allege Saudi ties: \u2018Once he leaves, there\u2019s no getting him back\u2019",
+            "url": "https://fortune.com/2026/10/19/openai-alleged-bugger-alfozan-jail-saudi-court-filings-hearing/"
           }
         ],
-        "published": "2026-10-19T16:58:20+00:00"
+        "published": "2026-10-19T21:51:44+00:00"
       },
       {
-        "headline": "AI firm Anthropic to commit 5% of shares to fund for \u2018public good\u2019",
-        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+        "headline": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "CNBC",
+          "BBC",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-            "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
+            "source": "BBC",
+            "headline": "Burnham vows end to 'rip-off parking charges' under new rules",
+            "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "Guardian",
-            "headline": "AI firm Anthropic to commit 5% of shares to fund for \u2018public good\u2019",
-            "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"
+            "headline": "Andy Burnham outlines new rules to outlaw \u2018rip-off\u2019 private parking fines",
+            "url": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice"
           }
         ],
-        "published": "2026-10-19T12:51:04+00:00"
+        "published": "2026-10-19T21:30:07+00:00"
       },
       {
-        "headline": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-        "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+        "headline": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-19/amazon-rallies-on-ai-upside-closing-bell-video",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
+          "Bloomberg",
+          "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-            "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
+            "source": "Bloomberg",
+            "headline": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-19/amazon-rallies-on-ai-upside-closing-bell-video"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-            "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
+            "source": "Fortune",
+            "headline": "Morgan Stanley\u2019s favorite AI stock is 92% exposed to the $1.6 trillion build-out it\u2019s bullish on",
+            "url": "https://fortune.com/2026/10/19/nvidia-concentration-hyperscaler-1-6-trillion-92-percent-exposure/"
           }
         ],
-        "published": "2026-10-19T12:34:01+00:00"
+        "published": "2026-10-19T20:56:42+00:00"
+      },
+      {
+        "headline": "China's growth accelerates as AI boom helps boost exports",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "China's growth accelerates as AI boom helps boost exports",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+            "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html"
+          }
+        ],
+        "published": "2026-10-19T06:08:02+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Anthropic commits 5% of its shares to a new public benefit fund tied to AI job disruption.",
+          "text": "China Q3 growth quickens to 4.5%, beating estimates as AI-driven exports surge.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "CNBC",
-            "Guardian"
+            "BBC",
+            "CNBC"
           ]
         },
         {
-          "text": "JPMorgan Chase details its first $5 billion of defense investments, from robot factories to hypersonic missiles.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "Saudi Arabia postpones its big investor conference to 2027 as Houthi attacks on the kingdom escalate.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "CNBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Musk says he will give every child in America a SpaceX share next year, over $10 billion in stock.",
+          "text": "Amazon rallies after Morgan Stanley calls it its top AI pick on a $1.6 trillion build-out.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC",
+            "Bloomberg",
             "Fortune"
+          ]
+        },
+        {
+          "text": "Ex-OpenAI engineer accused of bugging the office stays jailed; prosecutors allege Saudi ties.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "BBC",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "Burnham sets out new rules to outlaw 'rip-off' private parking fines.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "BBC",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-19T19:10:36+00:00"
+      "written_at": "2026-10-19T23:51:58+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -762,9 +741,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           5.142
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          5.14
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:17+00:00",
+      "fetched_at": "2026-10-19T23:51:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -777,16 +760,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.142,
-      "change": 0.044,
-      "change_pct": 0.8631,
-      "prev_close": 5.098,
-      "day_open": 5.058,
-      "day_high": 5.15,
-      "day_low": 5.05,
+      "value": 5.14,
+      "change": 0.004,
+      "change_pct": 0.0779,
+      "prev_close": 5.136,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-19T15:09:59.000-0400",
+      "as_of": "2026-10-19T19:51:27.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1372,9 +1355,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           4.761
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          4.774
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:17+00:00",
+      "fetched_at": "2026-10-19T23:51:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1387,16 +1374,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.761,
-      "change": 0.025,
-      "change_pct": -0.0469,
-      "prev_close": 4.736,
-      "day_open": 4.706,
-      "day_high": 4.783,
-      "day_low": 4.704,
+      "value": 4.774,
+      "change": 0.013,
+      "change_pct": -0.0234,
+      "prev_close": 4.761,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-19T15:10:06.000-0400",
+      "as_of": "2026-10-19T19:50:08.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -1982,9 +1969,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           5.478
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          5.47
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:17+00:00",
+      "fetched_at": "2026-10-19T23:51:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1997,16 +1988,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.478,
-      "change": 0.041,
-      "change_pct": -0.6094,
-      "prev_close": 5.437,
-      "day_open": 5.407,
-      "day_high": 5.482,
-      "day_low": 5.396,
+      "value": 5.47,
+      "change": -0.003,
+      "change_pct": 0.0508,
+      "prev_close": 5.473,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-19T15:10:01.000-0400",
+      "as_of": "2026-10-19T19:51:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2042,12 +2033,12 @@
           1.215469022396726
         ]
       ],
-      "value": 1.1404690223967267,
-      "fetched_at": "2026-10-19T19:10:17+00:00",
+      "value": 1.138469022396726,
+      "fetched_at": "2026-10-19T23:51:37+00:00",
       "as_of": "2026-09-01",
-      "prev_close": 1.4044312424159795,
-      "change": -0.26396222001925285,
-      "change_pct": -18.79495500008748,
+      "prev_close": 1.4424312424159798,
+      "change": -0.30396222001925377,
+      "change_pct": -21.072908786288945,
       "stale": false
     },
     {
@@ -2603,9 +2594,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           7702.1
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          7690.73
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:18+00:00",
+      "fetched_at": "2026-10-19T23:51:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2618,16 +2613,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7702.1,
-      "change": 42.66,
-      "change_pct": 0.56,
+      "value": 7690.73,
+      "change": 31.29,
+      "change_pct": 0.41,
       "prev_close": 7659.44,
       "day_open": 7702.77,
       "day_high": 7731.18,
       "day_low": 7684.79,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-19T15:10:15.000-0400",
+      "as_of": "2026-10-19T16:44:14.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3185,9 +3180,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           26462.584
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          26430.886
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:18+00:00",
+      "fetched_at": "2026-10-19T23:51:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3200,16 +3199,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26462.584,
-      "change": 322.55,
-      "change_pct": 1.23,
+      "value": 26430.886,
+      "change": 290.852,
+      "change_pct": 1.11,
       "prev_close": 26140.034,
       "day_open": 26395.287,
       "day_high": 26613.147,
       "day_low": 26344.666,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-19T15:10:12.000-0400",
+      "as_of": "2026-10-19T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3795,9 +3794,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           18.28
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          18.44
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:18+00:00",
+      "fetched_at": "2026-10-19T23:51:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3810,16 +3813,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 18.28,
-      "change": -1.71,
-      "change_pct": -8.55,
+      "value": 18.44,
+      "change": -1.55,
+      "change_pct": -7.75,
       "prev_close": 19.99,
       "day_open": 18.37,
       "day_high": 18.93,
       "day_low": 17.39,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-19T15:10:01.000-0400",
+      "as_of": "2026-10-19T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4441,13 +4444,15 @@
         [
           "2026-10-19T19:10:22+00:00",
           1.121
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          1.121
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:18+00:00",
+      "fetched_at": "2026-10-19T23:51:39+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -4457,15 +4462,15 @@
         "_symbol": "EUR="
       },
       "value": 1.121,
-      "change": -0.0029,
-      "change_pct": -0.258,
-      "prev_close": 1.1239,
-      "day_open": 1.1205,
-      "day_high": 1.1234,
-      "day_low": 1.1184,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 1.121,
+      "day_open": 1.1215,
+      "day_high": 1.1215,
+      "day_low": 1.1211,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-19T15:10:00.000-0400",
+      "as_of": "2026-10-19T19:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5071,9 +5076,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           0.8266
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          0.8269
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:18+00:00",
+      "fetched_at": "2026-10-19T23:51:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5086,16 +5095,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8266,
-      "change": 0.0027,
-      "change_pct": 0.3277,
-      "prev_close": 0.8239,
-      "day_open": 0.8235,
-      "day_high": 0.827,
-      "day_low": 0.8234,
+      "value": 0.8269,
+      "change": 0.0004,
+      "change_pct": 0.0484,
+      "prev_close": 0.8265,
+      "day_open": 0.8267,
+      "day_high": 0.8271,
+      "day_low": 0.8263,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-19T15:09:00.000-0400",
+      "as_of": "2026-10-19T19:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5697,9 +5706,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           4165.0
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          4154.5
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:18+00:00",
+      "fetched_at": "2026-10-19T23:51:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5712,16 +5725,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4165.0,
-      "change": -16.1,
-      "change_pct": -0.39,
-      "prev_close": 4181.1,
-      "day_open": 4185.0,
-      "day_high": 4211.2,
-      "day_low": 4155.6,
+      "value": 4154.5,
+      "change": -5.6,
+      "change_pct": -0.13,
+      "prev_close": 4160.1,
+      "day_open": 4162.4,
+      "day_high": 4163.3,
+      "day_low": 4152.1,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-19T15:00:09.000-0400",
+      "as_of": "2026-10-19T19:40:38.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6323,9 +6336,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           103.54
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          103.56
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:19+00:00",
+      "fetched_at": "2026-10-19T23:51:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6338,16 +6355,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 103.54,
-      "change": 2.13,
-      "change_pct": 2.1,
-      "prev_close": 101.41,
-      "day_open": 101.75,
-      "day_high": 104.18,
-      "day_low": 99.24,
+      "value": 103.56,
+      "change": -0.1,
+      "change_pct": -0.1,
+      "prev_close": 103.66,
+      "day_open": 103.43,
+      "day_high": 103.67,
+      "day_low": 103.43,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-19T14:59:31.000-0400",
+      "as_of": "2026-10-19T19:26:27.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -6857,9 +6874,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           217.17
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          217.09
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:19+00:00",
+      "fetched_at": "2026-10-19T23:51:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6872,17 +6893,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 217.17,
-      "change": 3.04,
-      "change_pct": 1.42,
+      "value": 217.09,
+      "change": 2.96,
+      "change_pct": 1.38,
       "prev_close": 214.13,
       "day_open": 218.1,
       "day_high": 219.62,
       "day_low": 214.7,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-19T15:10:14.514-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-19T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -7387,9 +7408,13 @@
         [
           "2026-10-19T19:10:22+00:00",
           549.07
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          548.46
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:19+00:00",
+      "fetched_at": "2026-10-19T23:51:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7402,17 +7427,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 549.07,
-      "change": 9.28,
-      "change_pct": 1.72,
+      "value": 548.46,
+      "change": 8.67,
+      "change_pct": 1.61,
       "prev_close": 539.79,
       "day_open": 556.73,
       "day_high": 558.56,
       "day_low": 547.44,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-19T15:10:16.919-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-19T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -7917,14 +7942,18 @@
         [
           "2026-10-19T19:10:22+00:00",
           71.28834993053843
+        ],
+        [
+          "2026-10-19T23:51:44+00:00",
+          71.3144265888934
         ]
       ],
-      "value": 71.28834993053843,
-      "fetched_at": "2026-10-19T19:10:18+00:00",
-      "as_of": "2026-10-19T15:10:15.000-0400",
+      "value": 71.3144265888934,
+      "fetched_at": "2026-10-19T23:51:38+00:00",
+      "as_of": "2026-10-19T16:15:00.000-0400",
       "prev_close": 70.47382054040504,
-      "change": 0.8145293901333872,
-      "change_pct": 1.1557900279670374,
+      "change": 0.840606048488354,
+      "change_pct": 1.1927919361295387,
       "stale": false
     },
     {
@@ -8090,7 +8119,7 @@
           3.31
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:19+00:00",
+      "fetched_at": "2026-10-19T23:51:40+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -8272,7 +8301,7 @@
           0.85
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:19+00:00",
+      "fetched_at": "2026-10-19T23:51:40+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
@@ -8362,7 +8391,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:19+00:00",
+      "fetched_at": "2026-10-19T23:51:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -8450,7 +8479,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:21+00:00",
+      "fetched_at": "2026-10-19T23:51:42+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8526,7 +8555,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:21+00:00",
+      "fetched_at": "2026-10-19T23:51:43+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8575,7 +8604,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-19T19:10:21+00:00",
+      "fetched_at": "2026-10-19T23:51:42+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -8745,7 +8774,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:22+00:00",
+      "fetched_at": "2026-10-19T23:51:43+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -8928,7 +8957,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-19T19:10:22+00:00",
+      "fetched_at": "2026-10-19T23:51:44+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
