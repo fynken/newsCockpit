@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T11:00:35+00:00",
+  "generated_at": "2026-10-20T17:51:28+00:00",
   "briefing": {
-    "captured_at": "2026-10-20T11:00:38+00:00",
+    "captured_at": "2026-10-20T17:51:30+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,58 +17,114 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Walmart gets aggressive with a new membership bundle for Walmart+ and Sam's Club",
-        "url": "https://seekingalpha.com/news/4654486-walmart-gets-aggressive-with-a-new-membership-bundle-for-walmart-and-sams-club?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "CNBC",
-          "CNBC Finance",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-            "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-            "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Walmart gets aggressive with a new membership bundle for Walmart+ and Sam's Club",
-            "url": "https://seekingalpha.com/news/4654486-walmart-gets-aggressive-with-a-new-membership-bundle-for-walmart-and-sams-club?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-10-20T10:51:04+00:00"
-      },
-      {
-        "headline": "Thames Water, Creditors Offer Pimco a Compromise on New Debt",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-20/thames-water-creditors-offer-pimco-a-compromise-on-new-debt",
+        "headline": "Trump Accounts, Bonds Barometer, \u2018Dividend Nomads\u2019",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-19/etf-iq-10-19-2026-video",
         "sources": [
           "Bloomberg",
-          "Guardian"
+          "CNBC",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Thames Water, Creditors Offer Pimco a Compromise on New Debt",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-20/thames-water-creditors-offer-pimco-a-compromise-on-new-debt"
+            "headline": "Trump Accounts, Bonds Barometer, \u2018Dividend Nomads\u2019",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-19/etf-iq-10-19-2026-video"
           },
           {
-            "source": "Guardian",
-            "headline": "Thames Water creditors secure former Labour minister to drive rescue deal",
-            "url": "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal"
+            "source": "CNBC",
+            "headline": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+            "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+            "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-20T10:49:23+00:00"
+        "published": "2026-10-20T17:29:38+00:00"
+      },
+      {
+        "headline": "S&P 500 Rises on Earnings Optimism as Oil Declines: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
+        "sources": [
+          "Bloomberg",
+          "Business Insider",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "S&P 500 Rises on Earnings Optimism as Oil Declines: Markets Wrap",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "Bitcoin volatility is now quieter than roughly 20% of the S&P 500",
+            "url": "https://seekingalpha.com/news/4654789-bitcoin-volatility-is-now-quieter-than-roughly-20-of-the-sp-500?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+            "url": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html"
+          }
+        ],
+        "published": "2026-10-20T16:53:43+00:00"
       },
       {
         "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
         "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+            "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+            "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "\u2018I want to see red\u2019: General Motors is teaching its engineers to fail fast and \u2018speak fearlessly\u2019 as they take the EV battery fight to China",
+            "url": "https://fortune.com/2026/10/20/general-motors-ev-battery-china-tesla-culture-change/"
+          }
+        ],
+        "published": "2026-10-20T15:43:44+00:00"
+      },
+      {
+        "headline": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "Bloomberg"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+            "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Carney Spent Oil Windfall on Tax Write-off, Budget Watchdog Says",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-20/carney-spent-oil-windfall-on-tax-write-off-budget-watchdog-says"
+          }
+        ],
+        "published": "2026-10-20T16:21:33+00:00"
+      },
+      {
+        "headline": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+        "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
         "sources": [
           "CNBC",
           "CNBC Finance"
@@ -77,68 +133,46 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-            "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+            "headline": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+            "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-            "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+            "headline": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+            "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html"
           }
         ],
-        "published": "2026-10-20T10:46:05+00:00"
-      },
-      {
-        "headline": "Zelenskyy Heads to US Talks as Tensions Mount With Trump",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-20/zelenskyy-heads-to-us-talks-as-tensions-mount-with-trump-video",
-        "sources": [
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Zelenskyy Heads to US Talks as Tensions Mount With Trump",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-20/zelenskyy-heads-to-us-talks-as-tensions-mount-with-trump-video"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-            "url": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html"
-          }
-        ],
-        "published": "2026-10-20T10:30:49+00:00"
-      },
-      {
-        "headline": "Indonesia\u2019s Influencer Strategy Jars Investors Facing MSCI Risk",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-20/indonesia-s-influencer-strategy-jars-investors-facing-msci-risk",
-        "sources": [
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Indonesia\u2019s Influencer Strategy Jars Investors Facing MSCI Risk",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-20/indonesia-s-influencer-strategy-jars-investors-facing-msci-risk"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-            "url": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html"
-          }
-        ],
-        "published": "2026-10-20T09:17:00+00:00"
+        "published": "2026-10-20T16:11:02+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "GM beats Q3 earnings estimates and narrows full-year guidance.",
+          "text": "S&P 500 rises on earnings optimism, oil declines; investors eye a key index level for the bull market.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "Business Insider",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "GM beats Q3 earnings expectations and narrows full-year guidance.",
           "topic_ids": [
             2
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis.",
+          "topic_ids": [
+            4
           ],
           "sources": [
             "CNBC",
@@ -146,49 +180,29 @@
           ]
         },
         {
-          "text": "Thames Water and creditors offer Pimco a compromise on new debt; creditors hire ex-Labour minister.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Bank Indonesia pressed to hike after an MSCI threat fuels a market rout.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Walmart launches a joint Walmart+ and Sam's Club membership with delivery and gas discounts.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Zelenskyy heads to US talks with a Trump envoy as tensions mount.",
+          "text": "UK chancellor rejects calls to raise capital gains tax in the Budget.",
           "topic_ids": [
             3
           ],
           "sources": [
+            "BBC",
+            "Bloomberg"
+          ]
+        },
+        {
+          "text": "Musk's pledge of a SpaceX share per child via Trump Accounts comes with a catch.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
             "Bloomberg",
-            "CNBC"
+            "CNBC",
+            "MarketWatch"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-20T11:00:47+00:00"
+      "written_at": "2026-10-20T17:51:41+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -788,9 +802,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           5.119
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          5.119
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:31+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -809,10 +827,10 @@
       "prev_close": 5.136,
       "day_open": 5.14,
       "day_high": 5.146,
-      "day_low": 5.113,
+      "day_low": 5.073,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-20T07:00:05.000-0400",
+      "as_of": "2026-10-20T13:51:20.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1406,9 +1424,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           4.774
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          4.789
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1421,16 +1443,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.774,
-      "change": 0.013,
-      "change_pct": -0.0234,
+      "value": 4.789,
+      "change": 0.028,
+      "change_pct": -0.0508,
       "prev_close": 4.761,
       "day_open": 4.774,
-      "day_high": 4.78,
-      "day_low": 4.751,
+      "day_high": 4.797,
+      "day_low": 4.734,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-20T07:00:23.000-0400",
+      "as_of": "2026-10-20T13:51:18.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2024,9 +2046,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           5.444
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          5.43
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2039,16 +2065,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.444,
-      "change": -0.029,
-      "change_pct": 0.4297,
+      "value": 5.43,
+      "change": -0.043,
+      "change_pct": 0.6445,
       "prev_close": 5.473,
       "day_open": 5.468,
       "day_high": 5.477,
-      "day_low": 5.444,
+      "day_low": 5.404,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-20T07:00:10.000-0400",
+      "as_of": "2026-10-20T13:50:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2085,7 +2111,7 @@
         ]
       ],
       "value": 1.117469022396726,
-      "fetched_at": "2026-10-20T11:00:31+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.4424312424159798,
       "change": -0.3249622200192537,
@@ -2653,9 +2679,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           7690.73
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          7722.72
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2668,16 +2698,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7690.73,
-      "change": 31.29,
-      "change_pct": 0.41,
+      "value": 7722.72,
+      "change": 31.99,
+      "change_pct": 0.42,
       "prev_close": 7690.73,
-      "day_open": 7702.77,
-      "day_high": 7731.18,
-      "day_low": 7684.79,
+      "day_open": 7679.01,
+      "day_high": 7748.42,
+      "day_low": 7668.03,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-19",
+      "as_of": "2026-10-20T13:51:22.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3243,9 +3273,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           26430.886
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          26486.304
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3258,16 +3292,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26430.886,
-      "change": 290.852,
-      "change_pct": 1.11,
+      "value": 26486.304,
+      "change": 55.418,
+      "change_pct": 0.21,
       "prev_close": 26430.886,
-      "day_open": 26395.287,
-      "day_high": 26613.147,
-      "day_low": 26344.666,
+      "day_open": 26332.921,
+      "day_high": 26601.715,
+      "day_low": 26179.735,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-19",
+      "as_of": "2026-10-20T13:51:22.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3861,9 +3895,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           18.7
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          17.35
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:24+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3876,16 +3914,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 18.7,
-      "change": 0.26,
-      "change_pct": 1.41,
+      "value": 17.35,
+      "change": -1.09,
+      "change_pct": -5.91,
       "prev_close": 18.44,
       "day_open": 18.42,
-      "day_high": 18.88,
-      "day_low": 18.37,
+      "day_high": 19.13,
+      "day_low": 17.34,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-20T07:00:16.000-0400",
+      "as_of": "2026-10-20T13:51:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4515,9 +4553,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           1.1208
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          1.1236
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4530,16 +4572,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1208,
-      "change": -0.0002,
-      "change_pct": -0.0178,
+      "value": 1.1236,
+      "change": 0.0026,
+      "change_pct": 0.2319,
       "prev_close": 1.121,
       "day_open": 1.1215,
-      "day_high": 1.1235,
+      "day_high": 1.126,
       "day_low": 1.1205,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-20T07:00:00.000-0400",
+      "as_of": "2026-10-20T13:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5153,9 +5195,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           0.8242
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          0.825
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5168,16 +5214,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8242,
-      "change": -0.0023,
-      "change_pct": -0.2783,
+      "value": 0.825,
+      "change": -0.0015,
+      "change_pct": -0.1815,
       "prev_close": 0.8265,
       "day_open": 0.8267,
       "day_high": 0.8271,
-      "day_low": 0.8243,
+      "day_low": 0.8223,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-20T07:00:00.000-0400",
+      "as_of": "2026-10-20T13:51:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5787,9 +5833,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           4139.9
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          4139.4
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5802,16 +5852,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4139.9,
-      "change": -20.2,
-      "change_pct": -0.49,
+      "value": 4139.4,
+      "change": -20.7,
+      "change_pct": -0.5,
       "prev_close": 4160.1,
       "day_open": 4162.4,
-      "day_high": 4166.5,
+      "day_high": 4174.9,
       "day_low": 4130.1,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-20T06:50:20.000-0400",
+      "as_of": "2026-10-20T13:41:19.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6421,9 +6471,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           110.0
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          103.13
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:32+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6436,16 +6490,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 110.0,
-      "change": 6.34,
-      "change_pct": 6.12,
+      "value": 103.13,
+      "change": -0.53,
+      "change_pct": -0.51,
       "prev_close": 103.66,
       "day_open": 103.43,
-      "day_high": 110.0,
-      "day_low": 103.32,
+      "day_high": 110.48,
+      "day_low": 101.04,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-10-20T06:47:06.000-0400",
+      "as_of": "2026-10-20T13:33:48.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Nov'26)",
       "stale": false
@@ -6963,9 +7017,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           217.09
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          217.3
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:33+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6978,17 +7036,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 217.09,
-      "change": 2.96,
-      "change_pct": 1.38,
+      "value": 217.3,
+      "change": 0.21,
+      "change_pct": 0.1,
       "prev_close": 217.09,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 215.98,
+      "day_high": 218.46,
+      "day_low": 212.77,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-19",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-20T13:51:22.614-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -7501,9 +7559,13 @@
         [
           "2026-10-20T11:00:35+00:00",
           548.46
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          549.64
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:33+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7516,17 +7578,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 548.46,
-      "change": 8.67,
-      "change_pct": 1.61,
+      "value": 549.64,
+      "change": 1.18,
+      "change_pct": 0.22,
       "prev_close": 548.46,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 541.85,
+      "day_high": 553.83,
+      "day_low": 536.23,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-19",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-20T13:51:18.789-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -8039,14 +8101,18 @@
         [
           "2026-10-20T11:00:35+00:00",
           71.3144265888934
+        ],
+        [
+          "2026-10-20T17:51:28+00:00",
+          71.1718151117741
         ]
       ],
-      "value": 71.3144265888934,
-      "fetched_at": "2026-10-20T11:00:32+00:00",
-      "as_of": "2026-10-19",
+      "value": 71.1718151117741,
+      "fetched_at": "2026-10-20T17:51:24+00:00",
+      "as_of": "2026-10-20T13:51:18.789-0400",
       "prev_close": 71.3144265888934,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": -0.14261147711930278,
+      "change_pct": -0.19997563458150733,
       "stale": false
     },
     {
@@ -8067,10 +8133,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-28",
-          2.6
-        ],
         [
           "2026-08-31",
           2.63
@@ -8210,23 +8272,27 @@
         [
           "2026-10-16",
           3.31
+        ],
+        [
+          "2026-10-19",
+          3.29
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:33+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
       },
-      "value": 3.31,
-      "change": 0.08000000000000007,
-      "change_pct": 2.4767801857585163,
-      "prev_close": 3.23,
+      "value": 3.29,
+      "change": -0.020000000000000018,
+      "change_pct": -0.6042296072507558,
+      "prev_close": 3.31,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.31,
-      "year_low": 2.6,
-      "as_of": "2026-10-16",
+      "year_low": 2.63,
+      "as_of": "2026-10-19",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -8249,10 +8315,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-08-28",
-          0.79
-        ],
         [
           "2026-08-31",
           0.8
@@ -8392,23 +8454,27 @@
         [
           "2026-10-16",
           0.85
+        ],
+        [
+          "2026-10-19",
+          0.87
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:33+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
       },
-      "value": 0.85,
-      "change": 0.010000000000000009,
-      "change_pct": 1.1904761904761916,
-      "prev_close": 0.84,
+      "value": 0.87,
+      "change": 0.020000000000000018,
+      "change_pct": 2.35294117647059,
+      "prev_close": 0.85,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 0.86,
+      "year_high": 0.87,
       "year_low": 0.77,
-      "as_of": "2026-10-16",
+      "as_of": "2026-10-19",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -8484,7 +8550,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:33+00:00",
+      "fetched_at": "2026-10-20T17:51:25+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -8572,7 +8638,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:34+00:00",
+      "fetched_at": "2026-10-20T17:51:27+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8648,7 +8714,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:35+00:00",
+      "fetched_at": "2026-10-20T17:51:28+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8697,7 +8763,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-20T11:00:34+00:00",
+      "fetched_at": "2026-10-20T17:51:27+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -8867,7 +8933,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:35+00:00",
+      "fetched_at": "2026-10-20T17:51:28+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -9050,7 +9116,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-20T11:00:35+00:00",
+      "fetched_at": "2026-10-20T17:51:28+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
