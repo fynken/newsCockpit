@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T11:17:01+00:00",
+  "generated_at": "2026-10-21T17:58:17+00:00",
   "briefing": {
-    "captured_at": "2026-10-21T11:17:03+00:00",
+    "captured_at": "2026-10-21T17:58:19+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,13 +17,12 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Elon Musk Backs Tesla-SpaceX Mega Merger",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-21/the-pulse-10-21-2026-video",
+        "headline": "SpaceX Revives AI Trade Ahead of Meta and Tesla Results",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-21/bloomberg-surveillance-10-21-2026-video",
         "sources": [
           "BBC",
           "Bloomberg",
           "CNBC",
-          "Fortune",
           "Guardian"
         ],
         "corroborated": true,
@@ -40,23 +39,28 @@
           },
           {
             "source": "Bloomberg",
-            "headline": "Elon Musk Backs Tesla-SpaceX Mega Merger",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-21/the-pulse-10-21-2026-video"
+            "headline": "A SpaceX-Tesla Merger? Why Elon Musk Thinks It\u2019s a Good Idea",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-21/a-spacex-tesla-merger-why-elon-musk-thinks-it-s-a-good-idea"
           },
           {
             "source": "Bloomberg",
-            "headline": "Elon Musk Thinks $3.5 Trillion Tesla-SpaceX Mashup Is a Good Idea",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-10-21/elon-musk-thinks-3-5-trillion-tesla-spacex-mashup-is-a-good-idea"
+            "headline": "SpaceX Revives AI Trade Ahead of Meta and Tesla Results",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-21/bloomberg-surveillance-10-21-2026-video"
           },
           {
             "source": "CNBC",
-            "headline": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+            "headline": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+            "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
             "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
           },
           {
-            "source": "Fortune",
-            "headline": "\u2018Tap dancing through a minefield\u2019: Elon Musk\u2019s $3.5 trillion Tesla-SpaceX merger talks expose his power\u2014and scant accountability",
-            "url": "https://fortune.com/2026/10/21/elon-musk-trillionaire-spacex-tesla-merger-corporate-accountability/"
+            "source": "CNBC",
+            "headline": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+            "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
           },
           {
             "source": "Guardian",
@@ -64,7 +68,40 @@
             "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report"
           }
         ],
-        "published": "2026-10-21T10:52:39+00:00"
+        "published": "2026-10-21T16:35:48+00:00"
+      },
+      {
+        "headline": "Ken Griffin\u2019s NYC Tower Gets $3.3 Billion Construction Loan",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan",
+        "sources": [
+          "Bloomberg",
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Ken Griffin\u2019s NYC Tower Gets $3.3 Billion Construction Loan",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan"
+          },
+          {
+            "source": "Fortune",
+            "headline": "\u2018Grow the damn economy\u2019: Billionaire Ken Griffin warns Trump made a mistake cutting taxes as the national debt tops past $40 trillion",
+            "url": "https://fortune.com/2026/10/21/ken-griffin-trump-tax-cuts-national-debt/"
+          },
+          {
+            "source": "Fortune",
+            "headline": "America\u2019s national debt plan is \u2018clearly not in order,\u2019 says Ken Griffin\u2014he believes part of the problem is Europeans who \u2018don\u2019t want to go to work\u2019",
+            "url": "https://fortune.com/2026/10/21/ken-griffin-america-national-debt-europe-budgets/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "AI stocks are probably in a bubble \u2014 but might be worth holding on to, says Citadel\u2019s Ken Griffin",
+            "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-10-21T17:07:34+00:00"
       },
       {
         "headline": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
@@ -95,81 +132,54 @@
         "published": "2026-10-21T06:05:18+00:00"
       },
       {
-        "headline": "House committee says Webull messages point to China access to U.S. customer data",
-        "url": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-        "sources": [
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "House committee says Webull messages point to China access to U.S. customer data",
-            "url": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "In the battle for AI supremacy, China is only six months behind the U.S \u2014 but that means it\u2019s winning, says former Google CEO",
-            "url": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-10-21T11:05:18+00:00"
-      },
-      {
-        "headline": "Pound Hedging Costs Hit Five-Month High on UK Budget Risks",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-21/pound-hedging-costs-hit-five-month-high-on-uk-budget-risks",
+        "headline": "Why a Skydance-SpaceX deal might make sense",
+        "url": "https://seekingalpha.com/news/4655427-why-a-skydance-spacex-deal-might-make-sense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "sources": [
           "Bloomberg",
-          "CNBC"
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "French Bond Risk Hits 15-Year High on $110 Crude, Budget Concern",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-21/french-bond-risk-gauge-nears-160-basis-points-hits-15-year-high"
+            "headline": "John Malone Floats Potential Deal Between Skydance and SpaceX",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-21/john-malone-floats-potential-deal-between-skydance-and-spacex"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Pound Hedging Costs Hit Five-Month High on UK Budget Risks",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-21/pound-hedging-costs-hit-five-month-high-on-uk-budget-risks"
-          },
-          {
-            "source": "CNBC",
-            "headline": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-            "url": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html"
+            "source": "Seeking Alpha",
+            "headline": "Why a Skydance-SpaceX deal might make sense",
+            "url": "https://seekingalpha.com/news/4655427-why-a-skydance-spacex-deal-might-make-sense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-21T10:40:01+00:00"
+        "published": "2026-10-21T17:45:30+00:00"
       },
       {
-        "headline": "Oil prices climb as traders assess Middle East developments",
-        "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+        "headline": "Blackstone, Apollo May Be Allowed to Buy NFL Minority Stakes",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-21/blackstone-apollo-may-be-allowed-to-buy-nfl-team-stakes-video",
         "sources": [
-          "CNBC",
-          "Fortune"
+          "Bloomberg",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Oil prices climb as traders assess Middle East developments",
-            "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"
+            "source": "Bloomberg",
+            "headline": "Blackstone, Apollo May Be Allowed to Buy NFL Minority Stakes",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-21/blackstone-apollo-may-be-allowed-to-buy-nfl-team-stakes-video"
           },
           {
-            "source": "Fortune",
-            "headline": "Databricks sets sights on Abu Dhabi as Middle East growth takes off",
-            "url": "https://fortune.com/2026/10/21/databricks-sets-sights-abu-dhabi-middle-east-growth-takes-off/"
+            "source": "Seeking Alpha",
+            "headline": "Blackstone, Apollo unit may be able to buy minority stakes in NFL teams - report",
+            "url": "https://seekingalpha.com/news/4655412-blackstone-apollo-unit-may-be-able-to-buy-minority-stakes-in-nfl-teams---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-21T09:42:28+00:00"
+        "published": "2026-10-21T17:34:44+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Musk backs a Tesla-SpaceX merger valued near $3.5 trillion; SpaceX up over 8% premarket on earnings beat.",
+          "text": "Musk calls a Tesla-SpaceX merger a 'good idea'; SpaceX stock jumps 10% on an earnings beat.",
           "topic_ids": [
             0
           ],
@@ -177,34 +187,24 @@
             "BBC",
             "Bloomberg",
             "CNBC",
-            "Fortune",
             "Guardian"
           ]
         },
         {
-          "text": "French 10-year yield tops 5% for the first time since 2002, with bond risk at a 15-year high.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Pound hedging costs hit a five-month high on UK budget risks.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "FAA certifies Boeing's 737 Max 10 after years of delays, clearing it for airline service.",
+          "text": "Griffin says AI stocks are probably in a bubble but may be worth holding; calls US debt plan not in order.",
           "topic_ids": [
             1
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Boeing's 737 Max 10 wins FAA approval after years of delays.",
+          "topic_ids": [
+            2
           ],
           "sources": [
             "CNBC",
@@ -213,20 +213,28 @@
           ]
         },
         {
-          "text": "Oil climbs toward $110 on Middle East developments; House panel flags Webull data access by China.",
+          "text": "Blackstone and Apollo may be cleared to buy minority stakes in NFL teams.",
           "topic_ids": [
-            4,
-            2
+            4
           ],
           "sources": [
-            "CNBC",
-            "Fortune",
-            "MarketWatch"
+            "Bloomberg",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Malone floats a Skydance-SpaceX deal.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "Bloomberg",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-21T11:17:13+00:00"
+      "written_at": "2026-10-21T17:58:30+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -838,9 +846,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           5.119
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          5.109
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:58+00:00",
+      "fetched_at": "2026-10-21T17:58:13+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -853,16 +865,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.119,
-      "change": 0.002,
-      "change_pct": 0.0391,
+      "value": 5.109,
+      "change": -0.008,
+      "change_pct": -0.1563,
       "prev_close": 5.117,
       "day_open": 5.132,
       "day_high": 5.138,
-      "day_low": 5.106,
+      "day_low": 5.081,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-21T07:16:46.000-0400",
+      "as_of": "2026-10-21T13:57:44.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1468,13 +1480,15 @@
         [
           "2026-10-21T11:17:01+00:00",
           4.793
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          4.787
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:58+00:00",
+      "fetched_at": "2026-10-21T17:58:13+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -1483,16 +1497,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.793,
-      "change": 0.006,
-      "change_pct": -0.0117,
+      "value": 4.787,
+      "change": 0.0,
+      "change_pct": 0.0,
       "prev_close": 4.787,
       "day_open": 4.795,
       "day_high": 4.802,
-      "day_low": 4.778,
+      "day_low": 4.757,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-21T07:16:26.000-0400",
+      "as_of": "2026-10-21T13:57:44.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2098,9 +2112,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           5.429
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          5.411
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:58+00:00",
+      "fetched_at": "2026-10-21T17:58:13+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2113,16 +2131,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.429,
-      "change": 0.004,
-      "change_pct": -0.0508,
+      "value": 5.411,
+      "change": -0.014,
+      "change_pct": 0.2148,
       "prev_close": 5.425,
       "day_open": 5.441,
       "day_high": 5.445,
-      "day_low": 5.419,
+      "day_low": 5.397,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-21T07:16:19.000-0400",
+      "as_of": "2026-10-21T13:57:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2141,7 +2159,7 @@
       "featured": false,
       "good_when": "neutral",
       "note": "The 10-year yield less headline CPI inflation \u2014 what a Treasury buyer earns after inflation, on today's yield and the last published price level. Only as current as the CPI print it leans on.",
-      "origin": "live",
+      "origin": "cache",
       "error": null,
       "source_note": "",
       "series": [
@@ -2158,13 +2176,13 @@
           1.215469022396726
         ]
       ],
-      "value": 1.117469022396726,
-      "fetched_at": "2026-10-21T11:16:58+00:00",
+      "value": 1.1074690223967263,
+      "fetched_at": "2026-10-21T11:17:01+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.4234312424159796,
-      "change": -0.30596222001925355,
-      "change_pct": -21.49469611893203,
-      "stale": false
+      "change": -0.31596222001925334,
+      "change_pct": -22.19722390545348,
+      "stale": true
     },
     {
       "key": "spx",
@@ -2739,9 +2757,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           7712.57
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          7765.46
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:58+00:00",
+      "fetched_at": "2026-10-21T17:58:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2754,16 +2776,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7712.57,
-      "change": 21.84,
-      "change_pct": 0.28,
+      "value": 7765.46,
+      "change": 52.89,
+      "change_pct": 0.69,
       "prev_close": 7712.57,
-      "day_open": 7679.01,
-      "day_high": 7748.42,
-      "day_low": 7668.03,
+      "day_open": 7736.43,
+      "day_high": 7768.25,
+      "day_low": 7709.34,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-20",
+      "as_of": "2026-10-21T13:58:11.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3341,9 +3363,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           26424.817
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          26743.345
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:58+00:00",
+      "fetched_at": "2026-10-21T17:58:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3356,16 +3382,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26424.817,
-      "change": -6.069,
-      "change_pct": -0.02,
+      "value": 26743.345,
+      "change": 318.528,
+      "change_pct": 1.21,
       "prev_close": 26424.817,
-      "day_open": 26332.921,
-      "day_high": 26601.715,
-      "day_low": 26179.735,
+      "day_open": 26601.732,
+      "day_high": 26778.904,
+      "day_low": 26507.067,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-20",
+      "as_of": "2026-10-21T13:58:14.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -3971,9 +3997,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           17.37
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          16.61
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:14+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3986,16 +4016,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 17.37,
-      "change": 0.06,
-      "change_pct": 0.35,
+      "value": 16.61,
+      "change": -0.7,
+      "change_pct": -4.04,
       "prev_close": 17.31,
       "day_open": 17.25,
       "day_high": 17.58,
-      "day_low": 17.13,
+      "day_low": 16.51,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-21T07:16:46.000-0400",
+      "as_of": "2026-10-21T13:58:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4637,9 +4667,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           1.1228
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          1.1237
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4652,16 +4686,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1228,
-      "change": -0.0008,
-      "change_pct": -0.0712,
+      "value": 1.1237,
+      "change": 0.0001,
+      "change_pct": 0.0089,
       "prev_close": 1.1236,
       "day_open": 1.1235,
       "day_high": 1.1238,
       "day_low": 1.1215,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-21T07:16:00.000-0400",
+      "as_of": "2026-10-21T13:58:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5287,9 +5321,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           0.8245
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          0.8238
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5302,16 +5340,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8245,
-      "change": -0.0001,
-      "change_pct": -0.0121,
+      "value": 0.8238,
+      "change": -0.0008,
+      "change_pct": -0.097,
       "prev_close": 0.8246,
       "day_open": 0.8249,
       "day_high": 0.8263,
-      "day_low": 0.8244,
+      "day_low": 0.8237,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-21T07:16:00.000-0400",
+      "as_of": "2026-10-21T13:58:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5933,9 +5971,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           4145.3
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          4152.2
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5948,16 +5990,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4145.3,
-      "change": 2.7,
-      "change_pct": 0.07,
+      "value": 4152.2,
+      "change": 9.6,
+      "change_pct": 0.23,
       "prev_close": 4142.6,
       "day_open": 4143.4,
-      "day_high": 4149.8,
+      "day_high": 4160.6,
       "day_low": 4124.0,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-21T07:06:47.000-0400",
+      "as_of": "2026-10-21T13:48:06.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6579,9 +6621,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           99.23
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          97.04
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6594,16 +6640,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 99.23,
-      "change": 1.41,
-      "change_pct": 1.44,
+      "value": 97.04,
+      "change": -0.78,
+      "change_pct": -0.8,
       "prev_close": 97.82,
       "day_open": 98.19,
       "day_high": 100.4,
-      "day_low": 97.91,
+      "day_low": 96.26,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-21T07:06:55.000-0400",
+      "as_of": "2026-10-21T13:48:07.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7133,9 +7179,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           216.47
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          221.66
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7148,17 +7198,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 216.47,
-      "change": -0.62,
-      "change_pct": -0.29,
+      "value": 221.66,
+      "change": 5.19,
+      "change_pct": 2.4,
       "prev_close": 216.47,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 220.96,
+      "day_high": 222.16,
+      "day_low": 217.66,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-20",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-21T13:58:05.596-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -7683,9 +7733,13 @@
         [
           "2026-10-21T11:17:01+00:00",
           546.36
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          557.32
         ]
       ],
-      "fetched_at": "2026-10-21T11:16:59+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7698,17 +7752,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 546.36,
-      "change": -2.1,
-      "change_pct": -0.38,
+      "value": 557.32,
+      "change": 10.96,
+      "change_pct": 2.01,
       "prev_close": 546.36,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 556.34,
+      "day_high": 559.19,
+      "day_low": 549.52,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-20",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-21T13:58:10.661-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -8233,14 +8287,18 @@
         [
           "2026-10-21T11:17:01+00:00",
           70.84019982962877
+        ],
+        [
+          "2026-10-21T17:58:17+00:00",
+          71.76909030501736
         ]
       ],
-      "value": 70.84019982962877,
-      "fetched_at": "2026-10-21T11:16:58+00:00",
-      "as_of": "2026-10-20",
+      "value": 71.76909030501736,
+      "fetched_at": "2026-10-21T17:58:14+00:00",
+      "as_of": "2026-10-21T13:58:10.661-0400",
       "prev_close": 70.84019982962877,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 0.9288904753885845,
+      "change_pct": 1.3112476780451965,
       "stale": false
     },
     {
@@ -8262,165 +8320,25 @@
       "source_note": "",
       "series": [
         [
-          "2026-08-31",
-          2.63
-        ],
-        [
-          "2026-09-01",
-          2.65
-        ],
-        [
-          "2026-09-02",
-          2.66
-        ],
-        [
-          "2026-09-03",
-          2.65
-        ],
-        [
-          "2026-09-04",
-          2.68
-        ],
-        [
-          "2026-09-07",
-          2.68
-        ],
-        [
-          "2026-09-08",
-          2.67
-        ],
-        [
-          "2026-09-09",
-          2.71
-        ],
-        [
-          "2026-09-10",
-          2.7
-        ],
-        [
-          "2026-09-11",
-          2.65
-        ],
-        [
-          "2026-09-14",
-          2.71
-        ],
-        [
-          "2026-09-15",
-          2.76
-        ],
-        [
-          "2026-09-16",
-          2.7
-        ],
-        [
-          "2026-09-17",
-          2.7
-        ],
-        [
-          "2026-09-18",
-          2.68
-        ],
-        [
-          "2026-09-21",
-          2.66
-        ],
-        [
-          "2026-09-22",
-          2.68
-        ],
-        [
-          "2026-09-23",
-          2.73
-        ],
-        [
-          "2026-09-24",
-          2.8
-        ],
-        [
-          "2026-09-25",
-          2.93
-        ],
-        [
-          "2026-09-28",
-          3.02
-        ],
-        [
-          "2026-09-29",
-          3.08
-        ],
-        [
-          "2026-09-30",
-          3.12
-        ],
-        [
-          "2026-10-01",
-          3.24
-        ],
-        [
-          "2026-10-02",
-          3.1
-        ],
-        [
-          "2026-10-05",
-          3.12
-        ],
-        [
-          "2026-10-06",
-          3.03
-        ],
-        [
-          "2026-10-07",
-          3.09
-        ],
-        [
-          "2026-10-08",
-          3.15
-        ],
-        [
-          "2026-10-09",
-          3.11
-        ],
-        [
-          "2026-10-12",
-          3.11
-        ],
-        [
-          "2026-10-13",
-          3.16
-        ],
-        [
-          "2026-10-14",
-          3.25
-        ],
-        [
-          "2026-10-15",
-          3.23
-        ],
-        [
-          "2026-10-16",
-          3.31
-        ],
-        [
-          "2026-10-19",
-          3.29
+          "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+          400.0
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:00+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "1"
       },
-      "value": 3.29,
-      "change": -0.020000000000000018,
-      "change_pct": -0.6042296072507558,
-      "prev_close": 3.31,
+      "value": 400.0,
+      "change": null,
+      "change_pct": null,
+      "prev_close": null,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 3.31,
-      "year_low": 2.63,
-      "as_of": "2026-10-19",
+      "year_high": 400.0,
+      "year_low": 400.0,
+      "as_of": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -8444,165 +8362,25 @@
       "source_note": "",
       "series": [
         [
-          "2026-08-31",
-          0.8
-        ],
-        [
-          "2026-09-01",
-          0.81
-        ],
-        [
-          "2026-09-02",
-          0.81
-        ],
-        [
-          "2026-09-03",
-          0.81
-        ],
-        [
-          "2026-09-04",
-          0.81
-        ],
-        [
-          "2026-09-07",
-          0.81
-        ],
-        [
-          "2026-09-08",
-          0.81
-        ],
-        [
-          "2026-09-09",
-          0.81
-        ],
-        [
-          "2026-09-10",
-          0.8
-        ],
-        [
-          "2026-09-11",
-          0.8
-        ],
-        [
-          "2026-09-14",
-          0.8
-        ],
-        [
-          "2026-09-15",
-          0.8
-        ],
-        [
-          "2026-09-16",
-          0.78
-        ],
-        [
-          "2026-09-17",
-          0.78
-        ],
-        [
-          "2026-09-18",
-          0.77
-        ],
-        [
-          "2026-09-21",
-          0.77
-        ],
-        [
-          "2026-09-22",
-          0.77
-        ],
-        [
-          "2026-09-23",
-          0.77
-        ],
-        [
-          "2026-09-24",
-          0.79
-        ],
-        [
-          "2026-09-25",
-          0.81
-        ],
-        [
-          "2026-09-28",
-          0.83
-        ],
-        [
-          "2026-09-29",
-          0.84
-        ],
-        [
-          "2026-09-30",
-          0.84
-        ],
-        [
-          "2026-10-01",
-          0.86
-        ],
-        [
-          "2026-10-02",
-          0.85
-        ],
-        [
-          "2026-10-05",
-          0.84
-        ],
-        [
-          "2026-10-06",
-          0.83
-        ],
-        [
-          "2026-10-07",
-          0.82
-        ],
-        [
-          "2026-10-08",
-          0.82
-        ],
-        [
-          "2026-10-09",
-          0.83
-        ],
-        [
-          "2026-10-12",
-          0.83
-        ],
-        [
-          "2026-10-13",
-          0.83
-        ],
-        [
-          "2026-10-14",
-          0.84
-        ],
-        [
-          "2026-10-15",
-          0.84
-        ],
-        [
-          "2026-10-16",
-          0.85
-        ],
-        [
-          "2026-10-19",
-          0.87
+          "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+          400.0
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:00+00:00",
+      "fetched_at": "2026-10-21T17:58:15+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "783"
+        "_observations": "1"
       },
-      "value": 0.87,
-      "change": 0.020000000000000018,
-      "change_pct": 2.35294117647059,
-      "prev_close": 0.85,
+      "value": 400.0,
+      "change": null,
+      "change_pct": null,
+      "prev_close": null,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 0.87,
-      "year_low": 0.77,
-      "as_of": "2026-10-19",
+      "year_high": 400.0,
+      "year_low": 400.0,
+      "as_of": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -8678,7 +8456,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:00+00:00",
+      "fetched_at": "2026-10-21T17:58:16+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -8766,7 +8544,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:01+00:00",
+      "fetched_at": "2026-10-21T17:58:16+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8842,7 +8620,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:01+00:00",
+      "fetched_at": "2026-10-21T17:58:17+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8891,7 +8669,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-21T11:17:01+00:00",
+      "fetched_at": "2026-10-21T17:58:16+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -8912,161 +8690,23 @@
       "featured": false,
       "good_when": "down",
       "note": "Headline CPI for all urban consumers, not seasonally adjusted, against the same month a year earlier \u2014 the way the inflation rate is quoted. BLS publishes it mid-month for the month before.",
-      "origin": "live",
-      "error": null,
+      "origin": "cache",
+      "error": "fred: 'CPIAUCNS' has 1 observations, too few for a year-on-year rate",
       "source_note": "",
       "series": [
         [
-          "2023-09-01",
-          3.69969812134443
-        ],
-        [
-          "2023-10-01",
-          3.241144651893202
-        ],
-        [
-          "2023-11-01",
-          3.1372707088417773
-        ],
-        [
-          "2023-12-01",
-          3.3521228314302265
-        ],
-        [
-          "2024-01-01",
-          3.0908847812280538
-        ],
-        [
-          "2024-02-01",
-          3.1531711208615976
-        ],
-        [
-          "2024-03-01",
-          3.4773850700380304
-        ],
-        [
-          "2024-04-01",
-          3.357363950119163
-        ],
-        [
-          "2024-05-01",
-          3.2690290569400204
-        ],
-        [
-          "2024-06-01",
-          2.971397107263307
-        ],
-        [
-          "2024-07-01",
-          2.8947531984913066
-        ],
-        [
-          "2024-08-01",
-          2.5307302964569622
-        ],
-        [
-          "2024-09-01",
-          2.440633031069983
-        ],
-        [
-          "2024-10-01",
-          2.597904904914672
-        ],
-        [
-          "2024-11-01",
-          2.7493803960905616
-        ],
-        [
-          "2024-12-01",
-          2.888057219980067
-        ],
-        [
-          "2025-01-01",
-          3.0004831121501097
-        ],
-        [
-          "2025-02-01",
-          2.82154895174751
-        ],
-        [
-          "2025-03-01",
-          2.3907252538964974
-        ],
-        [
-          "2025-04-01",
-          2.3112888616734883
-        ],
-        [
-          "2025-05-01",
-          2.354896535474671
-        ],
-        [
-          "2025-06-01",
-          2.669213018222316
-        ],
-        [
-          "2025-07-01",
-          2.7049023971513986
-        ],
-        [
-          "2025-08-01",
-          2.9161742842984006
-        ],
-        [
-          "2025-09-01",
-          3.0126767755256134
-        ],
-        [
-          "2025-11-01",
-          2.6794312940341625
-        ],
-        [
-          "2025-12-01",
-          2.713530886580684
-        ],
-        [
-          "2026-01-01",
-          3.056668937437612
-        ],
-        [
-          "2026-02-01",
-          2.8690059841786075
-        ],
-        [
-          "2026-03-01",
-          3.488444976526428
-        ],
-        [
-          "2026-04-01",
-          4.134159268790705
-        ],
-        [
-          "2026-05-01",
-          4.466403778113737
-        ],
-        [
-          "2026-06-01",
-          3.8844042119670963
-        ],
-        [
-          "2026-07-01",
+          "2026-08-21T17:17:51+00:00",
           3.5208844218612922
         ],
         [
-          "2026-08-01",
+          "2026-09-11T16:58:41+00:00",
           3.6935687575840204
         ],
         [
-          "2026-09-01",
+          "2026-10-14T17:52:17+00:00",
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:01+00:00",
-      "field_map": {
-        "_transform": "yoy over 12 observations",
-        "_provider": "fred/fredgraph.csv",
-        "_observations": "1364"
-      },
       "value": 4.001530977603274,
       "change": 0.30796222001925333,
       "change_pct": 8.337795780487726,
@@ -9079,7 +8719,8 @@
       "as_of": "2026-09-01",
       "market_status": "",
       "instrument_name": "CPIAUCNS",
-      "stale": false
+      "fetched_at": "2026-10-21T11:17:01+00:00",
+      "stale": true
     },
     {
       "key": "jp_reserves",
@@ -9100,165 +8741,25 @@
       "source_note": "",
       "series": [
         [
-          "2023-10-01",
-          1.1836833732949081
-        ],
-        [
-          "2023-11-01",
-          1.214344210291096
-        ],
-        [
-          "2023-12-01",
-          1.238541063446212
-        ],
-        [
-          "2024-01-01",
-          1.23594527645905
-        ],
-        [
-          "2024-02-01",
-          1.2257788094373911
-        ],
-        [
-          "2024-03-01",
-          1.230377135509805
-        ],
-        [
-          "2024-04-01",
-          1.2162279433712109
-        ],
-        [
-          "2024-05-01",
-          1.1677019772589499
-        ],
-        [
-          "2024-06-01",
-          1.168095827470184
-        ],
-        [
-          "2024-07-01",
-          1.1530843811441158
-        ],
-        [
-          "2024-08-01",
-          1.167387733066436
-        ],
-        [
-          "2024-09-01",
-          1.183364812656576
-        ],
-        [
-          "2024-10-01",
-          1.164583782173946
-        ],
-        [
-          "2024-11-01",
-          1.166892438160896
-        ],
-        [
-          "2024-12-01",
-          1.1597023790688998
-        ],
-        [
-          "2025-01-01",
-          1.164145910045191
-        ],
-        [
-          "2025-02-01",
-          1.176183248308768
-        ],
-        [
-          "2025-03-01",
-          1.187782705264822
-        ],
-        [
-          "2025-04-01",
-          1.2084359036087557
-        ],
-        [
-          "2025-05-01",
-          1.2089915052843798
-        ],
-        [
-          "2025-06-01",
-          1.2243665329060178
-        ],
-        [
-          "2025-07-01",
-          1.2147106998940458
-        ],
-        [
-          "2025-08-01",
-          1.2309406120623938
-        ],
-        [
-          "2025-09-01",
-          1.2372234367275419
-        ],
-        [
-          "2025-10-01",
-          1.238268992928197
-        ],
-        [
-          "2025-11-01",
-          1.2453643094284508
-        ],
-        [
-          "2025-12-01",
-          1.2526029470783029
-        ],
-        [
-          "2026-01-01",
-          1.2592480894028522
-        ],
-        [
-          "2026-02-01",
-          1.268655921153098
-        ],
-        [
-          "2026-03-01",
-          1.2493910834600428
-        ],
-        [
-          "2026-04-01",
-          1.257568562337588
-        ],
-        [
-          "2026-05-01",
-          1.1822283542497038
-        ],
-        [
-          "2026-06-01",
-          1.177971006308592
-        ],
-        [
-          "2026-07-01",
-          1.1775785677195618
-        ],
-        [
-          "2026-08-01",
-          1.083420490020889
-        ],
-        [
-          "2026-09-01",
-          1.0652880963702869
+          "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+          0.00039999999999999996
         ]
       ],
-      "fetched_at": "2026-10-21T11:17:01+00:00",
+      "fetched_at": "2026-10-21T17:58:17+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "844"
+        "_observations": "1"
       },
-      "value": 1.0652880963702869,
-      "change": -0.018132393650602152,
-      "change_pct": -1.6736247668947584,
-      "prev_close": 1.083420490020889,
+      "value": 0.00039999999999999996,
+      "change": null,
+      "change_pct": null,
+      "prev_close": null,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 1.268655921153098,
-      "year_low": 1.0652880963702869,
-      "as_of": "2026-09-01",
+      "year_high": 0.00039999999999999996,
+      "year_low": 0.00039999999999999996,
+      "as_of": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
       "market_status": "",
       "instrument_name": "TRESEGJPM052N",
       "stale": false
