@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T17:58:17+00:00",
+  "generated_at": "2026-10-21T23:31:04+00:00",
   "briefing": {
-    "captured_at": "2026-10-21T17:58:19+00:00",
+    "captured_at": "2026-10-21T23:31:07+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,35 +17,26 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "SpaceX Revives AI Trade Ahead of Meta and Tesla Results",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-21/bloomberg-surveillance-10-21-2026-video",
+        "headline": "Tesla and SpaceX explore merger as Elon Musk gives backing",
+        "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
         "sources": [
           "BBC",
-          "Bloomberg",
           "CNBC",
-          "Guardian"
+          "Guardian",
+          "MarketWatch",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
-          {
-            "source": "BBC",
-            "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-            "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-          },
           {
             "source": "BBC",
             "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
             "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "Bloomberg",
-            "headline": "A SpaceX-Tesla Merger? Why Elon Musk Thinks It\u2019s a Good Idea",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-21/a-spacex-tesla-merger-why-elon-musk-thinks-it-s-a-good-idea"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "SpaceX Revives AI Trade Ahead of Meta and Tesla Results",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-21/bloomberg-surveillance-10-21-2026-video"
+            "source": "BBC",
+            "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
@@ -58,183 +49,170 @@
             "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
           },
           {
-            "source": "CNBC",
-            "headline": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-            "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+            "source": "Guardian",
+            "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+            "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
           },
           {
             "source": "Guardian",
             "headline": "Tesla and SpaceX explore merger as Elon Musk gives backing",
             "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+            "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Tesla earnings call: Musk talks EV demand, Optimus production, and Terafab value",
+            "url": "https://seekingalpha.com/news/4655637-tesla-earnings-call-musk-talks-ev-demand-optimus-production-and-terafab-value?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-21T16:35:48+00:00"
+        "published": "2026-10-21T23:04:03+00:00"
       },
       {
-        "headline": "Ken Griffin\u2019s NYC Tower Gets $3.3 Billion Construction Loan",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan",
+        "headline": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "Bloomberg",
-          "Fortune",
-          "MarketWatch"
+          "BBC",
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Ken Griffin\u2019s NYC Tower Gets $3.3 Billion Construction Loan",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan"
+            "source": "BBC",
+            "headline": "Meta fined $25bn for 'lies' over user data privacy",
+            "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "Fortune",
-            "headline": "\u2018Grow the damn economy\u2019: Billionaire Ken Griffin warns Trump made a mistake cutting taxes as the national debt tops past $40 trillion",
-            "url": "https://fortune.com/2026/10/21/ken-griffin-trump-tax-cuts-national-debt/"
-          },
-          {
-            "source": "Fortune",
-            "headline": "America\u2019s national debt plan is \u2018clearly not in order,\u2019 says Ken Griffin\u2014he believes part of the problem is Europeans who \u2018don\u2019t want to go to work\u2019",
-            "url": "https://fortune.com/2026/10/21/ken-griffin-america-national-debt-europe-budgets/"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "AI stocks are probably in a bubble \u2014 but might be worth holding on to, says Citadel\u2019s Ken Griffin",
-            "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories"
+            "source": "CNBC",
+            "headline": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+            "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
           }
         ],
-        "published": "2026-10-21T17:07:34+00:00"
+        "published": "2026-10-21T21:49:07+00:00"
       },
       {
-        "headline": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
-        "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
+        "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+        "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
         "sources": [
           "CNBC",
-          "CNBC Finance",
-          "NPR"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-            "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html"
+            "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+            "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-            "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html"
+            "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+            "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html"
           },
           {
-            "source": "NPR",
-            "headline": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
-            "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10"
+            "source": "CNBC Finance",
+            "headline": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+            "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html"
           }
         ],
-        "published": "2026-10-21T06:05:18+00:00"
+        "published": "2026-10-21T21:07:11+00:00"
       },
       {
-        "headline": "Why a Skydance-SpaceX deal might make sense",
-        "url": "https://seekingalpha.com/news/4655427-why-a-skydance-spacex-deal-might-make-sense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "GM aims to develop vehicles in as little as two years with AI, software push",
+        "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
         "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
+          "CNBC",
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "John Malone Floats Potential Deal Between Skydance and SpaceX",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-21/john-malone-floats-potential-deal-between-skydance-and-spacex"
+            "source": "CNBC",
+            "headline": "GM aims to develop vehicles in as little as two years with AI, software push",
+            "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Why a Skydance-SpaceX deal might make sense",
-            "url": "https://seekingalpha.com/news/4655427-why-a-skydance-spacex-deal-might-make-sense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "CNBC Finance",
+            "headline": "GM aims to develop vehicles in as little as two years with AI, software push",
+            "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html"
           }
         ],
-        "published": "2026-10-21T17:45:30+00:00"
+        "published": "2026-10-21T20:14:36+00:00"
       },
       {
-        "headline": "Blackstone, Apollo May Be Allowed to Buy NFL Minority Stakes",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-21/blackstone-apollo-may-be-allowed-to-buy-nfl-team-stakes-video",
+        "headline": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+        "url": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
         "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
+          "CNBC",
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Blackstone, Apollo May Be Allowed to Buy NFL Minority Stakes",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-21/blackstone-apollo-may-be-allowed-to-buy-nfl-team-stakes-video"
+            "source": "CNBC",
+            "headline": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+            "url": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Blackstone, Apollo unit may be able to buy minority stakes in NFL teams - report",
-            "url": "https://seekingalpha.com/news/4655412-blackstone-apollo-unit-may-be-able-to-buy-minority-stakes-in-nfl-teams---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "CNBC Finance",
+            "headline": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+            "url": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html"
           }
         ],
-        "published": "2026-10-21T17:34:44+00:00"
+        "published": "2026-10-21T18:32:12+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Musk calls a Tesla-SpaceX merger a 'good idea'; SpaceX stock jumps 10% on an earnings beat.",
+          "text": "Musk confirms he is weighing a Tesla-SpaceX merger; Tesla beats earnings and SpaceX stock jumps 10%.",
           "topic_ids": [
             0
           ],
           "sources": [
             "BBC",
-            "Bloomberg",
             "CNBC",
-            "Guardian"
+            "Guardian",
+            "MarketWatch",
+            "Seeking Alpha"
           ]
         },
         {
-          "text": "Griffin says AI stocks are probably in a bubble but may be worth holding; calls US debt plan not in order.",
+          "text": "Meta ordered to pay a $25bn penalty in the New Mexico Cambridge Analytica privacy case.",
           "topic_ids": [
             1
           ],
           "sources": [
-            "Bloomberg",
-            "Fortune",
-            "MarketWatch"
+            "BBC",
+            "CNBC"
           ]
         },
         {
-          "text": "Boeing's 737 Max 10 wins FAA approval after years of delays.",
+          "text": "Southwest and United cut 2026 profit forecasts on higher fuel; United says bookings hold up.",
           "topic_ids": [
             2
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance",
-            "NPR"
+            "CNBC Finance"
           ]
         },
         {
-          "text": "Blackstone and Apollo may be cleared to buy minority stakes in NFL teams.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "Bloomberg",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Malone floats a Skydance-SpaceX deal.",
+          "text": "GM targets two-year vehicle development cycles via an AI and software push.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "Bloomberg",
-            "Seeking Alpha"
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-21T17:58:30+00:00"
+      "written_at": "2026-10-21T23:31:14+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -850,9 +828,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           5.109
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          5.127
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:13+00:00",
+      "fetched_at": "2026-10-21T23:30:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -865,16 +847,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.109,
-      "change": -0.008,
-      "change_pct": -0.1563,
-      "prev_close": 5.117,
-      "day_open": 5.132,
-      "day_high": 5.138,
-      "day_low": 5.081,
+      "value": 5.127,
+      "change": -0.019,
+      "change_pct": -0.3692,
+      "prev_close": 5.146,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-21T13:57:44.000-0400",
+      "as_of": "2026-10-21T19:30:42.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1484,11 +1466,17 @@
         [
           "2026-10-21T17:58:17+00:00",
           4.787
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          4.802
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:13+00:00",
+      "fetched_at": "2026-10-21T23:30:59+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -1497,16 +1485,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.787,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "prev_close": 4.787,
-      "day_open": 4.795,
-      "day_high": 4.802,
-      "day_low": 4.757,
+      "value": 4.802,
+      "change": -0.021,
+      "change_pct": 0.043,
+      "prev_close": 4.823,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-21T13:57:44.000-0400",
+      "as_of": "2026-10-21T19:30:49.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2116,9 +2104,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           5.411
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          5.401
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:13+00:00",
+      "fetched_at": "2026-10-21T23:30:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2131,16 +2123,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.411,
-      "change": -0.014,
-      "change_pct": 0.2148,
-      "prev_close": 5.425,
-      "day_open": 5.441,
-      "day_high": 5.445,
-      "day_low": 5.397,
+      "value": 5.401,
+      "change": -0.036,
+      "change_pct": 0.543,
+      "prev_close": 5.437,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-21T13:57:50.000-0400",
+      "as_of": "2026-10-21T19:30:58.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2176,12 +2168,12 @@
           1.215469022396726
         ]
       ],
-      "value": 1.1074690223967263,
+      "value": 1.125469022396726,
       "fetched_at": "2026-10-21T11:17:01+00:00",
       "as_of": "2026-09-01",
-      "prev_close": 1.4234312424159796,
-      "change": -0.31596222001925334,
-      "change_pct": -22.19722390545348,
+      "prev_close": 1.4524312424159795,
+      "change": -0.32696222001925346,
+      "change_pct": -22.51137337664145,
       "stale": true
     },
     {
@@ -2761,9 +2753,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           7765.46
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          7757.17
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:14+00:00",
+      "fetched_at": "2026-10-21T23:30:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2776,16 +2772,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7765.46,
-      "change": 52.89,
-      "change_pct": 0.69,
+      "value": 7757.17,
+      "change": 44.6,
+      "change_pct": 0.58,
       "prev_close": 7712.57,
       "day_open": 7736.43,
-      "day_high": 7768.25,
+      "day_high": 7770.4,
       "day_low": 7709.34,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-21T13:58:11.000-0400",
+      "as_of": "2026-10-21T16:31:21.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3367,9 +3363,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           26743.345
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          26702.858
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:14+00:00",
+      "fetched_at": "2026-10-21T23:30:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3382,16 +3382,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26743.345,
-      "change": 318.528,
-      "change_pct": 1.21,
+      "value": 26702.858,
+      "change": 278.041,
+      "change_pct": 1.05,
       "prev_close": 26424.817,
       "day_open": 26601.732,
       "day_high": 26778.904,
       "day_low": 26507.067,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-21T13:58:14.000-0400",
+      "as_of": "2026-10-21T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4001,9 +4001,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           16.61
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          16.68
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:14+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4016,16 +4020,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.61,
-      "change": -0.7,
-      "change_pct": -4.04,
+      "value": 16.68,
+      "change": -0.63,
+      "change_pct": -3.64,
       "prev_close": 17.31,
       "day_open": 17.25,
       "day_high": 17.58,
       "day_low": 16.51,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-21T13:58:01.000-0400",
+      "as_of": "2026-10-21T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4671,9 +4675,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           1.1237
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          1.1233
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4686,16 +4694,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1237,
+      "value": 1.1233,
       "change": 0.0001,
       "change_pct": 0.0089,
-      "prev_close": 1.1236,
-      "day_open": 1.1235,
-      "day_high": 1.1238,
-      "day_low": 1.1215,
+      "prev_close": 1.1232,
+      "day_open": 1.1231,
+      "day_high": 1.1233,
+      "day_low": 1.1228,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-21T13:58:00.000-0400",
+      "as_of": "2026-10-21T19:30:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5325,9 +5333,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           0.8238
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          0.8241
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5340,16 +5352,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8238,
-      "change": -0.0008,
-      "change_pct": -0.097,
-      "prev_close": 0.8246,
-      "day_open": 0.8249,
-      "day_high": 0.8263,
-      "day_low": 0.8237,
+      "value": 0.8241,
+      "change": -0.0003,
+      "change_pct": -0.0364,
+      "prev_close": 0.8244,
+      "day_open": 0.8241,
+      "day_high": 0.8249,
+      "day_low": 0.8242,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-21T13:58:00.000-0400",
+      "as_of": "2026-10-21T19:30:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -5975,9 +5987,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           4152.2
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          4144.5
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5990,16 +6006,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4152.2,
-      "change": 9.6,
-      "change_pct": 0.23,
-      "prev_close": 4142.6,
-      "day_open": 4143.4,
-      "day_high": 4160.6,
-      "day_low": 4124.0,
+      "value": 4144.5,
+      "change": -5.5,
+      "change_pct": -0.13,
+      "prev_close": 4150.0,
+      "day_open": 4159.0,
+      "day_high": 4164.3,
+      "day_low": 4142.2,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-21T13:48:06.000-0400",
+      "as_of": "2026-10-21T19:20:49.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6625,9 +6641,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           97.04
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          97.92
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6640,16 +6660,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 97.04,
-      "change": -0.78,
-      "change_pct": -0.8,
-      "prev_close": 97.82,
-      "day_open": 98.19,
-      "day_high": 100.4,
-      "day_low": 96.26,
+      "value": 97.92,
+      "change": 0.77,
+      "change_pct": 0.79,
+      "prev_close": 97.15,
+      "day_open": 97.78,
+      "day_high": 98.1,
+      "day_low": 97.72,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-21T13:48:07.000-0400",
+      "as_of": "2026-10-21T19:20:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7183,9 +7203,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           221.66
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          221.97
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7198,17 +7222,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 221.66,
-      "change": 5.19,
-      "change_pct": 2.4,
+      "value": 221.97,
+      "change": 5.5,
+      "change_pct": 2.54,
       "prev_close": 216.47,
       "day_open": 220.96,
-      "day_high": 222.16,
+      "day_high": 222.19,
       "day_low": 217.66,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-21T13:58:05.596-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-21T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -7737,9 +7761,13 @@
         [
           "2026-10-21T17:58:17+00:00",
           557.32
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          556.7
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7752,17 +7780,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 557.32,
-      "change": 10.96,
-      "change_pct": 2.01,
+      "value": 556.7,
+      "change": 10.34,
+      "change_pct": 1.89,
       "prev_close": 546.36,
       "day_open": 556.34,
       "day_high": 559.19,
       "day_low": 549.52,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-21T13:58:10.661-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-21T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -8291,14 +8319,18 @@
         [
           "2026-10-21T17:58:17+00:00",
           71.76909030501736
+        ],
+        [
+          "2026-10-21T23:31:04+00:00",
+          71.76586306604084
         ]
       ],
-      "value": 71.76909030501736,
-      "fetched_at": "2026-10-21T17:58:14+00:00",
-      "as_of": "2026-10-21T13:58:10.661-0400",
+      "value": 71.76586306604084,
+      "fetched_at": "2026-10-21T23:30:59+00:00",
+      "as_of": "2026-10-21T16:15:00.000-0400",
       "prev_close": 70.84019982962877,
-      "change": 0.9288904753885845,
-      "change_pct": 1.3112476780451965,
+      "change": 0.9256632364120634,
+      "change_pct": 1.3066920175808234,
       "stale": false
     },
     {
@@ -8324,7 +8356,7 @@
           400.0
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "1"
@@ -8366,7 +8398,7 @@
           400.0
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:15+00:00",
+      "fetched_at": "2026-10-21T23:31:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "1"
@@ -8456,7 +8488,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:16+00:00",
+      "fetched_at": "2026-10-21T23:31:01+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -8544,7 +8576,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:16+00:00",
+      "fetched_at": "2026-10-21T23:31:03+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8620,7 +8652,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:17+00:00",
+      "fetched_at": "2026-10-21T23:31:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -8669,7 +8701,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-21T17:58:16+00:00",
+      "fetched_at": "2026-10-21T23:31:03+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -8745,7 +8777,7 @@
           0.00039999999999999996
         ]
       ],
-      "fetched_at": "2026-10-21T17:58:17+00:00",
+      "fetched_at": "2026-10-21T23:31:04+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "1"
