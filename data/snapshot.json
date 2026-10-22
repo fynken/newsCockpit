@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T11:15:49+00:00",
+  "generated_at": "2026-10-22T17:54:32+00:00",
   "briefing": {
-    "captured_at": "2026-10-22T11:15:51+00:00",
+    "captured_at": "2026-10-22T17:54:34+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,13 +17,13 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Elon Musk\u2019s SpaceX-Tesla merger math doesn\u2019t add up",
-        "url": "https://fortune.com/2026/10/22/elon-musk-spacex-tesla-merger-math-doesnt-add-up/",
+        "headline": "Elon Musk invests about $1 billion in Skydance",
+        "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
         "sources": [
           "BBC",
           "CNBC",
+          "CNBC Finance",
           "Fortune",
-          "Guardian",
           "MarketWatch",
           "NPR"
         ],
@@ -36,55 +36,116 @@
           },
           {
             "source": "CNBC",
-            "headline": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
-            "url": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html"
+            "headline": "Elon Musk invests about $1 billion in Skydance",
+            "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html"
           },
           {
-            "source": "CNBC",
-            "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-            "url": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-            "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+            "source": "CNBC Finance",
+            "headline": "Elon Musk invests about $1 billion in Skydance",
+            "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html"
           },
           {
             "source": "Fortune",
-            "headline": "Elon Musk\u2019s SpaceX-Tesla merger math doesn\u2019t add up",
-            "url": "https://fortune.com/2026/10/22/elon-musk-spacex-tesla-merger-math-doesnt-add-up/"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Markets sell off worldwide as further conflict looms in the Middle East and Elon Musk cuts capex guidance",
-            "url": "https://fortune.com/2026/10/22/markets-sell-off-worldwide-further-conflict-looms-middle-east-elon-musk-cuts-capex-guidance/"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-            "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
+            "headline": "Elon Musk\u2019s dream merger is a nightmare for SpaceX shareholders",
+            "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
           },
           {
             "source": "MarketWatch",
-            "headline": "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
-            "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories"
+            "headline": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+            "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories"
+          },
+          {
+            "source": "NPR",
+            "headline": "Elon Musk says Space X and Tesla are considering a merger",
+            "url": "https://www.npr.org/2026/10/22/nx-s1-6010634/elon-musk-says-space-x-and-tesla-are-considering-a-merger"
           }
         ],
-        "published": "2026-10-22T10:43:38+00:00"
+        "published": "2026-10-22T17:42:58+00:00"
+      },
+      {
+        "headline": "Zuckerberg\u2019s California tax move is a win for Meta \u2014 and for him",
+        "url": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+        "sources": [
+          "Fortune",
+          "Guardian",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "Zuckerberg told Meta directors he might leave California, where he could lose billions to a wealth tax. Meta answered with a new class of stock",
+            "url": "https://fortune.com/2026/10/21/zuckerberg-meta-california-wealth-tax-billions-class-c-stock/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+            "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Zuckerberg\u2019s California tax move is a win for Meta \u2014 and for him",
+            "url": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-10-22T16:48:00+00:00"
+      },
+      {
+        "headline": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+        "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+            "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+            "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html"
+          }
+        ],
+        "published": "2026-10-22T16:46:29+00:00"
+      },
+      {
+        "headline": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+        "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+            "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+            "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html"
+          }
+        ],
+        "published": "2026-10-22T15:52:00+00:00"
       },
       {
         "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
         "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
         "sources": [
           "CNBC",
-          "CNBC Finance",
-          "Seeking Alpha"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue",
+            "headline": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
             "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html"
           },
           {
@@ -94,167 +155,68 @@
           },
           {
             "source": "CNBC Finance",
+            "headline": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+            "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html"
+          },
+          {
+            "source": "CNBC Finance",
             "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
             "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-            "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "American Airlines posts record Q3 revenue of $16.3B amid fuel-cost surge, sees wider EPS loss",
-            "url": "https://seekingalpha.com/news/4655814-american-airlines-posts-record-q3-revenue-of-163b-amid-fuel-cost-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-22T11:11:32+00:00"
-      },
-      {
-        "headline": "Barclays to slash 5,000 jobs in AI efficiency push",
-        "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-        "sources": [
-          "BBC",
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-            "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Barclays to slash 5,000 jobs in AI efficiency push",
-            "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates"
-          }
-        ],
-        "published": "2026-10-22T10:42:07+00:00"
-      },
-      {
-        "headline": "Meta fined $25bn for 'lies' over user data privacy",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Meta fined $25bn for 'lies' over user data privacy",
-            "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-            "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
-            "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case"
-          }
-        ],
-        "published": "2026-10-21T23:33:34+00:00"
-      },
-      {
-        "headline": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-        "url": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-            "url": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-            "url": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html"
-          }
-        ],
-        "published": "2026-10-22T11:00:02+00:00"
+        "published": "2026-10-22T14:52:09+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Tesla beats earnings but stock falls as Musk floats a SpaceX merger and cuts capex guidance; SpaceX up 10%.",
+          "text": "Musk says SpaceX and Tesla are weighing a merger; he also puts about $1 billion into Skydance.",
           "topic_ids": [
             0
           ],
           "sources": [
             "BBC",
             "CNBC",
+            "CNBC Finance",
             "Fortune",
-            "Guardian",
             "MarketWatch",
             "NPR"
           ]
         },
         {
-          "text": "Global markets sell off on Middle East conflict fears and Musk's capex cut.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Fortune",
-            "Guardian",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Barclays cuts 5,000 jobs in an AI efficiency push as profits jump; French 30-year yields hit 24-year high.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "BBC",
-            "CNBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "United, Southwest and American cut 2026 profit outlooks on higher fuel, with American at record Q3 revenue.",
+          "text": "Meta creates a new class of stock to help Zuckerberg cover a California billionaire tax bill.",
           "topic_ids": [
             1
           ],
           "sources": [
+            "Fortune",
+            "Guardian",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "American Airlines guides to a bigger 2026 loss and slower growth; Southwest cuts profit view on fuel.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
             "CNBC",
-            "CNBC Finance",
-            "Seeking Alpha"
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Pepsi renews its Taco Bell contract days after KFC switched to Coke in the US.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-22T11:16:02+00:00"
+      "written_at": "2026-10-22T17:54:45+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -878,9 +840,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           5.048
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          4.957
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -893,16 +859,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.048,
-      "change": -0.098,
-      "change_pct": -1.9044,
+      "value": 4.957,
+      "change": -0.189,
+      "change_pct": -3.6728,
       "prev_close": 5.146,
       "day_open": 5.102,
       "day_high": 5.115,
-      "day_low": 5.042,
+      "day_low": 4.957,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-22T07:15:44.000-0400",
+      "as_of": "2026-10-22T13:54:23.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1520,9 +1486,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           4.74
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          4.64
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1535,16 +1505,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.74,
-      "change": -0.083,
-      "change_pct": 0.1563,
+      "value": 4.64,
+      "change": -0.183,
+      "change_pct": 0.3398,
       "prev_close": 4.823,
       "day_open": 4.8,
       "day_high": 4.804,
-      "day_low": 4.738,
+      "day_low": 4.64,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-22T07:15:29.000-0400",
+      "as_of": "2026-10-22T13:54:11.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2162,9 +2132,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           5.356
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          5.296
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2177,16 +2151,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.356,
-      "change": -0.081,
-      "change_pct": 1.2305,
+      "value": 5.296,
+      "change": -0.141,
+      "change_pct": 2.1328,
       "prev_close": 5.437,
       "day_open": 5.396,
       "day_high": 5.409,
-      "day_low": 5.353,
+      "day_low": 5.294,
       "year_high": 5.73,
       "year_low": 4.52,
-      "as_of": "2026-10-22T07:15:43.000-0400",
+      "as_of": "2026-10-22T13:54:12.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2222,12 +2196,12 @@
           1.215469022396726
         ]
       ],
-      "value": 1.0464690223967263,
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "value": 0.9554690223967262,
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.4524312424159795,
-      "change": -0.4059622200192532,
-      "change_pct": -27.950529303127226,
+      "change": -0.4969622200192534,
+      "change_pct": -34.21588612983872,
       "stale": false
     },
     {
@@ -2815,9 +2789,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           7757.17
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          7653.89
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2830,16 +2808,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7757.17,
-      "change": 44.6,
-      "change_pct": 0.58,
+      "value": 7653.89,
+      "change": -103.28,
+      "change_pct": -1.33,
       "prev_close": 7757.17,
-      "day_open": 7736.43,
-      "day_high": 7770.4,
-      "day_low": 7709.34,
+      "day_open": 7694.62,
+      "day_high": 7702.94,
+      "day_low": 7646.05,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-21",
+      "as_of": "2026-10-22T13:54:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3429,9 +3407,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           26702.858
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          26028.077
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3444,16 +3426,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26702.858,
-      "change": 278.041,
-      "change_pct": 1.05,
+      "value": 26028.077,
+      "change": -674.781,
+      "change_pct": -2.53,
       "prev_close": 26702.858,
-      "day_open": 26601.732,
-      "day_high": 26778.904,
-      "day_low": 26507.067,
+      "day_open": 26308.407,
+      "day_high": 26359.407,
+      "day_low": 26003.556,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-21",
+      "as_of": "2026-10-22T13:54:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4071,9 +4053,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           18.28
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          19.14
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:46+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4086,16 +4072,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 18.28,
-      "change": 1.6,
-      "change_pct": 9.59,
+      "value": 19.14,
+      "change": 2.46,
+      "change_pct": 14.75,
       "prev_close": 16.68,
       "day_open": 18.29,
-      "day_high": 18.58,
-      "day_low": 18.12,
+      "day_high": 19.37,
+      "day_low": 17.71,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-22T07:15:31.000-0400",
+      "as_of": "2026-10-22T13:54:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4749,9 +4735,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           1.1198
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          1.1221
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4764,16 +4754,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1198,
-      "change": -0.0034,
-      "change_pct": -0.3027,
+      "value": 1.1221,
+      "change": -0.0011,
+      "change_pct": -0.0979,
       "prev_close": 1.1232,
       "day_open": 1.1231,
       "day_high": 1.1256,
-      "day_low": 1.12,
+      "day_low": 1.1189,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-22T07:15:00.000-0400",
+      "as_of": "2026-10-22T13:54:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5411,9 +5401,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           0.8216
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          0.8216
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5435,7 +5429,7 @@
       "day_low": 0.8193,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-22T07:15:00.000-0400",
+      "as_of": "2026-10-22T13:54:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6069,9 +6063,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           4091.9
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          4060.9
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6084,16 +6082,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4091.9,
-      "change": -58.1,
-      "change_pct": -1.4,
+      "value": 4060.9,
+      "change": -89.1,
+      "change_pct": -2.15,
       "prev_close": 4150.0,
       "day_open": 4159.0,
       "day_high": 4164.3,
-      "day_low": 4082.4,
+      "day_low": 4049.1,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-22T07:05:35.000-0400",
+      "as_of": "2026-10-22T13:44:16.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6727,9 +6725,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           99.08
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          99.63
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6742,16 +6744,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 99.08,
-      "change": 1.93,
-      "change_pct": 1.99,
+      "value": 99.63,
+      "change": 2.48,
+      "change_pct": 2.55,
       "prev_close": 97.15,
       "day_open": 97.78,
       "day_high": 100.09,
       "day_low": 97.72,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-22T07:05:40.000-0400",
+      "as_of": "2026-10-22T13:44:21.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7293,9 +7295,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           221.97
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          212.77
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7308,17 +7314,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 221.97,
-      "change": 5.5,
-      "change_pct": 2.54,
+      "value": 212.77,
+      "change": -9.2,
+      "change_pct": -4.14,
       "prev_close": 221.97,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 217.13,
+      "day_high": 218.88,
+      "day_low": 212.25,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-21",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-22T13:54:25.395-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -7855,9 +7861,13 @@
         [
           "2026-10-22T11:15:49+00:00",
           556.7
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          526.64
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7870,17 +7880,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 556.7,
-      "change": 10.34,
-      "change_pct": 1.89,
+      "value": 526.64,
+      "change": -30.06,
+      "change_pct": -5.4,
       "prev_close": 556.7,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 536.85,
+      "day_high": 540.86,
+      "day_low": 523.77,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-21",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-22T13:54:24.012-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -8417,14 +8427,18 @@
         [
           "2026-10-22T11:15:49+00:00",
           71.76586306604084
+        ],
+        [
+          "2026-10-22T17:54:32+00:00",
+          68.80684201105582
         ]
       ],
-      "value": 71.76586306604084,
-      "fetched_at": "2026-10-22T11:15:46+00:00",
-      "as_of": "2026-10-21",
+      "value": 68.80684201105582,
+      "fetched_at": "2026-10-22T17:54:28+00:00",
+      "as_of": "2026-10-22T13:54:24.000-0400",
       "prev_close": 71.76586306604084,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": -2.9590210549850156,
+      "change_pct": -4.123159575552023,
       "stale": false
     },
     {
@@ -8445,10 +8459,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-01",
-          2.65
-        ],
         [
           "2026-09-02",
           2.66
@@ -8588,23 +8598,27 @@
         [
           "2026-10-20",
           3.33
+        ],
+        [
+          "2026-10-21",
+          3.27
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "785"
+        "_observations": "786"
       },
-      "value": 3.33,
-      "change": 0.040000000000000036,
-      "change_pct": 1.2158054711246211,
-      "prev_close": 3.29,
+      "value": 3.27,
+      "change": -0.06000000000000005,
+      "change_pct": -1.8018018018018036,
+      "prev_close": 3.33,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.33,
       "year_low": 2.65,
-      "as_of": "2026-10-20",
+      "as_of": "2026-10-21",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -8627,10 +8641,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-01",
-          0.81
-        ],
         [
           "2026-09-02",
           0.81
@@ -8770,23 +8780,27 @@
         [
           "2026-10-20",
           0.87
+        ],
+        [
+          "2026-10-21",
+          0.88
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "785"
       },
-      "value": 0.87,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.88,
+      "change": 0.010000000000000009,
+      "change_pct": 1.1494252873563229,
       "prev_close": 0.87,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 0.87,
+      "year_high": 0.88,
       "year_low": 0.77,
-      "as_of": "2026-10-20",
+      "as_of": "2026-10-21",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -8862,7 +8876,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:47+00:00",
+      "fetched_at": "2026-10-22T17:54:28+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -8950,7 +8964,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:49+00:00",
+      "fetched_at": "2026-10-22T17:54:30+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9026,7 +9040,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:49+00:00",
+      "fetched_at": "2026-10-22T17:54:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9075,7 +9089,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-22T11:15:49+00:00",
+      "fetched_at": "2026-10-22T17:54:30+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -9245,7 +9259,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:49+00:00",
+      "fetched_at": "2026-10-22T17:54:31+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -9428,7 +9442,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-22T11:15:49+00:00",
+      "fetched_at": "2026-10-22T17:54:32+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
