@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-26T12:21:57+00:00",
+  "generated_at": "2026-10-26T19:06:09+00:00",
   "briefing": {
-    "captured_at": "2026-10-26T12:22:14+00:00",
+    "captured_at": "2026-10-26T19:06:12+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
       "CNBC",
       "Guardian",
       "Seeking Alpha",
+      "CNBC Finance",
       "BBC",
       "NPR",
       "Fortune",
@@ -16,36 +17,62 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Lula gana en Brasil; Bolsonaro pide anular el balotaje",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-26/lula-gana-en-brasil-bolsonaro-pide-anular-el-balotaje-video",
+        "headline": "US Stocks Gain as Investors Parse Anthropic IPO Filing",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision",
         "sources": [
           "Bloomberg",
-          "CNBC",
-          "Fortune"
+          "Fortune",
+          "NPR",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Lula gana en Brasil; Bolsonaro pide anular el balotaje",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-26/lula-gana-en-brasil-bolsonaro-pide-anular-el-balotaje-video"
+            "headline": "Anthropic IPO Is the \u201cOne We\u2019ve Been Waiting For\u201d: Bessemer\u2019s Deeter",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-ipo-is-the-one-we-ve-been-waiting-for-video"
           },
           {
-            "source": "CNBC",
-            "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-            "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+            "source": "Bloomberg",
+            "headline": "Anthropic Files for IPO in Global Race to Raise Cash for AI",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-26/bloomberg-surveillance-10-26-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "US Stocks Gain as Investors Parse Anthropic IPO Filing",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap"
           },
           {
             "source": "Fortune",
-            "headline": "Trump critic Lula wins reelection, saying Brazil is not \u2018anyone\u2019s backyard,\u2019 while Bolsonaro asks for results to be annulled",
-            "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/"
+            "headline": "Anthropic plans to spend up to $567 billion on compute. Its IPO prospectus reveals plans to set up its own data centers",
+            "url": "https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Anthropic\u2019s IPO prospectus shows $16.3 billion in revenue, an $80.7 billion net loss, and goal of an \u2018age of miracles\u2019",
+            "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+          },
+          {
+            "source": "NPR",
+            "headline": "AI giant Anthropic files for an IPO that could break records",
+            "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Kalshi had <1% odds for Anthropic to announce IPO before Nov. 1",
+            "url": "https://seekingalpha.com/news/4657456-kalshi-had-1-percent-odds-for-anthropic-to-announce-ipo-before-nov-1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-26T12:14:55+00:00"
+        "published": "2026-10-26T18:21:53+00:00"
       },
       {
-        "headline": "Meta announces $95 billion stock offering to fund AI expansion",
-        "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+        "headline": "Meta plans $95bn stock offering to help cover AI expansion",
+        "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
         "sources": [
           "CNBC",
           "Guardian",
@@ -60,8 +87,8 @@
           },
           {
             "source": "Guardian",
-            "headline": "Meta announces $95bn fundraising drive to pay for AI expansion \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+            "headline": "Meta plans $95bn stock offering to help cover AI expansion",
+            "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion"
           },
           {
             "source": "MarketWatch",
@@ -69,33 +96,33 @@
             "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-26T12:08:00+00:00"
+        "published": "2026-10-26T18:24:00+00:00"
       },
       {
-        "headline": "Verizon\u2019s stock rises as subscriber surge impresses Wall Street",
-        "url": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
+        "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+        "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
         "sources": [
           "CNBC",
-          "MarketWatch"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
-            "url": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html"
+            "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+            "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Verizon\u2019s stock rises as subscriber surge impresses Wall Street",
-            "url": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories"
+            "source": "CNBC Finance",
+            "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+            "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html"
           }
         ],
-        "published": "2026-10-26T12:08:13+00:00"
+        "published": "2026-10-26T18:37:01+00:00"
       },
       {
-        "headline": "Apollo to Buy Nearly 10% Stake in Mubadala Capital, CNBC Reports",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
+        "headline": "Brazil Markets Crater, Some Stocks Sink 50% After Lula Victory",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win",
         "sources": [
           "Bloomberg",
           "CNBC"
@@ -104,22 +131,73 @@
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Apollo to Buy Nearly 10% Stake in Mubadala Capital, CNBC Reports",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports"
+            "headline": "Brazil Markets Crater, Some Stocks Sink 50% After Lula Victory",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win"
           },
           {
             "source": "CNBC",
-            "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-            "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html"
+            "headline": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+            "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+            "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
           }
         ],
-        "published": "2026-10-26T11:49:19+00:00"
+        "published": "2026-10-26T17:29:37+00:00"
+      },
+      {
+        "headline": "NBA Reaches Deal With Prediction Markets Kalshi and Polymarket",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-26/nba-reaches-deal-with-prediction-markets-kalshi-and-polymarket",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "NBA Reaches Deal With Prediction Markets Kalshi and Polymarket",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-26/nba-reaches-deal-with-prediction-markets-kalshi-and-polymarket"
+          },
+          {
+            "source": "CNBC",
+            "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
+            "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html"
+          }
+        ],
+        "published": "2026-10-26T17:12:12+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Meta launches $95bn stock offering to fund AI expansion; Nvidia, AMD and Broadcom may buy shares.",
+          "text": "Anthropic files for IPO: $16.3B revenue, $80.7B net loss, up to $567B of planned compute spend.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune",
+            "NPR",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "US stocks gain on tech after the Anthropic filing.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "Bloomberg",
+            "Fortune",
+            "NPR",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Meta announces $95B stock offering to fund AI expansion; Nvidia, AMD and Broadcom could buy shares.",
           "topic_ids": [
             1
           ],
@@ -130,18 +208,7 @@
           ]
         },
         {
-          "text": "Lula wins Brazil's presidential election, Bolsonaro asks for the runoff to be annulled; Brazilian stocks rocked.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "Apollo to buy nearly 10% stake in Abu Dhabi-backed Mubadala Capital.",
+          "text": "Brazilian stocks crater after Lula's runoff win, some names down 50%; Bolsonaro reportedly won't concede.",
           "topic_ids": [
             3
           ],
@@ -151,18 +218,18 @@
           ]
         },
         {
-          "text": "Wall Street hunts hedges for a cracking AI trade; Verizon rises on subscriber surge.",
+          "text": "NBA strikes prediction-market deals with Kalshi and Polymarket.",
           "topic_ids": [
-            2
+            4
           ],
           "sources": [
-            "CNBC",
-            "MarketWatch"
+            "Bloomberg",
+            "CNBC"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-26T12:22:24+00:00"
+      "written_at": "2026-10-26T19:06:23+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -810,9 +877,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           4.999
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          4.99
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:52+00:00",
+      "fetched_at": "2026-10-26T19:06:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -825,16 +896,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.999,
-      "change": 0.011,
-      "change_pct": 0.2205,
+      "value": 4.99,
+      "change": 0.002,
+      "change_pct": 0.0401,
       "prev_close": 4.988,
       "day_open": 4.986,
       "day_high": 5.011,
       "day_low": 4.961,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-26T08:21:47.000-0400",
+      "as_of": "2026-10-26T15:05:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1476,9 +1547,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           4.707
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          4.718
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:52+00:00",
+      "fetched_at": "2026-10-26T19:06:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1491,16 +1566,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.707,
-      "change": 0.025,
-      "change_pct": -0.0469,
+      "value": 4.718,
+      "change": 0.036,
+      "change_pct": -0.0664,
       "prev_close": 4.682,
       "day_open": 4.686,
       "day_high": 4.722,
       "day_low": 4.66,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-26T08:21:36.000-0400",
+      "as_of": "2026-10-26T15:05:45.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2142,9 +2217,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           5.318
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          5.303
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:52+00:00",
+      "fetched_at": "2026-10-26T19:06:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2157,16 +2236,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.318,
-      "change": 0.003,
-      "change_pct": -0.0508,
+      "value": 5.303,
+      "change": -0.012,
+      "change_pct": 0.1797,
       "prev_close": 5.315,
       "day_open": 5.314,
       "day_high": 5.325,
-      "day_low": 5.291,
+      "day_low": 5.281,
       "year_high": 5.73,
       "year_low": 4.54,
-      "as_of": "2026-10-26T08:21:16.000-0400",
+      "as_of": "2026-10-26T15:05:55.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2202,12 +2281,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.997469022396726,
-      "fetched_at": "2026-10-26T12:21:52+00:00",
+      "value": 0.9884690223967265,
+      "fetched_at": "2026-10-26T19:06:04+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.29443124241598,
-      "change": -0.2969622200192541,
-      "change_pct": -22.941521363853326,
+      "change": -0.30596222001925355,
+      "change_pct": -23.636807425027303,
       "stale": false
     },
     {
@@ -2819,9 +2898,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           7623.68
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          7675.85
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:52+00:00",
+      "fetched_at": "2026-10-26T19:06:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2834,16 +2917,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7623.68,
-      "change": -39.75,
-      "change_pct": -0.52,
+      "value": 7675.85,
+      "change": 52.17,
+      "change_pct": 0.68,
       "prev_close": 7623.68,
-      "day_open": 7637.18,
-      "day_high": 7660.15,
-      "day_low": 7612.07,
+      "day_open": 7639.7,
+      "day_high": 7702.13,
+      "day_low": 7639.7,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-23",
+      "as_of": "2026-10-26T15:06:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3457,9 +3540,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           25955.342
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          26181.803
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3472,16 +3559,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25955.342,
-      "change": -53.517,
-      "change_pct": -0.21,
+      "value": 26181.803,
+      "change": 226.461,
+      "change_pct": 0.87,
       "prev_close": 25955.342,
-      "day_open": 25893.953,
-      "day_high": 26111.624,
-      "day_low": 25866.152,
+      "day_open": 26026.865,
+      "day_high": 26306.825,
+      "day_low": 25986.558,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-23",
+      "as_of": "2026-10-26T15:06:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4123,9 +4210,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           19.11
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          18.5
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4138,16 +4229,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 19.11,
-      "change": -0.34,
-      "change_pct": -1.75,
+      "value": 18.5,
+      "change": -0.95,
+      "change_pct": -4.88,
       "prev_close": 19.45,
       "day_open": 19.66,
       "day_high": 19.84,
-      "day_low": 19.05,
+      "day_low": 17.79,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-26T08:21:31.000-0400",
+      "as_of": "2026-10-26T15:05:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4825,9 +4916,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           1.1196
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          1.1178
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4840,16 +4935,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1196,
-      "change": -0.0006,
-      "change_pct": -0.0536,
+      "value": 1.1178,
+      "change": -0.0024,
+      "change_pct": -0.2142,
       "prev_close": 1.1202,
       "day_open": 1.1199,
       "day_high": 1.1226,
-      "day_low": 1.1188,
+      "day_low": 1.1174,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-26T08:21:00.000-0400",
+      "as_of": "2026-10-26T15:06:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5511,9 +5606,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           0.8258
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          0.8274
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5526,16 +5625,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8258,
-      "change": 0.0009,
-      "change_pct": 0.1091,
+      "value": 0.8274,
+      "change": 0.0025,
+      "change_pct": 0.3031,
       "prev_close": 0.8249,
       "day_open": 0.8234,
-      "day_high": 0.8268,
+      "day_high": 0.8277,
       "day_low": 0.8233,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-26T08:21:00.000-0400",
+      "as_of": "2026-10-26T15:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6193,9 +6292,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           4030.3
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          4027.5
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6208,16 +6311,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4030.3,
-      "change": 22.4,
-      "change_pct": 0.56,
+      "value": 4027.5,
+      "change": 19.6,
+      "change_pct": 0.49,
       "prev_close": 4007.9,
       "day_open": 4012.2,
-      "day_high": 4036.2,
+      "day_high": 4044.0,
       "day_low": 3990.9,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-26T08:11:38.000-0400",
+      "as_of": "2026-10-26T14:55:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -6875,9 +6978,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           101.16
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          102.19
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6890,16 +6997,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 101.16,
-      "change": -2.11,
-      "change_pct": -2.04,
+      "value": 102.19,
+      "change": -1.08,
+      "change_pct": -1.05,
       "prev_close": 103.27,
       "day_open": 102.61,
-      "day_high": 102.63,
-      "day_low": 100.6,
+      "day_high": 103.13,
+      "day_low": 100.33,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-26T08:11:39.000-0400",
+      "as_of": "2026-10-26T14:56:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7465,9 +7572,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           210.96
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          216.27
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7480,17 +7591,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 210.96,
-      "change": -1.25,
-      "change_pct": -0.59,
+      "value": 216.27,
+      "change": 5.31,
+      "change_pct": 2.52,
       "prev_close": 210.96,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 213.11,
+      "day_high": 217.75,
+      "day_low": 212.61,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-23",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-26T15:06:00.773-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8051,9 +8162,13 @@
         [
           "2026-10-26T12:21:57+00:00",
           527.2
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          543.79
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8066,17 +8181,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 527.2,
-      "change": 3.85,
-      "change_pct": 0.74,
+      "value": 543.79,
+      "change": 16.59,
+      "change_pct": 3.15,
       "prev_close": 527.2,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 531.35,
+      "day_high": 545.34,
+      "day_low": 530.2,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-23",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-10-26T15:05:53.546-0400",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -8637,14 +8752,18 @@
         [
           "2026-10-26T12:21:57+00:00",
           69.15295500335796
+        ],
+        [
+          "2026-10-26T19:06:09+00:00",
+          70.8442713184859
         ]
       ],
-      "value": 69.15295500335796,
-      "fetched_at": "2026-10-26T12:21:52+00:00",
-      "as_of": "2026-10-23",
+      "value": 70.8442713184859,
+      "fetched_at": "2026-10-26T19:06:04+00:00",
+      "as_of": "2026-10-26T15:05:53.546-0400",
       "prev_close": 69.15295500335796,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 1.691316315127935,
+      "change_pct": 2.44576145017347,
       "stale": false
     },
     {
@@ -8665,10 +8784,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-03",
-          2.65
-        ],
         [
           "2026-09-04",
           2.68
@@ -8808,23 +8923,27 @@
         [
           "2026-10-22",
           3.4
+        ],
+        [
+          "2026-10-23",
+          3.38
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "786"
+        "_observations": "784"
       },
-      "value": 3.4,
-      "change": 0.1299999999999999,
-      "change_pct": 3.975535168195715,
-      "prev_close": 3.27,
+      "value": 3.38,
+      "change": -0.020000000000000018,
+      "change_pct": -0.5882352941176475,
+      "prev_close": 3.4,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.4,
       "year_low": 2.65,
-      "as_of": "2026-10-22",
+      "as_of": "2026-10-23",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -8847,10 +8966,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-03",
-          0.81
-        ],
         [
           "2026-09-04",
           0.81
@@ -8990,23 +9105,27 @@
         [
           "2026-10-22",
           0.89
+        ],
+        [
+          "2026-10-23",
+          0.91
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:53+00:00",
+      "fetched_at": "2026-10-26T19:06:06+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "785"
+        "_observations": "783"
       },
-      "value": 0.89,
-      "change": 0.010000000000000009,
-      "change_pct": 1.1363636363636374,
-      "prev_close": 0.88,
+      "value": 0.91,
+      "change": 0.020000000000000018,
+      "change_pct": 2.247191011235957,
+      "prev_close": 0.89,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 0.89,
+      "year_high": 0.91,
       "year_low": 0.77,
-      "as_of": "2026-10-22",
+      "as_of": "2026-10-23",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -9082,7 +9201,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:54+00:00",
+      "fetched_at": "2026-10-26T19:06:06+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -9170,7 +9289,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:56+00:00",
+      "fetched_at": "2026-10-26T19:06:08+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9246,7 +9365,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:57+00:00",
+      "fetched_at": "2026-10-26T19:06:08+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9295,7 +9414,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-26T12:21:56+00:00",
+      "fetched_at": "2026-10-26T19:06:08+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -9465,7 +9584,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:57+00:00",
+      "fetched_at": "2026-10-26T19:06:09+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -9648,7 +9767,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-26T12:21:57+00:00",
+      "fetched_at": "2026-10-26T19:06:09+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
