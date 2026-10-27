@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T18:37:21+00:00",
+  "generated_at": "2026-10-27T23:54:53+00:00",
   "briefing": {
-    "captured_at": "2026-10-27T18:37:22+00:00",
+    "captured_at": "2026-10-27T23:54:57+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,101 +17,51 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Mbapp\u00e9 Apologizes for Perceived Mao Insult After China Backlash",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-27/mbappe-apologizes-for-perceived-insult-after-backlash-video",
-        "sources": [
-          "BBC",
-          "Bloomberg",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
-            "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Mbapp\u00e9 Apologizes for Perceived Mao Insult After China Backlash",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-27/mbappe-apologizes-for-perceived-insult-after-backlash-video"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Kylian Mbapp\u00e9 apologises after being dropped by Chinese brands for Mao Zedong comment",
-            "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes"
-          }
-        ],
-        "published": "2026-10-27T17:13:08+00:00"
-      },
-      {
-        "headline": "Budget 2026: 'Surrey is a lovely place - but it can be stressful'",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Budget 2026: 'Surrey is a lovely place - but it can be stressful'",
-            "url": "https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Budget 2026: six charts that reveal the economic realities facing the chancellor",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey"
-          }
-        ],
-        "published": "2026-10-27T18:15:29+00:00"
-      },
-      {
-        "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-        "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+        "headline": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
         "sources": [
           "CNBC",
-          "CNBC Finance"
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-            "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
+            "headline": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+            "url": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-            "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
+            "source": "Seeking Alpha",
+            "headline": "Trump administration discussing Russian deals with U.S. oil firms in Ukraine peace talks - FT",
+            "url": "https://seekingalpha.com/news/4658549-trump-administration-discussing-russian-deals-with-us-oil-firms-in-ukraine-peace-talks---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-27T17:53:47+00:00"
+        "published": "2026-10-27T23:45:19+00:00"
       },
       {
-        "headline": "JetBlue stock surges 20% as company outlook calms investors",
-        "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+        "headline": "As Trump touts energy companies\u2019 fortunes, U.S. consumers face the most expensive year for gas prices ever",
+        "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
+          "Fortune",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "JetBlue stock surges 20% as company outlook calms investors",
-            "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html"
+            "source": "Fortune",
+            "headline": "The Trump admin said energy costs were a small price to pay in Iran war, but U.S. consumers are paying nearly 8x more than anyone else in fuel costs",
+            "url": "https://fortune.com/2026/10/27/iran-war-fuel-costs-8x-higher-american-consumers-trump-auto-energy-policy/"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "JetBlue stock surges 20% as company outlook calms investors",
-            "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html"
+            "source": "MarketWatch",
+            "headline": "As Trump touts energy companies\u2019 fortunes, U.S. consumers face the most expensive year for gas prices ever",
+            "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-27T15:46:31+00:00"
+        "published": "2026-10-27T21:29:00+00:00"
       },
       {
-        "headline": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+        "headline": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
         "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
         "sources": [
           "CNBC",
@@ -121,42 +71,86 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+            "headline": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
             "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+            "headline": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
             "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
           }
         ],
-        "published": "2026-10-27T15:45:49+00:00"
+        "published": "2026-10-27T20:32:24+00:00"
+      },
+      {
+        "headline": "JetBlue stock surges as company outlook calms investors",
+        "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "JetBlue stock surges as company outlook calms investors",
+            "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "JetBlue stock surges as company outlook calms investors",
+            "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html"
+          }
+        ],
+        "published": "2026-10-27T20:13:21+00:00"
+      },
+      {
+        "headline": "Defund Elon Musk | Robert Reich",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
+        "sources": [
+          "Fortune",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "Elon Musk promised an AI epic to rival Christopher Nolan\u2019s film. Viewers got a seven-minute glitch",
+            "url": "https://fortune.com/2026/10/27/elon-musk-grok-imagine-ai-odyssey-movie-seven-minute-episode-backlash-christopher-nolan-casting-controversy/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Defund Elon Musk | Robert Reich",
+            "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk"
+          }
+        ],
+        "published": "2026-10-27T19:57:42+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Boeing sinks 9% after saying 737 Max output won't ramp significantly until late 2027.",
+          "text": "Trump administration weighs letting more Russian diesel onto the market, energy secretary tells CNBC.",
           "topic_ids": [
-            4
+            0
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance"
+            "Seeking Alpha"
           ]
         },
         {
-          "text": "JetBlue jumps 20% on an outlook that calmed investors.",
+          "text": "U.S. consumers face the most expensive year ever for gas prices as Trump touts energy firms' fortunes.",
           "topic_ids": [
-            3
+            1
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Fortune",
+            "MarketWatch"
           ]
         },
         {
-          "text": "Honda says 50% Canada auto tariffs would be catastrophic for the industry.",
+          "text": "Boeing says no significant 737 Max production ramp until late 2027.",
           "topic_ids": [
             2
           ],
@@ -166,18 +160,28 @@
           ]
         },
         {
-          "text": "UK Budget 2026 preview: charts lay out the economic realities facing the chancellor.",
+          "text": "JetBlue stock surges after its outlook calms investors.",
           "topic_ids": [
-            1
+            3
           ],
           "sources": [
-            "BBC",
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Musk's promised AI film lands as a seven-minute glitch.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "Fortune",
             "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-27T18:37:32+00:00"
+      "written_at": "2026-10-27T23:55:06+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -841,9 +845,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           4.993
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          4.995
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "fetched_at": "2026-10-27T23:54:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -856,16 +864,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.993,
-      "change": 0.007,
-      "change_pct": 0.1404,
-      "prev_close": 4.986,
-      "day_open": 4.995,
-      "day_high": 5.007,
-      "day_low": 4.962,
+      "value": 4.995,
+      "change": 0.002,
+      "change_pct": 0.0401,
+      "prev_close": 4.993,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-27T14:36:27.000-0400",
+      "as_of": "2026-10-27T19:53:11.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1523,9 +1531,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           4.731
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          4.733
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "fetched_at": "2026-10-27T23:54:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1538,16 +1550,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.731,
-      "change": 0.02,
-      "change_pct": -0.0391,
-      "prev_close": 4.711,
-      "day_open": 4.714,
-      "day_high": 4.747,
-      "day_low": 4.685,
+      "value": 4.733,
+      "change": -0.004,
+      "change_pct": 0.0117,
+      "prev_close": 4.737,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-27T14:37:17.000-0400",
+      "as_of": "2026-10-27T19:49:24.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2205,9 +2217,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           5.306
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          5.31
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "fetched_at": "2026-10-27T23:54:47+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2220,16 +2236,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.306,
+      "value": 5.31,
       "change": 0.005,
       "change_pct": -0.082,
-      "prev_close": 5.301,
-      "day_open": 5.309,
-      "day_high": 5.318,
-      "day_low": 5.279,
+      "prev_close": 5.305,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 5.73,
       "year_low": 4.54,
-      "as_of": "2026-10-27T14:37:11.000-0400",
+      "as_of": "2026-10-27T19:53:11.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2265,12 +2281,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.9914690223967266,
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "value": 0.9934690223967264,
+      "fetched_at": "2026-10-27T23:54:47+00:00",
       "as_of": "2026-09-01",
-      "prev_close": 1.2924312424159794,
-      "change": -0.30096222001925277,
-      "change_pct": -23.286516925778994,
+      "prev_close": 1.29943124241598,
+      "change": -0.30596222001925355,
+      "change_pct": -23.545856835825372,
       "stale": false
     },
     {
@@ -2898,9 +2914,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           7716.86
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          7722.6
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "fetched_at": "2026-10-27T23:54:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2913,16 +2933,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7716.86,
-      "change": 40.09,
-      "change_pct": 0.52,
+      "value": 7722.6,
+      "change": 45.83,
+      "change_pct": 0.6,
       "prev_close": 7676.77,
       "day_open": 7699.47,
-      "day_high": 7736.06,
+      "day_high": 7736.24,
       "day_low": 7677.16,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-27T14:37:14.000-0400",
+      "as_of": "2026-10-27T16:48:15.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3552,9 +3572,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           26459.734
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          26477.811
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "fetched_at": "2026-10-27T23:54:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3567,16 +3591,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26459.734,
-      "change": 290.352,
-      "change_pct": 1.11,
+      "value": 26477.811,
+      "change": 308.429,
+      "change_pct": 1.18,
       "prev_close": 26169.381,
       "day_open": 26286.306,
-      "day_high": 26528.94,
+      "day_high": 26540.814,
       "day_low": 26219.313,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-27T14:37:14.000-0400",
+      "as_of": "2026-10-27T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4234,9 +4258,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           17.74
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          17.52
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:18+00:00",
+      "fetched_at": "2026-10-27T23:54:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4249,16 +4277,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 17.74,
-      "change": -0.65,
-      "change_pct": -3.53,
+      "value": 17.52,
+      "change": -0.87,
+      "change_pct": -4.73,
       "prev_close": 18.39,
       "day_open": 18.43,
       "day_high": 18.55,
-      "day_low": 17.51,
+      "day_low": 17.43,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-27T14:37:01.000-0400",
+      "as_of": "2026-10-27T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -4952,9 +4980,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           1.1135
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          1.1124
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4967,16 +4999,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1135,
-      "change": -0.0037,
-      "change_pct": -0.3312,
-      "prev_close": 1.1172,
-      "day_open": 1.1173,
-      "day_high": 1.1179,
-      "day_low": 1.1133,
+      "value": 1.1124,
+      "change": 0.0002,
+      "change_pct": 0.018,
+      "prev_close": 1.1122,
+      "day_open": 1.1126,
+      "day_high": 1.1131,
+      "day_low": 1.1127,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-27T14:37:00.000-0400",
+      "as_of": "2026-10-27T19:54:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5654,9 +5686,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           0.8283
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          0.8289
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5669,16 +5705,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8283,
-      "change": 0.0012,
-      "change_pct": 0.1451,
-      "prev_close": 0.8271,
-      "day_open": 0.8273,
+      "value": 0.8289,
+      "change": -0.0001,
+      "change_pct": -0.0121,
+      "prev_close": 0.829,
+      "day_open": 0.8288,
       "day_high": 0.8292,
-      "day_low": 0.8269,
+      "day_low": 0.8285,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-27T14:37:00.000-0400",
+      "as_of": "2026-10-27T19:54:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6352,9 +6388,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           4069.2
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          4073.7
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:48+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6367,16 +6407,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4069.2,
-      "change": 30.8,
-      "change_pct": 0.76,
-      "prev_close": 4038.4,
-      "day_open": 4032.8,
-      "day_high": 4079.4,
-      "day_low": 4001.6,
+      "value": 4073.7,
+      "change": -0.9,
+      "change_pct": -0.02,
+      "prev_close": 4074.6,
+      "day_open": 4073.6,
+      "day_high": 4077.9,
+      "day_low": 4070.7,
       "year_high": 5586.2,
       "year_low": 3901.3,
-      "as_of": "2026-10-27T14:27:14.000-0400",
+      "as_of": "2026-10-27T19:44:13.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7050,9 +7090,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           99.96
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          100.06
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:49+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7065,16 +7109,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 99.96,
-      "change": -1.8,
-      "change_pct": -1.77,
-      "prev_close": 101.76,
-      "day_open": 101.29,
-      "day_high": 102.82,
-      "day_low": 99.51,
+      "value": 100.06,
+      "change": 0.16,
+      "change_pct": 0.16,
+      "prev_close": 99.9,
+      "day_open": 100.17,
+      "day_high": 100.26,
+      "day_low": 99.75,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-27T14:27:15.000-0400",
+      "as_of": "2026-10-27T19:44:42.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7656,9 +7700,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           217.51
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          217.94
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:49+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7671,17 +7719,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 217.51,
-      "change": 1.51,
-      "change_pct": 0.7,
+      "value": 217.94,
+      "change": 1.94,
+      "change_pct": 0.9,
       "prev_close": 216.0,
       "day_open": 218.31,
       "day_high": 219.19,
       "day_low": 215.53,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-27T14:37:13.234-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-27T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8258,9 +8306,13 @@
         [
           "2026-10-27T18:37:21+00:00",
           557.04
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          557.98
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:49+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8273,17 +8325,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 557.04,
-      "change": 15.42,
-      "change_pct": 2.85,
+      "value": 557.98,
+      "change": 16.36,
+      "change_pct": 3.02,
       "prev_close": 541.62,
       "day_open": 549.17,
-      "day_high": 558.43,
+      "day_high": 559.81,
       "day_low": 546.67,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-27T14:37:12.156-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-27T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -8860,14 +8912,18 @@
         [
           "2026-10-27T18:37:21+00:00",
           72.18480055359304
+        ],
+        [
+          "2026-10-27T23:54:53+00:00",
+          72.25286820500868
         ]
       ],
-      "value": 72.18480055359304,
-      "fetched_at": "2026-10-27T18:37:18+00:00",
-      "as_of": "2026-10-27T14:37:12.156-0400",
+      "value": 72.25286820500868,
+      "fetched_at": "2026-10-27T23:54:48+00:00",
+      "as_of": "2026-10-27T16:15:00.000-0400",
       "prev_close": 70.55311022734821,
-      "change": 1.6316903262448221,
-      "change_pct": 2.312712112884765,
+      "change": 1.699757977660468,
+      "change_pct": 2.4091892932617984,
       "stale": false
     },
     {
@@ -9033,7 +9089,7 @@
           3.3
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:49+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -9215,7 +9271,7 @@
           0.9
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:49+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
@@ -9305,7 +9361,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:19+00:00",
+      "fetched_at": "2026-10-27T23:54:50+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -9393,7 +9449,7 @@
           405.309
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:20+00:00",
+      "fetched_at": "2026-10-27T23:54:52+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9469,7 +9525,7 @@
           568.1310000000001
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:20+00:00",
+      "fetched_at": "2026-10-27T23:54:52+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9518,7 +9574,7 @@
         ]
       ],
       "value": 71.34076471799638,
-      "fetched_at": "2026-10-27T18:37:20+00:00",
+      "fetched_at": "2026-10-27T23:54:52+00:00",
       "as_of": "2026-03-31",
       "prev_close": 64.5546044623941,
       "change": 6.786160255602283,
@@ -9688,7 +9744,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:20+00:00",
+      "fetched_at": "2026-10-27T23:54:53+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -9871,7 +9927,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-27T18:37:21+00:00",
+      "fetched_at": "2026-10-27T23:54:53+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
