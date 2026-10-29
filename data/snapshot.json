@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T00:09:26+00:00",
+  "generated_at": "2026-10-29T12:24:01+00:00",
   "briefing": {
-    "captured_at": "2026-10-29T00:09:28+00:00",
+    "captured_at": "2026-10-29T12:24:04+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,70 +17,108 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "The Fed Will Deliver Price Stability, Warsh Says",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video",
+        "headline": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+        "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
         "sources": [
-          "Bloomberg",
           "CNBC",
-          "Fortune",
+          "CNBC Finance",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "The Fed Will Deliver Price Stability, Warsh Says",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video"
-          },
-          {
             "source": "CNBC",
-            "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-            "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+            "headline": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+            "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html"
           },
           {
-            "source": "Fortune",
-            "headline": "For the first time since 1992, a Fed governor and president dissented together, as Kevin Warsh says the \u2018monetary medicine\u2019 is starting to work",
-            "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/"
+            "source": "CNBC Finance",
+            "headline": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+            "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018information-rich\u2019 period is coming.",
-            "url": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories"
+            "headline": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
+            "url": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-28T21:31:46+00:00"
+        "published": "2026-10-29T12:03:00+00:00"
       },
       {
-        "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-        "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+        "headline": "Putin hails Elon Musk\u2019s \u2018genius\u2019 amid plans for Russian version of Starlink",
+        "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
         "sources": [
-          "CNBC Finance",
-          "Fortune",
+          "BBC",
+          "CNBC",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC Finance",
-            "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-            "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html"
+            "source": "BBC",
+            "headline": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+            "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "Fortune",
-            "headline": "FTC and 20 states sue Dollar General, saying it overcharged its poorest customers by millions",
-            "url": "https://fortune.com/2026/10/28/dollar-general-ftc-lawsuit-overcharging-shelf-prices/"
+            "source": "CNBC",
+            "headline": "Putin praises Elon Musk as a \u2018genius\u2019 as Russia develops Starlink alternative",
+            "url": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html"
           },
           {
             "source": "Guardian",
-            "headline": "US lawmakers demand action on overcharging at 7-Eleven, Dollar General and other chains",
-            "url": "https://www.theguardian.com/us-news/2026/oct/28/lawmakers-7-eleven-dollar-general-overcharging"
+            "headline": "Putin hails Elon Musk\u2019s \u2018genius\u2019 amid plans for Russian version of Starlink",
+            "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink"
           }
         ],
-        "published": "2026-10-28T19:11:39+00:00"
+        "published": "2026-10-29T11:04:27+00:00"
       },
       {
-        "headline": "Microsoft\u2019s cloud growth accelerates, and so too does the spending",
-        "url": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/",
+        "headline": "Europe\u2019s central bank chief Christine Lagarde to step down nine months early",
+        "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+        "sources": [
+          "CNBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+            "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Europe\u2019s central bank chief Christine Lagarde to step down nine months early",
+            "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+          }
+        ],
+        "published": "2026-10-29T12:21:27+00:00"
+      },
+      {
+        "headline": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+        "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+        "sources": [
+          "Business Insider",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Business Insider",
+            "headline": "Wall Street forecasters are eyeing a streak of double-digit gains brewing for stocks",
+            "url": "https://www.businessinsider.com/us-stock-market-outlook-rally-midterm-elections-wall-street-2026-10"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+            "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html"
+          }
+        ],
+        "published": "2026-10-29T11:56:23+00:00"
+      },
+      {
+        "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+        "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
         "sources": [
           "CNBC",
           "Fortune"
@@ -89,80 +127,29 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-            "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+            "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+            "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
           },
           {
             "source": "Fortune",
-            "headline": "Microsoft\u2019s cloud growth accelerates, and so too does the spending",
-            "url": "https://fortune.com/2026/10/28/microsofts-cloud-growth-accelerates-and-so-too-does-the-spending/"
-          }
-        ],
-        "published": "2026-10-28T22:34:56+00:00"
-      },
-      {
-        "headline": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-        "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-            "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html"
+            "headline": "Fed Chair Kevin Warsh\u2019s warning to AI investors: \u2018Interest rates get in the cracks\u2019",
+            "url": "https://fortune.com/2026/10/29/fed-chair-kevin-warsh-warning-ai-investors-interest-rates-get-in-the-cracks-cfo/"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-            "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html"
+            "source": "Fortune",
+            "headline": "The Fed\u2019s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
+            "url": "https://fortune.com/2026/10/29/fed-rate-hold-monetary-policy-inflation-oil-supply-shock/"
           }
         ],
-        "published": "2026-10-28T22:27:00+00:00"
-      },
-      {
-        "headline": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-        "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-            "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-            "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html"
-          }
-        ],
-        "published": "2026-10-28T22:12:28+00:00"
+        "published": "2026-10-29T11:54:12+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Fed holds rates; Warsh cites an 'information-rich' period ahead and the first joint governor-president dissent since 1992.",
+          "text": "Fed holds rates steady; Chair Warsh warns AI investors that 'interest rates get in the cracks'.",
           "topic_ids": [
-            0
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC",
-            "Fortune",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Microsoft jumps 4% on cloud-driven earnings beat, with spending accelerating alongside growth.",
-          "topic_ids": [
-            2
+            4
           ],
           "sources": [
             "CNBC",
@@ -170,39 +157,50 @@
           ]
         },
         {
-          "text": "FTC and 20 states sue Dollar General over alleged overcharging; lawmakers press 7-Eleven and other chains.",
+          "text": "ECB's Christine Lagarde steps down nine months early, with succession race opening.",
           "topic_ids": [
-            1
+            2
           ],
           "sources": [
-            "CNBC Finance",
-            "Fortune",
+            "CNBC",
             "Guardian"
           ]
         },
         {
-          "text": "FedEx beats expectations and raises outlook in its first report since the calendar adjustment.",
+          "text": "Eli Lilly beats estimates and raises sales guidance a third time on Zepbound and Mounjaro demand; stock rallies.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Putin calls Musk a genius as Russia develops a Starlink alternative.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "BBC",
+            "CNBC",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Wall Street forecasters see double-digit equity gains; law firm Weil, Gotshal & Manges plans wind down.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
-          ]
-        },
-        {
-          "text": "Chipotle rises 7% after CEO says same-store sales growth will continue.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Business Insider",
+            "CNBC"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-29T00:09:38+00:00"
+      "written_at": "2026-10-29T12:24:16+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -882,9 +880,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           5.024
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          5.026
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:21+00:00",
+      "fetched_at": "2026-10-29T12:23:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -897,16 +899,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.024,
-      "change": -0.021,
-      "change_pct": -0.4163,
+      "value": 5.026,
+      "change": -0.019,
+      "change_pct": -0.3766,
       "prev_close": 5.045,
       "day_open": 5.013,
-      "day_high": 5.024,
-      "day_low": 5.013,
+      "day_high": 5.04,
+      "day_low": 4.976,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-28T20:09:09.000-0400",
+      "as_of": "2026-10-29T08:23:39.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1580,9 +1582,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           4.71
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          4.716
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:21+00:00",
+      "fetched_at": "2026-10-29T12:23:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1595,16 +1601,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.71,
-      "change": -0.025,
-      "change_pct": 0.0508,
+      "value": 4.716,
+      "change": -0.019,
+      "change_pct": 0.0391,
       "prev_close": 4.735,
       "day_open": 4.704,
-      "day_high": 4.712,
-      "day_low": 4.702,
+      "day_high": 4.722,
+      "day_low": 4.664,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-28T20:08:13.000-0400",
+      "as_of": "2026-10-29T08:23:34.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2278,9 +2284,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           5.344
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          5.347
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:21+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2293,16 +2303,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.344,
-      "change": -0.017,
-      "change_pct": 0.2617,
+      "value": 5.347,
+      "change": -0.014,
+      "change_pct": 0.2109,
       "prev_close": 5.361,
       "day_open": 5.334,
-      "day_high": 5.344,
-      "day_low": 5.334,
+      "day_high": 5.36,
+      "day_low": 5.3,
       "year_high": 5.73,
       "year_low": 4.54,
-      "as_of": "2026-10-28T20:08:35.000-0400",
+      "as_of": "2026-10-29T08:23:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2338,12 +2348,12 @@
           1.215469022396726
         ]
       ],
-      "value": 1.0224690223967263,
-      "fetched_at": "2026-10-29T00:09:21+00:00",
+      "value": 1.024469022396726,
+      "fetched_at": "2026-10-29T12:23:57+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.3514312424159796,
-      "change": -0.32896222001925324,
-      "change_pct": -24.34176521116688,
+      "change": -0.32696222001925346,
+      "change_pct": -24.19377396031905,
       "stale": false
     },
     {
@@ -2987,9 +2997,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           7743.98
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          7743.98
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:22+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3005,13 +3019,13 @@
       "value": 7743.98,
       "change": 21.38,
       "change_pct": 0.28,
-      "prev_close": 7722.6,
+      "prev_close": 7743.98,
       "day_open": 7735.56,
       "day_high": 7758.43,
       "day_low": 7718.37,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-28T17:18:42.000-0400",
+      "as_of": "2026-10-28",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3657,9 +3671,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           26549.851
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          26549.851
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:22+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3675,13 +3693,13 @@
       "value": 26549.851,
       "change": 72.04,
       "change_pct": 0.27,
-      "prev_close": 26477.811,
+      "prev_close": 26549.851,
       "day_open": 26541.607,
       "day_high": 26587.337,
       "day_low": 26414.922,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-28T17:15:59.000-0400",
+      "as_of": "2026-10-28",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4355,9 +4373,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           16.91
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          17.17
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:22+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4370,16 +4392,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.91,
-      "change": -0.61,
-      "change_pct": -3.48,
-      "prev_close": 17.52,
-      "day_open": 17.47,
-      "day_high": 17.77,
-      "day_low": 16.21,
+      "value": 17.17,
+      "change": 0.26,
+      "change_pct": 1.54,
+      "prev_close": 16.91,
+      "day_open": 17.15,
+      "day_high": 17.36,
+      "day_low": 16.95,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-28T16:15:01.000-0400",
+      "as_of": "2026-10-29T08:23:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5089,9 +5111,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           1.1148
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          1.114
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:22+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5104,16 +5130,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1148,
-      "change": -0.0004,
-      "change_pct": -0.0359,
+      "value": 1.114,
+      "change": -0.0012,
+      "change_pct": -0.1076,
       "prev_close": 1.1152,
       "day_open": 1.1152,
       "day_high": 1.1161,
-      "day_low": 1.1149,
+      "day_low": 1.1126,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-28T20:09:00.000-0400",
+      "as_of": "2026-10-29T08:23:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5807,9 +5833,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           0.8285
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          0.8284
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:22+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5822,16 +5852,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8285,
-      "change": 0.0006,
-      "change_pct": 0.0725,
+      "value": 0.8284,
+      "change": 0.0005,
+      "change_pct": 0.0604,
       "prev_close": 0.8279,
       "day_open": 0.8277,
-      "day_high": 0.8286,
-      "day_low": 0.8275,
+      "day_high": 0.8297,
+      "day_low": 0.8272,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-28T20:09:00.000-0400",
+      "as_of": "2026-10-29T08:23:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6521,9 +6551,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           4066.9
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          4039.9
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:22+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6536,16 +6570,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4066.9,
-      "change": 15.3,
-      "change_pct": 0.38,
+      "value": 4039.9,
+      "change": -11.7,
+      "change_pct": -0.29,
       "prev_close": 4051.6,
       "day_open": 4081.4,
       "day_high": 4081.7,
-      "day_low": 4063.0,
+      "day_low": 4027.0,
       "year_high": 5586.2,
-      "year_low": 3901.3,
-      "as_of": "2026-10-28T19:59:16.000-0400",
+      "year_low": 3925.1,
+      "as_of": "2026-10-29T08:13:50.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7235,9 +7269,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           101.85
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          102.03
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:23+00:00",
+      "fetched_at": "2026-10-29T12:23:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7250,16 +7288,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 101.85,
-      "change": -0.93,
-      "change_pct": -0.9,
+      "value": 102.03,
+      "change": -0.75,
+      "change_pct": -0.73,
       "prev_close": 102.78,
       "day_open": 101.96,
-      "day_high": 102.14,
-      "day_low": 101.75,
+      "day_high": 102.31,
+      "day_low": 100.56,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-28T19:59:11.000-0400",
+      "as_of": "2026-10-29T08:13:46.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7857,9 +7895,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           215.38
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          215.38
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:23+00:00",
+      "fetched_at": "2026-10-29T12:23:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7875,14 +7917,14 @@
       "value": 215.38,
       "change": -2.56,
       "change_pct": -1.17,
-      "prev_close": 217.94,
-      "day_open": 219.92,
-      "day_high": 219.99,
-      "day_low": 214.47,
+      "prev_close": 215.38,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-28T16:00:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-28",
+      "market_status": "PRE_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8475,9 +8517,13 @@
         [
           "2026-10-29T00:09:26+00:00",
           567.67
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          567.67
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:23+00:00",
+      "fetched_at": "2026-10-29T12:23:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8493,14 +8539,14 @@
       "value": 567.67,
       "change": 9.69,
       "change_pct": 1.74,
-      "prev_close": 557.98,
-      "day_open": 564.32,
-      "day_high": 571.0,
-      "day_low": 560.52,
+      "prev_close": 567.67,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-28T16:15:00.000-0400",
-      "market_status": "POST_MKT",
+      "as_of": "2026-10-28",
+      "market_status": "PRE_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9093,14 +9139,18 @@
         [
           "2026-10-29T00:09:26+00:00",
           73.30468312159897
+        ],
+        [
+          "2026-10-29T12:24:01+00:00",
+          73.30468312159897
         ]
       ],
       "value": 73.30468312159897,
-      "fetched_at": "2026-10-29T00:09:22+00:00",
-      "as_of": "2026-10-28T16:15:00.000-0400",
-      "prev_close": 72.25286820500868,
-      "change": 1.0518149165902884,
-      "change_pct": 1.455741401996516,
+      "fetched_at": "2026-10-29T12:23:58+00:00",
+      "as_of": "2026-10-28",
+      "prev_close": 73.30468312159897,
+      "change": 0.0,
+      "change_pct": 0.0,
       "stale": false
     },
     {
@@ -9266,7 +9316,7 @@
           3.18
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:23+00:00",
+      "fetched_at": "2026-10-29T12:23:59+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -9448,7 +9498,7 @@
           0.88
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:23+00:00",
+      "fetched_at": "2026-10-29T12:23:59+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -9538,7 +9588,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:23+00:00",
+      "fetched_at": "2026-10-29T12:23:59+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -9626,7 +9676,7 @@
           425.28200000000004
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:25+00:00",
+      "fetched_at": "2026-10-29T12:24:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9702,7 +9752,7 @@
           581.0740000000001
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:25+00:00",
+      "fetched_at": "2026-10-29T12:24:01+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9751,7 +9801,7 @@
         ]
       ],
       "value": 73.18895700031321,
-      "fetched_at": "2026-10-29T00:09:25+00:00",
+      "fetched_at": "2026-10-29T12:24:00+00:00",
       "as_of": "2026-03-31",
       "prev_close": 66.58082006099627,
       "change": 6.608136939316935,
@@ -9921,7 +9971,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:26+00:00",
+      "fetched_at": "2026-10-29T12:24:01+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10104,7 +10154,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-29T00:09:26+00:00",
+      "fetched_at": "2026-10-29T12:24:01+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
