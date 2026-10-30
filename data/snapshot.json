@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T18:52:13+00:00",
+  "generated_at": "2026-10-30T00:03:14+00:00",
   "briefing": {
-    "captured_at": "2026-10-29T18:52:16+00:00",
+    "captured_at": "2026-10-30T00:03:18+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,11 +17,38 @@
     "feeds_configured": 14,
     "stories": [
       {
+        "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "CNBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+            "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Amazon gives Wall Street mixed financial picture in earnings report",
+            "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
+          }
+        ],
+        "published": "2026-10-29T22:17:52+00:00"
+      },
+      {
         "headline": "DoorDash to acquire Instacart for $17 billion",
         "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
         "sources": [
           "BBC",
-          "Bloomberg",
           "CNBC",
           "Guardian"
         ],
@@ -31,11 +58,6 @@
             "source": "BBC",
             "headline": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
             "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-29/doordash-to-buy-rival-instacart-in-17-billion-deal-video"
           },
           {
             "source": "CNBC",
@@ -48,95 +70,11 @@
             "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
           }
         ],
-        "published": "2026-10-29T16:15:05+00:00"
+        "published": "2026-10-29T15:53:12+00:00"
       },
       {
-        "headline": "Stock Rotation Hits AI Winners on Alphabet\u2019s Miss: Markets Wrap",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-        "sources": [
-          "Bloomberg",
-          "Business Insider",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Stock Rotation Hits AI Winners on Alphabet\u2019s Miss: Markets Wrap",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Alphabet stock on track for worst day ever after rare earnings miss",
-            "url": "https://seekingalpha.com/news/4660474-alphabet-stock-on-track-for-worst-day-ever-after-rare-earnings-miss?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Why Alphabet\u2019s stock is on track for its worst day ever after the latest results",
-            "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-10-29T18:50:00+00:00"
-      },
-      {
-        "headline": "Maybe Wall Street Has Never Been \u2018AI-Pilled\u2019",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled",
-        "sources": [
-          "Bloomberg",
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Maybe Wall Street Has Never Been \u2018AI-Pilled\u2019",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-            "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
-            "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"
-          }
-        ],
-        "published": "2026-10-29T18:37:43+00:00"
-      },
-      {
-        "headline": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
-        "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
-        "sources": [
-          "BBC",
-          "Fortune",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-            "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Fortune",
-            "headline": "\u2018Operation Supercharge\u2019: Japan and U.S. agree to develop Japanese missile facility\u2014a \u2018strong, quiet and clear\u2019 message against China\u2019s naval activity",
-            "url": "https://fortune.com/2026/10/29/japan-us-missile-facility-china-naval-activity/"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
-            "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry"
-          }
-        ],
-        "published": "2026-10-29T17:35:59+00:00"
-      },
-      {
-        "headline": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-        "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+        "headline": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+        "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
         "sources": [
           "CNBC",
           "Fortune"
@@ -145,82 +83,119 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-            "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html"
+            "headline": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+            "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html"
           },
           {
             "source": "Fortune",
-            "headline": "Alaska\u2019s governor accuses Dem Peltola\u2019s campaign for \u2018deliberately\u2019 tricking voters after recruiting candidate \u2018with the same name\u2019 as her opponent",
-            "url": "https://fortune.com/2026/10/29/alaska-governor-peltola-trick-voters-candidate/"
+            "headline": "\u2018Whenever I want it to end\u2019: U.S. tells Middle East allies to prepare for possible new strikes on Iran after the midterms",
+            "url": "https://fortune.com/2026/10/29/us-allies-prepare-iran-strikes-after-midterms-trump/"
           }
         ],
-        "published": "2026-10-29T18:32:08+00:00"
+        "published": "2026-10-29T22:37:56+00:00"
+      },
+      {
+        "headline": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+        "url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+            "url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+            "url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html"
+          }
+        ],
+        "published": "2026-10-29T21:52:27+00:00"
+      },
+      {
+        "headline": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+        "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+            "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+            "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html"
+          }
+        ],
+        "published": "2026-10-29T21:29:59+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Alphabet misses on earnings, loses $500bn in market value, stock headed for its worst day ever.",
-          "topic_ids": [
-            1,
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "Business Insider",
-            "CNBC",
-            "Guardian",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "The miss triggers a rotation out of AI winners across markets.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "Business Insider",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "DoorDash agrees to buy Instacart for $17 billion, consolidating grocery delivery.",
+          "text": "Google loses $500bn in value on AI fears; Amazon's earnings give Wall Street a mixed picture.",
           "topic_ids": [
             0
           ],
           "sources": [
             "BBC",
-            "Bloomberg",
             "CNBC",
             "Guardian"
           ]
         },
         {
-          "text": "Wall Street law firm Weil, Gotshal & Manges plans to wind down.",
+          "text": "DoorDash to buy Instacart for $17bn, consolidating grocery delivery.",
           "topic_ids": [
-            2
+            1
           ],
           "sources": [
-            "Bloomberg",
+            "BBC",
             "CNBC",
             "Guardian"
           ]
         },
         {
-          "text": "Japan and the US agree to develop a Japanese missile facility aimed at China's naval activity.",
+          "text": "Rivian beats third-quarter estimates on software revenue and R2 deliveries.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "BBC",
-            "Fortune",
-            "Guardian"
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Starbucks sales miss expectations, though its U.S. turnaround gains steam.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "Hegseth reportedly fires top U.S. military planner; allies told to prepare for new Iran strikes.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "Fortune"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-29T18:52:26+00:00"
+      "written_at": "2026-10-30T00:03:28+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -908,9 +883,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           4.993
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          4.935
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:08+00:00",
+      "fetched_at": "2026-10-30T00:03:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -923,16 +902,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.993,
-      "change": -0.052,
-      "change_pct": -1.0307,
-      "prev_close": 5.045,
-      "day_open": 5.013,
-      "day_high": 5.04,
-      "day_low": 4.949,
+      "value": 4.935,
+      "change": -0.054,
+      "change_pct": -1.0824,
+      "prev_close": 4.989,
+      "day_open": 4.937,
+      "day_high": 4.937,
+      "day_low": 4.935,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-29T14:51:52.000-0400",
+      "as_of": "2026-10-29T20:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1614,9 +1593,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           4.66
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          4.606
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:09+00:00",
+      "fetched_at": "2026-10-30T00:03:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1629,16 +1612,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.66,
-      "change": -0.075,
-      "change_pct": 0.1445,
-      "prev_close": 4.735,
-      "day_open": 4.704,
-      "day_high": 4.728,
-      "day_low": 4.631,
+      "value": 4.606,
+      "change": -0.05,
+      "change_pct": 0.0977,
+      "prev_close": 4.656,
+      "day_open": 4.606,
+      "day_high": 4.608,
+      "day_low": 4.606,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-29T14:51:18.000-0400",
+      "as_of": "2026-10-29T20:01:26.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2320,9 +2303,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           5.331
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          5.292
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:09+00:00",
+      "fetched_at": "2026-10-30T00:03:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2335,16 +2322,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.331,
-      "change": -0.03,
-      "change_pct": 0.457,
-      "prev_close": 5.361,
-      "day_open": 5.334,
-      "day_high": 5.36,
-      "day_low": 5.288,
+      "value": 5.292,
+      "change": -0.037,
+      "change_pct": 0.5508,
+      "prev_close": 5.329,
+      "day_open": 5.292,
+      "day_high": 5.292,
+      "day_low": 5.291,
       "year_high": 5.73,
       "year_low": 4.54,
-      "as_of": "2026-10-29T14:51:52.000-0400",
+      "as_of": "2026-10-29T20:02:31.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2380,12 +2367,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.9914690223967266,
-      "fetched_at": "2026-10-29T18:52:08+00:00",
+      "value": 0.9334690223967259,
+      "fetched_at": "2026-10-30T00:03:05+00:00",
       "as_of": "2026-09-01",
-      "prev_close": 1.3514312424159796,
-      "change": -0.35996222001925293,
-      "change_pct": -26.635629599308473,
+      "prev_close": 1.2954312424159795,
+      "change": -0.3619622200192536,
+      "change_pct": -27.941445919136086,
       "stale": false
     },
     {
@@ -3037,9 +3024,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           7700.31
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          7720.39
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:09+00:00",
+      "fetched_at": "2026-10-30T00:03:06+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3052,16 +3043,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7700.31,
-      "change": -43.67,
-      "change_pct": -0.56,
+      "value": 7720.39,
+      "change": -23.59,
+      "change_pct": -0.3,
       "prev_close": 7743.98,
       "day_open": 7699.61,
       "day_high": 7732.21,
       "day_low": 7690.94,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-29T14:52:05.000-0400",
+      "as_of": "2026-10-29T16:32:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3715,9 +3706,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           26130.762
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          26184.724
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:09+00:00",
+      "fetched_at": "2026-10-30T00:03:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3730,16 +3725,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 26130.762,
-      "change": -419.089,
-      "change_pct": -1.58,
+      "value": 26184.724,
+      "change": -365.126,
+      "change_pct": -1.38,
       "prev_close": 26549.851,
       "day_open": 26201.823,
       "day_high": 26286.461,
       "day_low": 26053.161,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-29T14:52:05.000-0400",
+      "as_of": "2026-10-29T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4421,9 +4416,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           16.94
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          17.2
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:09+00:00",
+      "fetched_at": "2026-10-30T00:03:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4436,16 +4435,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 16.94,
-      "change": 0.03,
-      "change_pct": 0.18,
+      "value": 17.2,
+      "change": 0.29,
+      "change_pct": 1.71,
       "prev_close": 16.91,
       "day_open": 17.15,
       "day_high": 17.36,
       "day_low": 16.21,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-29T14:51:46.000-0400",
+      "as_of": "2026-10-29T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5163,9 +5162,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           1.1161
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          1.1183
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:10+00:00",
+      "fetched_at": "2026-10-30T00:03:09+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5178,16 +5181,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1161,
-      "change": 0.0009,
-      "change_pct": 0.0807,
-      "prev_close": 1.1152,
-      "day_open": 1.1152,
-      "day_high": 1.1173,
-      "day_low": 1.1106,
+      "value": 1.1183,
+      "change": 0.0005,
+      "change_pct": 0.0447,
+      "prev_close": 1.1178,
+      "day_open": 1.1172,
+      "day_high": 1.1192,
+      "day_low": 1.1174,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-29T14:52:00.000-0400",
+      "as_of": "2026-10-29T20:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5889,9 +5892,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           0.8263
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          0.8236
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:10+00:00",
+      "fetched_at": "2026-10-30T00:03:09+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5904,16 +5911,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8263,
-      "change": -0.0016,
-      "change_pct": -0.1933,
-      "prev_close": 0.8279,
-      "day_open": 0.8277,
-      "day_high": 0.8297,
-      "day_low": 0.8257,
+      "value": 0.8236,
+      "change": -0.0006,
+      "change_pct": -0.0728,
+      "prev_close": 0.8242,
+      "day_open": 0.8239,
+      "day_high": 0.8247,
+      "day_low": 0.8224,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-29T14:52:00.000-0400",
+      "as_of": "2026-10-29T20:03:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6611,9 +6618,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           4019.1
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          4020.3
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:10+00:00",
+      "fetched_at": "2026-10-30T00:03:09+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6626,16 +6637,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4019.1,
-      "change": -32.5,
-      "change_pct": -0.8,
-      "prev_close": 4051.6,
-      "day_open": 4081.4,
-      "day_high": 4081.7,
-      "day_low": 4016.3,
+      "value": 4020.3,
+      "change": -11.1,
+      "change_pct": -0.28,
+      "prev_close": 4031.4,
+      "day_open": 4033.6,
+      "day_high": 4038.2,
+      "day_low": 4018.2,
       "year_high": 5586.2,
       "year_low": 3925.1,
-      "as_of": "2026-10-29T14:42:03.000-0400",
+      "as_of": "2026-10-29T19:52:56.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7333,9 +7344,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           102.24
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          102.77
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:10+00:00",
+      "fetched_at": "2026-10-30T00:03:09+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7348,16 +7363,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 102.24,
-      "change": -0.54,
-      "change_pct": -0.53,
-      "prev_close": 102.78,
-      "day_open": 101.96,
-      "day_high": 102.33,
-      "day_low": 99.79,
+      "value": 102.77,
+      "change": 0.77,
+      "change_pct": 0.75,
+      "prev_close": 102.0,
+      "day_open": 102.8,
+      "day_high": 102.94,
+      "day_low": 102.6,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-29T14:42:05.000-0400",
+      "as_of": "2026-10-29T19:52:47.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -7963,9 +7978,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           212.98
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          213.66
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:10+00:00",
+      "fetched_at": "2026-10-30T00:03:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7978,17 +7997,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 212.98,
-      "change": -2.4,
-      "change_pct": -1.11,
+      "value": 213.66,
+      "change": -1.72,
+      "change_pct": -0.8,
       "prev_close": 215.38,
       "day_open": 214.36,
       "day_high": 215.33,
       "day_low": 212.08,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-29T14:52:06.729-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-29T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8589,9 +8608,13 @@
         [
           "2026-10-29T18:52:13+00:00",
           558.23
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          561.67
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:11+00:00",
+      "fetched_at": "2026-10-30T00:03:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8604,17 +8627,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 558.23,
-      "change": -9.44,
-      "change_pct": -1.66,
+      "value": 561.67,
+      "change": -6.0,
+      "change_pct": -1.06,
       "prev_close": 567.67,
       "day_open": 558.93,
       "day_high": 565.87,
       "day_low": 555.5,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-29T14:52:02.068-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-29T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9215,14 +9238,18 @@
         [
           "2026-10-29T18:52:13+00:00",
           72.49448398830697
+        ],
+        [
+          "2026-10-30T00:03:14+00:00",
+          72.75150607676555
         ]
       ],
-      "value": 72.49448398830697,
-      "fetched_at": "2026-10-29T18:52:09+00:00",
-      "as_of": "2026-10-29T14:52:02.068-0400",
+      "value": 72.75150607676555,
+      "fetched_at": "2026-10-30T00:03:06+00:00",
+      "as_of": "2026-10-29T16:15:00.000-0400",
       "prev_close": 73.30468312159897,
-      "change": -0.8101991332920022,
-      "change_pct": -1.1052488037470007,
+      "change": -0.5531770448334186,
+      "change_pct": -0.7546271551516016,
       "stale": false
     },
     {
@@ -9388,7 +9415,7 @@
           3.14
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:11+00:00",
+      "fetched_at": "2026-10-30T00:03:10+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -9570,7 +9597,7 @@
           0.86
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:11+00:00",
+      "fetched_at": "2026-10-30T00:03:10+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -9660,7 +9687,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:11+00:00",
+      "fetched_at": "2026-10-30T00:03:10+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -9748,7 +9775,7 @@
           425.28200000000004
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:12+00:00",
+      "fetched_at": "2026-10-30T00:03:12+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9824,7 +9851,7 @@
           581.0740000000001
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:13+00:00",
+      "fetched_at": "2026-10-30T00:03:12+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9873,7 +9900,7 @@
         ]
       ],
       "value": 73.18895700031321,
-      "fetched_at": "2026-10-29T18:52:12+00:00",
+      "fetched_at": "2026-10-30T00:03:12+00:00",
       "as_of": "2026-03-31",
       "prev_close": 66.58082006099627,
       "change": 6.608136939316935,
@@ -10043,7 +10070,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:13+00:00",
+      "fetched_at": "2026-10-30T00:03:14+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10226,7 +10253,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-29T18:52:13+00:00",
+      "fetched_at": "2026-10-30T00:03:14+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
