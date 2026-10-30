@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T18:29:52+00:00",
+  "generated_at": "2026-10-30T23:57:44+00:00",
   "briefing": {
-    "captured_at": "2026-10-30T18:29:55+00:00",
+    "captured_at": "2026-10-30T23:57:46+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -30,13 +30,18 @@
         "variants": [
           {
             "source": "BBC",
+            "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "BBC",
             "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
             "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
-            "headline": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-            "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html"
+            "headline": "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an exchange gets hacked",
+            "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html"
           },
           {
             "source": "CNBC",
@@ -44,14 +49,14 @@
             "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
           },
           {
-            "source": "Fortune",
-            "headline": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
-            "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/"
+            "source": "CNBC",
+            "headline": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+            "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html"
           },
           {
-            "source": "Guardian",
-            "headline": "FBI working with Binance after crypto exchange hit by $6.3bn heist \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
+            "source": "Fortune",
+            "headline": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history [Updated]",
+            "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/"
           },
           {
             "source": "Guardian",
@@ -62,19 +67,15 @@
             "source": "NPR",
             "headline": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
             "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
-          },
-          {
-            "source": "NPR",
-            "headline": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
-            "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue"
           }
         ],
-        "published": "2026-10-30T18:08:07+00:00"
+        "published": "2026-10-30T21:45:52+00:00"
       },
       {
-        "headline": "Amazon gives Wall Street mixed financial picture in earnings report",
-        "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
+        "headline": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
         "sources": [
+          "Bloomberg",
           "CNBC",
           "Fortune",
           "Guardian",
@@ -82,6 +83,16 @@
         ],
         "corroborated": true,
         "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs"
+          },
           {
             "source": "CNBC",
             "headline": "Wall Street braces for Democratic gains as 2026 midterm election nears",
@@ -94,8 +105,8 @@
           },
           {
             "source": "Guardian",
-            "headline": "Amazon gives Wall Street mixed financial picture in earnings report",
-            "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
+            "headline": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff \u2013 as it happened",
+            "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"
           },
           {
             "source": "MarketWatch",
@@ -103,38 +114,55 @@
             "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-30T18:13:52+00:00"
+        "published": "2026-10-30T20:55:32+00:00"
       },
       {
-        "headline": "What we know about Binance's $6.3bn hack",
-        "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+        "headline": "Federal Realty Investment Trust 5% CUM PFD C declares $0.3125 dividend",
+        "url": "https://seekingalpha.com/news/4661580-federal-realty-investment-trust-5-percent-cum-pfd-c-declares-0_3125-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
         "sources": [
-          "BBC",
-          "CNBC"
+          "Business Insider",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Binance's $6.3bn crypto hack biggest in history",
-            "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
+            "source": "Business Insider",
+            "headline": "Federal Realty Investment Trust 5% CUM PFD C declares $0.3125 dividend",
+            "url": "https://seekingalpha.com/news/4661580-federal-realty-investment-trust-5-percent-cum-pfd-c-declares-0_3125-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
           },
           {
-            "source": "BBC",
-            "headline": "What we know about Binance's $6.3bn hack",
-            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Binance's $6.3 billion hack: What we know and what comes next",
-            "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html"
+            "source": "Seeking Alpha",
+            "headline": "Federal Realty signals $7.54-$7.58 core FFO per share guidance while integrating $508M The Summit acquisition",
+            "url": "https://seekingalpha.com/news/4661799-federal-realty-signals-7_54-7_58-core-ffo-per-share-guidance-while-integrating-508m-the?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-10-30T17:41:10+00:00"
+        "published": "2026-10-30T22:49:33+00:00"
       },
       {
-        "headline": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-        "url": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+        "headline": "This cybersecurity stock will be the next to join the S&P 500",
+        "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "sources": [
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "Intel plunged 28.6% for its worst drop since 1974 \u2014 and the AI sell-off gave the S&P 500 its worst day since June",
+            "url": "https://fortune.com/2026/10/30/intel-worst-drop-since-1974-sp-500-worst-day-since-june-ai-selloff/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "This cybersecurity stock will be the next to join the S&P 500",
+            "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-10-30T22:20:00+00:00"
+      },
+      {
+        "headline": "Why Intel\u2019s stock saw its worst day in decades \u2014 and a $140 billion wipeout",
+        "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
         "sources": [
           "CNBC",
           "MarketWatch"
@@ -143,47 +171,24 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-            "url": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html"
+            "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+            "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-            "url": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories"
+            "headline": "Why Intel\u2019s stock saw its worst day in decades \u2014 and a $140 billion wipeout",
+            "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-10-30T17:40:00+00:00"
-      },
-      {
-        "headline": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-        "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-        "sources": [
-          "CNBC",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-            "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "Hershey warns Americans squeezed by gas prices are buying less candy\u2014and Halloween\u2019s final days are \u2018really critical\u2019",
-            "url": "https://fortune.com/2026/10/30/hershey-halloween-candy-sales-gas-prices-inflation-consumers/"
-          }
-        ],
-        "published": "2026-10-30T17:23:43+00:00"
+        "published": "2026-10-30T20:48:00+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Binance loses $6.3bn in the largest crypto theft on record; FBI involved, analysts point to North Korea",
+          "text": "Binance loses $6.3bn in what trackers call the largest crypto theft on record, linked to North Korea.",
           "topic_ids": [
-            0,
-            2
+            0
           ],
           "sources": [
             "BBC",
@@ -194,11 +199,25 @@
           ]
         },
         {
-          "text": "Wall Street braces for Democratic gains in the 2026 midterms; Microsoft leads the cloud wars",
+          "text": "Intel drops 28.6%, its worst day since 1974, cutting about $12bn from the government's stake.",
           "topic_ids": [
-            1
+            3,
+            4
           ],
           "sources": [
+            "CNBC",
+            "Fortune",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "AI cash-burn fears spark a tech selloff; the S&P 500 posts its worst day since June.",
+          "topic_ids": [
+            1,
+            3
+          ],
+          "sources": [
+            "Bloomberg",
             "CNBC",
             "Fortune",
             "Guardian",
@@ -206,28 +225,31 @@
           ]
         },
         {
-          "text": "Class action alleges Trump officials illegally delayed student-debt forgiveness for public servants",
+          "text": "Wall Street punishes earnings misses with deep selloffs, while a boom halves New York state's budget deficit.",
           "topic_ids": [
-            3
+            1
           ],
           "sources": [
+            "Bloomberg",
             "CNBC",
+            "Fortune",
+            "Guardian",
             "MarketWatch"
           ]
         },
         {
-          "text": "Hershey says gas-squeezed shoppers buy less candy as chocolate costs climb into Halloween's final days",
+          "text": "Federal Realty guides to $7.54-$7.58 core FFO per share while integrating the $508M Summit acquisition.",
           "topic_ids": [
-            4
+            2
           ],
           "sources": [
-            "CNBC",
-            "Fortune"
+            "Business Insider",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-10-30T18:30:03+00:00"
+      "written_at": "2026-10-30T23:57:57+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -927,9 +949,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           4.917
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          4.933
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:47+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -942,16 +968,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.917,
-      "change": -0.072,
-      "change_pct": -1.4432,
+      "value": 4.933,
+      "change": -0.056,
+      "change_pct": -1.1225,
       "prev_close": 4.989,
       "day_open": 4.937,
       "day_high": 4.958,
       "day_low": 4.892,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-10-30T14:29:45.000-0400",
+      "as_of": "2026-10-30T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1645,9 +1671,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           4.569
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          4.592
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1660,16 +1690,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.569,
-      "change": -0.087,
-      "change_pct": 0.168,
+      "value": 4.592,
+      "change": -0.064,
+      "change_pct": 0.125,
       "prev_close": 4.656,
       "day_open": 4.606,
       "day_high": 4.629,
       "day_low": 4.554,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-10-30T14:29:42.000-0400",
+      "as_of": "2026-10-30T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2363,9 +2393,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           5.304
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          5.311
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2378,16 +2412,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.304,
-      "change": -0.025,
-      "change_pct": 0.3711,
+      "value": 5.311,
+      "change": -0.018,
+      "change_pct": 0.2578,
       "prev_close": 5.329,
       "day_open": 5.292,
       "day_high": 5.329,
       "day_low": 5.258,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-10-30T14:29:35.000-0400",
+      "as_of": "2026-10-30T17:05:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2423,12 +2457,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.9154690223967261,
-      "fetched_at": "2026-10-30T18:29:47+00:00",
+      "value": 0.9314690223967261,
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.2954312424159795,
-      "change": -0.3799622200192534,
-      "change_pct": -29.330944598080233,
+      "change": -0.3639622200192534,
+      "change_pct": -28.095834661240975,
       "stale": false
     },
     {
@@ -3092,9 +3126,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           7538.8
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          7580.07
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3107,16 +3145,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7538.8,
-      "change": -181.59,
-      "change_pct": -2.35,
+      "value": 7580.07,
+      "change": -140.32,
+      "change_pct": -1.82,
       "prev_close": 7720.39,
       "day_open": 7631.07,
       "day_high": 7637.48,
-      "day_low": 7536.14,
+      "day_low": 7527.56,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-10-30T14:29:39.000-0400",
+      "as_of": "2026-10-30T16:47:43.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3782,9 +3820,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           25237.403
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          25436.999
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3797,16 +3839,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25237.403,
-      "change": -947.321,
-      "change_pct": -3.62,
+      "value": 25436.999,
+      "change": -747.726,
+      "change_pct": -2.86,
       "prev_close": 26184.724,
       "day_open": 25592.486,
       "day_high": 25672.998,
-      "day_low": 25228.314,
+      "day_low": 25177.331,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-10-30T14:29:44.000-0400",
+      "as_of": "2026-10-30T17:15:59.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4500,9 +4542,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           23.46
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          19.42
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4515,16 +4561,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 23.46,
-      "change": 6.26,
-      "change_pct": 36.4,
+      "value": 19.42,
+      "change": 2.22,
+      "change_pct": 12.91,
       "prev_close": 17.2,
       "day_open": 18.43,
-      "day_high": 23.61,
+      "day_high": 23.93,
       "day_low": 18.03,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-10-30T14:29:31.000-0400",
+      "as_of": "2026-10-30T16:15:01.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5254,13 +5300,15 @@
         [
           "2026-10-30T18:29:52+00:00",
           1.1163
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          1.1158
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -5269,16 +5317,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1163,
-      "change": -0.0015,
-      "change_pct": -0.1342,
-      "prev_close": 1.1178,
-      "day_open": 1.1172,
-      "day_high": 1.1214,
-      "day_low": 1.1137,
+      "value": 1.1158,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 1.1158,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-10-30T14:29:00.000-0400",
+      "as_of": "2026-10-30T16:59:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -5992,13 +6040,15 @@
         [
           "2026-10-30T18:29:52+00:00",
           0.8236
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          0.825
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:48+00:00",
+      "fetched_at": "2026-10-30T23:57:41+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -6007,16 +6057,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8236,
-      "change": -0.0006,
-      "change_pct": -0.0728,
-      "prev_close": 0.8242,
-      "day_open": 0.8239,
-      "day_high": 0.8255,
-      "day_low": 0.8195,
+      "value": 0.825,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.825,
+      "day_open": 0.0,
+      "day_high": 0.0,
+      "day_low": 0.0,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-10-30T14:29:00.000-0400",
+      "as_of": "2026-10-30T17:00:00.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6726,9 +6776,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           3890.6
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          3884.9
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6741,16 +6795,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3890.6,
-      "change": -140.8,
-      "change_pct": -3.49,
+      "value": 3884.9,
+      "change": -146.5,
+      "change_pct": -3.63,
       "prev_close": 4031.4,
       "day_open": 4033.6,
       "day_high": 4038.2,
-      "day_low": 3886.0,
+      "day_low": 3879.3,
       "year_high": 5586.2,
-      "year_low": 3886.0,
-      "as_of": "2026-10-30T14:19:35.000-0400",
+      "year_low": 3879.3,
+      "as_of": "2026-10-30T18:40:57.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7460,9 +7514,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           104.39
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          102.95
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7475,16 +7533,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 104.39,
-      "change": 2.39,
-      "change_pct": 2.34,
+      "value": 102.95,
+      "change": 0.95,
+      "change_pct": 0.93,
       "prev_close": 102.0,
       "day_open": 102.8,
       "day_high": 104.99,
       "day_low": 102.43,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-10-30T14:19:44.000-0400",
+      "as_of": "2026-10-30T18:40:58.000-0400",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8102,9 +8160,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           201.57
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          204.64
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8117,17 +8179,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 201.57,
-      "change": -12.09,
-      "change_pct": -5.66,
+      "value": 204.64,
+      "change": -9.02,
+      "change_pct": -4.22,
       "prev_close": 213.66,
       "day_open": 208.94,
       "day_high": 209.06,
-      "day_low": 201.49,
+      "day_low": 200.92,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-10-30T14:29:47.573-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-30T16:00:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8740,9 +8802,13 @@
         [
           "2026-10-30T18:29:52+00:00",
           513.58
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          522.49
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8755,17 +8821,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 513.58,
-      "change": -48.09,
-      "change_pct": -8.56,
+      "value": 522.49,
+      "change": -39.18,
+      "change_pct": -6.98,
       "prev_close": 561.67,
       "day_open": 532.58,
       "day_high": 535.32,
-      "day_low": 513.21,
+      "day_low": 511.63,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-10-30T14:29:45.204-0400",
-      "market_status": "REG_MKT",
+      "as_of": "2026-10-30T16:15:00.000-0400",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9378,14 +9444,18 @@
         [
           "2026-10-30T18:29:52+00:00",
           68.12490051467078
+        ],
+        [
+          "2026-10-30T23:57:44+00:00",
+          68.92944260409205
         ]
       ],
-      "value": 68.12490051467078,
-      "fetched_at": "2026-10-30T18:29:48+00:00",
-      "as_of": "2026-10-30T14:29:39.000-0400",
+      "value": 68.92944260409205,
+      "fetched_at": "2026-10-30T23:57:41+00:00",
+      "as_of": "2026-10-30T16:15:00.000-0400",
       "prev_close": 72.75150607676555,
-      "change": -4.626605562094767,
-      "change_pct": -6.359463620193498,
+      "change": -3.8220634726735057,
+      "change_pct": -5.253586734878809,
       "stale": false
     },
     {
@@ -9551,7 +9621,7 @@
           3.26
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -9733,7 +9803,7 @@
           0.89
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -9823,7 +9893,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:49+00:00",
+      "fetched_at": "2026-10-30T23:57:42+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -9911,7 +9981,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:51+00:00",
+      "fetched_at": "2026-10-30T23:57:43+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -9987,7 +10057,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:52+00:00",
+      "fetched_at": "2026-10-30T23:57:44+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10036,7 +10106,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-10-30T18:29:51+00:00",
+      "fetched_at": "2026-10-30T23:57:43+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -10206,7 +10276,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:52+00:00",
+      "fetched_at": "2026-10-30T23:57:44+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10389,7 +10459,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-10-30T18:29:52+00:00",
+      "fetched_at": "2026-10-30T23:57:44+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
