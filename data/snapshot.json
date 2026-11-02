@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T14:54:21+00:00",
+  "generated_at": "2026-11-02T22:14:40+00:00",
   "briefing": {
-    "captured_at": "2026-11-02T14:54:24+00:00",
+    "captured_at": "2026-11-02T22:14:42+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,168 +17,144 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Oracle Kicks Off $20 Billion Capital Raise for AI Plan",
+        "headline": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
         "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
         "sources": [
           "Bloomberg",
-          "CNBC",
-          "MarketWatch"
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Oracle Kicks Off $20 Billion Capital Raise for AI Plan",
+            "headline": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
             "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
           },
           {
             "source": "CNBC",
             "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
             "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Oracle\u2019s stock falls as the company details plan to raise $20 billion",
-            "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-02T14:54:03+00:00"
+        "published": "2026-11-02T21:10:34+00:00"
       },
       {
-        "headline": "Marvell and Lumentum officially plan to combine. Here\u2019s what to know.",
-        "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+        "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+        "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
         "sources": [
           "CNBC",
-          "MarketWatch"
+          "Fortune"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
-            "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html"
+            "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+            "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Marvell and Lumentum officially plan to combine. Here\u2019s what to know.",
-            "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories"
+            "source": "Fortune",
+            "headline": "Following a sudden GOP slide, a top data scientist\u2019s model gives Democrats 90% odds of taking the Senate as Kansas trends blue in major shock",
+            "url": "https://fortune.com/2026/11/02/midterm-election-odds-us-senate-republicans-democrats-kansas-roger-marshall-blue-wave/"
           }
         ],
-        "published": "2026-11-02T14:23:40+00:00"
+        "published": "2026-11-02T20:48:21+00:00"
       },
       {
-        "headline": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
-        "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-        "sources": [
-          "CNBC"
-        ],
-        "corroborated": false,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
-            "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
-          }
-        ],
-        "published": "2026-11-02T14:52:44+00:00"
-      },
-      {
-        "headline": "SPDR Barclays 1-10 Year TIPS ETF declares monthly distribution of $0.0696",
-        "url": "https://seekingalpha.com/news/4662306-spdr-barclays-1-10-year-tips-etf-declares-monthly-distribution-of-00696?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Seeking Alpha"
-        ],
-        "corroborated": false,
-        "variants": [
-          {
-            "source": "Seeking Alpha",
-            "headline": "SPDR DoubleLine Total Return Tactical ETF declares monthly distribution of $0.1689",
-            "url": "https://seekingalpha.com/news/4662308-spdr-doubleline-total-return-tactical-etf-declares-monthly-distribution-of-01689?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "SPDR Barclays 1-10 Year TIPS ETF declares monthly distribution of $0.0696",
-            "url": "https://seekingalpha.com/news/4662306-spdr-barclays-1-10-year-tips-etf-declares-monthly-distribution-of-00696?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "SPDR Nuveen Barclays Municipal Bond ETF declares monthly distribution of $0.1371",
-            "url": "https://seekingalpha.com/news/4662303-spdr-nuveen-barclays-municipal-bond-etf-declares-monthly-distribution-of-01371?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "SPDR DoubleLine Short Duration Total Return Tactical ETF declares monthly distribution of $0.1789",
-            "url": "https://seekingalpha.com/news/4662302-spdr-doubleline-short-duration-total-return-tactical-etf-declares-monthly-distribution-of-01789?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "SPDR Blackstone / GSO Senior Loan ETF declares monthly distribution of $0.2416",
-            "url": "https://seekingalpha.com/news/4662301-spdr-blackstone-gso-senior-loan-etf-declares-monthly-distribution-of-02416?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-11-02T14:49:43+00:00"
-      },
-      {
-        "headline": "Shop freezers in seven European countries hit by suspected cyber-attack",
+        "headline": "Shop freezers in seven European countries hit by cyber-attack",
         "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "BBC"
+          "BBC",
+          "Guardian"
         ],
-        "corroborated": false,
+        "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "Shop freezers in seven European countries hit by suspected cyber-attack",
+            "headline": "Shop freezers in seven European countries hit by cyber-attack",
             "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+            "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
           }
         ],
-        "published": "2026-11-02T14:11:13+00:00"
+        "published": "2026-11-02T17:38:11+00:00"
+      },
+      {
+        "headline": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+        "sources": [
+          "Bloomberg",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Oil price falls amid hope of a breakthrough to end Iran war",
+            "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+          }
+        ],
+        "published": "2026-11-02T17:14:23+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Oracle files to raise $20 billion in stock and bonds for its AI buildout; shares fall.",
+          "text": "Oracle files to sell $20bn in stock and bonds for its AI buildout; Meta weighs new debt.",
           "topic_ids": [
             0
           ],
           "sources": [
             "Bloomberg",
-            "CNBC",
-            "MarketWatch"
+            "CNBC"
           ]
         },
         {
-          "text": "Marvell agrees to buy Lumentum in an all-stock deal, betting on AI connectivity.",
+          "text": "Oil and US natural gas fall on renewed hope for Iran talks; gold rebounds.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "Bloomberg",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Prediction markets put Democrats' odds of taking the Senate at 75%; one model says 90%.",
           "topic_ids": [
             1
           ],
           "sources": [
             "CNBC",
-            "MarketWatch"
+            "Fortune"
           ]
         },
         {
-          "text": "Crude oil dives to a session low on Iran peace talk hopes ahead of the midterms.",
+          "text": "Suspected cyber-attack hits shop fridges and freezers in seven European countries.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Five SPDR bond ETFs, from TIPS to senior loans, declare monthly distributions.",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "Seeking Alpha"
+            "BBC",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-02T14:54:35+00:00"
+      "written_at": "2026-11-02T22:14:52+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -886,9 +862,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           4.886
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          4.912
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "fetched_at": "2026-11-02T22:14:36+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -901,16 +881,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.886,
-      "change": -0.043,
-      "change_pct": -0.8724,
+      "value": 4.912,
+      "change": -0.017,
+      "change_pct": -0.3449,
       "prev_close": 4.929,
       "day_open": 4.941,
       "day_high": 4.956,
-      "day_low": 4.88,
+      "day_low": 4.869,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-02T09:54:01.000-0500",
+      "as_of": "2026-11-02T17:05:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1612,9 +1592,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           4.583
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          4.598
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1627,16 +1611,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.583,
-      "change": 0.002,
-      "change_pct": -0.0039,
+      "value": 4.598,
+      "change": 0.017,
+      "change_pct": -0.0313,
       "prev_close": 4.581,
       "day_open": 4.6,
       "day_high": 4.614,
-      "day_low": 4.577,
+      "day_low": 4.565,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-11-02T09:54:03.000-0500",
+      "as_of": "2026-11-02T17:05:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2338,9 +2322,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           5.259
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          5.287
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2353,16 +2341,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.259,
-      "change": -0.05,
-      "change_pct": 0.7578,
+      "value": 5.287,
+      "change": -0.022,
+      "change_pct": 0.3398,
       "prev_close": 5.309,
       "day_open": 5.322,
       "day_high": 5.333,
-      "day_low": 5.254,
+      "day_low": 5.24,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-02T09:54:12.000-0500",
+      "as_of": "2026-11-02T17:05:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2398,12 +2386,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.8844690223967264,
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "value": 0.9104690223967262,
+      "fetched_at": "2026-11-02T22:14:36+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.23543124241598,
-      "change": -0.3509622200192535,
-      "change_pct": -28.40807387491028,
+      "change": -0.3249622200192537,
+      "change_pct": -26.303545584921856,
       "stale": false
     },
     {
@@ -3075,9 +3063,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           7628.51
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          7541.4
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3090,16 +3082,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7628.51,
-      "change": 48.44,
-      "change_pct": 0.64,
+      "value": 7541.4,
+      "change": -38.67,
+      "change_pct": -0.51,
       "prev_close": 7580.07,
       "day_open": 7610.83,
-      "day_high": 7628.51,
-      "day_low": 7610.09,
+      "day_high": 7662.23,
+      "day_low": 7539.38,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-02T09:54:13.000-0500",
+      "as_of": "2026-11-02T16:50:59.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3773,9 +3765,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           25667.144
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          25164.315
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3788,16 +3784,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25667.144,
-      "change": 230.146,
-      "change_pct": 0.91,
+      "value": 25164.315,
+      "change": -272.683,
+      "change_pct": -1.07,
       "prev_close": 25436.999,
       "day_open": 25600.173,
-      "day_high": 25668.765,
-      "day_low": 25567.382,
+      "day_high": 25799.456,
+      "day_low": 25145.951,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-02T09:54:15.000-0500",
+      "as_of": "2026-11-02T17:14:32.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4499,9 +4495,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           18.77
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          21.15
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:17+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4514,16 +4514,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 18.77,
-      "change": -0.65,
-      "change_pct": -3.35,
+      "value": 21.15,
+      "change": 1.73,
+      "change_pct": 8.91,
       "prev_close": 19.42,
       "day_open": 19.05,
-      "day_high": 19.56,
-      "day_low": 18.76,
+      "day_high": 21.77,
+      "day_low": 18.03,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-02T09:54:01.000-0500",
+      "as_of": "2026-11-02T16:15:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5261,9 +5261,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           1.1209
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          1.1189
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5276,16 +5280,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1209,
-      "change": 0.0051,
-      "change_pct": 0.4571,
-      "prev_close": 1.1158,
-      "day_open": 1.1155,
-      "day_high": 1.1237,
-      "day_low": 1.1155,
+      "value": 1.1189,
+      "change": 0.0004,
+      "change_pct": 0.0358,
+      "prev_close": 1.1185,
+      "day_open": 1.1183,
+      "day_high": 1.119,
+      "day_low": 1.1185,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-11-02T09:54:00.000-0500",
+      "as_of": "2026-11-02T17:14:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6007,9 +6011,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           0.8191
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          0.8178
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6022,16 +6030,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8191,
-      "change": -0.0059,
-      "change_pct": -0.7152,
-      "prev_close": 0.825,
-      "day_open": 0.8245,
-      "day_high": 0.8253,
+      "value": 0.8178,
+      "change": -0.0006,
+      "change_pct": -0.0733,
+      "prev_close": 0.8184,
+      "day_open": 0.8187,
+      "day_high": 0.8187,
       "day_low": 0.8189,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-02T09:54:00.000-0500",
+      "as_of": "2026-11-02T17:10:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6749,9 +6757,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           3967.4
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          3956.6
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6764,16 +6776,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3967.4,
-      "change": 68.5,
-      "change_pct": 1.76,
+      "value": 3956.6,
+      "change": 57.7,
+      "change_pct": 1.48,
       "prev_close": 3898.9,
       "day_open": 3890.0,
-      "day_high": 3976.0,
+      "day_high": 3980.8,
       "day_low": 3889.0,
       "year_high": 5586.2,
       "year_low": 3879.3,
-      "as_of": "2026-11-02T09:44:14.000-0500",
+      "as_of": "2026-11-02T16:59:59.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7491,9 +7503,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           97.39
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          96.26
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:37+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7506,16 +7522,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 97.39,
-      "change": -6.73,
-      "change_pct": -6.46,
+      "value": 96.26,
+      "change": -7.86,
+      "change_pct": -7.55,
       "prev_close": 104.12,
       "day_open": 102.39,
       "day_high": 102.75,
-      "day_low": 97.12,
+      "day_low": 95.15,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-11-02T09:44:12.000-0500",
+      "as_of": "2026-11-02T16:59:57.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8141,9 +8157,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           208.3
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          202.06
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8156,17 +8176,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 208.3,
-      "change": 3.66,
-      "change_pct": 1.79,
+      "value": 202.06,
+      "change": -2.58,
+      "change_pct": -1.26,
       "prev_close": 204.64,
       "day_open": 207.53,
-      "day_high": 209.03,
-      "day_low": 206.73,
+      "day_high": 209.98,
+      "day_low": 201.66,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-11-02T09:54:17.248-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-02T16:00:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8787,9 +8807,13 @@
         [
           "2026-11-02T14:54:21+00:00",
           526.02
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          508.31
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8802,17 +8826,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 526.02,
-      "change": 3.53,
-      "change_pct": 0.68,
+      "value": 508.31,
+      "change": -14.18,
+      "change_pct": -2.71,
       "prev_close": 522.49,
       "day_open": 529.05,
-      "day_high": 529.22,
-      "day_low": 524.45,
+      "day_high": 532.76,
+      "day_low": 506.44,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-02T09:53:58.878-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-02T16:15:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9433,14 +9457,18 @@
         [
           "2026-11-02T14:54:21+00:00",
           68.95448783576347
+        ],
+        [
+          "2026-11-02T22:14:40+00:00",
+          67.40260429098045
         ]
       ],
-      "value": 68.95448783576347,
-      "fetched_at": "2026-11-02T14:54:17+00:00",
-      "as_of": "2026-11-02T09:53:58.878-0500",
+      "value": 67.40260429098045,
+      "fetched_at": "2026-11-02T22:14:37+00:00",
+      "as_of": "2026-11-02T16:15:00.000-0500",
       "prev_close": 68.92944260409205,
-      "change": 0.02504523167142736,
-      "change_pct": 0.03633459190331612,
+      "change": -1.5268383131115968,
+      "change_pct": -2.2150742199980518,
       "stale": false
     },
     {
@@ -9461,10 +9489,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-10",
-          2.7
-        ],
         [
           "2026-09-11",
           2.65
@@ -9604,23 +9628,27 @@
         [
           "2026-10-29",
           3.26
+        ],
+        [
+          "2026-10-30",
+          3.44
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:18+00:00",
+      "fetched_at": "2026-11-02T22:14:38+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "786"
+        "_observations": "784"
       },
-      "value": 3.26,
-      "change": 0.11999999999999966,
-      "change_pct": 3.8216560509554034,
-      "prev_close": 3.14,
+      "value": 3.44,
+      "change": 0.18000000000000016,
+      "change_pct": 5.521472392638042,
+      "prev_close": 3.26,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 3.4,
+      "year_high": 3.44,
       "year_low": 2.65,
-      "as_of": "2026-10-29",
+      "as_of": "2026-10-30",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -9643,10 +9671,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-10",
-          0.8
-        ],
         [
           "2026-09-11",
           0.8
@@ -9786,23 +9810,27 @@
         [
           "2026-10-29",
           0.89
+        ],
+        [
+          "2026-10-30",
+          0.94
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:19+00:00",
+      "fetched_at": "2026-11-02T22:14:38+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "785"
+        "_observations": "783"
       },
-      "value": 0.89,
-      "change": 0.030000000000000027,
-      "change_pct": 3.4883720930232593,
-      "prev_close": 0.86,
+      "value": 0.94,
+      "change": 0.04999999999999993,
+      "change_pct": 5.61797752808988,
+      "prev_close": 0.89,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 0.91,
+      "year_high": 0.94,
       "year_low": 0.77,
-      "as_of": "2026-10-29",
+      "as_of": "2026-10-30",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -9878,7 +9906,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:19+00:00",
+      "fetched_at": "2026-11-02T22:14:38+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -9966,7 +9994,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:20+00:00",
+      "fetched_at": "2026-11-02T22:14:39+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10042,7 +10070,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:21+00:00",
+      "fetched_at": "2026-11-02T22:14:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10091,7 +10119,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-02T14:54:20+00:00",
+      "fetched_at": "2026-11-02T22:14:39+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -10261,7 +10289,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:21+00:00",
+      "fetched_at": "2026-11-02T22:14:40+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10444,7 +10472,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-02T14:54:21+00:00",
+      "fetched_at": "2026-11-02T22:14:40+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
