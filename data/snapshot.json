@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T13:43:46+00:00",
+  "generated_at": "2026-11-03T20:01:07+00:00",
   "briefing": {
-    "captured_at": "2026-11-03T13:43:49+00:00",
+    "captured_at": "2026-11-03T20:01:09+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -10,62 +10,70 @@
       "Seeking Alpha",
       "CNBC Finance",
       "BBC",
+      "NPR",
       "Fortune",
       "Business Insider"
     ],
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Baked by Melissa enters Target with first at-home cupcake mix",
-        "url": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+        "headline": "North Korea denies being behind record $6.3bn Binance hack",
+        "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
         "sources": [
+          "BBC",
           "CNBC",
-          "CNBC Finance"
+          "Fortune",
+          "Guardian"
         ],
         "corroborated": true,
         "variants": [
+          {
+            "source": "BBC",
+            "headline": "North Korea denies being behind record $6.3bn Binance hack",
+            "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "source": "CNBC",
-            "headline": "Baked by Melissa enters Target with first at-home cupcake mix",
-            "url": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html"
+            "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+            "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Baked by Melissa enters Target with first at-home cupcake mix",
-            "url": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html"
+            "source": "Fortune",
+            "headline": "North Korea used LinkedIn, fake job interviews to trick Binance engineer in $6.3 billion hack",
+            "url": "https://fortune.com/2026/11/03/binance-hack-details-linkedin/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019",
+            "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
           }
         ],
-        "published": "2026-11-03T13:40:04+00:00"
+        "published": "2026-11-03T19:00:23+00:00"
       },
       {
-        "headline": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
-        "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+        "headline": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
         "sources": [
-          "Fortune",
-          "MarketWatch"
+          "Bloomberg",
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Fortune",
-            "headline": "Wall Street is bracing for a fresh wave of tariffs, Iran action (and potentially a government shutdown) after the midterms",
-            "url": "https://fortune.com/2026/11/03/wall-street-tariffs-iran-government-shutdown-questions/"
+            "source": "Bloomberg",
+            "headline": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates"
           },
           {
-            "source": "MarketWatch",
-            "headline": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
-            "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
-            "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories"
+            "source": "CNBC",
+            "headline": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+            "url": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html"
           }
         ],
-        "published": "2026-11-03T13:26:00+00:00"
+        "published": "2026-11-03T19:29:41+00:00"
       },
       {
-        "headline": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+        "headline": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
         "url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
         "sources": [
           "CNBC",
@@ -75,16 +83,16 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+            "headline": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
             "url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+            "headline": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
             "url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html"
           }
         ],
-        "published": "2026-11-03T13:24:00+00:00"
+        "published": "2026-11-03T19:25:44+00:00"
       },
       {
         "headline": "Ferrari raises 2026 guidance after Q3 earnings beat",
@@ -106,96 +114,79 @@
             "url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html"
           }
         ],
-        "published": "2026-11-03T13:01:55+00:00"
+        "published": "2026-11-03T18:52:06+00:00"
       },
       {
-        "headline": "Who is hacking Europe\u2019s supermarket fridges and freezers, and why?",
-        "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+        "headline": "JPMorgan\u2019s Michele Urges Treasury to Ax \u2018Orphan\u2019 20-Year Bond",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
         "sources": [
-          "CNBC",
-          "Guardian"
+          "Bloomberg",
+          "Business Insider"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Supermarket fridges hit with cyberattacks across Europe \u2014 here's what's happening",
-            "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
+            "source": "Bloomberg",
+            "headline": "JPMorgan\u2019s Michele Urges Treasury to Ax \u2018Orphan\u2019 20-Year Bond",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond"
           },
           {
-            "source": "Guardian",
-            "headline": "'It's a form of terrorism': fridges across Europe hit by suspected cyber-attacks \u2013 video",
-            "url": "https://www.theguardian.com/technology/video/2026/nov/02/its-a-form-of-terrorism-fridges-across-europe-hit-by-suspected-cyber-attacks-video"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Who is hacking Europe\u2019s supermarket fridges and freezers, and why?",
-            "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-            "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+            "source": "Business Insider",
+            "headline": "As Manhattan Office Leasing Hits a 26-Year High, Super-G Intelligence Urges Tenants to Plan IT Before Buildouts",
+            "url": "https://markets.businessinsider.com/news/stocks/as-manhattan-office-leasing-hits-a-26-year-high-super-g-intelligence-urges-tenants-to-plan-it-before-buildouts-1036707625"
           }
         ],
-        "published": "2026-11-03T12:46:58+00:00"
+        "published": "2026-11-03T17:26:02+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Wall Street braces for fresh tariffs, Iran action and a possible government shutdown after the midterms.",
+          "text": "Chip rally lifts stocks on US election day.",
           "topic_ids": [
             1
           ],
           "sources": [
-            "Fortune",
-            "MarketWatch"
+            "Bloomberg",
+            "CNBC"
           ]
         },
         {
-          "text": "Shopify stock slides after earnings; Wall Street's most hated stocks outperform its favorites.",
+          "text": "Binance says hackers used fake job interviews, malware and an AI tool to steal $6.3bn; North Korea denies it.",
           "topic_ids": [
-            1
+            0
           ],
           "sources": [
-            "Fortune",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Pfizer raises full-year outlook on newer product growth and names a company veteran CFO.",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
+            "BBC",
             "CNBC",
-            "CNBC Finance"
+            "Fortune",
+            "Guardian"
           ]
         },
         {
-          "text": "Ferrari lifts 2026 guidance after a third-quarter earnings beat.",
+          "text": "JPMorgan's Michele urges Treasury to scrap the 20-year bond.",
           "topic_ids": [
+            4
+          ],
+          "sources": [
+            "Bloomberg",
+            "Business Insider"
+          ]
+        },
+        {
+          "text": "Pfizer raises full-year outlook and names a company veteran CFO; Ferrari lifts 2026 guidance on a Q3 beat.",
+          "topic_ids": [
+            2,
             3
           ],
           "sources": [
             "CNBC",
             "CNBC Finance"
           ]
-        },
-        {
-          "text": "Supermarket fridges and freezers across Europe hit by suspected cyberattacks.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "Guardian"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-03T13:43:59+00:00"
+      "written_at": "2026-11-03T20:01:18+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -915,9 +906,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           4.904
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          4.943
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -930,16 +925,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.904,
-      "change": 0.01,
-      "change_pct": 0.2043,
+      "value": 4.943,
+      "change": 0.049,
+      "change_pct": 1.0012,
       "prev_close": 4.894,
       "day_open": 4.917,
-      "day_high": 4.941,
+      "day_high": 4.968,
       "day_low": 4.894,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-03T08:43:36.000-0500",
+      "as_of": "2026-11-03T15:01:02.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1653,9 +1648,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           4.573
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          4.61
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1668,16 +1667,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.573,
-      "change": -0.01,
-      "change_pct": 0.0195,
+      "value": 4.61,
+      "change": 0.027,
+      "change_pct": -0.0508,
       "prev_close": 4.583,
       "day_open": 4.612,
-      "day_high": 4.618,
+      "day_high": 4.635,
       "day_low": 4.564,
       "year_high": 4.96,
       "year_low": 3.37,
-      "as_of": "2026-11-03T08:43:27.000-0500",
+      "as_of": "2026-11-03T15:00:44.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2391,9 +2390,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           5.285
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          5.318
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:03+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2406,16 +2409,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.285,
-      "change": 0.016,
-      "change_pct": -0.2422,
+      "value": 5.318,
+      "change": 0.049,
+      "change_pct": -0.7383,
       "prev_close": 5.269,
       "day_open": 5.29,
-      "day_high": 5.311,
+      "day_high": 5.337,
       "day_low": 5.273,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-03T08:43:36.000-0500",
+      "as_of": "2026-11-03T15:01:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2451,12 +2454,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.9024690223967262,
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "value": 0.9414690223967259,
+      "fetched_at": "2026-11-03T20:01:03+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.2004312424159798,
-      "change": -0.29796222001925354,
-      "change_pct": -24.821265016360023,
+      "change": -0.25896222001925384,
+      "change_pct": -21.572432544996765,
       "stale": false
     },
     {
@@ -3136,9 +3139,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           7541.4
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          7562.58
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3151,16 +3158,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7541.4,
-      "change": -38.67,
-      "change_pct": -0.51,
+      "value": 7562.58,
+      "change": 21.18,
+      "change_pct": 0.28,
       "prev_close": 7541.4,
-      "day_open": 7610.83,
-      "day_high": 7662.23,
-      "day_low": 7539.38,
+      "day_open": 7552.92,
+      "day_high": 7594.61,
+      "day_low": 7545.39,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-03T15:01:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3846,9 +3853,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           25164.363
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          25334.286
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3861,16 +3872,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25164.363,
-      "change": -272.636,
-      "change_pct": -1.07,
+      "value": 25334.286,
+      "change": 169.923,
+      "change_pct": 0.68,
       "prev_close": 25164.363,
-      "day_open": 25600.173,
-      "day_high": 25799.456,
-      "day_low": 25145.951,
+      "day_open": 25246.635,
+      "day_high": 25474.463,
+      "day_low": 25246.635,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-03T15:01:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4580,9 +4591,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           20.8
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          20.95
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4595,16 +4610,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 20.8,
-      "change": -0.35,
-      "change_pct": -1.65,
+      "value": 20.95,
+      "change": -0.2,
+      "change_pct": -0.95,
       "prev_close": 21.15,
       "day_open": 21.66,
       "day_high": 21.91,
-      "day_low": 20.52,
+      "day_low": 20.29,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-03T08:43:31.000-0500",
+      "as_of": "2026-11-03T15:01:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5354,9 +5369,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           1.1193
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          1.1189
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5369,16 +5388,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1193,
-      "change": 0.0008,
-      "change_pct": 0.0715,
+      "value": 1.1189,
+      "change": 0.0004,
+      "change_pct": 0.0358,
       "prev_close": 1.1185,
       "day_open": 1.1183,
       "day_high": 1.1206,
       "day_low": 1.1176,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-11-03T08:43:00.000-0500",
+      "as_of": "2026-11-03T15:00:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6112,9 +6131,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           0.8187
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          0.8206
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:43+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6127,16 +6150,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8187,
-      "change": 0.0003,
-      "change_pct": 0.0367,
+      "value": 0.8206,
+      "change": 0.0022,
+      "change_pct": 0.2688,
       "prev_close": 0.8184,
       "day_open": 0.8187,
-      "day_high": 0.8203,
+      "day_high": 0.8216,
       "day_low": 0.815,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-03T08:43:00.000-0500",
+      "as_of": "2026-11-03T15:00:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6866,9 +6889,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           3971.8
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          3934.3
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6881,16 +6908,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3971.8,
-      "change": 2.2,
-      "change_pct": 0.06,
+      "value": 3934.3,
+      "change": -35.3,
+      "change_pct": -0.89,
       "prev_close": 3969.6,
       "day_open": 3960.5,
-      "day_high": 3978.2,
+      "day_high": 3981.7,
       "day_low": 3904.1,
       "year_high": 5586.2,
       "year_low": 3879.3,
-      "as_of": "2026-11-03T08:33:32.000-0500",
+      "as_of": "2026-11-03T14:50:45.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7620,9 +7647,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           93.79
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          96.23
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:04+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7635,16 +7666,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 93.79,
-      "change": -2.67,
-      "change_pct": -2.77,
+      "value": 96.23,
+      "change": -0.23,
+      "change_pct": -0.24,
       "prev_close": 96.46,
       "day_open": 96.3,
       "day_high": 98.82,
-      "day_low": 93.68,
+      "day_low": 93.59,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-11-03T08:33:38.000-0500",
+      "as_of": "2026-11-03T14:50:51.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8278,9 +8309,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           202.06
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          206.54
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8293,17 +8328,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 202.06,
-      "change": -2.58,
-      "change_pct": -1.26,
+      "value": 206.54,
+      "change": 4.47,
+      "change_pct": 2.21,
       "prev_close": 202.06,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 207.96,
+      "day_high": 209.14,
+      "day_low": 205.93,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-11-02",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-11-03T15:00:55.375-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -8932,9 +8967,13 @@
         [
           "2026-11-03T13:43:46+00:00",
           508.31
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          516.37
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:05+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8947,17 +8986,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 508.31,
-      "change": -14.18,
-      "change_pct": -2.71,
+      "value": 516.37,
+      "change": 8.06,
+      "change_pct": 1.59,
       "prev_close": 508.31,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 520.68,
+      "day_high": 524.7,
+      "day_low": 515.49,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-02",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-11-03T15:00:51.738-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9586,14 +9625,18 @@
         [
           "2026-11-03T13:43:46+00:00",
           67.40260429098045
+        ],
+        [
+          "2026-11-03T20:01:07+00:00",
+          68.27960828182975
         ]
       ],
-      "value": 67.40260429098045,
-      "fetched_at": "2026-11-03T13:43:43+00:00",
-      "as_of": "2026-11-02",
+      "value": 68.27960828182975,
+      "fetched_at": "2026-11-03T20:01:04+00:00",
+      "as_of": "2026-11-03T15:00:51.738-0500",
       "prev_close": 67.40260429098045,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 0.8770039908493032,
+      "change_pct": 1.3011425894810127,
       "stale": false
     },
     {
@@ -9614,10 +9657,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-11",
-          2.65
-        ],
         [
           "2026-09-14",
           2.71
@@ -9757,23 +9796,27 @@
         [
           "2026-10-30",
           3.44
+        ],
+        [
+          "2026-11-02",
+          3.43
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:05+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
       },
-      "value": 3.44,
-      "change": 0.18000000000000016,
-      "change_pct": 5.521472392638042,
-      "prev_close": 3.26,
+      "value": 3.43,
+      "change": -0.009999999999999787,
+      "change_pct": -0.29069767441859845,
+      "prev_close": 3.44,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.44,
-      "year_low": 2.65,
-      "as_of": "2026-10-30",
+      "year_low": 2.66,
+      "as_of": "2026-11-02",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -9796,10 +9839,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-11",
-          0.8
-        ],
         [
           "2026-09-14",
           0.8
@@ -9939,23 +9978,27 @@
         [
           "2026-10-30",
           0.94
+        ],
+        [
+          "2026-11-02",
+          0.94
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:05+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
       },
       "value": 0.94,
-      "change": 0.04999999999999993,
-      "change_pct": 5.61797752808988,
-      "prev_close": 0.89,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.94,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.94,
       "year_low": 0.77,
-      "as_of": "2026-10-30",
+      "as_of": "2026-11-02",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -10031,7 +10074,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:44+00:00",
+      "fetched_at": "2026-11-03T20:01:05+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -10119,7 +10162,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:45+00:00",
+      "fetched_at": "2026-11-03T20:01:06+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10195,7 +10238,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:46+00:00",
+      "fetched_at": "2026-11-03T20:01:07+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10244,7 +10287,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-03T13:43:45+00:00",
+      "fetched_at": "2026-11-03T20:01:06+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -10414,7 +10457,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:46+00:00",
+      "fetched_at": "2026-11-03T20:01:07+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10597,7 +10640,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-03T13:43:46+00:00",
+      "fetched_at": "2026-11-03T20:01:07+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
