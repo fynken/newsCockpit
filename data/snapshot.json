@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T13:52:57+00:00",
+  "generated_at": "2026-11-04T20:21:12+00:00",
   "briefing": {
-    "captured_at": "2026-11-04T13:52:59+00:00",
+    "captured_at": "2026-11-04T20:21:14+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,102 +17,64 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "CVS to split off drugstore business in major breakup of healthcare giant",
-        "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+        "headline": "CVS Health to split pharmacy chain from health insurance",
+        "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
         "sources": [
           "CNBC",
           "CNBC Finance",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+            "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+            "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "CVS Health to split pharmacy chain from health insurance",
+            "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance"
+          }
+        ],
+        "published": "2026-11-04T19:58:41+00:00"
+      },
+      {
+        "headline": "These stocks have soared the most today after the Democrats trounced Trump",
+        "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+        "sources": [
+          "CNBC",
+          "Fortune",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "CVS to split off drugstore business in major breakup of healthcare giant",
-            "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "CVS to split off drugstore business in major breakup of healthcare giant",
-            "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "CVS Health plans to split in two. Here\u2019s what is driving the massive healthcare breakup.",
-            "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-11-04T13:31:43+00:00"
-      },
-      {
-        "headline": "CEOs need a new playbook after a midterm rebuke of Trump",
-        "url": "https://fortune.com/2026/11/04/ceos-playbook-midterm-elections-trump-rebuke/",
-        "sources": [
-          "Bloomberg",
-          "CNBC",
-          "Fortune"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Democrats Sweep House and Senate in Midterm Rebuke of Trump",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-pulse-11-4-2026-video"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "US, Europe Defense Stocks Slide After Democrats\u2019 Election Sweep",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism"
-          },
-          {
-            "source": "CNBC",
-            "headline": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-            "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html"
+            "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+            "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html"
           },
           {
             "source": "Fortune",
-            "headline": "CEOs need a new playbook after a midterm rebuke of Trump",
-            "url": "https://fortune.com/2026/11/04/ceos-playbook-midterm-elections-trump-rebuke/"
+            "headline": "House Democrats are eyeing Trump\u2019s pardons and his family\u2019s crypto deals \u2014 the last time they ran oversight, his administration ignored subpoenas",
+            "url": "https://fortune.com/2026/11/04/house-democrats-oversight-trump-pardons-crypto-subpoenas/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "These stocks have soared the most today after the Democrats trounced Trump",
+            "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-04T13:02:32+00:00"
+        "published": "2026-11-04T18:29:00+00:00"
       },
       {
-        "headline": "Binance battles to save its brand after record $6.3bn crypto hack",
-        "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
-        "sources": [
-          "BBC",
-          "Guardian",
-          "NPR"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-            "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019",
-            "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Binance battles to save its brand after record $6.3bn crypto hack",
-            "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack"
-          },
-          {
-            "source": "NPR",
-            "headline": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
-            "url": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist"
-          }
-        ],
-        "published": "2026-11-03T21:30:20+00:00"
-      },
-      {
-        "headline": "CPS Technologies GAAP EPS of $0.02 beats by $0.01, revenue of $8.9M beats by $0.36M",
-        "url": "https://seekingalpha.com/news/4664776-cps-technologies-gaap-eps-of-002-beats-by-001-revenue-of-89m-beats-by-036m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "headline": "Maple Leaf Foods GAAP EPS of C$0.36, revenue of C$1.03B",
+        "url": "https://seekingalpha.com/news/4665249-maple-leaf-foods-gaap-eps-of-c036-revenue-of-c103b?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
         "sources": [
           "Business Insider",
           "Seeking Alpha"
@@ -121,93 +83,126 @@
         "variants": [
           {
             "source": "Business Insider",
-            "headline": "Burford Capital GAAP EPS of $0.10 beats by $0.01, revenue of $146.9M beats by $37.77M",
-            "url": "https://seekingalpha.com/news/4664731-burford-capital-gaap-eps-of-0_10-beats-by-0_01-revenue-of-146_9m-beats-by-37_77m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+            "headline": "Ralliant Corporation Non-GAAP EPS of $0.93, revenue of $620M",
+            "url": "https://seekingalpha.com/news/4665251-ralliant-corporation-non-gaap-eps-of-0_93-revenue-of-620m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
           },
           {
             "source": "Business Insider",
-            "headline": "Atlanta Braves GAAP EPS of $0.15 misses by $0.36, revenue of $324.63M misses by $19.98M",
-            "url": "https://seekingalpha.com/news/4664730-atlanta-braves-gaap-eps-of-015-misses-by-036-revenue-of-32463m-misses-by-1998m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+            "headline": "Maple Leaf Foods GAAP EPS of C$0.36, revenue of C$1.03B",
+            "url": "https://seekingalpha.com/news/4665249-maple-leaf-foods-gaap-eps-of-c036-revenue-of-c103b?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "CPS Technologies GAAP EPS of $0.02 beats by $0.01, revenue of $8.9M beats by $0.36M",
-            "url": "https://seekingalpha.com/news/4664776-cps-technologies-gaap-eps-of-002-beats-by-001-revenue-of-89m-beats-by-036m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "CDW signals low double-digit 2026 non-GAAP EPS growth as it raises gross profit outlook to mid- to high single digits",
+            "url": "https://seekingalpha.com/news/4665455-cdw-signals-low-double-digit-2026-non-gaap-eps-growth-as-it-raises-gross-profit-outlook-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-04T13:51:56+00:00"
+        "published": "2026-11-04T20:16:40+00:00"
       },
       {
-        "headline": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-        "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+        "headline": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+        "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
         "sources": [
           "CNBC",
-          "MarketWatch"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-            "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"
+            "headline": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+            "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html"
           },
           {
-            "source": "MarketWatch",
-            "headline": "ADP says businesses add 86,000 jobs in October. Labor market shows small signs of improvement.",
-            "url": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories"
+            "source": "CNBC Finance",
+            "headline": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+            "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html"
           }
         ],
-        "published": "2026-11-04T13:49:48+00:00"
+        "published": "2026-11-04T20:04:26+00:00"
+      },
+      {
+        "headline": "Wall Street Reckoning Looms as Democrats Take Over Congress",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-s-reckoning-looms-as-democrats-take-over-congress",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Stocks Rise, Democrats Clinch Control of Congress in Rebuke to President Trump",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-04/bloomberg-surveillance-11-4-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Wall Street Reckoning Looms as Democrats Take Over Congress",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-s-reckoning-looms-as-democrats-take-over-congress"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Democrats take Congress in a blue wave. Here's what it means for your money",
+            "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+            "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html"
+          }
+        ],
+        "published": "2026-11-04T19:53:55+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Democrats sweep House and Senate in midterm rebuke of Trump; US and Europe defense stocks slide.",
+          "text": "Democrats take control of Congress; stocks rise, and Wall Street braces for an oversight push.",
           "topic_ids": [
+            4,
             1
           ],
           "sources": [
             "Bloomberg",
             "CNBC",
-            "Fortune"
-          ]
-        },
-        {
-          "text": "ADP: private payrolls add 86,000 jobs in October, slightly above expectations.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
+            "Fortune",
             "MarketWatch"
           ]
         },
         {
-          "text": "CVS to split in two, spinning off its drugstore business.",
+          "text": "CVS Health plans to split its pharmacy chain from its health insurance business.",
           "topic_ids": [
             0
           ],
           "sources": [
             "CNBC",
             "CNBC Finance",
-            "MarketWatch"
+            "Guardian"
           ]
         },
         {
-          "text": "Binance says hackers used malware and fake job interviews in record $6.3bn crypto heist.",
+          "text": "Wayfair sales jump 10%, with the retailer claiming share in a sluggish furniture market.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "CDW guides to low double-digit 2026 non-GAAP EPS growth and lifts its gross profit outlook.",
           "topic_ids": [
             2
           ],
           "sources": [
-            "BBC",
-            "Guardian",
-            "NPR"
+            "Business Insider",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-04T13:53:07+00:00"
+      "written_at": "2026-11-04T20:21:22+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -939,9 +934,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           4.929
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          4.894
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:53+00:00",
+      "fetched_at": "2026-11-04T20:21:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -954,16 +953,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.929,
-      "change": -0.021,
-      "change_pct": -0.4242,
+      "value": 4.894,
+      "change": -0.056,
+      "change_pct": -1.1313,
       "prev_close": 4.95,
       "day_open": 4.954,
-      "day_high": 4.954,
-      "day_low": 4.892,
+      "day_high": 4.964,
+      "day_low": 4.884,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-04T08:52:35.000-0500",
+      "as_of": "2026-11-04T15:20:27.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1689,9 +1688,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           4.604
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          4.581
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:53+00:00",
+      "fetched_at": "2026-11-04T20:21:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1704,16 +1707,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.604,
-      "change": -0.01,
-      "change_pct": 0.0195,
+      "value": 4.581,
+      "change": -0.033,
+      "change_pct": 0.0625,
       "prev_close": 4.614,
       "day_open": 4.62,
       "day_high": 4.635,
       "day_low": 4.546,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-04T08:52:36.000-0500",
+      "as_of": "2026-11-04T15:20:38.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2439,9 +2442,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           5.309
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          5.285
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:53+00:00",
+      "fetched_at": "2026-11-04T20:21:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2454,16 +2461,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.309,
-      "change": -0.015,
-      "change_pct": 0.2266,
+      "value": 5.285,
+      "change": -0.039,
+      "change_pct": 0.5977,
       "prev_close": 5.324,
       "day_open": 5.324,
-      "day_high": 5.342,
+      "day_high": 5.345,
       "day_low": 5.275,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-04T08:52:38.000-0500",
+      "as_of": "2026-11-04T15:20:37.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2499,12 +2506,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.9274690223967266,
-      "fetched_at": "2026-11-04T13:52:53+00:00",
+      "value": 0.8924690223967264,
+      "fetched_at": "2026-11-04T20:21:07+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.2564312424159798,
-      "change": -0.32896222001925324,
-      "change_pct": -26.182269981339758,
+      "change": -0.3639622200192534,
+      "change_pct": -28.96793773763488,
       "stale": false
     },
     {
@@ -3196,9 +3203,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           7568.92
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          7703.5
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3211,16 +3222,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7568.92,
-      "change": 27.52,
-      "change_pct": 0.36,
+      "value": 7703.5,
+      "change": 134.58,
+      "change_pct": 1.78,
       "prev_close": 7568.92,
-      "day_open": 7552.92,
-      "day_high": 7594.61,
-      "day_low": 7545.39,
+      "day_open": 7635.81,
+      "day_high": 7715.57,
+      "day_low": 7635.81,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-03",
+      "as_of": "2026-11-04T15:21:06.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3918,9 +3929,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           25372.009
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          25831.181
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:07+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3933,16 +3948,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25372.009,
-      "change": 207.646,
-      "change_pct": 0.83,
+      "value": 25831.181,
+      "change": 459.172,
+      "change_pct": 1.81,
       "prev_close": 25372.009,
-      "day_open": 25246.635,
-      "day_high": 25474.463,
-      "day_low": 25246.635,
+      "day_open": 25652.782,
+      "day_high": 26048.829,
+      "day_low": 25602.137,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-03",
+      "as_of": "2026-11-04T15:21:06.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4664,9 +4679,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           18.13
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          16.81
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4679,16 +4698,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 18.13,
-      "change": -2.7,
-      "change_pct": -12.96,
+      "value": 16.81,
+      "change": -4.02,
+      "change_pct": -19.3,
       "prev_close": 20.83,
       "day_open": 19.2,
       "day_high": 19.22,
-      "day_low": 18.03,
+      "day_low": 16.67,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-04T08:52:31.000-0500",
+      "as_of": "2026-11-04T15:21:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5450,9 +5469,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           1.1264
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          1.1228
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5465,16 +5488,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1264,
-      "change": 0.0071,
-      "change_pct": 0.6343,
+      "value": 1.1228,
+      "change": 0.0035,
+      "change_pct": 0.3127,
       "prev_close": 1.1193,
       "day_open": 1.1193,
       "day_high": 1.1272,
       "day_low": 1.1185,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-11-04T08:52:00.000-0500",
+      "as_of": "2026-11-04T15:21:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6220,9 +6243,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           0.8158
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          0.8171
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6235,16 +6262,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8158,
-      "change": -0.0048,
-      "change_pct": -0.5849,
+      "value": 0.8171,
+      "change": -0.0035,
+      "change_pct": -0.4265,
       "prev_close": 0.8206,
       "day_open": 0.8204,
       "day_high": 0.8211,
       "day_low": 0.8128,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-04T08:52:00.000-0500",
+      "as_of": "2026-11-04T15:21:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -6986,9 +7013,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           4053.5
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          4075.0
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7001,16 +7032,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4053.5,
-      "change": 113.1,
-      "change_pct": 2.87,
+      "value": 4075.0,
+      "change": 134.6,
+      "change_pct": 3.42,
       "prev_close": 3940.4,
       "day_open": 3940.8,
-      "day_high": 4062.2,
+      "day_high": 4081.2,
       "day_low": 3928.2,
       "year_high": 5586.2,
       "year_low": 3879.3,
-      "as_of": "2026-11-04T08:42:38.000-0500",
+      "as_of": "2026-11-04T15:11:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7752,9 +7783,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           93.84
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          88.75
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:54+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7767,16 +7802,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 93.84,
-      "change": -2.25,
-      "change_pct": -2.34,
+      "value": 88.75,
+      "change": -7.34,
+      "change_pct": -7.64,
       "prev_close": 96.09,
       "day_open": 96.81,
       "day_high": 97.15,
-      "day_low": 93.65,
+      "day_low": 87.13,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-11-04T08:42:40.000-0500",
+      "as_of": "2026-11-04T15:11:05.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8422,9 +8457,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           206.69
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          202.46
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:55+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8437,17 +8476,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 206.69,
-      "change": 4.63,
-      "change_pct": 2.29,
+      "value": 202.46,
+      "change": -4.23,
+      "change_pct": -2.05,
       "prev_close": 206.69,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 203.5,
+      "day_high": 206.79,
+      "day_low": 200.94,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-11-03",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-11-04T15:21:04.352-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -9088,9 +9127,13 @@
         [
           "2026-11-04T13:52:57+00:00",
           518.52
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          503.91
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:55+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9103,17 +9146,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 518.52,
-      "change": 10.21,
-      "change_pct": 2.01,
+      "value": 503.91,
+      "change": -14.61,
+      "change_pct": -2.82,
       "prev_close": 518.52,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 511.17,
+      "day_high": 522.2,
+      "day_low": 497.33,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-03",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-11-04T15:21:05.620-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9754,14 +9797,18 @@
         [
           "2026-11-04T13:52:57+00:00",
           68.50647120064686
+        ],
+        [
+          "2026-11-04T20:21:12+00:00",
+          65.41312390471863
         ]
       ],
-      "value": 68.50647120064686,
-      "fetched_at": "2026-11-04T13:52:54+00:00",
-      "as_of": "2026-11-03",
+      "value": 65.41312390471863,
+      "fetched_at": "2026-11-04T20:21:07+00:00",
+      "as_of": "2026-11-04T15:21:05.620-0500",
       "prev_close": 68.50647120064686,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": -3.0933472959282255,
+      "change_pct": -4.515408897457584,
       "stale": false
     },
     {
@@ -9782,10 +9829,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-14",
-          2.71
-        ],
         [
           "2026-09-15",
           2.76
@@ -9925,23 +9968,27 @@
         [
           "2026-11-02",
           3.43
+        ],
+        [
+          "2026-11-03",
+          3.4
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:55+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "785"
       },
-      "value": 3.43,
-      "change": -0.009999999999999787,
-      "change_pct": -0.29069767441859845,
-      "prev_close": 3.44,
+      "value": 3.4,
+      "change": -0.03000000000000025,
+      "change_pct": -0.8746355685131266,
+      "prev_close": 3.43,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.44,
       "year_low": 2.66,
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-03",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -9964,10 +10011,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-14",
-          0.8
-        ],
         [
           "2026-09-15",
           0.8
@@ -10107,23 +10150,27 @@
         [
           "2026-11-02",
           0.94
+        ],
+        [
+          "2026-11-03",
+          0.93
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:55+00:00",
+      "fetched_at": "2026-11-04T20:21:08+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "783"
+        "_observations": "784"
       },
-      "value": 0.94,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.93,
+      "change": -0.009999999999999898,
+      "change_pct": -1.0638297872340319,
       "prev_close": 0.94,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.94,
       "year_low": 0.77,
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-03",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -10199,7 +10246,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:55+00:00",
+      "fetched_at": "2026-11-04T20:21:09+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -10287,7 +10334,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:56+00:00",
+      "fetched_at": "2026-11-04T20:21:10+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10363,7 +10410,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:56+00:00",
+      "fetched_at": "2026-11-04T20:21:11+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10412,7 +10459,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-04T13:52:56+00:00",
+      "fetched_at": "2026-11-04T20:21:10+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -10582,7 +10629,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:57+00:00",
+      "fetched_at": "2026-11-04T20:21:11+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10765,7 +10812,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-04T13:52:57+00:00",
+      "fetched_at": "2026-11-04T20:21:12+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
