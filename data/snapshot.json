@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T20:31:35+00:00",
+  "generated_at": "2026-11-06T01:02:05+00:00",
   "briefing": {
-    "captured_at": "2026-11-05T20:31:38+00:00",
+    "captured_at": "2026-11-06T01:02:07+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -16,6 +16,34 @@
     ],
     "feeds_configured": 14,
     "stories": [
+      {
+        "headline": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+        "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+        "sources": [
+          "CNBC",
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+            "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Wall Street\u2019s best post-midterm rally in 44 years lasted just one day\u2014then $3 trillion vanished as chip stocks plunged over AI fears",
+            "url": "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
+            "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-11-05T21:37:00+00:00"
+      },
       {
         "headline": "Palvella Therapeutics GAAP EPS of -$1.70 beats by $0.07",
         "url": "https://seekingalpha.com/news/4667121-palvella-therapeutics-gaap-eps-of-1_70-beats-by-0_07?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
@@ -52,33 +80,55 @@
           },
           {
             "source": "Seeking Alpha",
-            "headline": "NeOnc Technologies Holdings GAAP EPS of -$0.28 misses by $0.09",
-            "url": "https://seekingalpha.com/news/4667164-neonc-technologies-holdings-gaap-eps-of-0_28-misses-by-0_09?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "BILL anticipates FY 2027 non-GAAP EPS of $3.99 to $4.15 as it targets ~33% non-GAAP operating margin",
+            "url": "https://seekingalpha.com/news/4667635-bill-anticipates-fy-2027-non-gaap-eps-of-3_99-to-4_15-as-it-targets-33-percent-non-gaap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-05T20:25:50+00:00"
+        "published": "2026-11-06T00:55:38+00:00"
       },
       {
-        "headline": "S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+        "headline": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+        "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
         "sources": [
-          "Bloomberg",
+          "CNBC",
           "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates"
+            "source": "CNBC",
+            "headline": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+            "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
-            "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories"
+            "headline": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+            "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-05T20:21:00+00:00"
+        "published": "2026-11-05T22:31:13+00:00"
+      },
+      {
+        "headline": "The October jobs report is out Friday. Here's everything to expect",
+        "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+        "sources": [
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "The October jobs report is out Friday. Here's everything to expect",
+            "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
+            "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-11-05T21:39:00+00:00"
       },
       {
         "headline": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -101,112 +151,64 @@
           }
         ],
         "published": "2026-11-05T18:17:36+00:00"
-      },
-      {
-        "headline": "Interest rates hiked to 4% in first increase in over three years",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Interest rates hiked to 4% in first increase in over three years",
-            "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "Interest rates hiked to 4% in first increase in over three years",
-            "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-            "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
-          }
-        ],
-        "published": "2026-11-05T18:00:28+00:00"
-      },
-      {
-        "headline": "Expedia CEO says AI agents aren't changing booking habits \u2014 yet",
-        "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
-        "sources": [
-          "CNBC",
-          "CNBC Finance"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Expedia CEO says AI agents aren't changing booking habits \u2014 yet",
-            "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html"
-          },
-          {
-            "source": "CNBC Finance",
-            "headline": "Expedia CEO says AI agents aren't changing booking habits \u2014 yet",
-            "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html"
-          }
-        ],
-        "published": "2026-11-05T17:03:35+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "S&P 500 tumbles most since April 2025 on AI fears; Bloom Energy sinks on data-center delay worries",
+          "text": "Post-midterm rally reverses in a day; chip stocks plunge on AI fears, wiping $3 trillion.",
           "topic_ids": [
-            1
+            0
           ],
           "sources": [
-            "Bloomberg",
+            "CNBC",
+            "Fortune",
             "MarketWatch"
           ]
         },
         {
-          "text": "Bank of England raises interest rates to 4%, the first increase in more than three years",
-          "topic_ids": [
-            3
-          ],
-          "sources": [
-            "BBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Bomb threats disrupt at least 25 flights across Europe, the second such disruption",
+          "text": "Tesla and SpaceX lose $420-456 billion in combined market cap over two days after the midterms.",
           "topic_ids": [
             2
           ],
           "sources": [
             "CNBC",
-            "Guardian"
+            "MarketWatch"
           ]
         },
         {
-          "text": "Expedia CEO says AI agents aren't changing booking habits yet",
+          "text": "October jobs report lands Friday, the next test after the tech rout.",
           "topic_ids": [
-            4
+            3
           ],
           "sources": [
             "CNBC",
-            "CNBC Finance"
+            "MarketWatch"
           ]
         },
         {
-          "text": "Earnings mixed: McGraw Hill and Holley miss on EPS, Tejon Ranch beats on EPS and revenue",
+          "text": "Earnings mixed: McGraw Hill and Holley miss on EPS, Tejon Ranch beats; BILL guides FY27 EPS $3.99-4.15.",
           "topic_ids": [
-            0
+            1
           ],
           "sources": [
             "Business Insider",
             "Seeking Alpha"
           ]
+        },
+        {
+          "text": "Bomb threats disrupt at least 25 flights across Europe for the second time.",
+          "topic_ids": [
+            4
+          ],
+          "sources": [
+            "CNBC",
+            "Guardian"
+          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-05T20:31:55+00:00"
+      "written_at": "2026-11-06T01:02:17+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -954,9 +956,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           4.827
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          4.839
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -969,16 +975,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.827,
-      "change": -0.065,
-      "change_pct": -1.3287,
-      "prev_close": 4.892,
-      "day_open": 4.88,
-      "day_high": 4.917,
-      "day_low": 4.814,
+      "value": 4.839,
+      "change": 0.002,
+      "change_pct": 0.0413,
+      "prev_close": 4.837,
+      "day_open": 4.835,
+      "day_high": 4.849,
+      "day_low": 4.831,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-05T15:31:29.000-0500",
+      "as_of": "2026-11-05T20:01:51.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1720,9 +1726,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           4.454
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          4.474
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1735,16 +1745,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.454,
-      "change": -0.127,
-      "change_pct": 0.2383,
-      "prev_close": 4.581,
-      "day_open": 4.577,
-      "day_high": 4.625,
-      "day_low": 4.452,
+      "value": 4.474,
+      "change": -0.003,
+      "change_pct": 0.0039,
+      "prev_close": 4.477,
+      "day_open": 4.459,
+      "day_high": 4.48,
+      "day_low": 4.455,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-05T15:31:24.000-0500",
+      "as_of": "2026-11-05T20:01:35.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2486,9 +2496,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           5.249
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          5.259
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2501,16 +2515,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.249,
-      "change": -0.031,
-      "change_pct": 0.4805,
-      "prev_close": 5.28,
-      "day_open": 5.271,
-      "day_high": 5.295,
-      "day_low": 5.229,
+      "value": 5.259,
+      "change": 0.008,
+      "change_pct": -0.1289,
+      "prev_close": 5.251,
+      "day_open": 5.256,
+      "day_high": 5.267,
+      "day_low": 5.254,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-05T15:31:11.000-0500",
+      "as_of": "2026-11-05T20:01:56.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2546,12 +2560,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.8254690223967263,
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "value": 0.8374690223967267,
+      "fetched_at": "2026-11-06T01:02:01+00:00",
       "as_of": "2026-09-01",
-      "prev_close": 1.19843124241598,
-      "change": -0.3729622200192537,
-      "change_pct": -31.120869251320567,
+      "prev_close": 1.1434312424159794,
+      "change": -0.30596222001925266,
+      "change_pct": -26.7582525883042,
       "stale": false
     },
     {
@@ -3259,9 +3273,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           7358.86
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          7353.73
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3274,16 +3292,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7358.86,
-      "change": -329.76,
-      "change_pct": -4.29,
+      "value": 7353.73,
+      "change": -334.89,
+      "change_pct": -4.36,
       "prev_close": 7688.62,
       "day_open": 7678.72,
       "day_high": 7681.29,
-      "day_low": 7356.72,
+      "day_low": 7350.35,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-05T15:31:27.000-0500",
+      "as_of": "2026-11-05T16:34:08.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -3997,9 +4015,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           24345.315
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          24314.997
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4012,16 +4034,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 24345.315,
-      "change": -1391.198,
-      "change_pct": -5.41,
+      "value": 24314.997,
+      "change": -1421.516,
+      "change_pct": -5.52,
       "prev_close": 25736.513,
       "day_open": 25558.11,
       "day_high": 25559.032,
       "day_low": 24262.144,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-05T15:31:28.000-0500",
+      "as_of": "2026-11-05T17:15:59.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4759,9 +4781,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           26.88
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          28.18
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4774,16 +4800,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 26.88,
-      "change": 10.27,
-      "change_pct": 61.83,
+      "value": 28.18,
+      "change": 11.57,
+      "change_pct": 69.66,
       "prev_close": 16.61,
       "day_open": 17.14,
-      "day_high": 28.09,
+      "day_high": 28.36,
       "day_low": 16.7,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-05T15:31:16.000-0500",
+      "as_of": "2026-11-05T16:15:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5561,13 +5587,15 @@
         [
           "2026-11-05T20:31:35+00:00",
           1.1223
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          1.1218
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:31+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -5576,16 +5604,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1223,
-      "change": -0.0004,
-      "change_pct": -0.0356,
-      "prev_close": 1.1227,
-      "day_open": 1.1227,
-      "day_high": 1.1268,
-      "day_low": 1.1204,
+      "value": 1.1218,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 1.1218,
+      "day_open": 1.1217,
+      "day_high": 1.1234,
+      "day_low": 1.1213,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-11-05T15:31:00.000-0500",
+      "as_of": "2026-11-05T20:01:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6347,9 +6375,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           0.8163
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          0.8162
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6362,16 +6394,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8163,
-      "change": -0.0005,
-      "change_pct": -0.0612,
-      "prev_close": 0.8168,
+      "value": 0.8162,
+      "change": -0.0003,
+      "change_pct": -0.0367,
+      "prev_close": 0.8165,
       "day_open": 0.8165,
-      "day_high": 0.8185,
-      "day_low": 0.8134,
+      "day_high": 0.8169,
+      "day_low": 0.8148,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-05T15:31:00.000-0500",
+      "as_of": "2026-11-05T20:02:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -7129,9 +7161,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           4115.2
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          4106.6
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7144,16 +7180,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4115.2,
-      "change": 42.2,
-      "change_pct": 1.04,
-      "prev_close": 4073.0,
-      "day_open": 4075.4,
-      "day_high": 4155.8,
-      "day_low": 4067.0,
+      "value": 4106.6,
+      "change": -6.9,
+      "change_pct": -0.17,
+      "prev_close": 4113.5,
+      "day_open": 4098.5,
+      "day_high": 4116.2,
+      "day_low": 4080.4,
       "year_high": 5586.2,
       "year_low": 3879.3,
-      "as_of": "2026-11-05T15:21:17.000-0500",
+      "as_of": "2026-11-05T19:51:46.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -7911,9 +7947,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           90.79
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          91.1
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7926,16 +7966,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 90.79,
-      "change": 2.67,
-      "change_pct": 3.03,
-      "prev_close": 88.12,
-      "day_open": 88.05,
-      "day_high": 91.05,
-      "day_low": 86.65,
+      "value": 91.1,
+      "change": 0.58,
+      "change_pct": 0.64,
+      "prev_close": 90.52,
+      "day_open": 91.2,
+      "day_high": 91.5,
+      "day_low": 90.89,
       "year_high": 119.48,
       "year_low": 0.0,
-      "as_of": "2026-11-05T15:21:26.000-0500",
+      "as_of": "2026-11-05T19:51:51.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8597,9 +8637,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           182.23
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          181.6
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8612,17 +8656,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 182.23,
-      "change": -17.9,
-      "change_pct": -8.94,
+      "value": 181.6,
+      "change": -18.53,
+      "change_pct": -9.26,
       "prev_close": 200.13,
       "day_open": 196.07,
       "day_high": 196.25,
-      "day_low": 181.55,
+      "day_low": 181.46,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-11-05T15:31:30.024-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-05T16:00:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -9279,9 +9323,13 @@
         [
           "2026-11-05T20:31:35+00:00",
           451.4
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          447.73
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9294,17 +9342,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 451.4,
-      "change": -52.87,
-      "change_pct": -10.48,
+      "value": 447.73,
+      "change": -56.54,
+      "change_pct": -11.21,
       "prev_close": 504.27,
       "day_open": 482.14,
       "day_high": 483.93,
-      "day_low": 448.13,
+      "day_low": 445.59,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-05T15:31:30.665-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-05T16:15:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -9961,14 +10009,18 @@
         [
           "2026-11-05T20:31:35+00:00",
           61.34102293018212
+        ],
+        [
+          "2026-11-06T01:02:05+00:00",
+          60.88474828420408
         ]
       ],
-      "value": 61.34102293018212,
-      "fetched_at": "2026-11-05T20:31:31+00:00",
-      "as_of": "2026-11-05T15:31:27.000-0500",
+      "value": 60.88474828420408,
+      "fetched_at": "2026-11-06T01:02:01+00:00",
+      "as_of": "2026-11-05T16:15:00.000-0500",
       "prev_close": 65.58654218832507,
-      "change": -4.245519258142949,
-      "change_pct": -6.473156102592468,
+      "change": -4.70179390412099,
+      "change_pct": -7.168839440597841,
       "stale": false
     },
     {
@@ -10134,7 +10186,7 @@
           3.32
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
@@ -10316,7 +10368,7 @@
           0.91
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:32+00:00",
+      "fetched_at": "2026-11-06T01:02:02+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -10406,7 +10458,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:33+00:00",
+      "fetched_at": "2026-11-06T01:02:03+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -10494,7 +10546,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:34+00:00",
+      "fetched_at": "2026-11-06T01:02:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10570,7 +10622,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:35+00:00",
+      "fetched_at": "2026-11-06T01:02:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10619,7 +10671,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-05T20:31:34+00:00",
+      "fetched_at": "2026-11-06T01:02:04+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -10789,7 +10841,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:35+00:00",
+      "fetched_at": "2026-11-06T01:02:04+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -10972,7 +11024,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-05T20:31:35+00:00",
+      "fetched_at": "2026-11-06T01:02:05+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
