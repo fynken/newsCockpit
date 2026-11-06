@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T13:50:08+00:00",
+  "generated_at": "2026-11-06T19:54:42+00:00",
   "briefing": {
-    "captured_at": "2026-11-06T13:50:10+00:00",
+    "captured_at": "2026-11-06T19:54:44+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -11,8 +11,7 @@
       "CNBC Finance",
       "BBC",
       "NPR",
-      "Fortune",
-      "Business Insider"
+      "Fortune"
     ],
     "feeds_configured": 14,
     "stories": [
@@ -23,7 +22,8 @@
           "BBC",
           "CNBC",
           "CNBC Finance",
-          "Guardian"
+          "Guardian",
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
@@ -31,11 +31,6 @@
             "source": "BBC",
             "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
             "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "CNBC",
-            "headline": "A long-term Elon Musk backer is cashing out of Tesla \u2014 and cutting its SpaceX exposure",
-            "url": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html"
           },
           {
             "source": "CNBC",
@@ -51,17 +46,87 @@
             "source": "Guardian",
             "headline": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
             "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
+            "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-06T13:25:27+00:00"
+        "published": "2026-11-06T18:54:00+00:00"
       },
       {
-        "headline": "Moderna\u2019s stock jumps after biotech raises sales outlook",
-        "url": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
+        "headline": "Supreme Court to Hear Goldman Sachs\u2019 Bankruptcy Arbitration Bid",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid",
+        "sources": [
+          "Bloomberg",
+          "CNBC"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Supreme Court to Hear Goldman Sachs\u2019 Bankruptcy Arbitration Bid",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
+            "url": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html"
+          }
+        ],
+        "published": "2026-11-06T19:11:02+00:00"
+      },
+      {
+        "headline": "Hiring jumps: The economy added 165,000 jobs last month",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
         "sources": [
           "CNBC",
-          "CNBC Finance",
-          "MarketWatch"
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+            "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+          },
+          {
+            "source": "NPR",
+            "headline": "Hiring jumps: The economy added 165,000 jobs last month",
+            "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation"
+          }
+        ],
+        "published": "2026-11-06T16:06:59+00:00"
+      },
+      {
+        "headline": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+        "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+            "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+            "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html"
+          }
+        ],
+        "published": "2026-11-06T13:19:53+00:00"
+      },
+      {
+        "headline": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+        "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
@@ -74,135 +139,21 @@
             "source": "CNBC Finance",
             "headline": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
             "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Moderna\u2019s stock jumps after biotech raises sales outlook",
-            "url": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-06T12:48:00+00:00"
-      },
-      {
-        "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate at 4.1%",
-        "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-        "sources": [
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate at 4.1%",
-            "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Global stocks tumble as AI panic grips markets; US adds 165,000 new jobs in October \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
-          }
-        ],
-        "published": "2026-11-06T13:47:54+00:00"
-      },
-      {
-        "headline": "Tredegar GAAP EPS of -$0.08, revenue of $207.17M",
-        "url": "https://seekingalpha.com/news/4668124-tredegar-gaap-eps-of-0_08-revenue-of-207_17m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Business Insider",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Business Insider",
-            "headline": "Tejon Ranch GAAP EPS of $0.12 beats by $0.10, revenue of $25M beats by $13.01M",
-            "url": "https://seekingalpha.com/news/4667123-tejon-ranch-gaap-eps-of-0_12-beats-by-0_10-revenue-of-25m-beats-by-13_01m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Distribution Solutions Group GAAP EPS of $0.19, revenue of $573.6M",
-            "url": "https://seekingalpha.com/news/4667122-distribution-solutions-group-gaap-eps-of-0_19-revenue-of-573_6m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Palvella Therapeutics GAAP EPS of -$1.70 beats by $0.07",
-            "url": "https://seekingalpha.com/news/4667121-palvella-therapeutics-gaap-eps-of-1_70-beats-by-0_07?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Holley GAAP EPS of $0.06 misses by $0.01, revenue of $141.6M misses by $4.21M",
-            "url": "https://seekingalpha.com/news/4667120-holley-gaap-eps-of-0_06-misses-by-0_01-revenue-of-141_6m-misses-by-4_21m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "McGraw Hill, Inc. GAAP EPS of $0.45 misses by $0.03, revenue of $632.2M beats by $2.92M",
-            "url": "https://seekingalpha.com/news/4667119-mcgraw-hill-inc-gaap-eps-of-0_45-misses-by-0_03-revenue-of-632_2m-beats-by-2_92m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Aligos Therapeutics GAAP EPS of -$2.09 beats by $0.19, revenue of $2.83M misses by $2.71M",
-            "url": "https://seekingalpha.com/news/4668125-aligos-therapeutics-gaap-eps-of-2_09-beats-by-0_19-revenue-of-2_83m-misses-by-2_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Tredegar GAAP EPS of -$0.08, revenue of $207.17M",
-            "url": "https://seekingalpha.com/news/4668124-tredegar-gaap-eps-of-0_08-revenue-of-207_17m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Protara Therapeutics GAAP EPS of -$0.35 beats by $0.02",
-            "url": "https://seekingalpha.com/news/4668122-protara-therapeutics-gaap-eps-of-0_35-beats-by-0_02?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-11-06T13:46:50+00:00"
-      },
-      {
-        "headline": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
-        "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Dow futures slide, Nasdaq futures gain as Wall Street reels from tech selloff",
-            "url": "https://seekingalpha.com/news/4667857-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-11-06T13:44:37+00:00"
+        "published": "2026-11-06T12:43:28+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "US adds 165,000 jobs in October, well above expectations; unemployment rate 4.1%.",
+          "text": "US economy added 165,000 jobs in October, well above expectations; unemployment rate slips to 4.1%.",
           "topic_ids": [
             2
           ],
           "sources": [
             "CNBC",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Global stocks tumble on AI panic; Dow futures slide, Nasdaq futures gain after the tech selloff.",
-          "topic_ids": [
-            2,
-            4
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC",
-            "Guardian",
-            "Seeking Alpha"
+            "NPR"
           ]
         },
         {
@@ -214,35 +165,43 @@
             "BBC",
             "CNBC",
             "CNBC Finance",
-            "Guardian"
+            "Guardian",
+            "MarketWatch"
           ]
         },
         {
-          "text": "A long-term Musk backer cashes out of Tesla and cuts SpaceX exposure.",
+          "text": "Moderna raises 2026 outlook, CEO says newer vaccines are gaining traction.",
           "topic_ids": [
-            0
+            4
           ],
           "sources": [
-            "BBC",
             "CNBC",
-            "CNBC Finance",
-            "Guardian"
+            "CNBC Finance"
           ]
         },
         {
-          "text": "Moderna raises 2026 sales outlook on newer vaccines; stock jumps.",
+          "text": "Supreme Court to hear Goldman Sachs' bankruptcy arbitration bid.",
           "topic_ids": [
             1
           ],
           "sources": [
+            "Bloomberg",
+            "CNBC"
+          ]
+        },
+        {
+          "text": "Legacy automakers face a tougher 2027 as costs rise and the market tightens.",
+          "topic_ids": [
+            3
+          ],
+          "sources": [
             "CNBC",
-            "CNBC Finance",
-            "MarketWatch"
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-06T13:50:19+00:00"
+      "written_at": "2026-11-06T19:54:52+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -998,9 +957,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           4.876
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          4.859
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1013,16 +976,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.876,
-      "change": 0.039,
-      "change_pct": 0.8063,
+      "value": 4.859,
+      "change": 0.022,
+      "change_pct": 0.4548,
       "prev_close": 4.837,
       "day_open": 4.835,
       "day_high": 4.905,
-      "day_low": 4.818,
+      "day_low": 4.81,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-06T08:49:56.000-0500",
+      "as_of": "2026-11-06T14:53:55.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1772,9 +1735,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           4.532
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          4.52
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1787,16 +1754,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.532,
-      "change": 0.055,
-      "change_pct": -0.1055,
+      "value": 4.52,
+      "change": 0.043,
+      "change_pct": -0.082,
       "prev_close": 4.477,
       "day_open": 4.459,
-      "day_high": 4.549,
+      "day_high": 4.553,
       "day_low": 4.445,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-06T08:49:59.000-0500",
+      "as_of": "2026-11-06T14:53:58.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2546,9 +2513,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           5.277
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          5.259
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2561,16 +2532,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.277,
-      "change": 0.026,
-      "change_pct": -0.3984,
+      "value": 5.259,
+      "change": 0.008,
+      "change_pct": -0.1289,
       "prev_close": 5.251,
       "day_open": 5.256,
       "day_high": 5.307,
-      "day_low": 5.243,
+      "day_low": 5.222,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-06T08:49:53.000-0500",
+      "as_of": "2026-11-06T14:53:58.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2606,12 +2577,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.8744690223967266,
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "value": 0.8574690223967263,
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "as_of": "2026-09-01",
       "prev_close": 1.1434312424159794,
-      "change": -0.26896222001925274,
-      "change_pct": -23.522378088161815,
+      "change": -0.2859622200192531,
+      "change_pct": -25.009131236875916,
       "stale": false
     },
     {
@@ -3327,9 +3298,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           7353.73
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          7396.6
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3342,16 +3317,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7353.73,
-      "change": -334.89,
-      "change_pct": -4.36,
+      "value": 7396.6,
+      "change": 42.87,
+      "change_pct": 0.58,
       "prev_close": 7353.73,
-      "day_open": 7678.72,
-      "day_high": 7681.29,
-      "day_low": 7350.35,
+      "day_open": 7377.65,
+      "day_high": 7444.2,
+      "day_low": 7369.55,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-05",
+      "as_of": "2026-11-06T14:54:35.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -4073,9 +4048,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           24314.997
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          24638.749
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4088,16 +4067,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 24314.997,
-      "change": -1421.516,
-      "change_pct": -5.52,
+      "value": 24638.749,
+      "change": 323.752,
+      "change_pct": 1.33,
       "prev_close": 24314.997,
-      "day_open": 25558.11,
-      "day_high": 25559.032,
-      "day_low": 24262.144,
+      "day_open": 24602.482,
+      "day_high": 24825.546,
+      "day_low": 24507.631,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-05",
+      "as_of": "2026-11-06T14:54:37.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -4843,9 +4822,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           26.4
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          24.73
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4858,16 +4841,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 26.4,
-      "change": -1.78,
-      "change_pct": -6.32,
+      "value": 24.73,
+      "change": -3.45,
+      "change_pct": -12.24,
       "prev_close": 28.18,
       "day_open": 27.68,
       "day_high": 27.76,
-      "day_low": 25.38,
+      "day_low": 23.47,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-06T08:49:46.000-0500",
+      "as_of": "2026-11-06T14:54:31.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5653,9 +5636,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           1.1149
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          1.1137
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:04+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5668,16 +5655,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1149,
-      "change": -0.0069,
-      "change_pct": -0.6151,
+      "value": 1.1137,
+      "change": -0.0081,
+      "change_pct": -0.7221,
       "prev_close": 1.1218,
       "day_open": 1.1217,
       "day_high": 1.1234,
-      "day_low": 1.1145,
+      "day_low": 1.1132,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-11-06T08:49:00.000-0500",
+      "as_of": "2026-11-06T14:54:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6447,9 +6434,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           0.8203
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          0.8206
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:05+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6462,16 +6453,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8203,
-      "change": 0.0038,
-      "change_pct": 0.4654,
+      "value": 0.8206,
+      "change": 0.0041,
+      "change_pct": 0.5021,
       "prev_close": 0.8165,
       "day_open": 0.8165,
-      "day_high": 0.8209,
+      "day_high": 0.822,
       "day_low": 0.8148,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-06T08:50:00.000-0500",
+      "as_of": "2026-11-06T14:54:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -7237,9 +7228,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           4062.7
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          4072.8
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:05+00:00",
+      "fetched_at": "2026-11-06T19:54:38+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7252,16 +7247,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4062.7,
-      "change": -50.8,
-      "change_pct": -1.23,
+      "value": 4072.8,
+      "change": -40.7,
+      "change_pct": -0.99,
       "prev_close": 4113.5,
       "day_open": 4098.5,
       "day_high": 4116.2,
       "day_low": 4035.1,
       "year_high": 5586.2,
       "year_low": 3879.3,
-      "as_of": "2026-11-06T08:39:57.000-0500",
+      "as_of": "2026-11-06T14:44:34.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -8027,9 +8022,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           91.0
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          91.06
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:05+00:00",
+      "fetched_at": "2026-11-06T19:54:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8042,16 +8041,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 91.0,
-      "change": 0.48,
-      "change_pct": 0.53,
+      "value": 91.06,
+      "change": 0.54,
+      "change_pct": 0.6,
       "prev_close": 90.52,
       "day_open": 91.2,
       "day_high": 92.53,
       "day_low": 89.07,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-06T08:39:57.000-0500",
+      "as_of": "2026-11-06T14:44:26.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8721,9 +8720,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           181.6
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          187.5
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:05+00:00",
+      "fetched_at": "2026-11-06T19:54:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8736,17 +8739,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 181.6,
-      "change": -18.53,
-      "change_pct": -9.26,
+      "value": 187.5,
+      "change": 5.9,
+      "change_pct": 3.25,
       "prev_close": 181.6,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 191.1,
+      "day_high": 194.9,
+      "day_low": 185.22,
       "year_high": 243.37,
       "year_low": 164.27,
-      "as_of": "2026-11-05",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-11-06T14:54:36.207-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -9411,9 +9414,13 @@
         [
           "2026-11-06T13:50:08+00:00",
           447.73
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          463.24
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:05+00:00",
+      "fetched_at": "2026-11-06T19:54:39+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9426,17 +9433,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 447.73,
-      "change": -56.54,
-      "change_pct": -11.21,
+      "value": 463.24,
+      "change": 15.51,
+      "change_pct": 3.46,
       "prev_close": 447.73,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 473.41,
+      "day_high": 476.25,
+      "day_low": 456.44,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-05",
-      "market_status": "PRE_MKT",
+      "as_of": "2026-11-06T14:54:35.906-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -10101,14 +10108,18 @@
         [
           "2026-11-06T13:50:08+00:00",
           60.88474828420408
+        ],
+        [
+          "2026-11-06T19:54:42+00:00",
+          62.62877538328421
         ]
       ],
-      "value": 60.88474828420408,
-      "fetched_at": "2026-11-06T13:50:04+00:00",
-      "as_of": "2026-11-05",
+      "value": 62.62877538328421,
+      "fetched_at": "2026-11-06T19:54:38+00:00",
+      "as_of": "2026-11-06T14:54:35.000-0500",
       "prev_close": 60.88474828420408,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "change": 1.744027099080128,
+      "change_pct": 2.8644728741246976,
       "stale": false
     },
     {
@@ -10129,10 +10140,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-16",
-          2.7
-        ],
         [
           "2026-09-17",
           2.7
@@ -10272,23 +10279,27 @@
         [
           "2026-11-04",
           3.32
+        ],
+        [
+          "2026-11-05",
+          3.48
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:05+00:00",
+      "fetched_at": "2026-11-06T19:54:39+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "786"
       },
-      "value": 3.32,
-      "change": -0.08000000000000007,
-      "change_pct": -2.35294117647059,
-      "prev_close": 3.4,
+      "value": 3.48,
+      "change": 0.16000000000000014,
+      "change_pct": 4.81927710843374,
+      "prev_close": 3.32,
       "day_open": null,
       "day_high": null,
       "day_low": null,
-      "year_high": 3.44,
+      "year_high": 3.48,
       "year_low": 2.66,
-      "as_of": "2026-11-04",
+      "as_of": "2026-11-05",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -10311,10 +10322,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-16",
-          0.78
-        ],
         [
           "2026-09-17",
           0.78
@@ -10454,23 +10461,27 @@
         [
           "2026-11-04",
           0.91
+        ],
+        [
+          "2026-11-05",
+          0.93
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:06+00:00",
+      "fetched_at": "2026-11-06T19:54:39+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
       },
-      "value": 0.91,
-      "change": -0.020000000000000018,
-      "change_pct": -2.1505376344086042,
-      "prev_close": 0.93,
+      "value": 0.93,
+      "change": 0.020000000000000018,
+      "change_pct": 2.1978021978021998,
+      "prev_close": 0.91,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.94,
       "year_low": 0.77,
-      "as_of": "2026-11-04",
+      "as_of": "2026-11-05",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -10546,7 +10557,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:06+00:00",
+      "fetched_at": "2026-11-06T19:54:39+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -10634,7 +10645,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:07+00:00",
+      "fetched_at": "2026-11-06T19:54:40+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10710,7 +10721,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:07+00:00",
+      "fetched_at": "2026-11-06T19:54:41+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10759,7 +10770,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-06T13:50:07+00:00",
+      "fetched_at": "2026-11-06T19:54:40+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -10929,7 +10940,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:07+00:00",
+      "fetched_at": "2026-11-06T19:54:41+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -11112,7 +11123,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-06T13:50:08+00:00",
+      "fetched_at": "2026-11-06T19:54:42+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
