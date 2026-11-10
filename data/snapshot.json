@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T22:56:21+00:00",
+  "generated_at": "2026-11-10T02:51:30+00:00",
   "briefing": {
-    "captured_at": "2026-11-09T22:56:23+00:00",
+    "captured_at": "2026-11-10T02:51:33+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,17 +17,65 @@
     "feeds_configured": 14,
     "stories": [
       {
+        "headline": "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
+        "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+        "sources": [
+          "BBC",
+          "CNBC",
+          "Fortune",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "BBC",
+            "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+            "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "BBC",
+            "headline": "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
+            "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+            "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Before news broke of his affair with a suspected Chinese spy, Nvidia\u2019s Huang told Fortune his company \u201ccould be of great service\u201d to China",
+            "url": "https://fortune.com/2026/11/09/jensen-huang-nvidia-china-affair-alice-huang-suspected-chinese-spy/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+            "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+          }
+        ],
+        "published": "2026-11-10T01:44:53+00:00"
+      },
+      {
         "headline": "Why is Nvidia\u2019s Jensen Huang at the centre of a US-China row?",
         "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy",
         "sources": [
           "CNBC",
           "Fortune",
           "Guardian",
-          "MarketWatch",
           "NPR"
         ],
         "corroborated": true,
         "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+            "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html"
+          },
           {
             "source": "CNBC",
             "headline": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
@@ -40,18 +88,13 @@
           },
           {
             "source": "Fortune",
-            "headline": "Nvidia CEO Jensen Huang is likely to hold on to his job, say prediction markets",
+            "headline": "Nvidia CEO Jensen Huang is likely to keep his job for now, say prediction markets",
             "url": "https://fortune.com/2026/11/09/jensen-huangs-affair-prediction-market-bets-nvidia-ceo/"
           },
           {
             "source": "Fortune",
             "headline": "Meet Jensen Huang\u2019s son-in-law, a former pro skier and the Nvidia CEO\u2019s \u2018consigliere\u2019 who could play a massive role in the company\u2019s succession plan",
             "url": "https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-            "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
           },
           {
             "source": "Guardian",
@@ -64,54 +107,16 @@
             "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy"
           },
           {
-            "source": "MarketWatch",
-            "headline": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
-            "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories"
+            "source": "NPR",
+            "headline": "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
+            "url": "https://www.npr.org/2026/11/09/nx-s1-6034478/nvidia-shares-tumble-as-the-company-says-its-investigating-ceo-jensen-huang"
           }
         ],
-        "published": "2026-11-09T22:40:26+00:00"
+        "published": "2026-11-10T01:43:47+00:00"
       },
       {
-        "headline": "Nvidia CEO\u2019s Affair Engulfs AI Giant in Spying Probe",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video",
-        "sources": [
-          "BBC",
-          "Bloomberg",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-            "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
-            "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Nvidia CEO\u2019s Affair Engulfs AI Giant in Spying Probe",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-            "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
-          }
-        ],
-        "published": "2026-11-09T22:40:04+00:00"
-      },
-      {
-        "headline": "Why prediction markets and Wall Street pros so often fail to see what\u2019s coming",
-        "url": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
+        "headline": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+        "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
         "sources": [
           "CNBC",
           "CNBC Finance",
@@ -121,8 +126,18 @@
         "variants": [
           {
             "source": "CNBC",
+            "headline": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+            "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html"
+          },
+          {
+            "source": "CNBC",
             "headline": "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia fund",
             "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+            "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html"
           },
           {
             "source": "CNBC Finance",
@@ -131,11 +146,11 @@
           },
           {
             "source": "MarketWatch",
-            "headline": "Why prediction markets and Wall Street pros so often fail to see what\u2019s coming",
-            "url": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories"
+            "headline": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
+            "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-09T21:27:54+00:00"
+        "published": "2026-11-10T01:50:57+00:00"
       },
       {
         "headline": "Boeing to cut about 5% of its commercial plane workforce",
@@ -166,61 +181,58 @@
         "published": "2026-11-09T19:35:58+00:00"
       },
       {
-        "headline": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-        "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+        "headline": "Crime pays: how Grand Theft Auto became a cultural colossus",
+        "url": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
         "sources": [
-          "CNBC",
-          "CNBC Finance"
+          "Guardian",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-            "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html"
+            "source": "Guardian",
+            "headline": "Crime pays: how Grand Theft Auto became a cultural colossus",
+            "url": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta"
           },
           {
-            "source": "CNBC Finance",
-            "headline": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-            "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html"
+            "source": "Seeking Alpha",
+            "headline": "Take-Two reiterates FY2027 net bookings of $8B-$8.2B as Grand Theft Auto VI preorders track \u201cfar in excess\u201d",
+            "url": "https://seekingalpha.com/news/4669435-take-two-reiterates-fy2027-net-bookings-of-8b-8_2b-as-grand-theft-auto-vi-preorders-track-far?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-09T22:55:33+00:00"
+        "published": "2026-11-10T02:11:57+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Nvidia shares fall as a probe into CEO Jensen Huang's affair with an alleged Chinese spy widens.",
+          "text": "Nvidia shares tumble as the company and FBI probe CEO Jensen Huang's affair with an alleged Chinese spy.",
           "topic_ids": [
             0,
             1
           ],
           "sources": [
             "BBC",
-            "Bloomberg",
             "CNBC",
             "Fortune",
             "Guardian",
-            "MarketWatch",
             "NPR"
           ]
         },
         {
-          "text": "Prediction markets put low odds on Huang exiting; Nvidia has no clear successor.",
+          "text": "Trump says Huang told him he didn't know she was a spy; prediction markets put his exit odds low.",
           "topic_ids": [
-            0
+            1
           ],
           "sources": [
             "CNBC",
             "Fortune",
             "Guardian",
-            "MarketWatch",
             "NPR"
           ]
         },
         {
-          "text": "Boeing cuts about 5% of commercial airplane staff as the production ramp takes longer than expected.",
+          "text": "Boeing cuts 5% of commercial airplane staff as its production ramp takes longer than expected.",
           "topic_ids": [
             3
           ],
@@ -231,7 +243,7 @@
           ]
         },
         {
-          "text": "Lucid misses earnings estimates and expands its loan from Saudi Arabia's fund.",
+          "text": "SoftBank jumps 11% with Asian tech tracking a Wall Street rebound; Lucid misses and expands its Saudi loan.",
           "topic_ids": [
             2
           ],
@@ -242,18 +254,18 @@
           ]
         },
         {
-          "text": "Skydance details $6 billion of planned cost savings.",
+          "text": "Take-Two reiterates FY2027 net bookings of $8B-$8.2B, with GTA VI preorders running far in excess.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "CNBC",
-            "CNBC Finance"
+            "Guardian",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-09T22:56:33+00:00"
+      "written_at": "2026-11-10T02:51:42+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1025,9 +1037,13 @@
         [
           "2026-11-09T22:56:21+00:00",
           4.884
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          4.876
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "fetched_at": "2026-11-10T02:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1040,16 +1056,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.884,
-      "change": 0.025,
-      "change_pct": 0.5145,
-      "prev_close": 4.859,
-      "day_open": 4.859,
-      "day_high": 4.89,
-      "day_low": 4.831,
+      "value": 4.876,
+      "change": 0.014,
+      "change_pct": 0.2879,
+      "prev_close": 4.862,
+      "day_open": 4.876,
+      "day_high": 4.886,
+      "day_low": 4.868,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-09T17:05:00.000-0500",
+      "as_of": "2026-11-09T21:50:53.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1815,9 +1831,13 @@
         [
           "2026-11-09T22:56:21+00:00",
           4.568
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          4.563
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "fetched_at": "2026-11-10T02:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1830,16 +1850,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.568,
-      "change": 0.046,
-      "change_pct": -0.0859,
-      "prev_close": 4.522,
-      "day_open": 4.515,
+      "value": 4.563,
+      "change": 0.016,
+      "change_pct": -0.0313,
+      "prev_close": 4.547,
+      "day_open": 4.561,
       "day_high": 4.57,
-      "day_low": 4.503,
+      "day_low": 4.553,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-09T17:04:49.000-0500",
+      "as_of": "2026-11-09T21:50:53.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2605,9 +2625,13 @@
         [
           "2026-11-09T22:56:21+00:00",
           5.275
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          5.273
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "fetched_at": "2026-11-10T02:51:25+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2620,16 +2644,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.275,
-      "change": 0.015,
-      "change_pct": -0.2266,
-      "prev_close": 5.26,
-      "day_open": 5.267,
-      "day_high": 5.285,
-      "day_low": 5.233,
+      "value": 5.273,
+      "change": 0.017,
+      "change_pct": -0.2578,
+      "prev_close": 5.256,
+      "day_open": 5.273,
+      "day_high": 5.279,
+      "day_low": 5.266,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-09T17:05:00.000-0500",
+      "as_of": "2026-11-09T21:51:13.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2665,12 +2689,12 @@
           1.215469022396726
         ]
       ],
-      "value": 0.8824690223967266,
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "value": 0.8744690223967266,
+      "fetched_at": "2026-11-10T02:51:25+00:00",
       "as_of": "2026-09-01",
-      "prev_close": 1.1654312424159796,
-      "change": -0.282962220019253,
-      "change_pct": -24.279615109052887,
+      "prev_close": 1.1684312424159797,
+      "change": -0.2939622200192531,
+      "change_pct": -25.15870933161833,
       "stale": false
     },
     {
@@ -3404,7 +3428,7 @@
           7549.94
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4166,7 +4190,7 @@
           25253.139
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4952,7 +4976,7 @@
           19.92
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5776,9 +5800,13 @@
         [
           "2026-11-09T22:56:21+00:00",
           1.1219
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          1.1217
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5791,16 +5819,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1219,
-      "change": -0.0004,
-      "change_pct": -0.0356,
+      "value": 1.1217,
+      "change": -0.0006,
+      "change_pct": -0.0535,
       "prev_close": 1.1223,
       "day_open": 1.1222,
-      "day_high": 1.1223,
-      "day_low": 1.122,
+      "day_high": 1.1226,
+      "day_low": 1.1217,
       "year_high": 1.21,
       "year_low": 1.11,
-      "as_of": "2026-11-09T17:56:00.000-0500",
+      "as_of": "2026-11-09T21:51:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6586,9 +6614,13 @@
         [
           "2026-11-09T22:56:21+00:00",
           0.8194
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          0.8199
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6601,16 +6633,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8194,
-      "change": -0.0001,
-      "change_pct": -0.0122,
+      "value": 0.8199,
+      "change": 0.0004,
+      "change_pct": 0.0488,
       "prev_close": 0.8195,
       "day_open": 0.8191,
-      "day_high": 0.8198,
+      "day_high": 0.8201,
       "day_low": 0.8192,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-09T17:55:00.000-0500",
+      "as_of": "2026-11-09T21:51:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -7392,11 +7424,17 @@
         [
           "2026-11-09T22:56:21+00:00",
           4114.5
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          4124.2
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -7405,16 +7443,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 4114.5,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 4124.2,
+      "change": 9.7,
+      "change_pct": 0.24,
       "prev_close": 4114.5,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 4149.0,
+      "day_high": 4156.2,
+      "day_low": 4122.3,
       "year_high": 5586.2,
       "year_low": 3879.3,
-      "as_of": "2026-11-09T00:00:00.000-0500",
+      "as_of": "2026-11-09T21:41:20.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -8196,11 +8234,17 @@
         [
           "2026-11-09T22:56:21+00:00",
           86.85
+        ],
+        [
+          "2026-11-10T02:51:30+00:00",
+          86.17
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -8209,16 +8253,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 86.85,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 86.17,
+      "change": -0.68,
+      "change_pct": -0.78,
       "prev_close": 86.85,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 86.43,
+      "day_high": 86.93,
+      "day_low": 85.7,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-09T00:00:00.000-0500",
+      "as_of": "2026-11-09T21:41:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -8906,7 +8950,7 @@
           178.67
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9612,7 +9656,7 @@
           487.41
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:27+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -10319,7 +10363,7 @@
         ]
       ],
       "value": 64.55812893877302,
-      "fetched_at": "2026-11-09T22:56:17+00:00",
+      "fetched_at": "2026-11-10T02:51:26+00:00",
       "as_of": "2026-11-09T16:15:00.000-0500",
       "prev_close": 62.89396843643501,
       "change": 1.6641605023380137,
@@ -10489,7 +10533,7 @@
           3.42
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:27+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -10671,7 +10715,7 @@
           0.93
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:18+00:00",
+      "fetched_at": "2026-11-10T02:51:27+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
@@ -10761,7 +10805,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:19+00:00",
+      "fetched_at": "2026-11-10T02:51:27+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -10849,7 +10893,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:20+00:00",
+      "fetched_at": "2026-11-10T02:51:28+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10925,7 +10969,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:21+00:00",
+      "fetched_at": "2026-11-10T02:51:29+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -10974,7 +11018,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-09T22:56:20+00:00",
+      "fetched_at": "2026-11-10T02:51:28+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -11144,7 +11188,7 @@
           4.001530977603274
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:21+00:00",
+      "fetched_at": "2026-11-10T02:51:29+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -11327,7 +11371,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-09T22:56:21+00:00",
+      "fetched_at": "2026-11-10T02:51:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
