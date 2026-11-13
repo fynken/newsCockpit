@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T20:42:58+00:00",
+  "generated_at": "2026-11-13T01:19:37+00:00",
   "briefing": {
-    "captured_at": "2026-11-12T20:43:08+00:00",
+    "captured_at": "2026-11-13T01:19:40+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,18 +17,24 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Jensen Huang has resigned, what's next for Nvidia?",
-        "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+        "headline": "CEO Jensen Huang resigns from chip giant Nvidia",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia",
         "sources": [
           "BBC",
           "Bloomberg",
           "CNBC",
           "Fortune",
           "Guardian",
+          "MarketWatch",
           "NPR"
         ],
         "corroborated": true,
         "variants": [
+          {
+            "source": "BBC",
+            "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+            "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          },
           {
             "source": "BBC",
             "headline": "Jensen Huang has resigned, what's next for Nvidia?",
@@ -46,73 +52,40 @@
           },
           {
             "source": "Bloomberg",
-            "headline": "Jensen Huang Resigns From Nvidia Amid Affairs and Alleged Spy Scandal",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-surveillance-11-12-2026-video"
+            "headline": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-12-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "headline": "Asian Tech Stocks Rebound After Nvidia Upheaval: Markets Wrap",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+            "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
           },
           {
             "source": "CNBC",
             "headline": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
             "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying dips",
-            "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
-            "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
-            "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"
           }
         ],
-        "published": "2026-11-12T20:34:54+00:00"
-      },
-      {
-        "headline": "Fed Drops October 2027 FOMC Rate Meeting",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-drops-october-2027-fomc-rate-meeting-video",
-        "sources": [
-          "Bloomberg",
-          "Business Insider",
-          "CNBC"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Fed Drops October 2027 FOMC Rate Meeting",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-drops-october-2027-fomc-rate-meeting-video"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "FOMC drops October policy decision from 2027 tentative meetings schedule",
-            "url": "https://seekingalpha.com/news/4671657-fomc-drops-october-policy-decision-from-2027-tentative-meetings-schedule?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "CNBC",
-            "headline": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-            "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
-          }
-        ],
-        "published": "2026-11-12T19:21:17+00:00"
+        "published": "2026-11-13T00:23:37+00:00"
       },
       {
         "headline": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
         "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
         "sources": [
-          "Bloomberg",
-          "CNBC"
+          "CNBC",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Oil Rises After Trump Declares US Doesn\u2019t Need a Deal With Iran",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran"
+            "source": "CNBC",
+            "headline": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+            "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
           },
           {
             "source": "CNBC",
@@ -120,16 +93,38 @@
             "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
           },
           {
-            "source": "CNBC",
-            "headline": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-            "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+            "source": "Seeking Alpha",
+            "headline": "Oil gains as Trump dampens hopes for U.S.-Iran deal; market ignores bearish U.S. inventory data",
+            "url": "https://seekingalpha.com/news/4671993-oil-gains-as-trump-dampens-hopes-for-us-iran-deal-market-ignores-bearish-us-inventory-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-12T20:34:31+00:00"
+        "published": "2026-11-13T00:55:16+00:00"
       },
       {
-        "headline": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+        "headline": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+        "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
+        "sources": [
+          "CNBC",
+          "Fortune"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+            "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html"
+          },
+          {
+            "source": "Fortune",
+            "headline": "\u2018A dark day\u2019: Jensen Huang\u2019s sex drive threatens to pop the AI bubble, and the industry isn\u2019t sure what\u2019s next",
+            "url": "https://fortune.com/2026/11/12/a-dark-day-jensen-huangs-sex-drive-threatens-to-pop-the-ai-bubble-and-the-industry-isnt-sure-whats-next/"
+          }
+        ],
+        "published": "2026-11-12T23:50:51+00:00"
+      },
+      {
+        "headline": "Widespread Microsoft outage takes down Outlook and other 365 services",
+        "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
         "sources": [
           "BBC",
           "CNBC"
@@ -138,44 +133,44 @@
         "variants": [
           {
             "source": "BBC",
-            "headline": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-            "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+            "headline": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+            "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
-            "headline": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-            "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html"
+            "headline": "Widespread Microsoft outage takes down Outlook and other 365 services",
+            "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
           }
         ],
-        "published": "2026-11-12T19:42:41+00:00"
+        "published": "2026-11-12T22:24:12+00:00"
       },
       {
-        "headline": "The 2027 401(k) limits are here. See how much more you can save next year.",
-        "url": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
+        "headline": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+        "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
         "sources": [
           "CNBC",
-          "MarketWatch"
+          "CNBC Finance"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
-            "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html"
+            "headline": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+            "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html"
           },
           {
-            "source": "MarketWatch",
-            "headline": "The 2027 401(k) limits are here. See how much more you can save next year.",
-            "url": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories"
+            "source": "CNBC Finance",
+            "headline": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+            "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html"
           }
         ],
-        "published": "2026-11-12T18:19:00+00:00"
+        "published": "2026-11-12T22:17:05+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Jensen Huang resigns as Nvidia CEO over affair and alleged spy scandal; stock falls, analysts split on dip-buying",
+          "text": "Nvidia CEO Jensen Huang resigns over affair allegations; CFO takes over and stocks fall.",
           "topic_ids": [
             0
           ],
@@ -185,11 +180,47 @@
             "CNBC",
             "Fortune",
             "Guardian",
+            "MarketWatch",
             "NPR"
           ]
         },
         {
-          "text": "CFO Colette Kress takes over as Nvidia interim CEO as the board starts a permanent search",
+          "text": "Asian tech stocks rebound after the Nvidia upheaval.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "BBC",
+            "Bloomberg",
+            "CNBC",
+            "Fortune",
+            "Guardian",
+            "MarketWatch",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Analysts question Nvidia's structure without Huang and warn the AI bubble could pop.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "Fortune"
+          ]
+        },
+        {
+          "text": "Oil rises after Trump says no Iran deal is needed, overriding bearish US inventory data.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "CNBC",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Microsoft works to restore a global outage hitting Outlook, Teams and other 365 services.",
           "topic_ids": [
             3
           ],
@@ -197,41 +228,10 @@
             "BBC",
             "CNBC"
           ]
-        },
-        {
-          "text": "Fed drops the October 2027 FOMC meeting, leaving no rate vote that month",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "Business Insider",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "Oil rises after Trump says the US doesn't need a deal with Iran",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "CNBC"
-          ]
-        },
-        {
-          "text": "IRS raises 2027 401(k) contribution limits",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "MarketWatch"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-12T20:43:17+00:00"
+      "written_at": "2026-11-13T01:19:49+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1031,9 +1031,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           5.113
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          5.129
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:45+00:00",
+      "fetched_at": "2026-11-13T01:19:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1046,16 +1050,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.113,
-      "change": 0.124,
-      "change_pct": 2.4855,
-      "prev_close": 4.989,
-      "day_open": 4.988,
-      "day_high": 5.117,
-      "day_low": 4.98,
+      "value": 5.129,
+      "change": 0.026,
+      "change_pct": 0.5095,
+      "prev_close": 5.103,
+      "day_open": 5.137,
+      "day_high": 5.143,
+      "day_low": 5.121,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-12T15:42:39.000-0500",
+      "as_of": "2026-11-12T20:18:34.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1849,9 +1853,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           4.869
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          4.867
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:46+00:00",
+      "fetched_at": "2026-11-13T01:19:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1864,16 +1872,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.869,
-      "change": 0.142,
-      "change_pct": -0.2656,
-      "prev_close": 4.727,
-      "day_open": 4.774,
-      "day_high": 4.879,
-      "day_low": 4.753,
+      "value": 4.867,
+      "change": 0.003,
+      "change_pct": -0.0039,
+      "prev_close": 4.864,
+      "day_open": 4.889,
+      "day_high": 4.893,
+      "day_low": 4.861,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-12T15:42:25.000-0500",
+      "as_of": "2026-11-12T20:19:10.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2667,9 +2675,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           5.441
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          5.456
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:47+00:00",
+      "fetched_at": "2026-11-13T01:19:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2682,16 +2694,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.441,
-      "change": 0.092,
-      "change_pct": -1.3594,
-      "prev_close": 5.349,
-      "day_open": 5.331,
-      "day_high": 5.447,
-      "day_low": 5.324,
+      "value": 5.456,
+      "change": 0.026,
+      "change_pct": -0.3828,
+      "prev_close": 5.43,
+      "day_open": 5.459,
+      "day_high": 5.467,
+      "day_low": 5.449,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-12T15:42:42.000-0500",
+      "as_of": "2026-11-12T20:19:25.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2731,12 +2743,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 1.1995147783251277,
-      "fetched_at": "2026-11-12T20:42:45+00:00",
+      "value": 1.2155147783251268,
+      "fetched_at": "2026-11-13T01:19:32+00:00",
       "as_of": "2026-10-01",
-      "prev_close": 0.9874690223967262,
-      "change": 0.21204575592840147,
-      "change_pct": 21.47366156497108,
+      "prev_close": 1.101469022396726,
+      "change": 0.11404575592840072,
+      "change_pct": 10.353968528342673,
       "stale": false
     },
     {
@@ -3500,9 +3512,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           7590.59
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          7592.4
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:48+00:00",
+      "fetched_at": "2026-11-13T01:19:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3515,16 +3531,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7590.59,
-      "change": -28.79,
-      "change_pct": -0.38,
+      "value": 7592.4,
+      "change": -26.98,
+      "change_pct": -0.35,
       "prev_close": 7619.38,
       "day_open": 7550.84,
       "day_high": 7652.76,
       "day_low": 7550.84,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-12T15:42:42.000-0500",
+      "as_of": "2026-11-12T16:58:23.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -4294,9 +4310,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           25331.72
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          25366.093
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:49+00:00",
+      "fetched_at": "2026-11-13T01:19:32+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4309,16 +4329,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 25331.72,
-      "change": -134.469,
-      "change_pct": -0.53,
+      "value": 25366.093,
+      "change": -100.096,
+      "change_pct": -0.39,
       "prev_close": 25466.189,
       "day_open": 25092.109,
       "day_high": 25597.225,
       "day_low": 25068.283,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-12T15:42:46.000-0500",
+      "as_of": "2026-11-12T17:15:59.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -5112,9 +5132,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           18.85
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          18.7
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:50+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5127,16 +5151,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 18.85,
-      "change": 1.36,
-      "change_pct": 7.78,
+      "value": 18.7,
+      "change": 1.21,
+      "change_pct": 6.92,
       "prev_close": 17.49,
       "day_open": 18.36,
       "day_high": 19.34,
       "day_low": 17.38,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-12T15:42:31.000-0500",
+      "as_of": "2026-11-12T16:15:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -5974,9 +5998,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           1.1054
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          1.1058
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:51+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5989,16 +6017,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.1054,
-      "change": -0.0035,
-      "change_pct": -0.3156,
-      "prev_close": 1.1089,
-      "day_open": 1.1089,
-      "day_high": 1.1102,
-      "day_low": 1.1046,
+      "value": 1.1058,
+      "change": 0.0005,
+      "change_pct": 0.0452,
+      "prev_close": 1.1053,
+      "day_open": 1.1051,
+      "day_high": 1.106,
+      "day_low": 1.1049,
       "year_high": 1.21,
       "year_low": 1.1,
-      "as_of": "2026-11-12T15:42:00.000-0500",
+      "as_of": "2026-11-12T20:19:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -6820,9 +6848,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           0.8351
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          0.8356
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:51+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6835,16 +6867,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8351,
-      "change": 0.002,
-      "change_pct": 0.2401,
-      "prev_close": 0.8331,
-      "day_open": 0.833,
-      "day_high": 0.8361,
-      "day_low": 0.8312,
+      "value": 0.8356,
+      "change": 0.0005,
+      "change_pct": 0.0599,
+      "prev_close": 0.8351,
+      "day_open": 0.8347,
+      "day_high": 0.8369,
+      "day_low": 0.835,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-12T15:42:00.000-0500",
+      "as_of": "2026-11-12T20:19:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -7662,9 +7694,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           3885.7
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          3894.0
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:52+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7677,16 +7713,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3885.7,
-      "change": -114.8,
-      "change_pct": -2.87,
-      "prev_close": 4000.5,
-      "day_open": 3994.0,
-      "day_high": 4005.9,
-      "day_low": 3856.7,
+      "value": 3894.0,
+      "change": 8.7,
+      "change_pct": 0.22,
+      "prev_close": 3885.3,
+      "day_open": 3883.3,
+      "day_high": 3896.8,
+      "day_low": 3879.1,
       "year_high": 5586.2,
-      "year_low": 3856.7,
-      "as_of": "2026-11-12T15:32:45.000-0500",
+      "year_low": 3879.1,
+      "as_of": "2026-11-12T20:09:19.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -8504,9 +8540,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           88.98
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          88.4
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:53+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8519,16 +8559,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 88.98,
-      "change": 2.45,
-      "change_pct": 2.83,
-      "prev_close": 86.53,
-      "day_open": 86.5,
-      "day_high": 89.15,
-      "day_low": 85.13,
+      "value": 88.4,
+      "change": -0.34,
+      "change_pct": -0.38,
+      "prev_close": 88.74,
+      "day_open": 88.79,
+      "day_high": 88.92,
+      "day_low": 88.31,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-12T15:32:41.000-0500",
+      "as_of": "2026-11-12T20:09:26.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -9246,9 +9286,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           164.47
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          166.19
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:54+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9261,17 +9305,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 164.47,
-      "change": -9.26,
-      "change_pct": -5.33,
+      "value": 166.19,
+      "change": -7.54,
+      "change_pct": -4.34,
       "prev_close": 173.73,
       "day_open": 151.01,
       "day_high": 167.14,
       "day_low": 148.8,
       "year_high": 243.37,
       "year_low": 148.8,
-      "as_of": "2026-11-12T15:42:52.986-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-12T16:00:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -9984,9 +10028,13 @@
         [
           "2026-11-12T20:42:58+00:00",
           499.64
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          501.73
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:56+00:00",
+      "fetched_at": "2026-11-13T01:19:33+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9999,17 +10047,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 499.64,
-      "change": -7.32,
-      "change_pct": -1.44,
+      "value": 501.73,
+      "change": -5.23,
+      "change_pct": -1.03,
       "prev_close": 506.96,
       "day_open": 485.01,
       "day_high": 509.8,
       "day_low": 484.5,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-12T15:42:44.350-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-12T16:15:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -10722,14 +10770,18 @@
         [
           "2026-11-12T20:42:58+00:00",
           65.82360527969499
+        ],
+        [
+          "2026-11-13T01:19:37+00:00",
+          66.08318845160952
         ]
       ],
-      "value": 65.82360527969499,
-      "fetched_at": "2026-11-12T20:42:48+00:00",
-      "as_of": "2026-11-12T15:42:42.000-0500",
+      "value": 66.08318845160952,
+      "fetched_at": "2026-11-13T01:19:32+00:00",
+      "as_of": "2026-11-12T16:15:00.000-0500",
       "prev_close": 66.53559738456408,
-      "change": -0.7119921048690969,
-      "change_pct": -1.0700920001573104,
+      "change": -0.45240893295456885,
+      "change_pct": -0.6799502082167003,
       "stale": false
     },
     {
@@ -10895,7 +10947,7 @@
           3.3
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:56+00:00",
+      "fetched_at": "2026-11-13T01:19:34+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -11077,7 +11129,7 @@
           0.9
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:56+00:00",
+      "fetched_at": "2026-11-13T01:19:34+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -11167,7 +11219,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:56+00:00",
+      "fetched_at": "2026-11-13T01:19:34+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -11255,7 +11307,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:57+00:00",
+      "fetched_at": "2026-11-13T01:19:36+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -11331,7 +11383,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:58+00:00",
+      "fetched_at": "2026-11-13T01:19:37+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -11380,7 +11432,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-12T20:42:57+00:00",
+      "fetched_at": "2026-11-13T01:19:36+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -11550,7 +11602,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:58+00:00",
+      "fetched_at": "2026-11-13T01:19:37+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -11733,7 +11785,7 @@
           1.0652880963702869
         ]
       ],
-      "fetched_at": "2026-11-12T20:42:58+00:00",
+      "fetched_at": "2026-11-13T01:19:37+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "844"
