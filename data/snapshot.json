@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T15:35:13+00:00",
+  "generated_at": "2026-11-17T21:35:33+00:00",
   "briefing": {
-    "captured_at": "2026-11-17T15:35:15+00:00",
+    "captured_at": "2026-11-17T21:35:35+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,40 +17,42 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Tech Stocks Waver Before Nvidia\u2019s First Earnings Post-Huang",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+        "headline": "SEC Is Probing Nvidia Amid Jensen Huang\u2019s Exit, WSJ Reports",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
         "sources": [
+          "BBC",
           "Bloomberg",
           "CNBC",
+          "Fortune",
           "Guardian",
-          "MarketWatch"
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Tech Stocks Waver Before Nvidia\u2019s First Earnings Post-Huang",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results"
+            "source": "BBC",
+            "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "BBC",
+            "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+            "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "Bloomberg",
-            "headline": "European Stocks Extend Fall as Tech Drags; Deutsche Bank Slides",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Stocks Fall in Countdown to Nvidia\u2019s Earnings Test: Markets Wrap",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Nvidia Earnings Are Sideshow as Huang\u2019s Ouster Looms Over Stock",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market"
+            "headline": "SEC Is Probing Nvidia Amid Jensen Huang\u2019s Exit, WSJ Reports",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports"
           },
           {
             "source": "CNBC",
-            "headline": "Jensen Huang to appear before House panels Dec. 1; Nvidia lawyer slated to testify Dec. 2",
-            "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html"
+            "headline": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
+            "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
+            "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html"
           },
           {
             "source": "CNBC",
@@ -58,208 +60,187 @@
             "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html"
           },
           {
-            "source": "Guardian",
-            "headline": "Trump says he 'would not mind' if Jensen Huang returns to Nvidia \u2013 video",
-            "url": "https://www.theguardian.com/us-news/video/2026/nov/16/trump-would-not-mind-if-jensen-huang-returns-to-nvidia-video"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang\u2019s exit",
-            "url": "https://www.marketwatch.com/story/spacex-got-a-vote-of-confidence-from-nvidia-ahead-of-jensen-huangs-exit-6fe52365?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-11-17T15:27:13+00:00"
-      },
-      {
-        "headline": "Anthropic IPO: how can I buy shares, and is it worth it?",
-        "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
-        "sources": [
-          "Bloomberg",
-          "CNBC",
-          "Guardian",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Traders Cash In on Pricing Gaps in Anthropic\u2019s Pre-IPO Contracts",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "ETF, CEF, Swap, Perp: Investors Get Slice of Anthropic Before IPO",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-17/etf-cef-swap-perp-investors-get-slice-of-anthropic-before-ipo"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-            "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
-            "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html"
+            "source": "Fortune",
+            "headline": "Microsoft\u2019s Satya Nadella: Jensen Huang \u2018a singular person,\u2019 but it\u2019s up to Nvidia to decide whether to bring him back as CEO",
+            "url": "https://fortune.com/2026/11/17/microsofts-satya-nadella-jensen-huang-a-singular-person-but-its-up-to-nvidia-to-decide-whether-to-bring-him-back-as-ceo/"
           },
           {
             "source": "Guardian",
-            "headline": "Anthropic IPO: how can I buy shares, and is it worth it?",
-            "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London\u2019s high-end property market",
-            "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
-            "url": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories"
+            "headline": "Jensen Huang says he would be \u2018honored\u2019 to return to Nvidia as CEO",
+            "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
           }
         ],
-        "published": "2026-11-17T15:01:00+00:00"
+        "published": "2026-11-17T21:25:24+00:00"
       },
       {
-        "headline": "Hammack Says Fed Should Set High Bar for Market Interventions",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-17/hammack-says-fed-should-set-high-bar-for-interventions-video",
+        "headline": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
         "sources": [
           "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Hammack Says Fed Should Set High Bar for Market Interventions",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-17/hammack-says-fed-should-set-high-bar-for-interventions-video"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Cleveland Fed's Hammack proposes guidelines for Treasury market interventions",
-            "url": "https://seekingalpha.com/news/4673687-cleveland-feds-hammack-proposes-guidelines-for-treasury-market-interventions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-11-17T15:28:07+00:00"
-      },
-      {
-        "headline": "Lucky Strike CEO Makes Take-Private Offer as Loan Hits Distress",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-17/lucky-strike-ceo-makes-take-private-offer-as-loan-hits-distress",
-        "sources": [
-          "Bloomberg",
-          "Business Insider"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Lucky Strike CEO Makes Take-Private Offer as Loan Hits Distress",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-17/lucky-strike-ceo-makes-take-private-offer-as-loan-hits-distress"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "Lucky Strike rises after CEO proposes to take company private at $4.35/share",
-            "url": "https://seekingalpha.com/news/4673625-lucky-strike-rises-after-ceo-proposes-to-take-company-private-at-435share?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-11-17T15:13:07+00:00"
-      },
-      {
-        "headline": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-        "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-        "sources": [
           "CNBC",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "CNBC",
-            "headline": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-            "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html"
+            "source": "Bloomberg",
+            "headline": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video"
           },
           {
             "source": "CNBC",
-            "headline": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-            "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+            "headline": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank",
+            "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html"
           },
           {
             "source": "CNBC",
-            "headline": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
-            "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+            "headline": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+            "url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html"
           },
           {
             "source": "Guardian",
-            "headline": "China vows to take \u2018necessary measures\u2019 against US AI chip restrictions, as Nvidia forms export control oversight committee \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates"
+            "headline": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+            "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim"
           }
         ],
-        "published": "2026-11-17T15:01:57+00:00"
+        "published": "2026-11-17T19:43:26+00:00"
+      },
+      {
+        "headline": "FAA pauses installation of new routers after ground stop",
+        "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "FAA pauses installation of new routers after ground stop",
+            "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "FAA pauses installation of new routers after ground stop",
+            "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+          }
+        ],
+        "published": "2026-11-17T20:53:24+00:00"
+      },
+      {
+        "headline": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+        "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+            "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+            "url": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+            "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+          }
+        ],
+        "published": "2026-11-17T20:01:12+00:00"
+      },
+      {
+        "headline": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+        "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+            "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+            "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+          }
+        ],
+        "published": "2026-11-17T18:10:16+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Stocks slip before Nvidia's first earnings since Huang's exit; Huang testifies to House panels Dec. 1",
+          "text": "Nvidia closes lower before earnings after Huang's exit; SEC probing, Trump backs campaign to reinstate him",
           "topic_ids": [
             0
           ],
           "sources": [
+            "BBC",
             "Bloomberg",
             "CNBC",
+            "Fortune",
             "Guardian",
-            "MarketWatch"
+            "NPR"
           ]
         },
         {
-          "text": "Anthropic likely to price its IPO above the $70-$78 range, sources tell CNBC",
+          "text": "Huang says he'd be 'honored' to return as CEO; Nvidia dismisses the 'Bring Jensen Back' push",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "BBC",
+            "Bloomberg",
+            "CNBC",
+            "Fortune",
+            "Guardian",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, a Trump tax leak and Russia bets",
           "topic_ids": [
             1
           ],
           "sources": [
             "Bloomberg",
             "CNBC",
-            "Guardian",
-            "MarketWatch"
-          ]
-        },
-        {
-          "text": "Nvidia warns chip buyers of China legal risks; China vows 'necessary measures' on US AI chip curbs",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
             "Guardian"
           ]
         },
         {
-          "text": "Fed's Hammack proposes a high bar and guidelines for Treasury market interventions",
-          "topic_ids": [
-            2
-          ],
-          "sources": [
-            "Bloomberg",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Lucky Strike CEO offers to take the company private at $4.35 a share as its loan hits distress",
+          "text": "Home Depot beats earnings estimates and names Richard McPhail CEO",
           "topic_ids": [
             3
           ],
           "sources": [
-            "Bloomberg",
-            "Business Insider"
+            "CNBC",
+            "CNBC Finance"
+          ]
+        },
+        {
+          "text": "FAA pauses new router installations after a ground stop",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-17T15:35:25+00:00"
+      "written_at": "2026-11-17T21:35:44+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1091,9 +1072,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           5.123
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          5.113
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:06+00:00",
+      "fetched_at": "2026-11-17T21:35:28+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1106,16 +1091,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.123,
-      "change": 0.002,
-      "change_pct": 0.0391,
+      "value": 5.113,
+      "change": -0.008,
+      "change_pct": -0.1562,
       "prev_close": 5.121,
       "day_open": 5.121,
       "day_high": 5.153,
-      "day_low": 5.093,
+      "day_low": 5.089,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-17T10:35:00.000-0500",
+      "as_of": "2026-11-17T16:35:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1941,9 +1926,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           4.817
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          4.81
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:07+00:00",
+      "fetched_at": "2026-11-17T21:35:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1956,16 +1945,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.817,
-      "change": -0.01,
-      "change_pct": 0.0234,
+      "value": 4.81,
+      "change": -0.017,
+      "change_pct": 0.0352,
       "prev_close": 4.827,
       "day_open": 4.823,
       "day_high": 4.859,
-      "day_low": 4.783,
+      "day_low": 4.779,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-17T10:34:55.000-0500",
+      "as_of": "2026-11-17T16:35:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2791,9 +2780,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           5.471
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          5.462
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:07+00:00",
+      "fetched_at": "2026-11-17T21:35:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2806,16 +2799,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.471,
-      "change": 0.003,
-      "change_pct": -0.0508,
+      "value": 5.462,
+      "change": -0.006,
+      "change_pct": 0.082,
       "prev_close": 5.468,
       "day_open": 5.47,
       "day_high": 5.49,
-      "day_low": 5.45,
+      "day_low": 5.446,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-17T10:35:02.000-0500",
+      "as_of": "2026-11-17T16:35:24.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2855,12 +2848,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 1.2095147783251274,
-      "fetched_at": "2026-11-17T15:35:06+00:00",
+      "value": 1.1995147783251277,
+      "fetched_at": "2026-11-17T21:35:28+00:00",
       "as_of": "2026-10-01",
       "prev_close": 1.1194690223967267,
-      "change": 0.0900457559284007,
-      "change_pct": 8.043613009998014,
+      "change": 0.08004575592840091,
+      "change_pct": 7.15033237427392,
       "stale": false
     },
     {
@@ -3652,9 +3645,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           7363.07
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          7340.53
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:07+00:00",
+      "fetched_at": "2026-11-17T21:35:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3667,16 +3664,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7363.07,
-      "change": -53.52,
-      "change_pct": -0.72,
+      "value": 7340.53,
+      "change": -76.06,
+      "change_pct": -1.03,
       "prev_close": 7416.59,
       "day_open": 7411.02,
       "day_high": 7415.37,
-      "day_low": 7362.55,
+      "day_low": 7288.34,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-17T10:35:06.000-0500",
+      "as_of": "2026-11-17T16:20:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -4474,9 +4471,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           24298.516
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          24328.383
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:07+00:00",
+      "fetched_at": "2026-11-17T21:35:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4489,16 +4490,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 24298.516,
-      "change": -211.242,
-      "change_pct": -0.86,
+      "value": 24328.383,
+      "change": -181.375,
+      "change_pct": -0.74,
       "prev_close": 24509.758,
       "day_open": 24528.057,
       "day_high": 24547.662,
-      "day_low": 24297.817,
+      "day_low": 23989.088,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-17T10:35:02.000-0500",
+      "as_of": "2026-11-17T16:35:22.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -5320,9 +5321,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           23.71
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          25.46
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:07+00:00",
+      "fetched_at": "2026-11-17T21:35:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5335,16 +5340,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 23.71,
-      "change": 0.8,
-      "change_pct": 3.49,
+      "value": 25.46,
+      "change": 2.55,
+      "change_pct": 11.13,
       "prev_close": 22.91,
       "day_open": 23.11,
-      "day_high": 24.19,
+      "day_high": 27.73,
       "day_low": 22.36,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-17T10:34:46.000-0500",
+      "as_of": "2026-11-17T16:15:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -6214,9 +6219,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           1.0998
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          1.1001
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:07+00:00",
+      "fetched_at": "2026-11-17T21:35:29+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6229,16 +6238,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0998,
-      "change": 0.0002,
-      "change_pct": 0.0182,
+      "value": 1.1001,
+      "change": 0.0005,
+      "change_pct": 0.0455,
       "prev_close": 1.0996,
       "day_open": 1.0995,
-      "day_high": 1.1013,
+      "day_high": 1.1023,
       "day_low": 1.0969,
       "year_high": 1.21,
       "year_low": 1.1,
-      "as_of": "2026-11-17T10:35:00.000-0500",
+      "as_of": "2026-11-17T16:35:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7092,9 +7101,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           0.8397
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          0.8405
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:08+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7107,16 +7120,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8397,
-      "change": 0.0001,
-      "change_pct": 0.0119,
+      "value": 0.8405,
+      "change": 0.0009,
+      "change_pct": 0.1072,
       "prev_close": 0.8396,
       "day_open": 0.8396,
       "day_high": 0.8415,
       "day_low": 0.8378,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-17T10:35:00.000-0500",
+      "as_of": "2026-11-17T16:35:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -7966,9 +7979,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           3873.3
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          3855.4
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:08+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7981,16 +7998,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3873.3,
-      "change": 20.3,
-      "change_pct": 0.53,
+      "value": 3855.4,
+      "change": 2.4,
+      "change_pct": 0.06,
       "prev_close": 3853.0,
       "day_open": 3859.5,
-      "day_high": 3889.6,
+      "day_high": 3894.0,
       "day_low": 3839.2,
       "year_high": 5586.2,
       "year_low": 3835.2,
-      "as_of": "2026-11-17T10:25:04.000-0500",
+      "as_of": "2026-11-17T16:25:16.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -8840,9 +8857,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           86.51
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          85.71
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:08+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8855,16 +8876,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 86.51,
-      "change": 0.79,
-      "change_pct": 0.92,
+      "value": 85.71,
+      "change": -0.01,
+      "change_pct": -0.01,
       "prev_close": 85.72,
       "day_open": 85.16,
       "day_high": 87.38,
       "day_low": 84.68,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-17T10:24:54.000-0500",
+      "as_of": "2026-11-17T16:25:05.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -9610,9 +9631,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           152.38
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          155.46
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:08+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9625,17 +9650,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 152.38,
-      "change": -3.76,
-      "change_pct": -2.41,
+      "value": 155.46,
+      "change": -0.68,
+      "change_pct": -0.44,
       "prev_close": 156.14,
       "day_open": 156.9,
-      "day_high": 157.46,
-      "day_low": 152.3,
+      "day_high": 158.19,
+      "day_low": 150.33,
       "year_high": 243.37,
       "year_low": 148.8,
-      "as_of": "2026-11-17T10:35:03.991-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-17T16:15:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -10376,9 +10401,13 @@
         [
           "2026-11-17T15:35:13+00:00",
           454.5
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          460.1
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:09+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -10391,17 +10420,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 454.5,
-      "change": -7.4,
-      "change_pct": -1.6,
+      "value": 460.1,
+      "change": -1.8,
+      "change_pct": -0.39,
       "prev_close": 461.9,
       "day_open": 466.43,
       "day_high": 466.43,
-      "day_low": 454.27,
+      "day_low": 445.32,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-17T10:34:59.673-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-17T16:15:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -11142,14 +11171,18 @@
         [
           "2026-11-17T15:35:13+00:00",
           61.726969864472295
+        ],
+        [
+          "2026-11-17T21:35:33+00:00",
+          62.679397809150025
         ]
       ],
-      "value": 61.726969864472295,
-      "fetched_at": "2026-11-17T15:35:07+00:00",
-      "as_of": "2026-11-17T10:34:59.673-0500",
+      "value": 62.679397809150025,
+      "fetched_at": "2026-11-17T21:35:29+00:00",
+      "as_of": "2026-11-17T16:15:00.000-0500",
       "prev_close": 62.27929547136891,
-      "change": -0.5523256068966163,
-      "change_pct": -0.8868526895114474,
+      "change": 0.4001023377811137,
+      "change_pct": 0.6424323440926674,
       "stale": false
     },
     {
@@ -11170,10 +11203,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-25",
-          2.93
-        ],
         [
           "2026-09-28",
           3.02
@@ -11313,23 +11342,27 @@
         [
           "2026-11-13",
           3.23
+        ],
+        [
+          "2026-11-16",
+          3.34
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:09+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
       },
-      "value": 3.23,
-      "change": 0.029999999999999805,
-      "change_pct": 0.9374999999999939,
-      "prev_close": 3.2,
+      "value": 3.34,
+      "change": 0.10999999999999988,
+      "change_pct": 3.405572755417953,
+      "prev_close": 3.23,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.48,
-      "year_low": 2.93,
-      "as_of": "2026-11-13",
+      "year_low": 3.02,
+      "as_of": "2026-11-16",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -11352,10 +11385,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-25",
-          0.81
-        ],
         [
           "2026-09-28",
           0.83
@@ -11495,23 +11524,27 @@
         [
           "2026-11-13",
           0.89
+        ],
+        [
+          "2026-11-16",
+          0.9
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:09+00:00",
+      "fetched_at": "2026-11-17T21:35:30+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
       },
-      "value": 0.89,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.9,
+      "change": 0.010000000000000009,
+      "change_pct": 1.1235955056179785,
       "prev_close": 0.89,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.94,
-      "year_low": 0.81,
-      "as_of": "2026-11-13",
+      "year_low": 0.82,
+      "as_of": "2026-11-16",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -11587,7 +11620,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:09+00:00",
+      "fetched_at": "2026-11-17T21:35:31+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -11675,7 +11708,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:10+00:00",
+      "fetched_at": "2026-11-17T21:35:32+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -11751,7 +11784,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:10+00:00",
+      "fetched_at": "2026-11-17T21:35:32+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -11800,7 +11833,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-17T15:35:10+00:00",
+      "fetched_at": "2026-11-17T21:35:32+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -11970,7 +12003,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:10+00:00",
+      "fetched_at": "2026-11-17T21:35:32+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -12153,7 +12186,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-17T15:35:13+00:00",
+      "fetched_at": "2026-11-17T21:35:33+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
