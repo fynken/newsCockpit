@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T15:21:05+00:00",
+  "generated_at": "2026-11-19T21:15:25+00:00",
   "briefing": {
-    "captured_at": "2026-11-19T15:21:07+00:00",
+    "captured_at": "2026-11-19T21:15:27+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,40 +17,26 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Anthropic IPO Allocates Nothing to Most Institutional Orders",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
+        "headline": "Anthropic IPO Sets New Standard: Rice Nelson",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video",
         "sources": [
           "Bloomberg",
           "CNBC",
           "Fortune",
+          "Guardian",
           "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Anthropic Poised to Surge After $107.3 Billion IPO Tops SpaceX",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex"
+            "headline": "Anthropic IPO Said to Draw Over $9.4 Billion in Japan Order Book",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-draw-over-9-4-billion-in-japan-order-book"
           },
           {
             "source": "Bloomberg",
-            "headline": "Anthropic IPO Allocates Nothing to Most Institutional Orders",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Tech Stocks Gain as Anthropic IPO Boosts Sentiment on AI Trade",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "Tech Stocks Rally as Anthropic IPO Fuels AI Trade: Markets Wrap",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-            "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html"
+            "headline": "Anthropic IPO Sets New Standard: Rice Nelson",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video"
           },
           {
             "source": "CNBC",
@@ -59,64 +45,63 @@
           },
           {
             "source": "CNBC",
-            "headline": "Anthropic IPO could create thousands of multimillionaire employees",
-            "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html"
+            "headline": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+            "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html"
           },
           {
-            "source": "CNBC",
-            "headline": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-            "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
-          }
-        ],
-        "published": "2026-11-19T14:57:38+00:00"
-      },
-      {
-        "headline": "Sanofi Weighs Takeover of US Drugmaker Insmed",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed",
-        "sources": [
-          "Bloomberg",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Sanofi Weighs Takeover of US Drugmaker Insmed",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed"
+            "source": "Fortune",
+            "headline": "Sound Ventures turned $435 million into a $7 billion Anthropic stake. Ashton Kutcher left months before the IPO",
+            "url": "https://fortune.com/2026/11/19/anthropic-ipo-sound-ventures-ashton-kutcher-7-billion-stake/"
           },
           {
-            "source": "Seeking Alpha",
-            "headline": "Insmed jumps on report of Sanofi takeover interest",
-            "url": "https://seekingalpha.com/news/4674750-insmed-jumps-on-report-of-sanofi-takeover-interest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "source": "Fortune",
+            "headline": "Anthropic stock pops 30% to $2 trillion market cap in mega IPO",
+            "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO \u2013 business live",
+            "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO \u2013 video",
+            "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video"
           }
         ],
-        "published": "2026-11-19T15:14:54+00:00"
+        "published": "2026-11-19T20:59:27+00:00"
       },
       {
-        "headline": "Anthropic Executive Team Rings Nasdaq Opening Bell",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-executive-team-rings-nasdaq-opening-bell-video",
+        "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
         "sources": [
-          "Bloomberg",
+          "BBC",
+          "Fortune",
           "Guardian"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "Anthropic Executive Team Rings Nasdaq Opening Bell",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-executive-team-rings-nasdaq-opening-bell-video"
+            "source": "BBC",
+            "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+            "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "Fortune",
+            "headline": "Verizon\u2019s CEO knows Elon Musk is coming for his business. He says it\u2019ll cost SpaceX over $300 billion to compete",
+            "url": "https://fortune.com/2026/11/19/verizon-ceo-elon-musk-spacex-starlink-mobile-cost-300-billion-dollars/"
           },
           {
             "source": "Guardian",
-            "headline": "Anthropic rings Nasdaq opening bell as trading begins after record IPO \u2013 business live",
-            "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+            "headline": "Elon Musk claims \u2018I\u2019m not Maga\u2019 and says he regrets vast sums to back Republicans",
+            "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
           }
         ],
-        "published": "2026-11-19T15:08:28+00:00"
+        "published": "2026-11-19T17:46:02+00:00"
       },
       {
-        "headline": "Xi, Trump and Putin Wrap Historic Trilateral in China",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-trump-and-putin-wrap-historic-trilateral-in-china-video",
+        "headline": "AMD Falls on Hunterbrook Short Call That Cites China Risks",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
         "sources": [
           "Bloomberg",
           "CNBC"
@@ -125,36 +110,16 @@
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Xi, Trump and Putin Wrap Historic Trilateral in China",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-trump-and-putin-wrap-historic-trilateral-in-china-video"
-          },
-          {
-            "source": "Bloomberg",
-            "headline": "US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video"
+            "headline": "AMD Falls on Hunterbrook Short Call That Cites China Risks",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals"
           },
           {
             "source": "CNBC",
-            "headline": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting",
-            "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-            "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Trump praises \u2018great relationship\u2019 with Putin after meeting, as Ukraine war takes center stage",
-            "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-            "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+            "headline": "AMD dives on short-seller report of alleged China exposure",
+            "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
           }
         ],
-        "published": "2026-11-19T15:04:01+00:00"
+        "published": "2026-11-19T21:14:46+00:00"
       },
       {
         "headline": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
@@ -176,16 +141,15 @@
             "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
           }
         ],
-        "published": "2026-11-19T13:23:50+00:00"
+        "published": "2026-11-19T19:58:30+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Anthropic's $107.3B IPO tops SpaceX, lifting tech stocks; most institutional orders got no allocation.",
+          "text": "Anthropic pops 30% to a $2tn market cap in its IPO, with Japan's order book over $9.4bn.",
           "topic_ids": [
-            0,
-            2
+            0
           ],
           "sources": [
             "Bloomberg",
@@ -196,19 +160,9 @@
           ]
         },
         {
-          "text": "Anthropic executives ring the Nasdaq opening bell as trading begins.",
+          "text": "AMD falls on a Hunterbrook short report alleging China exposure.",
           "topic_ids": [
             2
-          ],
-          "sources": [
-            "Bloomberg",
-            "Guardian"
-          ]
-        },
-        {
-          "text": "Trump, Xi and Putin wrap a trilateral in China, floating talks on reducing nuclear weapons.",
-          "topic_ids": [
-            3
           ],
           "sources": [
             "Bloomberg",
@@ -216,9 +170,9 @@
           ]
         },
         {
-          "text": "Walmart hikes its outlook; CEO says it aims to keep prices low despite soaring fuel costs.",
+          "text": "Walmart raises its outlook; CEO says it will hold prices low despite soaring fuel costs.",
           "topic_ids": [
-            4
+            3
           ],
           "sources": [
             "CNBC",
@@ -226,18 +180,19 @@
           ]
         },
         {
-          "text": "Insmed jumps on a report Sanofi weighs a takeover.",
+          "text": "Musk calls his record $446m US midterm spending 'pretty foolish' and says 'I'm not Maga'.",
           "topic_ids": [
             1
           ],
           "sources": [
-            "Bloomberg",
-            "Seeking Alpha"
+            "BBC",
+            "Fortune",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-19T15:21:20+00:00"
+      "written_at": "2026-11-19T21:15:37+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1093,9 +1048,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           5.08
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          5.048
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:56+00:00",
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1108,16 +1067,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 5.08,
-      "change": 0.014,
-      "change_pct": 0.2764,
+      "value": 5.048,
+      "change": -0.018,
+      "change_pct": -0.3553,
       "prev_close": 5.066,
       "day_open": 5.074,
       "day_high": 5.107,
-      "day_low": 5.048,
+      "day_low": 5.04,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-19T10:20:42.000-0500",
+      "as_of": "2026-11-19T16:14:58.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -1967,9 +1926,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           4.824
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          4.762
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:58+00:00",
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1982,16 +1945,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.824,
-      "change": 0.024,
-      "change_pct": -0.0469,
+      "value": 4.762,
+      "change": -0.038,
+      "change_pct": 0.0742,
       "prev_close": 4.8,
       "day_open": 4.817,
       "day_high": 4.849,
-      "day_low": 4.783,
+      "day_low": 4.755,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-19T10:20:48.000-0500",
+      "as_of": "2026-11-19T16:15:15.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2841,9 +2804,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           5.424
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          5.402
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:58+00:00",
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2856,16 +2823,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.424,
-      "change": 0.012,
-      "change_pct": -0.1758,
+      "value": 5.402,
+      "change": -0.01,
+      "change_pct": 0.1445,
       "prev_close": 5.412,
       "day_open": 5.413,
       "day_high": 5.447,
-      "day_low": 5.395,
+      "day_low": 5.392,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-19T10:20:42.000-0500",
+      "as_of": "2026-11-19T16:14:13.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2905,12 +2872,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 1.1665147783251273,
-      "fetched_at": "2026-11-19T15:20:56+00:00",
+      "value": 1.1345147783251273,
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "as_of": "2026-10-01",
       "prev_close": 1.0644690223967261,
-      "change": 0.10204575592840115,
-      "change_pct": 9.586540686608053,
+      "change": 0.07004575592840112,
+      "change_pct": 6.580347051404861,
       "stale": false
     },
     {
@@ -3726,9 +3693,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           7338.9
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          7175.83
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:58+00:00",
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3741,16 +3712,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7338.9,
-      "change": 15.27,
-      "change_pct": 0.21,
+      "value": 7175.83,
+      "change": -147.8,
+      "change_pct": -2.02,
       "prev_close": 7323.63,
       "day_open": 7389.26,
       "day_high": 7415.64,
-      "day_low": 7338.07,
+      "day_low": 7173.63,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-19T10:20:57.000-0500",
+      "as_of": "2026-11-19T16:15:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -4572,9 +4543,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           24631.853
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          23879.199
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:59+00:00",
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4587,16 +4562,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 24631.853,
-      "change": 201.968,
-      "change_pct": 0.83,
+      "value": 23879.199,
+      "change": -550.685,
+      "change_pct": -2.25,
       "prev_close": 24429.885,
       "day_open": 24809.053,
       "day_high": 24939.623,
-      "day_low": 24624.463,
+      "day_low": 23870.695,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-19T10:20:45.000-0500",
+      "as_of": "2026-11-19T16:15:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -5438,9 +5413,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           24.03
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          28.44
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:59+00:00",
+      "fetched_at": "2026-11-19T21:15:21+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5453,16 +5432,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 24.03,
-      "change": -0.53,
-      "change_pct": -2.16,
+      "value": 28.44,
+      "change": 3.88,
+      "change_pct": 15.8,
       "prev_close": 24.56,
       "day_open": 22.06,
-      "day_high": 24.03,
+      "day_high": 29.13,
       "day_low": 21.84,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-19T10:20:46.000-0500",
+      "as_of": "2026-11-19T16:15:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -6356,9 +6335,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           1.0976
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          1.0971
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:59+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6371,16 +6354,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0976,
-      "change": 0.0003,
-      "change_pct": 0.0273,
+      "value": 1.0971,
+      "change": -0.0002,
+      "change_pct": -0.0182,
       "prev_close": 1.0973,
       "day_open": 1.0971,
       "day_high": 1.101,
       "day_low": 1.0956,
       "year_high": 1.21,
       "year_low": 1.1,
-      "as_of": "2026-11-19T10:20:00.000-0500",
+      "as_of": "2026-11-19T16:15:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7258,9 +7241,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           0.844
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          0.8438
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:59+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7273,16 +7260,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.844,
-      "change": 0.0009,
-      "change_pct": 0.1067,
+      "value": 0.8438,
+      "change": 0.0007,
+      "change_pct": 0.083,
       "prev_close": 0.8431,
       "day_open": 0.8431,
       "day_high": 0.8448,
       "day_low": 0.8418,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-19T10:20:00.000-0500",
+      "as_of": "2026-11-19T16:15:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8156,9 +8143,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           3707.2
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          3659.8
         ]
       ],
-      "fetched_at": "2026-11-19T15:20:59+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8171,16 +8162,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3707.2,
-      "change": -34.7,
-      "change_pct": -0.93,
+      "value": 3659.8,
+      "change": -82.1,
+      "change_pct": -2.19,
       "prev_close": 3741.9,
       "day_open": 3730.3,
       "day_high": 3759.5,
-      "day_low": 3694.5,
+      "day_low": 3659.2,
       "year_high": 5586.2,
-      "year_low": 3694.5,
-      "as_of": "2026-11-19T10:10:51.000-0500",
+      "year_low": 3659.2,
+      "as_of": "2026-11-19T16:05:12.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9054,9 +9045,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           84.8
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          83.98
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:00+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9069,16 +9064,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 84.8,
-      "change": 1.54,
-      "change_pct": 1.85,
+      "value": 83.98,
+      "change": 0.72,
+      "change_pct": 0.86,
       "prev_close": 83.26,
       "day_open": 82.82,
       "day_high": 84.88,
       "day_low": 82.6,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-19T10:10:35.000-0500",
+      "as_of": "2026-11-19T16:03:23.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Dec'26)",
       "stale": false
@@ -9840,9 +9835,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           154.33
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          145.98
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:00+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9855,17 +9854,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 154.33,
-      "change": 3.37,
-      "change_pct": 2.23,
+      "value": 145.98,
+      "change": -4.98,
+      "change_pct": -3.3,
       "prev_close": 150.96,
       "day_open": 152.92,
       "day_high": 158.13,
-      "day_low": 152.54,
+      "day_low": 145.71,
       "year_high": 243.37,
-      "year_low": 148.8,
-      "as_of": "2026-11-19T10:20:55.331-0500",
-      "market_status": "REG_MKT",
+      "year_low": 145.71,
+      "as_of": "2026-11-19T16:00:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -10626,9 +10625,13 @@
         [
           "2026-11-19T15:21:05+00:00",
           469.53
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          447.48
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:00+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -10641,17 +10644,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 469.53,
-      "change": 9.99,
-      "change_pct": 2.17,
+      "value": 447.48,
+      "change": -12.06,
+      "change_pct": -2.62,
       "prev_close": 459.54,
       "day_open": 473.05,
       "day_high": 479.96,
-      "day_low": 468.92,
+      "day_low": 447.2,
       "year_high": 671.83,
       "year_low": 315.05,
-      "as_of": "2026-11-19T10:20:50.002-0500",
-      "market_status": "REG_MKT",
+      "as_of": "2026-11-19T16:15:00.000-0500",
+      "market_status": "POST_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -11412,14 +11415,18 @@
         [
           "2026-11-19T15:21:05+00:00",
           63.978252871683765
+        ],
+        [
+          "2026-11-19T21:15:25+00:00",
+          62.359336829328456
         ]
       ],
-      "value": 63.978252871683765,
-      "fetched_at": "2026-11-19T15:20:58+00:00",
-      "as_of": "2026-11-19T10:20:50.002-0500",
+      "value": 62.359336829328456,
+      "fetched_at": "2026-11-19T21:15:21+00:00",
+      "as_of": "2026-11-19T16:15:00.000-0500",
       "prev_close": 62.74757190081967,
-      "change": 1.2306809708640927,
-      "change_pct": 1.9613204680004777,
+      "change": -0.3882350714912164,
+      "change_pct": -0.618725250603912,
       "stale": false
     },
     {
@@ -11440,10 +11447,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-29",
-          3.08
-        ],
         [
           "2026-09-30",
           3.12
@@ -11583,23 +11586,27 @@
         [
           "2026-11-17",
           3.43
+        ],
+        [
+          "2026-11-18",
+          3.47
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:00+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "785"
+        "_observations": "786"
       },
-      "value": 3.43,
-      "change": 0.0900000000000003,
-      "change_pct": 2.694610778443123,
-      "prev_close": 3.34,
+      "value": 3.47,
+      "change": 0.040000000000000036,
+      "change_pct": 1.1661807580174937,
+      "prev_close": 3.43,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 3.48,
       "year_low": 3.03,
-      "as_of": "2026-11-17",
+      "as_of": "2026-11-18",
       "market_status": "",
       "instrument_name": "BAMLH0A0HYM2",
       "stale": false
@@ -11622,10 +11629,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-09-29",
-          0.84
-        ],
         [
           "2026-09-30",
           0.84
@@ -11765,23 +11768,27 @@
         [
           "2026-11-17",
           0.92
+        ],
+        [
+          "2026-11-18",
+          0.93
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:00+00:00",
+      "fetched_at": "2026-11-19T21:15:22+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
-        "_observations": "784"
+        "_observations": "785"
       },
-      "value": 0.92,
-      "change": 0.020000000000000018,
-      "change_pct": 2.222222222222224,
-      "prev_close": 0.9,
+      "value": 0.93,
+      "change": 0.010000000000000009,
+      "change_pct": 1.0869565217391313,
+      "prev_close": 0.92,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.94,
       "year_low": 0.82,
-      "as_of": "2026-11-17",
+      "as_of": "2026-11-18",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -11857,7 +11864,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:01+00:00",
+      "fetched_at": "2026-11-19T21:15:23+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -11945,7 +11952,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:03+00:00",
+      "fetched_at": "2026-11-19T21:15:24+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12021,7 +12028,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:04+00:00",
+      "fetched_at": "2026-11-19T21:15:24+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12070,7 +12077,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-19T15:21:03+00:00",
+      "fetched_at": "2026-11-19T21:15:24+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12240,7 +12247,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:04+00:00",
+      "fetched_at": "2026-11-19T21:15:24+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -12423,7 +12430,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-19T15:21:05+00:00",
+      "fetched_at": "2026-11-19T21:15:25+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
