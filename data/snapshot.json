@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T04:55:07+00:00",
+  "generated_at": "2026-11-24T17:03:00+00:00",
   "briefing": {
-    "captured_at": "2026-11-24T04:55:10+00:00",
+    "captured_at": "2026-11-24T17:03:02+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,14 +17,12 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
-        "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+        "headline": "Jensen Huang returns to Nvidia as CEO after scandal",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal",
         "sources": [
           "BBC",
           "Bloomberg",
-          "Business Insider",
           "CNBC",
-          "Fortune",
           "Guardian",
           "MarketWatch",
           "NPR"
@@ -52,31 +50,87 @@
             "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "BBC",
-            "headline": "How important are Nvidia and Jensen Huang to the US economy?",
-            "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "The rise and fall and rise again of Jensen Huang",
-            "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "Nvidia reinstates CEO after affair with alleged spy",
-            "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "source": "Bloomberg",
-            "headline": "Gold Extends Gain After Nvidia\u2019s Rehiring of Huang Sparks Rally",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally"
+            "headline": "Nvidia (NVDA) Surging on Huang\u2019s Reinstatement Brings Back Leveraged ETF Debate",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/nvidia-nvda-surging-on-huang-s-reinstatement-brings-back-leveraged-etf-debate"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+            "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Nvidia shares fall 8% as Huang comeback rally cools",
+            "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "What Jensen Huang\u2019s return means for Nvidia\u2019s Colette Kress",
+            "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html"
           }
         ],
-        "published": "2026-11-24T04:36:31+00:00"
+        "published": "2026-11-24T16:42:57+00:00"
       },
       {
-        "headline": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-        "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+        "headline": "Anthropic Shares Plunge 8% Below IPO Price in Fourth Trading Day",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+        "sources": [
+          "Bloomberg",
+          "CNBC",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Bloomberg",
+            "headline": "Anthropic Shares Plunge 8% Below IPO Price in Fourth Trading Day",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+            "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "Anthropic\u2019s stock just broke below its IPO price for the first time",
+            "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-11-24T16:48:49+00:00"
+      },
+      {
+        "headline": "Six key questions raised by Jensen Huang's return to Nvidia",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+        "sources": [
+          "BBC",
+          "CNBC",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+            "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Six key questions raised by Jensen Huang's return to Nvidia",
+            "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
+          },
+          {
+            "source": "NPR",
+            "headline": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+            "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women"
+          }
+        ],
+        "published": "2026-11-24T13:31:29+00:00"
+      },
+      {
+        "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+        "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
         "sources": [
           "CNBC",
           "CNBC Finance"
@@ -85,20 +139,20 @@
         "variants": [
           {
             "source": "CNBC",
-            "headline": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-            "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html"
+            "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+            "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"
           },
           {
             "source": "CNBC Finance",
-            "headline": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-            "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html"
+            "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+            "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"
           }
         ],
-        "published": "2026-11-23T21:55:27+00:00"
+        "published": "2026-11-24T14:51:58+00:00"
       },
       {
-        "headline": "Anthropic\u2019s IPO was great for the tech elite \u2013 and not so great for the rest of us | Steven Greenhouse",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+        "headline": "Trump, Nvidia and power: could we be nearing the end of tech\u2019s Gilded Age?",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
         "sources": [
           "Fortune",
           "Guardian"
@@ -107,134 +161,94 @@
         "variants": [
           {
             "source": "Fortune",
-            "headline": "There are now more centimillionaires at Anthropic than in all of L.A. thanks to its IPO\u2014staff gained a total of $430 billion overnight",
-            "url": "https://fortune.com/2026/11/23/anthropic-centimillionaires-more-than-major-cities-or-third-of-us-households-wealth-distribution-warnings-billionaire-ceo-dario-amodei/"
+            "headline": "Trump\u2019s \u2018assurance\u2019 to Nvidia\u2019s board over national security may have just provided it with protection from a major source of legal danger",
+            "url": "https://fortune.com/2026/11/23/trump-assurance-to-nvidia-board-over-national-security-legal-threats/"
           },
           {
             "source": "Guardian",
-            "headline": "Anthropic\u2019s IPO was great for the tech elite \u2013 and not so great for the rest of us | Steven Greenhouse",
-            "url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble"
-          }
-        ],
-        "published": "2026-11-23T17:20:29+00:00"
-      },
-      {
-        "headline": "Next data accessed in cyber breach",
-        "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-        "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Next data accessed in cyber breach",
-            "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss"
+            "headline": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+            "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence"
           },
           {
             "source": "Guardian",
-            "headline": "Next issues cyber-attack warning after \u2018benign\u2019 data accessed by hackers",
-            "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers"
+            "headline": "Trump, Nvidia and power: could we be nearing the end of tech\u2019s Gilded Age?",
+            "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age"
           }
         ],
-        "published": "2026-11-23T14:50:31+00:00"
-      },
-      {
-        "headline": "Capita boss exits and shares crash after civil service pensions failures",
-        "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
-        "sources": [
-          "BBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "BBC",
-            "headline": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-            "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "BBC",
-            "headline": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-            "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Capita boss exits and shares crash after civil service pensions failures",
-            "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures"
-          }
-        ],
-        "published": "2026-11-23T11:24:37+00:00"
+        "published": "2026-11-24T14:00:48+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Nvidia reinstates CEO Jensen Huang, adding nearly $1tn in value and lifting tech stocks; gold also gains.",
+          "text": "Nvidia adds nearly $1tn as Jensen Huang returns as CEO, then falls 8% as the rally cools.",
           "topic_ids": [
-            0
-          ],
-          "sources": [
-            "BBC",
-            "Bloomberg",
-            "Business Insider",
-            "CNBC",
-            "Fortune",
-            "Guardian",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Trump says he 'convinced' Nvidia to bring Huang back, drawing backlash.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "BBC",
-            "Bloomberg",
-            "Business Insider",
-            "CNBC",
-            "Fortune",
-            "Guardian",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Anthropic's IPO hands staff $430bn, creating more centimillionaires than all of Los Angeles.",
-          "topic_ids": [
+            0,
             2
           ],
           "sources": [
-            "Fortune",
-            "Guardian"
+            "BBC",
+            "Bloomberg",
+            "CNBC",
+            "Guardian",
+            "MarketWatch",
+            "NPR"
           ]
         },
         {
-          "text": "Capita shares plunge 70% and its boss quits over civil service pensions failures.",
+          "text": "Trump says he 'convinced' Nvidia to reinstate Huang, drawing backlash and board-liability questions.",
           "topic_ids": [
+            0,
             4
           ],
           "sources": [
             "BBC",
-            "Guardian"
+            "Bloomberg",
+            "CNBC",
+            "Fortune",
+            "Guardian",
+            "MarketWatch",
+            "NPR"
           ]
         },
         {
-          "text": "Next warns of a cyber-attack after hackers accessed data it calls benign.",
+          "text": "Huang faces a DC grilling the same day Nvidia launches new products at GTC.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "BBC",
+            "Bloomberg",
+            "CNBC",
+            "Guardian",
+            "MarketWatch",
+            "NPR"
+          ]
+        },
+        {
+          "text": "Anthropic drops below its $83 IPO price on its fourth trading day; analysts stay positive.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "CNBC",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "Best Buy posts 6.1% comparable sales growth, its highest in five years.",
           "topic_ids": [
             3
           ],
           "sources": [
-            "BBC",
-            "Guardian"
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-24T04:55:20+00:00"
+      "written_at": "2026-11-24T17:03:12+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1122,9 +1136,13 @@
         [
           "2026-11-24T04:55:07+00:00",
           4.916
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          4.892
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:02+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1137,16 +1155,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.916,
-      "change": -0.004,
-      "change_pct": -0.0813,
+      "value": 4.892,
+      "change": -0.028,
+      "change_pct": -0.5691,
       "prev_close": 4.92,
       "day_open": 4.948,
       "day_high": 4.95,
-      "day_low": 4.91,
+      "day_low": 4.878,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-23T23:54:54.000-0500",
+      "as_of": "2026-11-24T12:02:30.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -2024,9 +2042,13 @@
         [
           "2026-11-24T00:39:56+00:00",
           4.687
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          4.662
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:03+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2039,16 +2061,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.687,
-      "change": 0.074,
-      "change_pct": -0.1367,
-      "prev_close": 4.613,
-      "day_open": 4.664,
-      "day_high": 4.732,
-      "day_low": 4.64,
+      "value": 4.662,
+      "change": -0.004,
+      "change_pct": 0.0078,
+      "prev_close": 4.666,
+      "day_open": 4.695,
+      "day_high": 4.699,
+      "day_low": 4.629,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-23T11:17:56.000-0500",
+      "as_of": "2026-11-24T12:02:48.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2930,9 +2952,13 @@
         [
           "2026-11-24T04:55:07+00:00",
           5.305
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          5.278
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:03+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2945,16 +2971,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.305,
-      "change": 0.003,
-      "change_pct": -0.0469,
-      "prev_close": 5.302,
-      "day_open": 5.329,
-      "day_high": 5.35,
-      "day_low": 5.293,
+      "value": 5.278,
+      "change": -0.017,
+      "change_pct": 0.2656,
+      "prev_close": 5.295,
+      "day_open": 5.314,
+      "day_high": 5.315,
+      "day_low": 5.266,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-23T11:19:12.000-0500",
+      "as_of": "2026-11-24T12:02:48.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -2994,12 +3020,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 1.0025147783251276,
-      "fetched_at": "2026-11-24T04:55:02+00:00",
+      "value": 0.9785147783251276,
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "as_of": "2026-10-01",
       "prev_close": 0.9184690223967262,
-      "change": 0.08404575592840136,
-      "change_pct": 9.150635881990409,
+      "change": 0.060045755928401334,
+      "change_pct": 6.53759184732362,
       "stale": false
     },
     {
@@ -3843,9 +3869,13 @@
         [
           "2026-11-24T00:39:56+00:00",
           7237.17
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          7165.55
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:03+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3858,16 +3888,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7237.17,
-      "change": 326.78,
-      "change_pct": 4.73,
-      "prev_close": 6910.39,
-      "day_open": 7227.41,
-      "day_high": 7295.6,
-      "day_low": 7152.66,
+      "value": 7165.55,
+      "change": -71.62,
+      "change_pct": -0.99,
+      "prev_close": 7237.17,
+      "day_open": 7172.33,
+      "day_high": 7223.95,
+      "day_low": 7138.93,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-23T16:42:33.000-0500",
+      "as_of": "2026-11-24T12:02:53.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -4717,9 +4747,13 @@
         [
           "2026-11-24T00:39:56+00:00",
           24089.558
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          23557.653
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:03+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4732,16 +4766,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 24089.558,
-      "change": 1471.825,
-      "change_pct": 6.51,
-      "prev_close": 22617.733,
-      "day_open": 24269.746,
-      "day_high": 24353.65,
-      "day_low": 23794.958,
+      "value": 23557.653,
+      "change": -531.904,
+      "change_pct": -2.21,
+      "prev_close": 24089.558,
+      "day_open": 23745.862,
+      "day_high": 23884.737,
+      "day_low": 23455.838,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-23T17:15:59.000-0500",
+      "as_of": "2026-11-24T12:02:53.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -5607,9 +5641,13 @@
         [
           "2026-11-24T00:39:56+00:00",
           26.62
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          27.92
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:03+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5622,16 +5660,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 26.62,
-      "change": -9.27,
-      "change_pct": -25.83,
-      "prev_close": 35.89,
-      "day_open": 31.38,
-      "day_high": 35.08,
-      "day_low": 15.39,
+      "value": 27.92,
+      "change": 1.3,
+      "change_pct": 4.88,
+      "prev_close": 26.62,
+      "day_open": 26.52,
+      "day_high": 32.38,
+      "day_low": 26.26,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-23T16:15:01.000-0500",
+      "as_of": "2026-11-24T12:02:46.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -6557,9 +6595,13 @@
         [
           "2026-11-24T04:55:07+00:00",
           1.0909
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          1.0966
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6572,16 +6614,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0909,
-      "change": 0.0008,
-      "change_pct": 0.0734,
+      "value": 1.0966,
+      "change": 0.0065,
+      "change_pct": 0.5963,
       "prev_close": 1.0901,
       "day_open": 1.09,
-      "day_high": 1.092,
-      "day_low": 1.0898,
+      "day_high": 1.0979,
+      "day_low": 1.0897,
       "year_high": 1.21,
       "year_low": 1.09,
-      "as_of": "2026-11-23T23:54:00.000-0500",
+      "as_of": "2026-11-24T12:02:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7491,9 +7533,13 @@
         [
           "2026-11-24T04:55:07+00:00",
           0.8412
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          0.8349
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:57+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7506,16 +7552,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8412,
-      "change": -0.0003,
-      "change_pct": -0.0357,
+      "value": 0.8349,
+      "change": -0.0066,
+      "change_pct": -0.7843,
       "prev_close": 0.8415,
       "day_open": 0.8417,
-      "day_high": 0.8424,
-      "day_low": 0.8407,
+      "day_high": 0.8428,
+      "day_low": 0.8345,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-23T23:54:00.000-0500",
+      "as_of": "2026-11-24T12:02:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8421,9 +8467,13 @@
         [
           "2026-11-24T04:55:07+00:00",
           3630.9
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          3566.7
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8436,16 +8486,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3630.9,
-      "change": -20.5,
-      "change_pct": -0.56,
+      "value": 3566.7,
+      "change": -84.7,
+      "change_pct": -2.32,
       "prev_close": 3651.4,
       "day_open": 3636.4,
       "day_high": 3676.7,
-      "day_low": 3618.5,
+      "day_low": 3557.4,
       "year_high": 5586.2,
       "year_low": 3502.9,
-      "as_of": "2026-11-23T23:44:53.000-0500",
+      "as_of": "2026-11-24T11:52:49.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9351,9 +9401,13 @@
         [
           "2026-11-24T04:55:07+00:00",
           79.67
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          80.82
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9366,16 +9420,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 79.67,
-      "change": -0.5,
-      "change_pct": -0.62,
+      "value": 80.82,
+      "change": 0.65,
+      "change_pct": 0.81,
       "prev_close": 80.17,
       "day_open": 80.36,
-      "day_high": 80.61,
-      "day_low": 79.62,
+      "day_high": 81.65,
+      "day_low": 79.07,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-23T23:44:58.000-0500",
+      "as_of": "2026-11-24T11:52:53.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Jan'27)",
       "stale": false
@@ -10161,11 +10215,17 @@
         [
           "2026-11-24T00:39:56+00:00",
           165.05
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          151.21
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -10174,17 +10234,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 165.05,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 151.21,
+      "change": -13.84,
+      "change_pct": -8.39,
       "prev_close": 165.05,
-      "day_open": 167.04,
-      "day_high": 171.5,
-      "day_low": 156.93,
+      "day_open": 159.1,
+      "day_high": 159.92,
+      "day_low": 150.5,
       "year_high": 243.37,
       "year_low": 124.5,
-      "as_of": "2026-11-23T16:00:00.000-0500",
-      "market_status": "POST_MKT",
+      "as_of": "2026-11-24T12:02:56.507-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -10973,11 +11033,17 @@
         [
           "2026-11-24T04:55:07+00:00",
           460.18
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          422.23
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -10986,16 +11052,16 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 460.18,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 422.23,
+      "change": -37.95,
+      "change_pct": -8.25,
       "prev_close": 460.18,
-      "day_open": 469.02,
-      "day_high": 469.35,
-      "day_low": 449.64,
+      "day_open": 441.0,
+      "day_high": 442.97,
+      "day_low": 418.41,
       "year_high": 671.83,
       "year_low": 327.35,
-      "as_of": "2026-11-23T16:00:00.064-0500",
+      "as_of": "2026-11-24T12:02:54.580-0500",
       "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
@@ -11785,14 +11851,18 @@
         [
           "2026-11-24T04:55:07+00:00",
           63.58562808390572
+        ],
+        [
+          "2026-11-24T17:03:00+00:00",
+          58.92499528996378
         ]
       ],
-      "value": 63.58562808390572,
-      "fetched_at": "2026-11-24T04:55:03+00:00",
-      "as_of": "2026-11-23T16:00:00.064-0500",
-      "prev_close": 66.59247886154037,
-      "change": -3.0068507776346536,
-      "change_pct": -4.515300870367843,
+      "value": 58.92499528996378,
+      "fetched_at": "2026-11-24T17:02:57+00:00",
+      "as_of": "2026-11-24T12:02:53.000-0500",
+      "prev_close": 63.58562808390572,
+      "change": -4.660632793941936,
+      "change_pct": -7.329695301258804,
       "stale": false
     },
     {
@@ -11958,7 +12028,7 @@
           3.76
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -11995,10 +12065,6 @@
       "error": null,
       "source_note": "",
       "series": [
-        [
-          "2026-10-02",
-          0.85
-        ],
         [
           "2026-10-05",
           0.84
@@ -12138,23 +12204,27 @@
         [
           "2026-11-20",
           0.98
+        ],
+        [
+          "2026-11-23",
+          0.97
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:04+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
       },
-      "value": 0.98,
-      "change": 0.040000000000000036,
-      "change_pct": 4.255319148936175,
-      "prev_close": 0.94,
+      "value": 0.97,
+      "change": -0.010000000000000009,
+      "change_pct": -1.020408163265307,
+      "prev_close": 0.98,
       "day_open": null,
       "day_high": null,
       "day_low": null,
       "year_high": 0.98,
       "year_low": 0.82,
-      "as_of": "2026-11-20",
+      "as_of": "2026-11-23",
       "market_status": "",
       "instrument_name": "BAMLC0A0CM",
       "stale": false
@@ -12230,7 +12300,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:05+00:00",
+      "fetched_at": "2026-11-24T17:02:58+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -12318,7 +12388,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:06+00:00",
+      "fetched_at": "2026-11-24T17:03:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12394,7 +12464,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:07+00:00",
+      "fetched_at": "2026-11-24T17:03:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12443,7 +12513,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-24T04:55:06+00:00",
+      "fetched_at": "2026-11-24T17:03:00+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12613,7 +12683,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:07+00:00",
+      "fetched_at": "2026-11-24T17:03:00+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -12796,7 +12866,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-24T04:55:07+00:00",
+      "fetched_at": "2026-11-24T17:03:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
