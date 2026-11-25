@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T22:58:08+00:00",
+  "generated_at": "2026-11-25T03:39:14+00:00",
   "briefing": {
-    "captured_at": "2026-11-24T22:58:10+00:00",
+    "captured_at": "2026-11-25T03:39:16+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -21,11 +21,8 @@
         "url": "https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal",
         "sources": [
           "BBC",
-          "Bloomberg",
-          "Business Insider",
           "CNBC",
           "Guardian",
-          "MarketWatch",
           "NPR"
         ],
         "corroborated": true,
@@ -36,29 +33,9 @@
             "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "Bloomberg",
-            "headline": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang\u2019s Return",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "DOJ's Blanche on Jensen Huang investigation: 'Nvidia is a good corporate citizen'",
-            "url": "https://www.businessinsider.com/doj-fbi-jensen-huang-investigation-nvidia-dodged-questions-todd-blanche-2026-11"
-          },
-          {
             "source": "CNBC",
-            "headline": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-            "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-            "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-            "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+            "headline": "Op-ed: Trump\u2019s Nvidia board intervention put a price on national security. Our adversaries will take note",
+            "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html"
           },
           {
             "source": "Guardian",
@@ -69,47 +46,30 @@
             "source": "Guardian",
             "headline": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
             "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence"
+          },
+          {
+            "source": "Guardian",
+            "headline": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention \u2013 video",
+            "url": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video"
+          },
+          {
+            "source": "NPR",
+            "headline": "Jensen Huang returns to Nvidia as CEO after scandal",
+            "url": "https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal"
+          },
+          {
+            "source": "NPR",
+            "headline": "Yale professor discusses Jensen Huang's return as Nvidia's CEO",
+            "url": "https://www.npr.org/2026/11/24/nx-s1-6051030/yale-professor-discusses-jensen-huangs-return-as-nvidias-ceo"
           }
         ],
-        "published": "2026-11-24T21:17:23+00:00"
+        "published": "2026-11-25T02:50:08+00:00"
       },
       {
-        "headline": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+        "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
+        "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
         "sources": [
           "Bloomberg",
-          "CNBC",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Bloomberg",
-            "headline": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
-            "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
-          },
-          {
-            "source": "CNBC",
-            "headline": "Anthropic shares fall below IPO price. Traders see even more pain",
-            "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Anthropic\u2019s stock just broke below its IPO price for the first time",
-            "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-11-24T21:46:00+00:00"
-      },
-      {
-        "headline": "AG Blanche, FBI\u2019s Patel dodge questions about Jensen Huang investigation",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-        "sources": [
           "Business Insider",
           "CNBC",
           "Guardian"
@@ -117,9 +77,29 @@
         "corroborated": true,
         "variants": [
           {
+            "source": "Bloomberg",
+            "headline": "Jensen Huang Boost Fades Fast as Taiwan Stocks Tumble 8%",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8"
+          },
+          {
             "source": "Business Insider",
             "headline": "Jensen Huang has been married to his wife, Lori, for 41 years. Here's a timeline of their relationship.",
             "url": "https://www.businessinsider.com/jensen-huang-wife-lori-huang-relationship-timeline"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "DOJ's Blanche on Jensen Huang investigation: 'Nvidia is a good corporate citizen'",
+            "url": "https://www.businessinsider.com/doj-fbi-jensen-huang-investigation-nvidia-dodged-questions-todd-blanche-2026-11"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
+            "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+            "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
           },
           {
             "source": "CNBC",
@@ -132,125 +112,151 @@
             "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html"
           },
           {
-            "source": "Guardian",
-            "headline": "\u2018The mistake has been corrected\u2019: end of Jensen Huang\u2019s brief walk in the wilderness",
-            "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis"
+            "source": "CNBC",
+            "headline": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+            "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
           }
         ],
-        "published": "2026-11-24T21:13:39+00:00"
+        "published": "2026-11-25T02:45:27+00:00"
       },
       {
-        "headline": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
+        "headline": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+        "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
         "sources": [
-          "Bloomberg",
-          "Business Insider"
+          "BBC",
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Bloomberg",
-            "headline": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply"
+            "source": "BBC",
+            "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+            "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "source": "Business Insider",
-            "headline": "Thanksgiving Cargo Theft Doubles from 2021 as Verisk CargoNet Warns of Fraudulent Hires and Data Center Hardware Being Targeted",
-            "url": "https://markets.businessinsider.com/news/stocks/thanksgiving-cargo-theft-doubles-from-2021-as-verisk-cargonet-warns-of-fraudulent-hires-and-data-center-hardware-being-targeted-1036797129"
+            "source": "CNBC",
+            "headline": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+            "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
           }
         ],
-        "published": "2026-11-24T22:12:57+00:00"
+        "published": "2026-11-25T02:59:27+00:00"
       },
       {
-        "headline": "Meta launches Muse in UK \u2013 the AI agent that can do your Christmas shopping",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+        "headline": "Six key questions raised by Jensen Huang's return to Nvidia",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
         "sources": [
           "CNBC",
-          "Guardian"
+          "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "CNBC",
-            "headline": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-            "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
+            "headline": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+            "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
           },
           {
-            "source": "Guardian",
-            "headline": "Meta launches Muse in UK \u2013 the AI agent that can do your Christmas shopping",
-            "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+            "source": "CNBC",
+            "headline": "Six key questions raised by Jensen Huang's return to Nvidia",
+            "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
+          },
+          {
+            "source": "NPR",
+            "headline": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+            "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women"
           }
         ],
-        "published": "2026-11-24T20:37:40+00:00"
+        "published": "2026-11-25T01:13:56+00:00"
+      },
+      {
+        "headline": "Unpacking President Trump's financial stake in Nvidia",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
+        "sources": [
+          "BBC",
+          "NPR"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "BBC",
+            "headline": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+            "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "source": "NPR",
+            "headline": "Unpacking President Trump's financial stake in Nvidia",
+            "url": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia"
+          }
+        ],
+        "published": "2026-11-25T01:03:05+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Nvidia falls more than 5% as the Huang comeback rally cools; Huang faces a DC grilling on GTC day.",
+          "text": "Jensen Huang returns as Nvidia CEO after Trump intervention; Trump made up to $15m on Nvidia stock.",
           "topic_ids": [
             0,
-            2
+            4
           ],
           "sources": [
             "BBC",
-            "Bloomberg",
-            "Business Insider",
             "CNBC",
             "Guardian",
-            "MarketWatch",
             "NPR"
           ]
         },
         {
-          "text": "Trump says he convinced Nvidia to reinstate Huang, and made up to $15m on Nvidia stock after the return.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "BBC",
-            "Bloomberg",
-            "Business Insider",
-            "CNBC",
-            "Guardian",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Anthropic closes below its $83 IPO price for the first time; analysts stay largely positive.",
+          "text": "Taiwan stocks tumble 8% as the Huang relief trade fades.",
           "topic_ids": [
             1
           ],
           "sources": [
             "Bloomberg",
+            "Business Insider",
             "CNBC",
-            "MarketWatch"
+            "Guardian"
           ]
         },
         {
-          "text": "US steel buyers turn abroad as the data center boom strains supply.",
+          "text": "Trump says he'd pardon Huang if needed; Blanche and Patel dodge questions on the DOJ probe.",
           "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Bloomberg",
+            "Business Insider",
+            "CNBC",
+            "Guardian"
+          ]
+        },
+        {
+          "text": "Huang faces a DC grilling the same day Nvidia launches new products at GTC; he tells staff no succession plan is needed.",
+          "topic_ids": [
+            1,
             3
           ],
           "sources": [
             "Bloomberg",
-            "Business Insider"
+            "Business Insider",
+            "CNBC",
+            "Guardian",
+            "NPR"
           ]
         },
         {
-          "text": "Meta launches its Muse AI agent in the UK and taps Instagram for an ad boost.",
+          "text": "US jury convicts Huawei of trade secret theft and fraud, acquits it of racketeering.",
           "topic_ids": [
-            4
+            2
           ],
           "sources": [
-            "CNBC",
-            "Guardian"
+            "BBC",
+            "CNBC"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-24T22:58:23+00:00"
+      "written_at": "2026-11-25T03:39:30+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1146,13 +1152,15 @@
         [
           "2026-11-24T22:58:08+00:00",
           4.928
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          4.902
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -1161,16 +1169,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.928,
-      "change": 0.008,
-      "change_pct": 0.1626,
-      "prev_close": 4.92,
-      "day_open": 4.948,
-      "day_high": 4.95,
-      "day_low": 4.878,
+      "value": 4.902,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 4.902,
+      "day_open": 4.924,
+      "day_high": 4.93,
+      "day_low": 4.898,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-24T17:05:00.000-0500",
+      "as_of": "2026-11-24T22:38:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -2056,9 +2064,13 @@
         [
           "2026-11-24T22:58:08+00:00",
           4.687
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          4.658
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2071,16 +2083,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.687,
-      "change": 0.021,
-      "change_pct": -0.043,
-      "prev_close": 4.666,
-      "day_open": 4.695,
-      "day_high": 4.699,
-      "day_low": 4.629,
+      "value": 4.658,
+      "change": -0.013,
+      "change_pct": 0.0273,
+      "prev_close": 4.671,
+      "day_open": 4.677,
+      "day_high": 4.681,
+      "day_low": 4.654,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-24T17:05:00.000-0500",
+      "as_of": "2026-11-24T22:39:06.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2970,9 +2982,13 @@
         [
           "2026-11-24T22:58:08+00:00",
           5.318
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          5.297
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2985,16 +3001,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.318,
-      "change": 0.023,
-      "change_pct": -0.3398,
-      "prev_close": 5.295,
+      "value": 5.297,
+      "change": 0.005,
+      "change_pct": -0.0781,
+      "prev_close": 5.292,
       "day_open": 5.314,
-      "day_high": 5.323,
-      "day_low": 5.266,
+      "day_high": 5.318,
+      "day_low": 5.295,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-24T17:05:00.000-0500",
+      "as_of": "2026-11-24T22:38:37.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -3034,12 +3050,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 1.0145147783251272,
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "value": 0.9885147783251274,
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "as_of": "2026-10-01",
-      "prev_close": 0.9184690223967262,
-      "change": 0.09604575592840092,
-      "change_pct": 10.457157899323754,
+      "prev_close": 0.9004690223967264,
+      "change": 0.08804575592840092,
+      "change_pct": 9.777766223879041,
       "stale": false
     },
     {
@@ -3893,7 +3909,7 @@
           7201.09
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4775,7 +4791,7 @@
           23733.535
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5673,7 +5689,7 @@
           26.36
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6629,9 +6645,13 @@
         [
           "2026-11-24T22:58:08+00:00",
           1.0963
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          1.095
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6644,16 +6664,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0963,
-      "change": -0.0001,
-      "change_pct": -0.0091,
+      "value": 1.095,
+      "change": -0.0014,
+      "change_pct": -0.1277,
       "prev_close": 1.0964,
       "day_open": 1.0963,
       "day_high": 1.0966,
-      "day_low": 1.0964,
+      "day_low": 1.095,
       "year_high": 1.21,
       "year_low": 1.09,
-      "as_of": "2026-11-24T17:57:00.000-0500",
+      "as_of": "2026-11-24T22:39:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7571,9 +7591,13 @@
         [
           "2026-11-24T22:58:08+00:00",
           0.8355
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          0.8363
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7586,16 +7610,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8355,
-      "change": -0.0001,
-      "change_pct": -0.012,
+      "value": 0.8363,
+      "change": 0.0007,
+      "change_pct": 0.0838,
       "prev_close": 0.8356,
       "day_open": 0.8355,
-      "day_high": 0.836,
-      "day_low": 0.8357,
+      "day_high": 0.837,
+      "day_low": 0.8351,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-24T17:58:00.000-0500",
+      "as_of": "2026-11-24T22:38:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8509,11 +8533,17 @@
         [
           "2026-11-24T22:58:08+00:00",
           3561.9
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          3549.9
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -8522,16 +8552,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3561.9,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 3549.9,
+      "change": -12.0,
+      "change_pct": -0.34,
       "prev_close": 3561.9,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 3559.3,
+      "day_high": 3573.9,
+      "day_low": 3532.4,
       "year_high": 5586.2,
       "year_low": 3502.9,
-      "as_of": "2026-11-24T00:00:00.000-0500",
+      "as_of": "2026-11-24T22:28:49.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9445,11 +9475,17 @@
         [
           "2026-11-24T22:58:08+00:00",
           82.05
+        ],
+        [
+          "2026-11-25T03:39:14+00:00",
+          80.91
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -9458,16 +9494,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 82.05,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 80.91,
+      "change": -1.14,
+      "change_pct": -1.39,
       "prev_close": 82.05,
-      "day_open": 0.0,
-      "day_high": 0.0,
-      "day_low": 0.0,
+      "day_open": 81.68,
+      "day_high": 81.86,
+      "day_low": 80.64,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-24T00:00:00.000-0500",
+      "as_of": "2026-11-24T22:28:34.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Jan'27)",
       "stale": false
@@ -10263,7 +10299,7 @@
           155.38
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11085,7 +11121,7 @@
           426.75
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11908,7 +11944,7 @@
         ]
       ],
       "value": 59.261861745930126,
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:10+00:00",
       "as_of": "2026-11-24T16:15:00.000-0500",
       "prev_close": 63.58562808390572,
       "change": -4.3237663379755915,
@@ -12078,7 +12114,7 @@
           3.63
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -12260,7 +12296,7 @@
           0.97
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "783"
@@ -12350,7 +12386,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:06+00:00",
+      "fetched_at": "2026-11-25T03:39:11+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -12438,7 +12474,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:07+00:00",
+      "fetched_at": "2026-11-25T03:39:12+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12514,7 +12550,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:08+00:00",
+      "fetched_at": "2026-11-25T03:39:13+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12563,7 +12599,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-24T22:58:07+00:00",
+      "fetched_at": "2026-11-25T03:39:12+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12733,7 +12769,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:08+00:00",
+      "fetched_at": "2026-11-25T03:39:13+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -12916,7 +12952,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-24T22:58:08+00:00",
+      "fetched_at": "2026-11-25T03:39:14+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
