@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T22:13:25+00:00",
+  "generated_at": "2026-11-26T02:59:04+00:00",
   "briefing": {
-    "captured_at": "2026-11-25T22:13:27+00:00",
+    "captured_at": "2026-11-26T02:59:06+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,37 +17,32 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "What to know before using AI agents for Black Friday shopping",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+        "headline": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
         "sources": [
-          "Guardian",
+          "CNBC",
           "MarketWatch",
           "NPR"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "Guardian",
-            "headline": "\u2018Half price!\u2019 \u2018Only two left!\u2019 How to resist the bargains you just don\u2019t need \u2013 this Black Friday and beyond",
-            "url": "https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond"
+            "source": "CNBC",
+            "headline": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
+            "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
           },
           {
             "source": "MarketWatch",
-            "headline": "How to spot \u2018bogus boutiques\u2019 and other Black Friday shopping scams",
-            "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-            "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories"
+            "headline": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
+            "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
           },
           {
             "source": "NPR",
-            "headline": "What to know before using AI agents for Black Friday shopping",
-            "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+            "headline": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+            "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china"
           }
         ],
-        "published": "2026-11-25T21:29:00+00:00"
+        "published": "2026-11-26T02:15:51+00:00"
       },
       {
         "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
@@ -76,39 +71,33 @@
           },
           {
             "source": "MarketWatch",
-            "headline": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
-            "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
+            "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+            "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
           }
         ],
-        "published": "2026-11-25T21:00:08+00:00"
+        "published": "2026-11-25T22:45:00+00:00"
       },
       {
-        "headline": "US announces new tariffs on host of countries including China",
-        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "headline": "US approves SpaceX plan to send a million data satellites to space",
+        "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
         "sources": [
           "BBC",
-          "CNBC",
-          "Guardian"
+          "CNBC"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "BBC",
-            "headline": "US announces new tariffs on host of countries including China",
-            "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+            "headline": "US approves SpaceX plan to send a million data satellites to space",
+            "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
           },
           {
             "source": "CNBC",
-            "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-            "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Trump proposing new tariffs on 14 partners including China and EU",
-            "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+            "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+            "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
           }
         ],
-        "published": "2026-11-25T16:21:34+00:00"
+        "published": "2026-11-26T02:35:39+00:00"
       },
       {
         "headline": "Macy's postpones Thanksgiving Day Parade due to severe weather",
@@ -130,7 +119,7 @@
             "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
           }
         ],
-        "published": "2026-11-25T21:55:51+00:00"
+        "published": "2026-11-25T22:26:56+00:00"
       },
       {
         "headline": "Poundland collapses putting 11,000 jobs at risk",
@@ -158,18 +147,20 @@
     "synthesis": {
       "lines": [
         {
-          "text": "US proposes new tariffs on 14 trading partners including China and the EU.",
+          "text": "Jensen Huang returns as Nvidia CEO; he tells staff the company needs no succession plan.",
           "topic_ids": [
-            2
+            0,
+            1
           ],
           "sources": [
             "BBC",
             "CNBC",
-            "Guardian"
+            "MarketWatch",
+            "NPR"
           ]
         },
         {
-          "text": "Huang tells Nvidia staff no succession plan is needed; Vance says Huang is not under DOJ investigation.",
+          "text": "Vance says he was assured Huang is not under DOJ investigation.",
           "topic_ids": [
             1
           ],
@@ -177,6 +168,16 @@
             "BBC",
             "CNBC",
             "MarketWatch"
+          ]
+        },
+        {
+          "text": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites.",
+          "topic_ids": [
+            2
+          ],
+          "sources": [
+            "BBC",
+            "CNBC"
           ]
         },
         {
@@ -190,19 +191,18 @@
           ]
         },
         {
-          "text": "New-home sales hit a 2026 high as builders offer low mortgages and Black Friday deals.",
+          "text": "Macy's postpones its Thanksgiving Day Parade due to severe weather.",
           "topic_ids": [
-            0
+            3
           ],
           "sources": [
-            "Guardian",
-            "MarketWatch",
-            "NPR"
+            "CNBC",
+            "CNBC Finance"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-25T22:13:35+00:00"
+      "written_at": "2026-11-26T02:59:18+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1112,7 +1112,7 @@
           4.864
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:22+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2034,7 +2034,7 @@
           4.65
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:22+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2960,7 +2960,7 @@
           5.254
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:22+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3023,7 +3023,7 @@
         ]
       ],
       "value": 0.9505147783251271,
-      "fetched_at": "2026-11-25T22:13:22+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "as_of": "2026-10-01",
       "prev_close": 0.9004690223967264,
       "change": 0.05004575592840066,
@@ -3889,7 +3889,7 @@
           7182.78
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4777,9 +4777,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           23585.802
+        ],
+        [
+          "2026-11-26T02:59:04+00:00",
+          23585.802
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4801,7 +4805,7 @@
       "day_low": 22632.396,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-25T17:13:18.000-0500",
+      "as_of": "2026-11-25T17:15:59.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -5685,7 +5689,7 @@
           28.29
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6653,9 +6657,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           1.0973
+        ],
+        [
+          "2026-11-26T02:59:04+00:00",
+          1.0965
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6668,16 +6676,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0973,
-      "change": 0.0002,
-      "change_pct": 0.0182,
+      "value": 1.0965,
+      "change": -0.0006,
+      "change_pct": -0.0547,
       "prev_close": 1.0971,
       "day_open": 1.0971,
-      "day_high": 1.0975,
-      "day_low": 1.0973,
+      "day_high": 1.0978,
+      "day_low": 1.0966,
       "year_high": 1.21,
       "year_low": 1.09,
-      "as_of": "2026-11-25T17:12:00.000-0500",
+      "as_of": "2026-11-25T21:58:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7607,9 +7615,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           0.8302
+        ],
+        [
+          "2026-11-26T02:59:04+00:00",
+          0.8313
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7622,16 +7634,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8302,
-      "change": -0.0007,
-      "change_pct": -0.0842,
+      "value": 0.8313,
+      "change": 0.0004,
+      "change_pct": 0.0481,
       "prev_close": 0.8309,
       "day_open": 0.8311,
-      "day_high": 0.8312,
-      "day_low": 0.8314,
+      "day_high": 0.8317,
+      "day_low": 0.8302,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-25T17:12:00.000-0500",
+      "as_of": "2026-11-25T21:59:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8557,9 +8569,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           3588.4
+        ],
+        [
+          "2026-11-26T02:59:04+00:00",
+          3599.5
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8572,16 +8588,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3588.4,
-      "change": 26.5,
-      "change_pct": 0.74,
-      "prev_close": 3561.9,
-      "day_open": 3559.3,
-      "day_high": 3588.9,
-      "day_low": 3425.2,
+      "value": 3599.5,
+      "change": 63.7,
+      "change_pct": 1.8,
+      "prev_close": 3535.8,
+      "day_open": 3590.3,
+      "day_high": 3604.9,
+      "day_low": 3549.9,
       "year_high": 5586.2,
-      "year_low": 3425.2,
-      "as_of": "2026-11-25T16:59:52.000-0500",
+      "year_low": 3502.9,
+      "as_of": "2026-11-25T21:48:08.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9507,9 +9523,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           84.15
+        ],
+        [
+          "2026-11-26T02:59:04+00:00",
+          83.87
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9522,16 +9542,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 84.15,
-      "change": 2.1,
-      "change_pct": 2.56,
-      "prev_close": 82.05,
-      "day_open": 81.68,
-      "day_high": 84.27,
-      "day_low": 80.13,
+      "value": 83.87,
+      "change": 0.19,
+      "change_pct": 0.23,
+      "prev_close": 83.68,
+      "day_open": 84.09,
+      "day_high": 84.48,
+      "day_low": 83.8,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-25T16:59:58.000-0500",
+      "as_of": "2026-11-25T21:48:49.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Jan'27)",
       "stale": false
@@ -10335,7 +10355,7 @@
           149.3
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11165,7 +11185,7 @@
           422.46
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11996,7 +12016,7 @@
         ]
       ],
       "value": 58.815667471369025,
-      "fetched_at": "2026-11-25T22:13:23+00:00",
+      "fetched_at": "2026-11-26T02:59:00+00:00",
       "as_of": "2026-11-25T16:15:00.000-0500",
       "prev_close": 59.261861745930126,
       "change": -0.44619427456110117,
@@ -12166,7 +12186,7 @@
           3.72
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -12348,7 +12368,7 @@
           0.98
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:01+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -12438,7 +12458,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:02+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -12526,7 +12546,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:03+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12602,7 +12622,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:04+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12651,7 +12671,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-25T22:13:24+00:00",
+      "fetched_at": "2026-11-26T02:59:03+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12821,7 +12841,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:25+00:00",
+      "fetched_at": "2026-11-26T02:59:04+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -13004,7 +13024,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-25T22:13:25+00:00",
+      "fetched_at": "2026-11-26T02:59:04+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
