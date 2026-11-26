@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T16:30:05+00:00",
+  "generated_at": "2026-11-26T22:12:03+00:00",
   "briefing": {
-    "captured_at": "2026-11-26T16:30:08+00:00",
+    "captured_at": "2026-11-26T22:12:05+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -39,6 +39,11 @@
           },
           {
             "source": "MarketWatch",
+            "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+            "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
+          },
+          {
+            "source": "MarketWatch",
             "headline": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
             "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
           },
@@ -48,42 +53,15 @@
             "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china"
           }
         ],
-        "published": "2026-11-26T15:30:00+00:00"
-      },
-      {
-        "headline": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-        "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-        "sources": [
-          "CNBC",
-          "Fortune",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
-            "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html"
-          },
-          {
-            "source": "Fortune",
-            "headline": "We let AI agents break the rules on Black Friday. One stole a TV and another called the police",
-            "url": "https://fortune.com/2026/11/26/black-friday-ai-agents-simulation-adam-dumey/"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-            "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-11-26T13:41:00+00:00"
+        "published": "2026-11-26T21:30:00+00:00"
       },
       {
         "headline": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
         "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
         "sources": [
           "Bloomberg",
-          "Guardian"
+          "Guardian",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
@@ -96,9 +74,58 @@
             "source": "Guardian",
             "headline": "Marlboro maker Altria considering takeover bid for Imperial Brands",
             "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
+            "url": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-26T14:41:19+00:00"
+        "published": "2026-11-26T18:06:09+00:00"
+      },
+      {
+        "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+        "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+        "sources": [
+          "CNBC",
+          "CNBC Finance"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+            "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+            "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
+          }
+        ],
+        "published": "2026-11-26T18:27:43+00:00"
+      },
+      {
+        "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+        "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+        "sources": [
+          "CNBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+            "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+            "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+          }
+        ],
+        "published": "2026-11-26T17:50:54+00:00"
       },
       {
         "headline": "Norse Atlantic suspends all flights as it faces potential collapse",
@@ -121,34 +148,12 @@
           }
         ],
         "published": "2026-11-26T14:28:22+00:00"
-      },
-      {
-        "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-        "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-        "sources": [
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-            "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Elon Musk pledges to give two SpaceX shares to every child in the US",
-            "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"
-          }
-        ],
-        "published": "2026-11-26T07:02:37+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Jensen Huang returns as Nvidia CEO, splitting tech leaders and drawing scrutiny in China.",
+          "text": "Jensen Huang returns as Nvidia CEO, splitting tech leaders and dominating 401(k) chatter.",
           "topic_ids": [
             0
           ],
@@ -160,49 +165,39 @@
           ]
         },
         {
-          "text": "Futures point to Black Friday gains on Wall Street; K-beauty stocks rally on Amazon bestseller lists.",
+          "text": "Spain's Pablo Hernandez de Cos wins the race to be next ECB president.",
           "topic_ids": [
-            1
+            3
           ],
           "sources": [
             "CNBC",
-            "Fortune",
-            "MarketWatch"
+            "Guardian"
           ]
         },
         {
           "text": "Altria and Japan Tobacco explore a takeover of Imperial Brands.",
           "topic_ids": [
-            2
+            1
           ],
           "sources": [
             "Bloomberg",
-            "Guardian"
+            "Guardian",
+            "Seeking Alpha"
           ]
         },
         {
           "text": "Norse Atlantic suspends all flights and warns it may file for bankruptcy after its shares collapse.",
           "topic_ids": [
-            3
+            4
           ],
           "sources": [
             "BBC",
             "CNBC"
           ]
-        },
-        {
-          "text": "Musk and SpaceX pledge a share each to active Trump Accounts for US children.",
-          "topic_ids": [
-            4
-          ],
-          "sources": [
-            "CNBC",
-            "Guardian"
-          ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-26T16:30:17+00:00"
+      "written_at": "2026-11-26T22:12:15+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1112,7 +1107,7 @@
           4.864
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:00+00:00",
+      "fetched_at": "2026-11-26T22:11:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2034,7 +2029,7 @@
           4.65
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:01+00:00",
+      "fetched_at": "2026-11-26T22:11:58+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2960,7 +2955,7 @@
           5.254
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:01+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3023,7 +3018,7 @@
         ]
       ],
       "value": 0.9505147783251271,
-      "fetched_at": "2026-11-26T16:30:00+00:00",
+      "fetched_at": "2026-11-26T22:11:58+00:00",
       "as_of": "2026-10-01",
       "prev_close": 0.9004690223967264,
       "change": 0.05004575592840066,
@@ -3893,7 +3888,7 @@
           7182.78
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:01+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4791,7 +4786,7 @@
           23585.802
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:01+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5699,9 +5694,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           26.78
+        ],
+        [
+          "2026-11-26T22:12:03+00:00",
+          26.8
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:01+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5714,16 +5713,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 26.78,
-      "change": -1.51,
-      "change_pct": -5.34,
+      "value": 26.8,
+      "change": -1.49,
+      "change_pct": -5.27,
       "prev_close": 28.29,
       "day_open": 27.18,
       "day_high": 27.54,
       "day_low": 26.57,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-26T11:29:46.000-0500",
+      "as_of": "2026-11-26T11:30:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -6677,9 +6676,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           1.0974
+        ],
+        [
+          "2026-11-26T22:12:03+00:00",
+          1.0968
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6692,16 +6695,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0974,
-      "change": 0.0003,
-      "change_pct": 0.0273,
-      "prev_close": 1.0971,
-      "day_open": 1.0971,
-      "day_high": 1.0988,
-      "day_low": 1.0958,
+      "value": 1.0968,
+      "change": 0.0001,
+      "change_pct": 0.0091,
+      "prev_close": 1.0967,
+      "day_open": 1.0973,
+      "day_high": 1.0973,
+      "day_low": 1.0971,
       "year_high": 1.21,
       "year_low": 1.09,
-      "as_of": "2026-11-26T11:29:00.000-0500",
+      "as_of": "2026-11-26T17:11:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7639,13 +7642,15 @@
         [
           "2026-11-26T16:30:05+00:00",
           0.8339
+        ],
+        [
+          "2026-11-26T22:12:03+00:00",
+          0.8344
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
-        "change": "change",
-        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -7654,16 +7659,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8339,
-      "change": 0.003,
-      "change_pct": 0.3611,
-      "prev_close": 0.8309,
-      "day_open": 0.8311,
+      "value": 0.8344,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "prev_close": 0.8344,
+      "day_open": 0.8346,
       "day_high": 0.8348,
-      "day_low": 0.8302,
+      "day_low": 0.834,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-26T11:30:00.000-0500",
+      "as_of": "2026-11-26T17:10:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8597,9 +8602,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           3576.0
+        ],
+        [
+          "2026-11-26T22:12:03+00:00",
+          3566.2
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8612,16 +8621,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3576.0,
-      "change": 40.2,
-      "change_pct": 1.14,
+      "value": 3566.2,
+      "change": 30.4,
+      "change_pct": 0.86,
       "prev_close": 3535.8,
       "day_open": 3590.3,
       "day_high": 3604.9,
       "day_low": 3549.9,
       "year_high": 5586.2,
       "year_low": 3425.2,
-      "as_of": "2026-11-26T11:16:27.000-0500",
+      "as_of": "2026-11-26T14:01:58.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9555,9 +9564,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           84.95
+        ],
+        [
+          "2026-11-26T22:12:03+00:00",
+          84.91
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:12:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9570,16 +9583,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 84.95,
-      "change": 1.27,
-      "change_pct": 1.52,
+      "value": 84.91,
+      "change": 1.23,
+      "change_pct": 1.47,
       "prev_close": 83.68,
       "day_open": 84.09,
       "day_high": 85.23,
       "day_low": 83.16,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-26T11:19:57.000-0500",
+      "as_of": "2026-11-26T14:29:50.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Jan'27)",
       "stale": false
@@ -10387,7 +10400,7 @@
           149.3
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:12:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11221,7 +11234,7 @@
           422.46
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:12:00+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -12056,7 +12069,7 @@
         ]
       ],
       "value": 58.815667471369025,
-      "fetched_at": "2026-11-26T16:30:01+00:00",
+      "fetched_at": "2026-11-26T22:11:59+00:00",
       "as_of": "2026-11-25",
       "prev_close": 59.261861745930126,
       "change": -0.44619427456110117,
@@ -12226,7 +12239,7 @@
           3.72
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:12:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -12408,7 +12421,7 @@
           0.98
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:02+00:00",
+      "fetched_at": "2026-11-26T22:12:00+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -12498,7 +12511,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:03+00:00",
+      "fetched_at": "2026-11-26T22:12:00+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -12586,7 +12599,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:04+00:00",
+      "fetched_at": "2026-11-26T22:12:01+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12662,7 +12675,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:05+00:00",
+      "fetched_at": "2026-11-26T22:12:02+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12711,7 +12724,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-26T16:30:04+00:00",
+      "fetched_at": "2026-11-26T22:12:01+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12881,7 +12894,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:05+00:00",
+      "fetched_at": "2026-11-26T22:12:02+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -13064,7 +13077,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-26T16:30:05+00:00",
+      "fetched_at": "2026-11-26T22:12:03+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
