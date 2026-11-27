@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T03:01:59+00:00",
+  "generated_at": "2026-11-27T16:15:26+00:00",
   "briefing": {
-    "captured_at": "2026-11-27T03:02:02+00:00",
+    "captured_at": "2026-11-27T16:15:28+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,65 +17,116 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
-        "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-        "sources": [
-          "CNBC",
-          "Guardian",
-          "MarketWatch"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
-            "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "A vocal cohort of tech leaders celebrates Huang\u2019s Nvidia return, but others are keeping quiet",
-            "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-            "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories"
-          },
-          {
-            "source": "MarketWatch",
-            "headline": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-            "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
-          }
-        ],
-        "published": "2026-11-27T01:15:00+00:00"
-      },
-      {
-        "headline": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+        "headline": "AI Tools Reshape the Black Friday Experience",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video",
         "sources": [
           "Bloomberg",
+          "CNBC",
+          "CNBC Finance",
           "Guardian",
+          "NPR",
           "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover"
+            "headline": "AI Tools Reshape the Black Friday Experience",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video"
+          },
+          {
+            "source": "CNBC",
+            "headline": "Top 10 things to watch in the stock market on Black Friday",
+            "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html"
+          },
+          {
+            "source": "CNBC Finance",
+            "headline": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+            "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
           },
           {
             "source": "Guardian",
-            "headline": "Marlboro maker Altria considering takeover bid for Imperial Brands",
-            "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands"
+            "headline": "\u2018If the bot gets it wrong, who\u2019s liable?\u2019 Retailers enter the unknown with AI shopping assistants on Black Friday",
+            "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+          },
+          {
+            "source": "NPR",
+            "headline": "The strategy behind those Black Friday deals",
+            "url": "https://www.npr.org/2026/11/27/nx-s1-6054055/the-strategy-behind-those-black-friday-deals"
           },
           {
             "source": "Seeking Alpha",
-            "headline": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
-            "url": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+            "headline": "Black Friday came early for retailers as Thanksgiving delivered record $7.1B in sales",
+            "url": "https://seekingalpha.com/news/4677049-black-friday-came-early-for-retailers-as-thanksgiving-delivered-record-71b-in-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-27T00:26:05+00:00"
+        "published": "2026-11-27T15:54:40+00:00"
+      },
+      {
+        "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
+        "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+        "sources": [
+          "Fortune",
+          "MarketWatch"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "Fortune",
+            "headline": "Jensen Huang was gone for 11 days. That was Nvidia\u2019s succession test, and the board failed it",
+            "url": "https://fortune.com/2026/11/27/nvidia-jensen-huang-succession-test-board-failed-andrea-petrone/"
+          },
+          {
+            "source": "MarketWatch",
+            "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
+            "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories"
+          }
+        ],
+        "published": "2026-11-27T15:52:00+00:00"
+      },
+      {
+        "headline": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+        "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+        "sources": [
+          "CNBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+            "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+            "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+          }
+        ],
+        "published": "2026-11-27T15:40:35+00:00"
+      },
+      {
+        "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+        "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+        "sources": [
+          "CNBC",
+          "Guardian"
+        ],
+        "corroborated": true,
+        "variants": [
+          {
+            "source": "CNBC",
+            "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+            "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+          },
+          {
+            "source": "Guardian",
+            "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+            "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+          }
+        ],
+        "published": "2026-11-27T06:50:38+00:00"
       },
       {
         "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -98,76 +149,12 @@
           }
         ],
         "published": "2026-11-26T18:27:43+00:00"
-      },
-      {
-        "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-        "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-        "sources": [
-          "CNBC",
-          "Guardian"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "CNBC",
-            "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-            "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
-          },
-          {
-            "source": "Guardian",
-            "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
-            "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
-          }
-        ],
-        "published": "2026-11-26T17:50:54+00:00"
-      },
-      {
-        "headline": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend",
-        "url": "https://seekingalpha.com/news/4676897-yieldmax-hims-option-income-strategy-etf-declares-0_0823-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-        "sources": [
-          "Business Insider",
-          "Seeking Alpha"
-        ],
-        "corroborated": true,
-        "variants": [
-          {
-            "source": "Business Insider",
-            "headline": "YieldMax\u00e2\u0084\u00a2 GOOGL Option Income Strategy ETF declares $0.0648 dividend",
-            "url": "https://seekingalpha.com/news/4676898-yieldmax-googl-option-income-strategy-etf-declares-0_0648-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend",
-            "url": "https://seekingalpha.com/news/4676897-yieldmax-hims-option-income-strategy-etf-declares-0_0823-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "YieldMax INTC Option Income Strategy ETF declares $0.2391 dividend",
-            "url": "https://seekingalpha.com/news/4676896-yieldmax-intc-option-income-strategy-etf-declares-0_2391-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Business Insider",
-            "headline": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend",
-            "url": "https://seekingalpha.com/news/4676895-yieldmax-mstr-short-option-income-strategy-etf-declares-0_4353-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
-            "url": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          },
-          {
-            "source": "Seeking Alpha",
-            "headline": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
-            "url": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
-          }
-        ],
-        "published": "2026-11-26T17:49:34+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Pablo Hern\u00e1ndez de Cos of Spain wins the race to lead the European Central Bank.",
+          "text": "Spain's Pablo Hern\u00e1ndez de Cos is set to be the next ECB president.",
           "topic_ids": [
             3
           ],
@@ -177,40 +164,42 @@
           ]
         },
         {
-          "text": "Altria weighs a takeover bid for Imperial Brands; Japan Tobacco climbs on the news.",
-          "topic_ids": [
-            1
-          ],
-          "sources": [
-            "Bloomberg",
-            "Guardian",
-            "Seeking Alpha"
-          ]
-        },
-        {
-          "text": "Jensen Huang's return as Nvidia CEO splits tech leaders and moves retirement accounts.",
+          "text": "Thanksgiving online sales hit a record $7.1B, with shoppers hunting value and retailers piloting AI bots.",
           "topic_ids": [
             0
           ],
           "sources": [
+            "Bloomberg",
             "CNBC",
+            "CNBC Finance",
             "Guardian",
+            "NPR",
+            "Seeking Alpha"
+          ]
+        },
+        {
+          "text": "Huang's return capped a wild week for Nvidia; Fortune says the board flunked an 11-day succession test.",
+          "topic_ids": [
+            1
+          ],
+          "sources": [
+            "Fortune",
             "MarketWatch"
           ]
         },
         {
-          "text": "YieldMax and Innovator option-income ETFs declare monthly dividends.",
+          "text": "Norse Atlantic files for bankruptcy after failing to secure funding and cancels all future flights.",
           "topic_ids": [
-            4
+            2
           ],
           "sources": [
-            "Business Insider",
-            "Seeking Alpha"
+            "CNBC",
+            "Guardian"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-27T03:02:12+00:00"
+      "written_at": "2026-11-27T16:15:40+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1122,9 +1111,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           4.91
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          4.912
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:54+00:00",
+      "fetched_at": "2026-11-27T16:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1137,16 +1130,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.91,
-      "change": 0.062,
-      "change_pct": 1.2789,
+      "value": 4.912,
+      "change": 0.064,
+      "change_pct": 1.3201,
       "prev_close": 4.848,
       "day_open": 4.868,
-      "day_high": 4.91,
+      "day_high": 4.924,
       "day_low": 4.864,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-26T22:01:15.000-0500",
+      "as_of": "2026-11-27T11:15:15.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -2048,9 +2041,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           4.683
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          4.679
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:54+00:00",
+      "fetched_at": "2026-11-27T16:15:22+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2063,16 +2060,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.683,
-      "change": 0.048,
-      "change_pct": -0.0938,
+      "value": 4.679,
+      "change": 0.044,
+      "change_pct": -0.0859,
       "prev_close": 4.635,
       "day_open": 4.652,
-      "day_high": 4.683,
+      "day_high": 4.697,
       "day_low": 4.65,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-26T22:00:01.000-0500",
+      "as_of": "2026-11-27T11:15:17.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2978,9 +2975,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           5.295
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          5.312
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:54+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2993,16 +2994,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.295,
-      "change": 0.06,
-      "change_pct": -0.9063,
+      "value": 5.312,
+      "change": 0.077,
+      "change_pct": -1.1484,
       "prev_close": 5.235,
       "day_open": 5.251,
-      "day_high": 5.295,
+      "day_high": 5.316,
       "day_low": 5.248,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-26T22:01:15.000-0500",
+      "as_of": "2026-11-27T11:15:11.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -3042,12 +3043,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 0.9965147783251274,
-      "fetched_at": "2026-11-27T03:01:54+00:00",
+      "value": 0.9985147783251271,
+      "fetched_at": "2026-11-27T16:15:22+00:00",
       "as_of": "2026-10-01",
       "prev_close": 0.8464690223967262,
-      "change": 0.1500457559284012,
-      "change_pct": 17.726077618712573,
+      "change": 0.15204575592840097,
+      "change_pct": 17.96235324689054,
       "stale": false
     },
     {
@@ -3911,9 +3912,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           7182.78
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          7260.67
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:54+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -3926,16 +3931,16 @@
         "year_low": "yrloprice",
         "_symbol": ".SPX"
       },
-      "value": 7182.78,
-      "change": -18.31,
-      "change_pct": -0.25,
-      "prev_close": 7201.09,
-      "day_open": 7060.33,
-      "day_high": 7199.31,
-      "day_low": 6970.11,
+      "value": 7260.67,
+      "change": 77.89,
+      "change_pct": 1.08,
+      "prev_close": 7182.78,
+      "day_open": 7262.61,
+      "day_high": 7281.17,
+      "day_low": 7211.46,
       "year_high": 7844.52,
       "year_low": 6316.91,
-      "as_of": "2026-11-25",
+      "as_of": "2026-11-27T11:15:20.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "S&P 500 Index",
       "stale": false
@@ -4809,9 +4814,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           23585.802
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          23938.168
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:54+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4824,16 +4833,16 @@
         "year_low": "yrloprice",
         "_symbol": ".IXIC"
       },
-      "value": 23585.802,
-      "change": -147.733,
-      "change_pct": -0.62,
-      "prev_close": 23733.535,
-      "day_open": 22948.482,
-      "day_high": 23627.452,
-      "day_low": 22632.396,
+      "value": 23938.168,
+      "change": 352.366,
+      "change_pct": 1.49,
+      "prev_close": 23585.802,
+      "day_open": 23958.463,
+      "day_high": 24025.418,
+      "day_low": 23690.596,
       "year_high": 27722.75,
       "year_low": 20690.25,
-      "as_of": "2026-11-25",
+      "as_of": "2026-11-27T11:15:19.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "NASDAQ Composite",
       "stale": false
@@ -5723,9 +5732,13 @@
         [
           "2026-11-26T22:12:03+00:00",
           26.8
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          25.5
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5738,16 +5751,16 @@
         "year_low": "yrloprice",
         "_symbol": ".VIX"
       },
-      "value": 26.8,
-      "change": -1.49,
-      "change_pct": -5.27,
-      "prev_close": 28.29,
-      "day_open": 27.18,
-      "day_high": 27.54,
-      "day_low": 26.57,
+      "value": 25.5,
+      "change": -1.3,
+      "change_pct": -4.85,
+      "prev_close": 26.8,
+      "day_open": 24.89,
+      "day_high": 27.52,
+      "day_low": 24.52,
       "year_high": 35.3,
       "year_low": 13.38,
-      "as_of": "2026-11-26T11:30:00.000-0500",
+      "as_of": "2026-11-27T11:15:16.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "CBOE Volatility Index",
       "stale": false
@@ -6709,9 +6722,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           1.0982
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          1.0938
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6724,16 +6741,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0982,
-      "change": 0.0015,
-      "change_pct": 0.1368,
+      "value": 1.0938,
+      "change": -0.0029,
+      "change_pct": -0.2644,
       "prev_close": 1.0967,
       "day_open": 1.0973,
-      "day_high": 1.0983,
-      "day_low": 1.0962,
+      "day_high": 1.0986,
+      "day_low": 1.0935,
       "year_high": 1.21,
       "year_low": 1.09,
-      "as_of": "2026-11-26T22:01:00.000-0500",
+      "as_of": "2026-11-27T11:15:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7679,9 +7696,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           0.8334
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          0.8362
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -7694,16 +7715,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8334,
-      "change": -0.001,
-      "change_pct": -0.1198,
+      "value": 0.8362,
+      "change": 0.0018,
+      "change_pct": 0.2157,
       "prev_close": 0.8344,
       "day_open": 0.8346,
-      "day_high": 0.8351,
+      "day_high": 0.8373,
       "day_low": 0.8333,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-26T22:01:00.000-0500",
+      "as_of": "2026-11-27T11:15:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8645,9 +8666,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           3622.8
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          3622.9
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8660,16 +8685,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3622.8,
-      "change": 87.0,
+      "value": 3622.9,
+      "change": 87.1,
       "change_pct": 2.46,
       "prev_close": 3535.8,
       "day_open": 3590.3,
-      "day_high": 3635.4,
+      "day_high": 3683.5,
       "day_low": 3549.9,
       "year_high": 5586.2,
       "year_low": 3425.2,
-      "as_of": "2026-11-26T21:51:41.000-0500",
+      "as_of": "2026-11-27T11:03:41.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9611,9 +9636,13 @@
         [
           "2026-11-27T03:01:59+00:00",
           85.64
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          83.46
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9626,16 +9655,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 85.64,
-      "change": 1.96,
-      "change_pct": 2.34,
+      "value": 83.46,
+      "change": -0.22,
+      "change_pct": -0.26,
       "prev_close": 83.68,
       "day_open": 84.09,
-      "day_high": 85.79,
+      "day_high": 86.6,
       "day_low": 83.16,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-26T21:51:20.000-0500",
+      "as_of": "2026-11-27T11:05:14.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Jan'27)",
       "stale": false
@@ -10441,9 +10470,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           149.3
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          147.97
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -10456,17 +10489,17 @@
         "year_low": "yrloprice",
         "_symbol": "NVDA"
       },
-      "value": 149.3,
-      "change": -6.08,
-      "change_pct": -3.91,
-      "prev_close": 155.38,
-      "day_open": 144.06,
-      "day_high": 150.37,
-      "day_low": 141.17,
+      "value": 147.97,
+      "change": -1.33,
+      "change_pct": -0.89,
+      "prev_close": 149.3,
+      "day_open": 151.9,
+      "day_high": 151.98,
+      "day_low": 145.39,
       "year_high": 243.37,
       "year_low": 124.5,
-      "as_of": "2026-11-25",
-      "market_status": "POST_MKT",
+      "as_of": "2026-11-27T11:15:20.115-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "NVIDIA Corporation",
       "stale": false
     },
@@ -11275,9 +11308,13 @@
         [
           "2026-11-26T16:30:05+00:00",
           422.46
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          431.74
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:55+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11290,17 +11327,17 @@
         "year_low": "yrloprice",
         "_symbol": "SMH"
       },
-      "value": 422.46,
-      "change": -4.29,
-      "change_pct": -1.01,
-      "prev_close": 426.75,
-      "day_open": 402.67,
-      "day_high": 422.97,
-      "day_low": 393.88,
+      "value": 431.74,
+      "change": 9.28,
+      "change_pct": 2.2,
+      "prev_close": 422.46,
+      "day_open": 435.31,
+      "day_high": 435.55,
+      "day_low": 421.85,
       "year_high": 671.83,
-      "year_low": 327.35,
-      "as_of": "2026-11-25",
-      "market_status": "POST_MKT",
+      "year_low": 338.06,
+      "as_of": "2026-11-27T11:15:19.727-0500",
+      "market_status": "REG_MKT",
       "instrument_name": "VanEck Semiconductor ETF",
       "stale": false
     },
@@ -12109,14 +12146,18 @@
         [
           "2026-11-26T16:30:05+00:00",
           58.815667471369025
+        ],
+        [
+          "2026-11-27T16:15:26+00:00",
+          59.46283194250668
         ]
       ],
-      "value": 58.815667471369025,
-      "fetched_at": "2026-11-27T03:01:54+00:00",
-      "as_of": "2026-11-25",
-      "prev_close": 59.261861745930126,
-      "change": -0.44619427456110117,
-      "change_pct": -0.752919772372396,
+      "value": 59.46283194250668,
+      "fetched_at": "2026-11-27T16:15:23+00:00",
+      "as_of": "2026-11-27T11:15:19.727-0500",
+      "prev_close": 58.815667471369025,
+      "change": 0.647164471137657,
+      "change_pct": 1.1003266628788855,
       "stale": false
     },
     {
@@ -12282,7 +12323,7 @@
           3.72
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:56+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -12464,7 +12505,7 @@
           0.98
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:56+00:00",
+      "fetched_at": "2026-11-27T16:15:23+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -12554,7 +12595,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:56+00:00",
+      "fetched_at": "2026-11-27T16:15:24+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -12642,7 +12683,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:58+00:00",
+      "fetched_at": "2026-11-27T16:15:25+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12718,7 +12759,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:59+00:00",
+      "fetched_at": "2026-11-27T16:15:26+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12767,7 +12808,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-27T03:01:58+00:00",
+      "fetched_at": "2026-11-27T16:15:25+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12937,7 +12978,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:59+00:00",
+      "fetched_at": "2026-11-27T16:15:26+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -13120,7 +13161,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-27T03:01:59+00:00",
+      "fetched_at": "2026-11-27T16:15:26+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
