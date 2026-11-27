@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T22:12:03+00:00",
+  "generated_at": "2026-11-27T03:01:59+00:00",
   "briefing": {
-    "captured_at": "2026-11-26T22:12:05+00:00",
+    "captured_at": "2026-11-27T03:02:02+00:00",
     "sources_read": [
       "Bloomberg",
       "MarketWatch",
@@ -17,13 +17,12 @@
     "feeds_configured": 14,
     "stories": [
       {
-        "headline": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
+        "headline": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
+        "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
         "sources": [
           "CNBC",
           "Guardian",
-          "MarketWatch",
-          "NPR"
+          "MarketWatch"
         ],
         "corroborated": true,
         "variants": [
@@ -46,18 +45,13 @@
             "source": "MarketWatch",
             "headline": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
             "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories"
-          },
-          {
-            "source": "NPR",
-            "headline": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
-            "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china"
           }
         ],
-        "published": "2026-11-26T21:30:00+00:00"
+        "published": "2026-11-27T01:15:00+00:00"
       },
       {
-        "headline": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+        "headline": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
         "sources": [
           "Bloomberg",
           "Guardian",
@@ -67,8 +61,8 @@
         "variants": [
           {
             "source": "Bloomberg",
-            "headline": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands"
+            "headline": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover"
           },
           {
             "source": "Guardian",
@@ -81,7 +75,7 @@
             "url": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-26T18:06:09+00:00"
+        "published": "2026-11-27T00:26:05+00:00"
       },
       {
         "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -128,44 +122,52 @@
         "published": "2026-11-26T17:50:54+00:00"
       },
       {
-        "headline": "Norse Atlantic suspends all flights as it faces potential collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+        "headline": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend",
+        "url": "https://seekingalpha.com/news/4676897-yieldmax-hims-option-income-strategy-etf-declares-0_0823-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
         "sources": [
-          "BBC",
-          "CNBC"
+          "Business Insider",
+          "Seeking Alpha"
         ],
         "corroborated": true,
         "variants": [
           {
-            "source": "BBC",
-            "headline": "Norse Atlantic suspends all flights as it faces potential collapse",
-            "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss"
+            "source": "Business Insider",
+            "headline": "YieldMax\u00e2\u0084\u00a2 GOOGL Option Income Strategy ETF declares $0.0648 dividend",
+            "url": "https://seekingalpha.com/news/4676898-yieldmax-googl-option-income-strategy-etf-declares-0_0648-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
           },
           {
-            "source": "CNBC",
-            "headline": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-            "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+            "source": "Business Insider",
+            "headline": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend",
+            "url": "https://seekingalpha.com/news/4676897-yieldmax-hims-option-income-strategy-etf-declares-0_0823-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "YieldMax INTC Option Income Strategy ETF declares $0.2391 dividend",
+            "url": "https://seekingalpha.com/news/4676896-yieldmax-intc-option-income-strategy-etf-declares-0_2391-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Business Insider",
+            "headline": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend",
+            "url": "https://seekingalpha.com/news/4676895-yieldmax-mstr-short-option-income-strategy-etf-declares-0_4353-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
+            "url": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+          },
+          {
+            "source": "Seeking Alpha",
+            "headline": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
+            "url": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
           }
         ],
-        "published": "2026-11-26T14:28:22+00:00"
+        "published": "2026-11-26T17:49:34+00:00"
       }
     ],
     "synthesis": {
       "lines": [
         {
-          "text": "Jensen Huang returns as Nvidia CEO, splitting tech leaders and dominating 401(k) chatter.",
-          "topic_ids": [
-            0
-          ],
-          "sources": [
-            "CNBC",
-            "Guardian",
-            "MarketWatch",
-            "NPR"
-          ]
-        },
-        {
-          "text": "Spain's Pablo Hernandez de Cos wins the race to be next ECB president.",
+          "text": "Pablo Hern\u00e1ndez de Cos of Spain wins the race to lead the European Central Bank.",
           "topic_ids": [
             3
           ],
@@ -175,7 +177,7 @@
           ]
         },
         {
-          "text": "Altria and Japan Tobacco explore a takeover of Imperial Brands.",
+          "text": "Altria weighs a takeover bid for Imperial Brands; Japan Tobacco climbs on the news.",
           "topic_ids": [
             1
           ],
@@ -186,18 +188,29 @@
           ]
         },
         {
-          "text": "Norse Atlantic suspends all flights and warns it may file for bankruptcy after its shares collapse.",
+          "text": "Jensen Huang's return as Nvidia CEO splits tech leaders and moves retirement accounts.",
+          "topic_ids": [
+            0
+          ],
+          "sources": [
+            "CNBC",
+            "Guardian",
+            "MarketWatch"
+          ]
+        },
+        {
+          "text": "YieldMax and Innovator option-income ETFs declare monthly dividends.",
           "topic_ids": [
             4
           ],
           "sources": [
-            "BBC",
-            "CNBC"
+            "Business Insider",
+            "Seeking Alpha"
           ]
         }
       ],
       "model": "claude-opus-5",
-      "written_at": "2026-11-26T22:12:15+00:00"
+      "written_at": "2026-11-27T03:02:12+00:00"
     }
   },
   "title": "Finance Cockpit",
@@ -1105,9 +1118,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           4.864
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          4.91
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:58+00:00",
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -1120,16 +1137,16 @@
         "year_low": "yrloprice",
         "_symbol": "US10Y"
       },
-      "value": 4.864,
-      "change": -0.038,
-      "change_pct": -0.7752,
-      "prev_close": 4.902,
-      "day_open": 4.924,
-      "day_high": 4.93,
-      "day_low": 4.799,
+      "value": 4.91,
+      "change": 0.062,
+      "change_pct": 1.2789,
+      "prev_close": 4.848,
+      "day_open": 4.868,
+      "day_high": 4.91,
+      "day_low": 4.864,
       "year_high": 5.37,
       "year_low": 3.93,
-      "as_of": "2026-11-25T17:05:00.000-0500",
+      "as_of": "2026-11-26T22:01:15.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 10 Year Treasury",
       "stale": false
@@ -2027,9 +2044,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           4.65
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          4.683
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:58+00:00",
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2042,16 +2063,16 @@
         "year_low": "yrloprice",
         "_symbol": "US2Y"
       },
-      "value": 4.65,
-      "change": -0.021,
-      "change_pct": 0.043,
-      "prev_close": 4.671,
-      "day_open": 4.677,
-      "day_high": 4.681,
-      "day_low": 4.577,
+      "value": 4.683,
+      "change": 0.048,
+      "change_pct": -0.0938,
+      "prev_close": 4.635,
+      "day_open": 4.652,
+      "day_high": 4.683,
+      "day_low": 4.65,
       "year_high": 5.03,
       "year_low": 3.37,
-      "as_of": "2026-11-25T17:05:00.000-0500",
+      "as_of": "2026-11-26T22:00:01.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 2 Year Treasury",
       "stale": false
@@ -2953,9 +2974,13 @@
         [
           "2026-11-25T22:13:25+00:00",
           5.254
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          5.295
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -2968,16 +2993,16 @@
         "year_low": "yrloprice",
         "_symbol": "US30Y"
       },
-      "value": 5.254,
-      "change": -0.038,
-      "change_pct": 0.5742,
-      "prev_close": 5.292,
-      "day_open": 5.314,
-      "day_high": 5.318,
-      "day_low": 5.206,
+      "value": 5.295,
+      "change": 0.06,
+      "change_pct": -0.9063,
+      "prev_close": 5.235,
+      "day_open": 5.251,
+      "day_high": 5.295,
+      "day_low": 5.248,
       "year_high": 5.73,
       "year_low": 4.6,
-      "as_of": "2026-11-25T17:05:00.000-0500",
+      "as_of": "2026-11-26T22:01:15.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "U.S. 30 Year Treasury",
       "stale": false
@@ -3017,12 +3042,12 @@
           1.0555147783251275
         ]
       ],
-      "value": 0.9505147783251271,
-      "fetched_at": "2026-11-26T22:11:58+00:00",
+      "value": 0.9965147783251274,
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "as_of": "2026-10-01",
-      "prev_close": 0.9004690223967264,
-      "change": 0.05004575592840066,
-      "change_pct": 5.557743207556076,
+      "prev_close": 0.8464690223967262,
+      "change": 0.1500457559284012,
+      "change_pct": 17.726077618712573,
       "stale": false
     },
     {
@@ -3888,7 +3913,7 @@
           7182.78
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -4786,7 +4811,7 @@
           23585.802
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -5700,7 +5725,7 @@
           26.8
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6680,9 +6705,13 @@
         [
           "2026-11-26T22:12:03+00:00",
           1.0968
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          1.0982
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -6695,16 +6724,16 @@
         "year_low": "yrloprice",
         "_symbol": "EUR="
       },
-      "value": 1.0968,
-      "change": 0.0001,
-      "change_pct": 0.0091,
+      "value": 1.0982,
+      "change": 0.0015,
+      "change_pct": 0.1368,
       "prev_close": 1.0967,
       "day_open": 1.0973,
-      "day_high": 1.0973,
-      "day_low": 1.0971,
+      "day_high": 1.0983,
+      "day_low": 1.0962,
       "year_high": 1.21,
       "year_low": 1.09,
-      "as_of": "2026-11-26T17:11:00.000-0500",
+      "as_of": "2026-11-26T22:01:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "EUR/USD",
       "stale": false
@@ -7646,11 +7675,17 @@
         [
           "2026-11-26T22:12:03+00:00",
           0.8344
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          0.8334
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
+        "change": "change",
+        "change_pct": "change_pct",
         "prev_close": "previous_day_closing",
         "day_open": "open",
         "day_high": "high",
@@ -7659,16 +7694,16 @@
         "year_low": "yrloprice",
         "_symbol": "CHF="
       },
-      "value": 0.8344,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "value": 0.8334,
+      "change": -0.001,
+      "change_pct": -0.1198,
       "prev_close": 0.8344,
       "day_open": 0.8346,
-      "day_high": 0.8348,
-      "day_low": 0.834,
+      "day_high": 0.8351,
+      "day_low": 0.8333,
       "year_high": 0.84,
       "year_low": 0.76,
-      "as_of": "2026-11-26T17:10:00.000-0500",
+      "as_of": "2026-11-26T22:01:00.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "USD/CHF",
       "stale": false
@@ -8606,9 +8641,13 @@
         [
           "2026-11-26T22:12:03+00:00",
           3566.2
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          3622.8
         ]
       ],
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -8621,16 +8660,16 @@
         "year_low": "yrloprice",
         "_symbol": "@GC.1"
       },
-      "value": 3566.2,
-      "change": 30.4,
-      "change_pct": 0.86,
+      "value": 3622.8,
+      "change": 87.0,
+      "change_pct": 2.46,
       "prev_close": 3535.8,
       "day_open": 3590.3,
-      "day_high": 3604.9,
+      "day_high": 3635.4,
       "day_low": 3549.9,
       "year_high": 5586.2,
       "year_low": 3425.2,
-      "as_of": "2026-11-26T14:01:58.000-0500",
+      "as_of": "2026-11-26T21:51:41.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "Gold COMEX (Dec'26)",
       "stale": false
@@ -9568,9 +9607,13 @@
         [
           "2026-11-26T22:12:03+00:00",
           84.91
+        ],
+        [
+          "2026-11-27T03:01:59+00:00",
+          85.64
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:00+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -9583,16 +9626,16 @@
         "year_low": "yrloprice",
         "_symbol": "@CL.1"
       },
-      "value": 84.91,
-      "change": 1.23,
-      "change_pct": 1.47,
+      "value": 85.64,
+      "change": 1.96,
+      "change_pct": 2.34,
       "prev_close": 83.68,
       "day_open": 84.09,
-      "day_high": 85.23,
+      "day_high": 85.79,
       "day_low": 83.16,
       "year_high": 119.48,
       "year_low": 54.98,
-      "as_of": "2026-11-26T14:29:50.000-0500",
+      "as_of": "2026-11-26T21:51:20.000-0500",
       "market_status": "REG_MKT",
       "instrument_name": "WTI Crude (Jan'27)",
       "stale": false
@@ -10400,7 +10443,7 @@
           149.3
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:00+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -11234,7 +11277,7 @@
           422.46
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:00+00:00",
+      "fetched_at": "2026-11-27T03:01:55+00:00",
       "field_map": {
         "value": "last",
         "change": "change",
@@ -12069,7 +12112,7 @@
         ]
       ],
       "value": 58.815667471369025,
-      "fetched_at": "2026-11-26T22:11:59+00:00",
+      "fetched_at": "2026-11-27T03:01:54+00:00",
       "as_of": "2026-11-25",
       "prev_close": 59.261861745930126,
       "change": -0.44619427456110117,
@@ -12239,7 +12282,7 @@
           3.72
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:00+00:00",
+      "fetched_at": "2026-11-27T03:01:56+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "785"
@@ -12421,7 +12464,7 @@
           0.98
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:00+00:00",
+      "fetched_at": "2026-11-27T03:01:56+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "784"
@@ -12511,7 +12554,7 @@
           302.969
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:00+00:00",
+      "fetched_at": "2026-11-27T03:01:56+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "1",
@@ -12599,7 +12642,7 @@
           467.446
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:01+00:00",
+      "fetched_at": "2026-11-27T03:01:58+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12675,7 +12718,7 @@
           587.971
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:02+00:00",
+      "fetched_at": "2026-11-27T03:01:59+00:00",
       "field_map": {
         "_provider": "sec/companyconcept",
         "_filers": "4",
@@ -12724,7 +12767,7 @@
         ]
       ],
       "value": 79.50154004194084,
-      "fetched_at": "2026-11-26T22:12:01+00:00",
+      "fetched_at": "2026-11-27T03:01:58+00:00",
       "as_of": "2026-03-31",
       "prev_close": 69.12281762413163,
       "change": 10.378722417809215,
@@ -12894,7 +12937,7 @@
           3.913485221674873
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:02+00:00",
+      "fetched_at": "2026-11-27T03:01:59+00:00",
       "field_map": {
         "_transform": "yoy over 12 observations",
         "_provider": "fred/fredgraph.csv",
@@ -13077,7 +13120,7 @@
           1.072873079228263
         ]
       ],
-      "fetched_at": "2026-11-26T22:12:03+00:00",
+      "fetched_at": "2026-11-27T03:01:59+00:00",
       "field_map": {
         "_provider": "fred/fredgraph.csv",
         "_observations": "845"
